@@ -1,0 +1,10 @@
+{
+    {
+        "name": "St. Helens",
+        "vei": 6,
+        "coordinates": [46.195585783508754, -122.18897141900877],
+        "type": "Stratovolcano",
+        "summitFeet": 8362,
+        "magmaType": "Andesite"
+    }
+}
