@@ -15,6 +15,22 @@
             "type": "Stratovolcano",
             "summitFeet": 4202,
             "magmaType": "Andesite"
+        },
+        {
+            "name": "Jefferson",
+            "vei": 3,
+            "coordinates": [44.67440741598983, -121.79962089096446],
+            "type": "Stratovolcano",
+            "summitFeet": 10497,
+            "magmaType": "Andesite"
+        },
+        {
+            "name": "Baker",
+            "vei": 3,
+            "coordinates": [48.77668839068164, -121.81441320396915],
+            "type": "Stratovolcano",
+            "summitFeet": 10786,
+            "magmaType": "Andesite"
         }
     ]
 }
