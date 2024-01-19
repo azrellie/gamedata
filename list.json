@@ -31,6 +31,86 @@
             "type": "Stratovolcano",
             "summitFeet": 10786,
             "magmaType": "Andesite"
+        },
+        {
+            "name": "Adams",
+            "vei": 2,
+            "coordinates": [46.202439318033306, -121.49103546466154],
+            "type": "Stratovolcano",
+            "summitFeet": 12276,
+            "magmaType": "Andesite"
+        },
+        {
+            "name": "Yellowstone",
+            "vei": 8,
+            "coordinates": [44.36880150435362, -110.72187055142369],
+            "type": "Caldera",
+            "summitFeet": 9202,
+            "magmaType": "Rhyolite"
+        },
+        {
+            "name": "Kīlauea",
+            "vei": 4,
+            "coordinates": [19.406920810396706, -155.283369002341],
+            "type": "Shield",
+            "summitFeet": 4009,
+            "magmaType": "Basalt"
+        },
+        {
+            "name": "Mauna Loa",
+            "vei": 4,
+            "coordinates": [19.472212232405933, -155.5921872240247],
+            "type": "Shield",
+            "summitFeet": 13681,
+            "magmaType": "Basalt"
+        },
+        {
+            "name": "Ranier",
+            "vei": 4,
+            "coordinates": [46.85232525812001, -121.76030611133204],
+            "type": "Stratovolcano",
+            "summitFeet": 14409,
+            "magmaType": "Andesite"
+        },
+        {
+            "name": "Glacier Peak",
+            "vei": 4,
+            "coordinates": [48.11198353291689, -121.11327801525596],
+            "type": "Stratovolcano",
+            "summitFeet": 10541,
+            "magmaType": "Andesite"
+        },
+        {
+            "name": "Hunga Tonga-Hunga Ha'apai",
+            "vei": 5,
+            "coordinates": [-20.543965427394934, -175.3925422395425],
+            "type": "Caldera",
+            "summitFeet": 374,
+            "magmaType": "Basalt"
+        },
+        {
+            "name": "Fentale",
+            "vei": 0,
+            "coordinates": [8.983631311738952, 39.9043255105911],
+            "type": "Stratovolcano",
+            "summitFeet": 6585,
+            "magmaType": "Rhyolite"
+        },
+        {
+            "name": "Erebus",
+            "vei": 6,
+            "coordinates": [-77.52923982198418, 167.14937536834583],
+            "type": "Stratovolcano",
+            "summitFeet": 12448,
+            "magmaType": "Rhyolite"
+        },
+        {
+            "name": "Fuji",
+            "vei": 5,
+            "coordinates": [35.36298483072634, 138.73069033728524],
+            "type": "Stratovolcano",
+            "summitFeet": 12448,
+            "magmaType": "Basalt"
         }
     ]
 }
