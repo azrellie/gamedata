@@ -1,21 +1,20 @@
 {
     "volcanoes": [
-            {
-                "name": "St. Helens",
-                "vei": 6,
-                "coordinates": [46.195585783508754, -122.18897141900877],
-                "type": "Stratovolcano",
-                "summitFeet": 8362,
-                "magmaType": "Andesite"
-            },
-            {
-                "name": "Vesuvius",
-                "vei": 6,
-                "coordinates": [40.821337267833876, 14.42591306434018],
-                "type": "Stratovolcano",
-                "summitFeet": 4202,
-                "magmaType": "Andesite"
-            }
-        ]
-    }
+        {
+            "name": "St. Helens",
+            "vei": 6,
+            "coordinates": [46.195585783508754, -122.18897141900877],
+            "type": "Stratovolcano",
+            "summitFeet": 8362,
+            "magmaType": "Andesite"
+        },
+        {
+            "name": "Vesuvius",
+            "vei": 6,
+            "coordinates": [40.821337267833876, 14.42591306434018],
+            "type": "Stratovolcano",
+            "summitFeet": 4202,
+            "magmaType": "Andesite"
+        }
+    ]
 }
