@@ -3,6 +3,7 @@
         {
             "name": "St. Helens",
             "vei": 6,
+            "volcanicField": false
             "coordinates": [46.195585783508754, -122.18897141900877],
             "type": "Stratovolcano",
             "summitFeet": 8362,
@@ -11,6 +12,7 @@
         {
             "name": "Vesuvius",
             "vei": 6,
+            "volcanicField": false
             "coordinates": [40.821337267833876, 14.42591306434018],
             "type": "Stratovolcano",
             "summitFeet": 4202,
@@ -19,6 +21,7 @@
         {
             "name": "Jefferson",
             "vei": 3,
+            "volcanicField": false
             "coordinates": [44.67440741598983, -121.79962089096446],
             "type": "Stratovolcano",
             "summitFeet": 10497,
@@ -27,6 +30,7 @@
         {
             "name": "Baker",
             "vei": 3,
+            "volcanicField": false
             "coordinates": [48.77668839068164, -121.81441320396915],
             "type": "Stratovolcano",
             "summitFeet": 10786,
@@ -35,6 +39,7 @@
         {
             "name": "Adams",
             "vei": 2,
+            "volcanicField": false
             "coordinates": [46.202439318033306, -121.49103546466154],
             "type": "Stratovolcano",
             "summitFeet": 12276,
@@ -43,6 +48,7 @@
         {
             "name": "Yellowstone",
             "vei": 8,
+            "volcanicField": false
             "coordinates": [44.36880150435362, -110.72187055142369],
             "type": "Caldera",
             "summitFeet": 9202,
@@ -51,6 +57,7 @@
         {
             "name": "Kīlauea",
             "vei": 4,
+            "volcanicField": false
             "coordinates": [19.406920810396706, -155.283369002341],
             "type": "Shield",
             "summitFeet": 4009,
@@ -59,6 +66,7 @@
         {
             "name": "Mauna Loa",
             "vei": 4,
+            "volcanicField": false
             "coordinates": [19.472212232405933, -155.5921872240247],
             "type": "Shield",
             "summitFeet": 13681,
@@ -67,6 +75,7 @@
         {
             "name": "Ranier",
             "vei": 4,
+            "volcanicField": false
             "coordinates": [46.85232525812001, -121.76030611133204],
             "type": "Stratovolcano",
             "summitFeet": 14409,
@@ -75,6 +84,7 @@
         {
             "name": "Glacier Peak",
             "vei": 4,
+            "volcanicField": false
             "coordinates": [48.11198353291689, -121.11327801525596],
             "type": "Stratovolcano",
             "summitFeet": 10541,
@@ -83,6 +93,7 @@
         {
             "name": "Hunga Tonga-Hunga Ha'apai",
             "vei": 5,
+            "volcanicField": false
             "coordinates": [-20.543965427394934, -175.3925422395425],
             "type": "Caldera",
             "summitFeet": 374,
@@ -91,6 +102,7 @@
         {
             "name": "Fentale",
             "vei": 0,
+            "volcanicField": false
             "coordinates": [8.983631311738952, 39.9043255105911],
             "type": "Stratovolcano",
             "summitFeet": 6585,
@@ -99,6 +111,7 @@
         {
             "name": "Erebus",
             "vei": 6,
+            "volcanicField": false
             "coordinates": [-77.52923982198418, 167.14937536834583],
             "type": "Stratovolcano",
             "summitFeet": 12448,
@@ -107,6 +120,7 @@
         {
             "name": "Fuji",
             "vei": 5,
+            "volcanicField": false
             "coordinates": [35.36298483072634, 138.73069033728524],
             "type": "Stratovolcano",
             "summitFeet": 12448,
