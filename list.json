@@ -1,5 +1,5 @@
 {
-    "stratovolcanoDefinition": "A conical shaped volcano formed by hundreds of layers of hardened lava and tephra and can be thousands of feet tall. Can produce very explosive eruptions or caldera forming eruptions, similar to Crater Lake during its VEI 7 supereruption.",
+    "stratovolcanoDefinition": "A conical shaped volcano formed by hundreds of layers of hardened lava and tephra and can be thousands of feet tall. Can produce very explosive eruptions or caldera forming eruptions, similar to Crater Lake during its VEI 7 super eruption.",
     "cinderConeDefinition": "A conical shaped volcano made of loose pyroclastic material. Usually does not last long and goes extinct after its first few eruptions.",
     "shieldDefinition": "A wide, usually short (from sea level), volcano formed similarly to stratovolcanoes, but with very viscous basaltic lava that flows down the mountain. Normally produces effusive eruptions no more than VEI 4.",
     "volcanoes": [
@@ -9,7 +9,8 @@
             "coordinates": [46.195585783508754, -122.18897141900877],
             "type": "Stratovolcano",
             "summitFeet": 8362,
-            "magmaType": "Andesite"
+            "magmaType": "Andesite",
+            "desc": "A stratovolcano in Washington state that is responsible for the 1980 eruption of Mount St. Helens that covered most of north Washington in ash along with other states downwind east. The entire north flank of the volcano collapsed right as the eruption begun and caused a massive landslide because of a magnitude 5.1 earthquake directly under the north flank. The eruption was determined to be a VEI 5."
         },
         {
             "name": "Vesuvius",
@@ -17,7 +18,8 @@
             "coordinates": [40.821337267833876, 14.42591306434018],
             "type": "Stratovolcano",
             "summitFeet": 4202,
-            "magmaType": "Andesite"
+            "magmaType": "Andesite",
+            "desc": "A stratovolcano in Naples Italy, infamous for its VEI 5 eruption in 79 AD that buried Pompeii in ash and leveled buildings with pyroclastic flows. Mount Vesuvius is thought to be overdue for another eruption in the near future."
         },
         {
             "name": "Jefferson",
@@ -25,7 +27,8 @@
             "coordinates": [44.67440741598983, -121.79962089096446],
             "type": "Stratovolcano",
             "summitFeet": 10497,
-            "magmaType": "Andesite"
+            "magmaType": "Andesite",
+            "desc": "A stratovolcano in Oregon that has not erupted in over 1000 years. Not much is known about this volcano as there are only 2 confirmed eruptions in its entire 100,000 years since it began. Jefferson is the second highest mountain in Oregon."
         },
         {
             "name": "Baker",
@@ -33,7 +36,8 @@
             "coordinates": [48.77668839068164, -121.81441320396915],
             "type": "Stratovolcano",
             "summitFeet": 10786,
-            "magmaType": "Andesite"
+            "magmaType": "Andesite",
+            "desc": "A stratovolcano in Washington state that sits really close to the border of Canada. Baker has the largest glacier cover of any of the cascade volcanoes and sits only 28 miles from Abbotsford in Canada."
         },
         {
             "name": "Adams",
@@ -41,7 +45,8 @@
             "coordinates": [46.202439318033306, -121.49103546466154],
             "type": "Stratovolcano",
             "summitFeet": 12276,
-            "magmaType": "Andesite"
+            "magmaType": "Andesite",
+            "desc": "A stratovolcano in Washington state that is adjacent and sits further east to St. Helens. Currently has only produced low explosivity eruptions in the past 8000 years."
         },
         {
             "name": "Yellowstone",
@@ -49,7 +54,8 @@
             "coordinates": [44.36880150435362, -110.72187055142369],
             "type": "Caldera",
             "summitFeet": 9202,
-            "magmaType": "Rhyolite"
+            "magmaType": "Rhyolite",
+            "desc": "A supervolcano in Wyoming that is very well known for its 3 super eruptions in the last 2.1 million years and Old Faithful geyser. Old Faithful erupts on a daily basis and is often very predictable of its next eruptions."
         },
         {
             "name": "Kīlauea",
@@ -57,7 +63,8 @@
             "coordinates": [19.406920810396706, -155.283369002341],
             "type": "Shield",
             "summitFeet": 4009,
-            "magmaType": "Basalt"
+            "magmaType": "Basalt",
+            "desc": "A very active shield volcano in Hawaii that erupts very frequently with mostly effusive eruptions, but has on occasion produced much larger eruptions going as high as VEI 4."
         },
         {
             "name": "Mauna Loa",
@@ -65,7 +72,8 @@
             "coordinates": [19.472212232405933, -155.5921872240247],
             "type": "Shield",
             "summitFeet": 13681,
-            "magmaType": "Basalt"
+            "magmaType": "Basalt",
+            "desc": "A very active shield volcano in Hawaii. Similar to Kilauea, eruptions are frequent and mainly effusive. If we measure height from the sea floor, it would be taller than Everest by 1000 feet, just behind Mauna Kea at 4500 feet taller than Everest."
         },
         {
             "name": "Ranier",
@@ -73,7 +81,8 @@
             "coordinates": [46.85232525812001, -121.76030611133204],
             "type": "Stratovolcano",
             "summitFeet": 14409,
-            "magmaType": "Andesite"
+            "magmaType": "Andesite",
+            "desc": "A stratovolcano in Washington state that is just 42 miles from Tacoma. Rainier is the tallest mountain in Washington at 14409 feet and is considered an active volcano. Rainier poses a larger threat to Seattle due to its proximity and the fact its twice the size of St. Helens."
         },
         {
             "name": "Glacier Peak",
@@ -81,7 +90,8 @@
             "coordinates": [48.11198353291689, -121.11327801525596],
             "type": "Stratovolcano",
             "summitFeet": 10541,
-            "magmaType": "Andesite"
+            "magmaType": "Andesite",
+            "desc": "A stratovolcano in Washington state that is a rather short volcano compared to Rainier due to it being on a high ridge. As of 2018, Glacier Peak is considered as 1 of 18 most dangerous volcanoes in the US."
         },
         {
             "name": "Hunga Tonga-Hunga Ha'apai",
@@ -89,7 +99,8 @@
             "coordinates": [-20.543965427394934, -175.3925422395425],
             "type": "Caldera",
             "summitFeet": 374,
-            "magmaType": "Basalt"
+            "magmaType": "Basalt",
+            "desc": "A caldera volcano located in the Tongan archipelago in the southern Pacific Ocean. This volcano experienced a large explosive eruption from 2021-2022. This eruption produced an atmospheric shockwave that circled the entire globe."
         },
         {
             "name": "Fentale",
@@ -97,7 +108,8 @@
             "coordinates": [8.983631311738952, 39.9043255105911],
             "type": "Stratovolcano",
             "summitFeet": 6585,
-            "magmaType": "Rhyolite"
+            "magmaType": "Rhyolite",
+            "desc": "A stratovolcano located in Ethiopia. This volcano primarily has effusive eruptions as that is all thats known currently."
         },
         {
             "name": "Erebus",
@@ -105,7 +117,8 @@
             "coordinates": [-77.52923982198418, 167.14937536834583],
             "type": "Stratovolcano",
             "summitFeet": 12448,
-            "magmaType": "Rhyolite"
+            "magmaType": "Rhyolite",
+            "desc": "A stratovolcano located in Antarctica. This volcano is the southernmost volcano in the world. The summit caldera was created by an explosive VEI 6 eruption roughly 18,000 years ago."
         },
         {
             "name": "Fuji",
@@ -113,15 +126,17 @@
             "coordinates": [35.36298483072634, 138.73069033728524],
             "type": "Stratovolcano",
             "summitFeet": 12448,
-            "magmaType": "Basalt"
+            "magmaType": "Basalt",
+            "desc": "A stratovolcano located in Japan. This volcano is very well known in Japan and has the classic shape of a volcano."
         },
         {
             "name": "Campo de Calatrava",
             "vei": 2,
             "coordinates": [38.86726087897647, -4.013833070232816],
             "type": "Volcanic Field",
-            "summitFeet": 0,
-            "magmaType": ""
+            "summitFeet": 3665,
+            "magmaType": "Basalt",
+            "desc": "A volcanic field located in Spain."
         }
     ]
 }
