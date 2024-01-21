@@ -186,7 +186,7 @@
         {
             "name": "Campi Flegrei",
             "vei": 7,
-            "coordinates": [40.827139193278214, 14.139059759055163],
+            "coordinates": [40.827040653355404, 14.139311210317537],
             "type": "Caldera",
             "summitFeet": 12631,
             "magmaType": "Rhyolite",
@@ -195,7 +195,7 @@
         {
             "name": "Long Valley",
             "vei": 7,
-            "coordinates": [37.71622925399809, -118.88402453139234],
+            "coordinates": [37.664664230355, -118.78804937818482],
             "type": "Caldera",
             "summitFeet": 12631,
             "magmaType": "Rhyolite",
