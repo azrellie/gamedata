@@ -102,7 +102,7 @@
             "magmaType": "Basalt",
             "desc": "A caldera volcano located in the Tongan archipelago in the southern Pacific Ocean. This volcano experienced a large explosive eruption from 2021-2022. This eruption produced an atmospheric shockwave that circled the entire globe."
         },
-        {
+        {ta
             "name": "Fentale",
             "vei": 0,
             "coordinates": [8.983631311738952, 39.9043255105911],
@@ -130,13 +130,22 @@
             "desc": "A stratovolcano located in Japan. This volcano is very well known in Japan and has the classic shape of a volcano."
         },
         {
-            "name": "Campo de Calatrava",
+            "name": "Calatrava",
             "vei": 2,
             "coordinates": [38.86726087897647, -4.013833070232816],
             "type": "Volcanic Field",
             "summitFeet": 3665,
             "magmaType": "Basalt",
-            "desc": "A volcanic field located in Spain."
+            "desc": "A volcanic field located in Spain. Little is known about this volcanic field with only 1 confirmed eruption 5600 years ago."
+        },
+        {
+            "name": "Toba",
+            "vei": 8,
+            "coordinates": [2.6230544890703964, 98.79301296789286],
+            "type": "Caldera",
+            "summitFeet": 3665,
+            "magmaType": "Rhyolite",
+            "desc": "A caldera volcano in Sumatara Indonesia that is the culprit for the Toba catastrophe 74000 years ago, killing off nearly everyone on the planet. With only 3,000-10,000 survivors. This eruption was believed to be of a VEI 8, but has recently been recategorized as a VEI 9 due to the logarithmic nature of the Volcanic Explosivity Index."
         }
     ]
 }
