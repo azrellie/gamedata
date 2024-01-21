@@ -164,6 +164,42 @@
             "summitFeet": 4875,
             "magmaType": "Andesite",
             "desc": "A caldera in the Philippines that has had several violent eruptions in the past killing thousands, and is labeled a decade volcano due to its proximity to populated areas."
+        },
+        {
+            "name": "Vulcan's Throne",
+            "vei": 1,
+            "coordinates": [36.21713336369398, -113.0780383531076],
+            "type": "Cinder Cone",
+            "summitFeet": 5102,
+            "magmaType": "Basalt",
+            "desc": "A cinder cone near the Grand Canyon in Arizona. This volcano is part of the Uinkaret volcanic field."
+        },
+        {
+            "name": "Sunset Crater",
+            "vei": 4,
+            "coordinates": [35.364044851297194, -111.50353610456277],
+            "type": "Cinder Cone",
+            "summitFeet": 12631,
+            "magmaType": "Basalt",
+            "desc": "A cinder cone north east of Flagstaff Arizona that produced a VEI 4 eruption roughly 1000 years ago. The area around the volcano is still covered in tephra, while the volcano its self is considered extinct."
+        },
+        {
+            "name": "Campi Flegrei",
+            "vei": 7,
+            "coordinates": [35.364044851297194, -111.50353610456277],
+            "type": "Caldera",
+            "summitFeet": 12631,
+            "magmaType": "Rhyolite",
+            "desc": "A rather small looking caldera in Italy near Vesuvius, that sits right in the middle of Naples. This volcano is an extremely high threat due to it being directly in the middle of a major city, which a likely chance of an eruption in the future, and is considered a supervolcano, meaning there is a chance for a super eruption to occur right in the middle of a major city."
+        },
+        {
+            "name": "Long Valley",
+            "vei": 7,
+            "coordinates": [37.71622925399809, -118.88402453139234],
+            "type": "Caldera",
+            "summitFeet": 12631,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in California, that produced significant unreset in 1980 following an earthquake swarm and 10 inches of uplift within the caldera. Long Valley is placed 18th place in the USGS Volcanic Threat Assessment as a 'high risk' volcano."
         }
     ]
 }
