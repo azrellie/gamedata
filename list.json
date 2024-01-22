@@ -68,7 +68,7 @@
         },
         {
             "name": "Mauna Loa",
-            "vei": 4,
+            "vei": 2,
             "coordinates": [19.472212232405933, -155.5921872240247],
             "type": "Shield",
             "summitFeet": 13681,
