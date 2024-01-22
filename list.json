@@ -210,7 +210,7 @@
             "magmaType": "Basalt",
             "desc": "A large volcanic plateau in California, that produced thick lava accumulations, tuff beds, volcanic cones and cinder cones."
         },    
-                {
+        {
             "name": "Coso",
             "vei": 3,
             "coordinates": [36.03332942617726, -117.8166684253838],
@@ -218,14 +218,6 @@
             "summitFeet": 6283,
             "magmaType": "Rhyolite",
             "desc": "A volcanic field in California, that erupted 39 thousand years ago. This Volcanic Field produced, basalt lava flows, rhyolite lava domes, rhyolite lava flows, tuff rings,  ."
-        },      {
-            "name": "Mono-Inyo",
-            "vei": 3,
-            "coordinates": [37.879999051420235, -119.00000004917554],
-            "type": "Cinder Cone",
-            "summitFeet": 6283,
-            "magmaType": "Rhyolite",
-            "desc": "A volcanic field in California, that erupted 39 thousand years ago. This Volcanic Field produced, basalt lava flows, rhyolite lava domes, rhyolite lava flows, tuff rings,  ."
-        },    
+        }, 
     ]
 }
