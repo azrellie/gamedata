@@ -218,6 +218,15 @@
             "summitFeet": 6283,
             "magmaType": "Rhyolite",
             "desc": "A volcanic field in California, that erupted 39 thousand years ago. This Volcanic Field produced, basalt lava flows, rhyolite lava domes, rhyolite lava flows, tuff rings,  ."
+        },    
+        {
+            "name": "Popocatépetl",
+            "vei": 5,
+            "coordinates": [19.02324983435253, -98.62385037278861],
+            "type": "Stratovolcano",
+            "summitFeet": 17694,
+            "magmaType": "Andesite",
+            "desc": ""
         }
     ]
 }
