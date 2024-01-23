@@ -344,6 +344,15 @@
             "summitFeet": 12287,
             "magmaType": "Andesite",
             "desc": ""
+        },
+        {
+            "name": "Novarupta",
+            "vei": 6,
+            "coordinates": [58.26542832190407, -155.15895523176025],
+            "type": "Caldera",
+            "summitFeet": 12287,
+            "magmaType": "Rhyolite",
+            "desc": ""
         }
     ]
 }
