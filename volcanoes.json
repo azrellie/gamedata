@@ -76,7 +76,7 @@
             "desc": "A very active shield volcano in Hawaii. Similar to Kilauea, eruptions are frequent and mainly effusive. If we measure height from the sea floor, it would be taller than Everest by 1000 feet, just behind Mauna Kea at 4500 feet taller than Everest."
         },
         {
-            "name": "Ranier",
+            "name": "Rainier",
             "vei": 4,
             "coordinates": [46.85232525812001, -121.76030611133204],
             "type": "Stratovolcano",
@@ -274,15 +274,6 @@
             "desc": ""
         },
         {
-            "name": "Long Island",
-            "vei": 7,
-            "coordinates": [-5.334870681654999, 147.11459922283726],
-            "type": "Caldera",
-            "summitFeet": 4199,
-            "magmaType": "Rhyolite",
-            "desc": ""
-        },
-        {
             "name": "Wah Wah Springs",
             "vei": 8,
             "coordinates": [38.47986542029199, -113.48921456463835],
@@ -297,6 +288,33 @@
             "coordinates": [-66.4260941676481, 162.443586801336],
             "type": "Stratovolcano",
             "summitFeet": 4396,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Rinjani",
+            "vei": 7,
+            "coordinates": [-8.411565183950062, 116.42270559609011],
+            "type": "Stratovolcano",
+            "summitFeet": 4396,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Crater Lake",
+            "vei": 7,
+            "coordinates": [42.941643357547626, -122.1066411116429],
+            "type": "Caldera",
+            "summitFeet": 8159,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Emory Caldera",
+            "vei": 8,
+            "coordinates": [32.683893739084304, -108.13474204955875],
+            "type": "Caldera",
+            "summitFeet": 5722,
             "magmaType": "Rhyolite",
             "desc": ""
         }
