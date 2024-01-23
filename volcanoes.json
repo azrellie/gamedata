@@ -317,6 +317,33 @@
             "summitFeet": 5722,
             "magmaType": "Rhyolite",
             "desc": ""
+        },
+        {
+            "name": "Vilama",
+            "vei": 8,
+            "coordinates": [-22.462786835704083, -66.98271955805137],
+            "type": "Caldera",
+            "summitFeet": 17520,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Rincón de la Vieja",
+            "vei": 4,
+            "coordinates": [10.831295912889297, -85.33665204236283],
+            "type": "Complex",
+            "summitFeet": 6286,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Santa Maria",
+            "vei": 6,
+            "coordinates": [14.756336612277721, -91.55341345311285],
+            "type": "Stratovolcano",
+            "summitFeet": 12287,
+            "magmaType": "Andesite",
+            "desc": ""
         }
     ]
 }
