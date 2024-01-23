@@ -362,6 +362,15 @@
             "summitFeet": 8635,
             "magmaType": "Rhyolite",
             "desc": ""
+        },
+        {
+            "name": "Kilimanjaro",
+            "vei": 3,
+            "coordinates": [-3.0648288335951084, 37.35838523543314],
+            "type": "Stratovolcano",
+            "summitFeet": 19341,
+            "magmaType": "Andesite",
+            "desc": ""
         }
     ]
 }
