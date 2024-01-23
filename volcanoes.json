@@ -452,6 +452,15 @@
             "summitFeet": 11253,
             "magmaType": "Andesite",
             "desc": ""
+        },
+        {
+            "name": "Billy Mitchell",
+            "vei": 6,
+            "coordinates": [-6.090472989956283, 155.22562012078447],
+            "type": "Caldera",
+            "summitFeet": 5066,
+            "magmaType": "Rhyolite",
+            "desc": ""
         }
     ]
 }
