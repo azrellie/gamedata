@@ -209,7 +209,7 @@
             "summitFeet": 9159,
             "magmaType": "Basalt",
             "desc": "A large volcanic plateau in California, that produced thick lava accumulations, tuff beds, volcanic cones and cinder cones."
-        },    
+        },
         {
             "name": "Coso",
             "vei": 3,
@@ -218,7 +218,7 @@
             "summitFeet": 6283,
             "magmaType": "Rhyolite",
             "desc": "A volcanic field in California, that erupted 39 thousand years ago. This Volcanic Field produced, basalt lava flows, rhyolite lava domes, rhyolite lava flows, tuff rings,  ."
-        },    
+        },
         {
             "name": "Popocatépetl",
             "vei": 5,
@@ -226,6 +226,78 @@
             "type": "Stratovolcano",
             "summitFeet": 17694,
             "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "La Garita Caldera",
+            "vei": 8,
+            "coordinates": [37.756729692702365, -106.93419477234536],
+            "type": "Caldera",
+            "summitFeet": 13711,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Misema Caldera",
+            "vei": 8,
+            "coordinates": [48.38998333086064, -79.45004126750426],
+            "type": "Caldera",
+            "summitFeet": 13711,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "La Pacana",
+            "vei": 8,
+            "coordinates": [-23.16702196153157, -67.41680791816795],
+            "type": "Caldera",
+            "summitFeet": 14800,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Taupo",
+            "vei": 8,
+            "coordinates": [-38.7998115708119, 175.90255126419189],
+            "type": "Caldera",
+            "summitFeet": 1483,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Long Island",
+            "vei": 7,
+            "coordinates": [-5.334870681654999, 147.11459922283726],
+            "type": "Caldera",
+            "summitFeet": 4199,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Long Island",
+            "vei": 7,
+            "coordinates": [-5.334870681654999, 147.11459922283726],
+            "type": "Caldera",
+            "summitFeet": 4199,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Wah Wah Springs",
+            "vei": 8,
+            "coordinates": [38.47986542029199, -113.48921456463835],
+            "type": "Caldera",
+            "summitFeet": 4880,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Young Island",
+            "vei": 7,
+            "coordinates": [-66.4260941676481, 162.443586801336],
+            "type": "Stratovolcano",
+            "summitFeet": 4396,
+            "magmaType": "Rhyolite",
             "desc": ""
         }
     ]
