@@ -470,6 +470,15 @@
             "summitFeet": 8793,
             "magmaType": "Andesite",
             "desc": ""
+        },
+        {
+            "name": "Atitlán",
+            "vei": 3,
+            "coordinates": [14.699846948775408, -91.19208510079145],
+            "type": "Stratovolcano",
+            "summitFeet": 11598,
+            "magmaType": "Andesite",
+            "desc": ""
         }
     ]
 }
