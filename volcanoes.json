@@ -353,6 +353,15 @@
             "summitFeet": 12287,
             "magmaType": "Rhyolite",
             "desc": ""
+        },
+        {
+            "name": "Piton de la Fournaise",
+            "vei": 5,
+            "coordinates": [-21.243919069475776, 55.713713905098494],
+            "type": "Stratovolcano",
+            "summitFeet": 8635,
+            "magmaType": "Rhyolite",
+            "desc": ""
         }
     ]
 }
