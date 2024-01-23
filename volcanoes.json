@@ -371,6 +371,78 @@
             "summitFeet": 19341,
             "magmaType": "Andesite",
             "desc": ""
+        },
+        {
+            "name": "Okmok",
+            "vei": 6,
+            "coordinates": [-3.0648288335951084, 37.35838523543314],
+            "type": "Shield",
+            "summitFeet": 3520,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Deception Island",
+            "vei": 6,
+            "coordinates": [-62.95594349759071, -60.63220129442359],
+            "type": "Caldera",
+            "summitFeet": 3520,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Cotopaxi",
+            "vei": 6,
+            "coordinates": [-0.683733052705245, -78.43695596186541],
+            "type": "Stratovolcano",
+            "summitFeet": 19393,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Puyehue",
+            "vei": 5,
+            "coordinates": [-40.582676034219, -72.11227086139536],
+            "type": "Stratovolcano",
+            "summitFeet": 19393,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Kikai",
+            "vei": 7,
+            "coordinates": [30.791719777149893, 130.30783192685274],
+            "type": "Caldera",
+            "summitFeet": 2310,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Valles Caldera",
+            "vei": 7,
+            "coordinates": [35.90299780929065, -106.5269137460628],
+            "type": "Caldera",
+            "summitFeet": 11253,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Kurile Lake",
+            "vei": 7,
+            "coordinates": [51.44962147398801, 157.10112052539006],
+            "type": "Caldera",
+            "summitFeet": 11253,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Tambora",
+            "vei": 7,
+            "coordinates": [-8.247071593592436, 117.99167317157371],
+            "type": "Stratovolcano",
+            "summitFeet": 11253,
+            "magmaType": "Rhyolite",
+            "desc": ""
         }
     ]
 }
