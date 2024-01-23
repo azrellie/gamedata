@@ -1,3 +1,40 @@
 {
-    "cities": []
+    "cities": [
+        {
+            "name": "Phoenix",
+            "state:": "Arizona",
+            "stateAbbrev": "AZ"
+            "country": "United States"
+        },
+        {
+            "name": "Denver",
+            "state:": "Colorado",
+            "stateAbbrev": "CO"
+            "country": "United States"
+        },
+        {
+            "name": "Tucson",
+            "state:": "Arizona",
+            "stateAbbrev": "AZ"
+            "country": "United States"
+        },
+        {
+            "name": "Miami",
+            "state:": "Florida",
+            "stateAbbrev": "FL"
+            "country": "United States"
+        },
+        {
+            "name": "Las Vegas",
+            "state:": "Nevada",
+            "stateAbbrev": "NV"
+            "country": "United States"
+        },
+        {
+            "name": "Oklahoma City",
+            "state:": "Oklahoma",
+            "stateAbbrev": "OK"
+            "country": "United States"
+        }
+    ]
 }
