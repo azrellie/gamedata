@@ -461,6 +461,15 @@
             "summitFeet": 5066,
             "magmaType": "Rhyolite",
             "desc": ""
+        },
+        {
+            "name": "Meager",
+            "vei": 5,
+            "coordinates": [50.631755185704556, -123.50436282691545],
+            "type": "Complex",
+            "summitFeet": 8793,
+            "magmaType": "Andesite",
+            "desc": ""
         }
     ]
 }
