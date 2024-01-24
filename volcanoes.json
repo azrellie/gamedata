@@ -479,6 +479,15 @@
             "summitFeet": 11598,
             "magmaType": "Andesite",
             "desc": ""
+        },
+        {
+            "name": "Cerro Galán",
+            "vei": 8,
+            "coordinates": [-25.916616416089713, -66.86984218325911],
+            "type": "Caldera",
+            "summitFeet": 20013,
+            "magmaType": "Rhyolite",
+            "desc": ""
         }
     ]
 }
