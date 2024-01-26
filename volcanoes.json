@@ -473,11 +473,11 @@
         },
         {
             "name": "Atitlán",
-            "vei": 3,
+            "vei": 8,
             "coordinates": [14.699846948775408, -91.19208510079145],
-            "type": "Stratovolcano",
-            "summitFeet": 11598,
-            "magmaType": "Andesite",
+            "type": "Caldera",
+            "summitFeet": 5125,
+            "magmaType": "Rhyolite",
             "desc": ""
         },
         {
@@ -487,6 +487,15 @@
             "type": "Caldera",
             "summitFeet": 20013,
             "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Taranaki",
+            "vei": 5,
+            "coordinates": [-39.296634122772026, 174.06343858757384],
+            "type": "Stratovolcano",
+            "summitFeet": 8261,
+            "magmaType": "Andesite",
             "desc": ""
         }
     ]
