@@ -519,7 +519,7 @@
         {
             "name": "Avachinsky",
             "vei": 5,
-            "coordinates": [53.25569128318031, 158.83313241796284],
+            "coordinates": [53.255870113368466, 158.83332809874815],
             "type": "Stratovolcano",
             "summitFeet": 8914,
             "magmaType": "Andesite",
@@ -528,7 +528,7 @@
         {
             "name": "Sheveluch",
             "vei": 5,
-            "coordinates": [53.25569128318031, 158.83313241796284],
+            "coordinates": [56.6537554242363, 161.36313614440724],
             "type": "Stratovolcano",
             "summitFeet": 10771,
             "magmaType": "Andesite",
