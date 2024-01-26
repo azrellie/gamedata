@@ -375,7 +375,7 @@
         {
             "name": "Okmok",
             "vei": 6,
-            "coordinates": [-3.0648288335951084, 37.35838523543314],
+            "coordinates": [53.427344343428565, -168.1287185246248],
             "type": "Shield",
             "summitFeet": 3520,
             "magmaType": "Andesite",
@@ -495,6 +495,42 @@
             "coordinates": [-39.296634122772026, 174.06343858757384],
             "type": "Stratovolcano",
             "summitFeet": 8261,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Taranaki",
+            "vei": 5,
+            "coordinates": [-39.296634122772026, 174.06343858757384],
+            "type": "Stratovolcano",
+            "summitFeet": 8261,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Tristan da Cunha",
+            "vei": 2,
+            "coordinates": [-39.296634122772026, 174.06343858757384],
+            "type": "Shield",
+            "summitFeet": 6759,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Avachinsky",
+            "vei": 5,
+            "coordinates": [53.25569128318031, 158.83313241796284],
+            "type": "Stratovolcano",
+            "summitFeet": 8914,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Sheveluch",
+            "vei": 5,
+            "coordinates": [53.25569128318031, 158.83313241796284],
+            "type": "Stratovolcano",
+            "summitFeet": 10771,
             "magmaType": "Andesite",
             "desc": ""
         }
