@@ -140,7 +140,7 @@
         },
         {
             "name": "Toba",
-            "vei": 8,
+            "vei": 9,
             "coordinates": [2.6230544890703964, 98.79301296789286],
             "type": "Caldera",
             "summitFeet": 3665,
@@ -532,6 +532,15 @@
             "type": "Stratovolcano",
             "summitFeet": 10771,
             "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Flat Landing Brook Formation",
+            "vei": 9,
+            "coordinates": [47.38113, -65.87607],
+            "type": "Caldera    ",
+            "summitFeet": 640,
+            "magmaType": "Rhyolite",
             "desc": ""
         }
     ]
