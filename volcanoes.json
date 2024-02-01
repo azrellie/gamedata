@@ -542,6 +542,15 @@
             "summitFeet": 640,
             "magmaType": "Rhyolite",
             "desc": ""
+        },
+        {
+            "name": "Pastos Grandes",
+            "vei": 8,
+            "coordinates": [-21.690663136298543, -67.7717984191384],
+            "type": "Caldera    ",
+            "summitFeet": 19035,
+            "magmaType": "Rhyolite",
+            "desc": ""
         }
     ]
 }
