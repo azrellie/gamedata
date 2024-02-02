@@ -559,8 +559,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 397,
             "magmaType": "Rhyolite",
-            "desc": "",
-            "notImplemented": true
+            "desc": ""
         }
     ]
 }
