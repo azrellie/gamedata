@@ -551,6 +551,16 @@
             "summitFeet": 19035,
             "magmaType": "Rhyolite",
             "desc": ""
+        },
+        {
+            "name": "Siberian Traps",
+            "vei": 10,
+            "coordinates": [64.72728157307797, 88.02241020735606],
+            "type": "Large Igneous Province",
+            "summitFeet": 397,
+            "magmaType": "Rhyolite",
+            "desc": "",
+            "notImplemented": true
         }
     ]
 }
