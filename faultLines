@@ -1,0 +1,40 @@
+{
+    "faultlines": [
+        {
+            "name": "Hayward Fault",
+            "lengthKm": 119,
+            "startPoint": [38.0236, -122.1993],
+            "endPoint": [37.4942, -121.9223]
+        },
+        {
+            "name": "Atacama Fault",
+            "lengthKm": 1000,
+            "startPoint": [-24, -69],
+            "endPoint": [-27, -70]
+        },
+        {
+            "name": "Denali Fault",
+            "lengthKm": 900,
+            "startPoint": [63.5, -149.5],
+            "endPoint": [61.5, -148.5]
+        },
+        {
+            "name": "Great Sumatran Fault",
+            "lengthKm": 1600,
+            "startPoint": [5, 95.5],
+            "endPoint": [-5.5, 102]
+        },
+        {
+            "name": "Aleutian Trench",
+            "lengthKm": 3400,
+            "startPoint": [53, 167],
+            "endPoint": [51, 178]
+        },
+        {
+            "name": "Japan Trench",
+            "lengthKm": 1400,
+            "startPoint": [41.5, 144],
+            "endPoint": [36, 142]
+        }
+    ]
+}
