@@ -3,38 +3,44 @@
         {
             "name": "Phoenix",
             "state:": "Arizona",
-            "stateAbbrev": "AZ"
-            "country": "United States"
+            "stateAbbrev": "AZ",
+            "country": "United States",
+            "population": 1625000
         },
         {
             "name": "Denver",
             "state:": "Colorado",
-            "stateAbbrev": "CO"
-            "country": "United States"
+            "stateAbbrev": "CO",
+            "country": "United States",
+            "population": 711463
         },
         {
             "name": "Tucson",
             "state:": "Arizona",
-            "stateAbbrev": "AZ"
-            "country": "United States"
+            "stateAbbrev": "AZ",
+            "country": "United States",
+            "population": 543242
         },
         {
             "name": "Miami",
             "state:": "Florida",
-            "stateAbbrev": "FL"
-            "country": "United States"
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 439890
         },
         {
             "name": "Las Vegas",
             "state:": "Nevada",
-            "stateAbbrev": "NV"
-            "country": "United States"
+            "stateAbbrev": "NV",
+            "country": "United States",
+            "population": 646790
         },
         {
             "name": "Oklahoma City",
             "state:": "Oklahoma",
-            "stateAbbrev": "OK"
-            "country": "United States"
+            "stateAbbrev": "OK",
+            "country": "United States",
+            "population": 687725
         }
     ]
 }
