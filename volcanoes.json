@@ -560,6 +560,51 @@
             "summitFeet": 397,
             "magmaType": "Rhyolite",
             "desc": ""
+        },
+        {
+            "name": "Caribbean Large Igneous Province",
+            "vei": 10,
+            "coordinates": [15.195956984413439, -69.72175985883337],
+            "type": "Large Igneous Province",
+            "summitFeet": 0,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "North Atlantic Igneous Province",
+            "vei": 10,
+            "coordinates": [56.141403108590026, -6.453498464751493],
+            "type": "Large Igneous Province",
+            "summitFeet": 0,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Paraná Traps",
+            "vei": 10,
+            "coordinates": [-28.41435327139424, -53.496368814964384],
+            "type": "Large Igneous Province",
+            "summitFeet": 1555,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Deccan Traps",
+            "vei": 10,
+            "coordinates": [18.99923403772129, 73.49983060020313],
+            "type": "Large Igneous Province",
+            "summitFeet": 846,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Emeishan Traps",
+            "vei": 10,
+            "coordinates": [28.56072737840973, 101.99739248116403],
+            "type": "Large Igneous Province",
+            "summitFeet": 9196,
+            "magmaType": "Basalt",
+            "desc": ""
         }
     ]
 }
