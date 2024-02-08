@@ -634,13 +634,22 @@
             "desc": ""
         },
         {
-            "name": "Mount Etna",
+            "name": "Etna",
             "vei": 5,
             "coordinates": [37.75101806750681, 14.993433315138889],
             "type": "Stratovolcano",
             "summitFeet": 3357,
             "magmaType": "Basalt",
             "desc": "Mount Etna is an active stratovolcano on the east coast of Sicily, Italy, in the Metropolitan City of Catania, between the cities of Messina and Catania. It is located above the convergent plate margin between the African Plate and the Eurasian Plate. It is one of the tallest active volcanoes in Europe, and the tallest peak in Italy."
+        },
+        {
+            "name": "Santorini",
+            "vei": 7,
+            "coordinates": [36.404329353287686, 25.396161397192543],
+            "type": "Caldera",
+            "summitFeet": 1204,
+            "magmaType": "Rhyolite",
+            "desc": "Santorini caldera is a large, mostly submerged caldera, located in the southern Aegean Sea, 120 kilometers north of Crete in Greece. Visible above water is the circular Santorini island group, consisting of Santorini (classic Greek Thera), the main island, Therasia and Aspronisi at the periphery, and the Kameni islands at the center. It has been designated a Decade Volcano. The huge Minoan eruption of Santorini in the 17th century BC may have inspired the legend of Atlantis. It was rated 7 in the Smithsonian Global Volcanism Program's Volcanic Explosivity Index."
         }
     ]
 }
