@@ -659,6 +659,15 @@
             "summitFeet": 1204,
             "magmaType": "Rhyolite",
             "desc": "Santorini caldera is a large, mostly submerged caldera, located in the southern Aegean Sea, 120 kilometers north of Crete in Greece. Visible above water is the circular Santorini island group, consisting of Santorini (classic Greek Thera), the main island, Therasia and Aspronisi at the periphery, and the Kameni islands at the center. It has been designated a Decade Volcano. The huge Minoan eruption of Santorini in the 17th century BC may have inspired the legend of Atlantis. It was rated 7 in the Smithsonian Global Volcanism Program's Volcanic Explosivity Index."
+        },
+        {
+            "name": "Teide",
+            "vei": 4,
+            "coordinates": [28.27234362898339, -16.642513281392805],
+            "type": "Stratovolcano",
+            "summitFeet": 12188 ,
+            "magmaType": "Basalt",
+            "desc": "Teide, or Mount Teide is a volcano on Tenerife in the Canary Islands, Spain. Its summit is the highest point in Spain and the highest point above sea level in the islands of the Atlantic. If measured from the ocean floor, its height of 7,500 m (24,600 ft) makes Teide the third-highest volcano in the world, and is described by UNESCO and NASA as Earth's third-tallest volcanic structure. Teide's elevation above sea level makes Tenerife the tenth highest island in the world."
         }
     ]
 }
