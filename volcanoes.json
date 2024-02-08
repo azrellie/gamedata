@@ -364,6 +364,15 @@
             "desc": ""
         },
         {
+            "name": "Öræfajökull",
+            "vei": 6,
+            "coordinates": [63.98101512877263, -16.655125554661147],
+            "type": "Stratovolcano",
+            "summitFeet": 6921,
+            "magmaType": "Basalt",
+            "desc": "An Iceland volcano, somewhat well known"
+        },
+        {
             "name": "Novarupta",
             "vei": 6,
             "coordinates": [58.26542832190407, -155.15895523176025],
