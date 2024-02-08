@@ -776,6 +776,42 @@
             "summitFeet": 3317,
             "magmaType": "Basalt",
             "desc": "Mount Gambier is a volcano complex that sits right under the city of Mount Gambier, with a population of nearly 30 thousand people."
+        },
+        {  
+            "name": "Changbaishan",
+            "vei": 6,
+            "coordinates": [42.00269704724275, 128.05850527551027],
+            "type": "Stratovolcano",
+            "summitFeet": 3317,
+            "magmaType": "Basalt",
+            "desc": "Changbaishan sits directly on the border between China and North Korea, and the crater in the center is a large lake called Heaven Lake."
+        },
+        {  
+            "name": "Mount Cameroon",
+            "vei": 3,
+            "coordinates": [4.216653826855627, 9.17408711018135],
+            "type": "Stratovolcano",
+            "summitFeet": 13419,
+            "magmaType": "Basalt",
+            "desc": "Mount Cameroon, one of Africa's largest volcanoes, sits near Douala, one of Cameroon's biggest cities. The view of the volcano is stunning, and if you look at a satellite image of Cameroon, you will surely notice it on the west coast of the country."
+        },
+        {
+            "name": "Jan Mayen",
+            "vei": 4,
+            "coordinates": [71.08050039915567, -8.15698216489675],
+            "type": "Stratovolcano",
+            "summitFeet": 7208,
+            "magmaType": "Basalt",
+            "desc": "Jan Mayen is a rather isolated island in the Norwegian sea. On top of the island, a massive volcano with the same name sits. There are no permanent residents on the island."
+        },
+        {
+            "name": "Bouvet",
+            "vei": 0,
+            "coordinates": [-54.42170775127812, 3.357629834534485],
+            "type": "Shield",
+            "summitFeet": 2431,
+            "magmaType": "Basalt",
+            "desc": "Bouvet Island, the island that Bouvet sits on, is one of the most isolated places on the planet, being 2,500 km away from any continent. There are no structures on the island."
         }
-    ]
+    ]    
 }
