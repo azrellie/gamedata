@@ -663,11 +663,83 @@
         {
             "name": "Teide",
             "vei": 4,
-            "coordinates": [28.27234362898339, -16.642513281392805],
+            "coordinates": [-1.522053156845042, 29.2494674403274],
             "type": "Stratovolcano",
-            "summitFeet": 12188 ,
+            "summitFeet": 12188,
             "magmaType": "Basalt",
             "desc": "Teide, or Mount Teide is a volcano on Tenerife in the Canary Islands, Spain. Its summit is the highest point in Spain and the highest point above sea level in the islands of the Atlantic. If measured from the ocean floor, its height of 7,500 m (24,600 ft) makes Teide the third-highest volcano in the world, and is described by UNESCO and NASA as Earth's third-tallest volcanic structure. Teide's elevation above sea level makes Tenerife the tenth highest island in the world."
+        },
+        {
+            "name": "Nyiragongo",
+            "vei": 2,
+            "coordinates": [28.27234362898339, -16.642513281392805],
+            "type": "Shield",
+            "summitFeet": 11385,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Stromboli",
+            "vei": 3,
+            "coordinates": [38.79215093655288, 15.212579655703337],
+            "type": "Stratovolcano",
+            "summitFeet": 3031,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Fayal",
+            "vei": 2,
+            "coordinates": [38.585269752532405, -28.714898784559765],
+            "type": "Stratovolcano",
+            "summitFeet": 3415,
+            "magmaType": "Basalt",
+            "desc": "Azores Volcano"
+        },
+        {
+            "name": "La Palma",
+            "vei": 3,
+            "coordinates": [28.575003971258365, -17.837753518335784],
+            "type": "Stratovolcano",
+            "summitFeet": 7959,
+            "magmaType": "Basalt",
+            "desc": "Famous Spanish volcano in the Canary Islands"
+        },
+        {
+            "name": "Damavand",
+            "vei": 0,
+            "coordinates": [35.95586670412353, 52.10961218268941],
+            "type": "Stratovolcano",
+            "summitFeet": 18602,
+            "magmaType": "Basalt",
+            "desc": "Tall, weak volcano sitting near Tehran"
+        },
+        {
+            "name": "Wolf",
+            "vei": 4,
+            "coordinates": [0.01698482999848532, -91.34246842207509],
+            "type": "Shield",
+            "summitFeet": 5610,
+            "magmaType": "Basalt",
+            "desc": "Galapagos Islands volcano"
+        },
+        {
+            "name": "Ulreung",
+            "vei": 6,
+            "coordinates": [37.50637977884061, 130.8571409616231],
+            "type": "Stratovolcano",
+            "summitFeet": 3228,
+            "magmaType": "Basalt",
+            "desc": "Volcano that's a populated island in South Korea"
+        },
+        {
+            "name": "Ambrym",
+            "vei": 6,
+            "coordinates": [-16.249732773111884, 168.12720096985183],
+            "type": "Shield",
+            "summitFeet": 4377,
+            "magmaType": "Basalt",
+            "desc": "Vanuatu volcano, quite active"
         }
     ]
 }
