@@ -623,6 +623,15 @@
             "summitFeet": 2690,
             "magmaType": "Basalt",
             "desc": ""
+        },
+        {
+            "name": "Mount Etna",
+            "vei": 5,
+            "coordinates": [37.75101806750681, 14.993433315138889],
+            "type": "Stratovolcano",
+            "summitFeet": 3357,
+            "magmaType": "Basalt",
+            "desc": "Mount Etna is an active stratovolcano on the east coast of Sicily, Italy, in the Metropolitan City of Catania, between the cities of Messina and Catania. It is located above the convergent plate margin between the African Plate and the Eurasian Plate. It is one of the tallest active volcanoes in Europe, and the tallest peak in Italy."
         }
     ]
 }
