@@ -310,6 +310,15 @@
             "desc": ""
         },
         {
+            "name": "O'a Caldera",
+            "vei": 7,
+            "coordinates": [7.4936157475907, 38.56084021073614],
+            "type": "Caldera",
+            "summitFeet": 6808,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
             "name": "Emory Caldera",
             "vei": 8,
             "coordinates": [32.683893739084304, -108.13474204955875],
