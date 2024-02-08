@@ -812,6 +812,13 @@
             "summitFeet": 2431,
             "magmaType": "Basalt",
             "desc": "Bouvet Island, the island that Bouvet sits on, is one of the most isolated places on the planet, being 2,500 km away from any continent. There are no structures on the island."
-        }
+        },
+        {   "name": "Kirishima",
+            "vei": 7,
+            "coordinates": [31.916043194899036, 130.87903297379933],
+            "type": "Complex",
+            "summitFeet": 5600,
+            "magmaType": "Andesite",
+            "desc": "Kirishima is a volcano complex in Southern Japan,"
     ]    
 }
