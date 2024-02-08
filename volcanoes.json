@@ -740,6 +740,24 @@
             "summitFeet": 4377,
             "magmaType": "Basalt",
             "desc": "Vanuatu volcano, quite active"
+        },
+        {  
+            "name": "Opala",
+            "vei": 5,
+            "coordinates": [52.543088781102455, 157.33872616806227],
+            "type": "Stratovolcano",
+            "summitFeet": 8002,
+            "magmaType": "Andesite",
+            "desc": "Volcano in Kamchatka"
+        },
+        {  
+            "name": "Mutnovsky",
+            "vei": 3,
+            "coordinates": [52.44899619654615, 158.1940689329932],
+            "type": "Complex",
+            "summitFeet": 7507,
+            "magmaType": "Basalt",
+            "desc": "Volcano in Kamchatka, "
         }
     ]
 }
