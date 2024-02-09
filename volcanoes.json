@@ -840,7 +840,7 @@
             "desc": "Kirishima is a volcano complex in Southern Japan,"
         },
         {   "name": "Katla",
-            "vei": 6,
+            "vei": 5,
             "coordinates": [63.646750348797774, -19.13055688844543],
             "type": "Stratovolcano",
             "summitFeet": 4961,
