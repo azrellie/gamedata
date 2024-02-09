@@ -838,6 +838,14 @@
             "summitFeet": 3310,
             "magmaType": "Andesite",
             "desc": "Kirishima is a volcano complex in Southern Japan,"
+        },
+        {   "name": "Katla",
+            "vei": 6,
+            "coordinates": [63.646750348797774, -19.13055688844543],
+            "type": "Stratovolcano",
+            "summitFeet": 4961,
+            "magmaType": "Basalt",
+            "desc": "Katla is an active volcano in southern Iceland. This particular volcano has been very active historically with at least twenty documented major eruptions since 2920 BC. Katla is one of the largest volcanic sources of carbon dioxide (CO2) on Earth, accounting for up to 4% of total global volcanic carbon dioxide emissions. Katla is one of the largest volcanoes in Iceland."
         }
     ]  
     
