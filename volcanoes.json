@@ -642,6 +642,15 @@
             "magmaType": "Basalt",
             "desc": ""
         },
+        {  
+            "name": "Afro-Arabian Large Igneous Province",
+            "vei": 10,
+            "coordinates": [13.504615176535905, 41.825031130510375],
+            "type": "Large Igneous Province",
+            "summitFeet": 2937,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
         {
             "name": "Etna",
             "vei": 5,
