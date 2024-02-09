@@ -829,6 +829,16 @@
             "summitFeet": 5600,
             "magmaType": "Andesite",
             "desc": "Kirishima is a volcano complex in Southern Japan,"
+        },   
+        {
+            "name": "Stiavnica",
+            "vei": 7,
+            "coordinates": [48.40361366651884, 18.86666610976981],
+            "type": "Stratovolcano",
+            "summitFeet": 3310,
+            "magmaType": "Andesite",
+            "desc": "Kirishima is a volcano complex in Southern Japan,"
         }
-    ]    
+    ]  
+    
 }
