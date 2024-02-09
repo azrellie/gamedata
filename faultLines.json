@@ -434,8 +434,8 @@
         },
         {
             "name": "Dead Sea Transform Fault",
-            "lengthKm": 0,
-            "depthKm": 0,
+            "lengthKm": 1000,
+            "depthKm": 9.5,
             "points": [
                 [27.72671954941494, 34.25287568668098],
                 [27.99302519342274, 34.4630307365558],
