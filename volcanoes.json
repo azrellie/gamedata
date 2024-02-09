@@ -846,7 +846,24 @@
             "summitFeet": 4961,
             "magmaType": "Basalt",
             "desc": "Katla is an active volcano in southern Iceland. This particular volcano has been very active historically with at least twenty documented major eruptions since 2920 BC. Katla is one of the largest volcanic sources of carbon dioxide (CO2) on Earth, accounting for up to 4% of total global volcanic carbon dioxide emissions. Katla is one of the largest volcanoes in Iceland."
+        }, 
+        {
+            "name": "Ora Caldera",
+            "vei": 8,
+            "coordinates": [46.077196572770895, 11.151984143909631],
+            "type": "Caldera",
+            "summitFeet": 4429,
+            "magmaType": "Rhyolite",
+            "desc": "Ora Caldera is a Permian supervolcano situated within the Lower Alps of Italy, formed by a super eruption 275 million years ago."
+        },
+        {
+            "name": "Altenberg-Teplice",
+            "vei": 7,
+            "coordinates": [50.70769615015468, 13.790283038935392],
+            "type": "Caldera",
+            "summitFeet": 4961,
+            "magmaType": "Rhyolite",
+            "desc": "Altenberg-Teplice is in a very odd location for a volcano, especially a strong one. Th"
         }
-    ]  
-    
+    ]
 }
