@@ -651,6 +651,24 @@
             "magmaType": "Basalt",
             "desc": ""
         },
+        {  
+            "name": "Gawler Range Large Igneous Province",
+            "vei": 10,
+            "coordinates": [-32.26311357901161, 137.32530261327827],
+            "type": "Large Igneous Province",
+            "summitFeet": 1500,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Karoo Ferrar Large Igneous Province",
+            "vei": 10,
+            "coordinates": [-29.345879461203985, 28.951795786857396],
+            "type": "Large Igneous Province",
+            "summitFeet": 8484,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
         {
             "name": "Etna",
             "vei": 5,
@@ -891,6 +909,15 @@
             "summitFeet": 4583,
             "magmaType": "Andesite",
             "desc": "Volcano on Martinique, popular tourist destination"
+        },
+        {  
+            "name": "Glen Coe",
+            "vei": 8,
+            "coordinates": [56.68242290543748, -5.101660449671116],
+            "type": "Caldera",
+            "summitFeet": 1620,
+            "magmaType": "Andesite",
+            "desc": "One of the best examples subsidence caldera, Glen Coe is a notable ancient volcano in the Scottish Highlands. Eruptions took place from about 400-450 million years ago in real life."
         }
     ]
 }
