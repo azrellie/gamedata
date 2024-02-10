@@ -917,7 +917,25 @@
             "type": "Caldera",
             "summitFeet": 1620,
             "magmaType": "Andesite",
-            "desc": "One of the best examples subsidence caldera, Glen Coe is a notable ancient volcano in the Scottish Highlands. Eruptions took place from about 400-450 million years ago in real life."
+            "desc": "One of the best examples subsidence caldera, Glen Coe is a notable ancient volcano in the Scottish Highlands. Eruptions took place from about 400-450 million years ago in real life. It is an extinct volcano in real life."
+        },
+        {  
+            "name": "Barren Island",
+            "vei": 2,
+            "coordinates": [12.28059401159717, 93.86262230264948],
+            "type": "Stratovolcano",
+            "summitFeet": 321,
+            "magmaType": "Basalt",
+            "desc": "An island of India, with a VEI 2 sitting on top. The island is popular among scuba divers."
+        },
+        { 
+            "name": "Pagan",
+            "vei": 4,
+            "coordinates": [18.140086550093084, 145.78431038481546],
+            "type": "Stratovolcano",
+            "summitFeet": 570,
+            "magmaType": "Basalt",
+            "desc": "Pagan is an uninhabited island in the Northern Mariana Islands. It is a rather active volcano in real life, as it had eruptions in 1987, 1988, 1992, 1993, 1996, 2006, 2009, 2010, 2011, 2012, and 2021."
         }
     ]
 }
