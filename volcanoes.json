@@ -867,12 +867,12 @@
         },
         {  
             "name": "Henry's Fork Caldera",
-            "vei": 8,
+            "vei": 7,
             "coordinates": [44.329889203428465, -111.33016801227201],
             "type": "Caldera",
             "summitFeet": 9203,
             "magmaType": "Basalt",
-            "desc": "VEI 8 near Yellowstone"
+            "desc": "VEI 7 near Yellowstone"
         }
     ]
 }
