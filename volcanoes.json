@@ -23,7 +23,7 @@
         },
         {
             "name": "Jefferson",
-            "vei": 3,
+            "vei": 5,
             "coordinates": [44.67440741598983, -121.79962089096446],
             "type": "Stratovolcano",
             "summitFeet": 10497,
@@ -32,7 +32,7 @@
         },
         {
             "name": "Baker",
-            "vei": 3,
+            "vei": 7,
             "coordinates": [48.77668839068164, -121.81441320396915],
             "type": "Stratovolcano",
             "summitFeet": 10786,
@@ -77,7 +77,7 @@
         },
         {
             "name": "Rainier",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [46.85232525812001, -121.76030611133204],
             "type": "Stratovolcano",
             "summitFeet": 14409,
@@ -86,7 +86,7 @@
         },
         {
             "name": "Glacier Peak",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [48.11198353291689, -121.11327801525596],
             "type": "Stratovolcano",
             "summitFeet": 10541,
@@ -221,7 +221,7 @@
         },
         {
             "name": "Popocatépetl",
-            "vei": 5,
+            "vei": 6,
             "coordinates": [19.02324983435253, -98.62385037278861],
             "type": "Stratovolcano",
             "summitFeet": 17694,
@@ -347,7 +347,7 @@
         },
         {
             "name": "Rincón de la Vieja",
-            "vei": 4,
+            "vei": 6,
             "coordinates": [10.831295912889297, -85.33665204236283],
             "type": "Complex",
             "summitFeet": 6286,
@@ -428,7 +428,7 @@
         },
         {
             "name": "Puyehue",
-            "vei": 5,
+            "vei": 6,
             "coordinates": [-40.582676034219, -72.11227086139536],
             "type": "Stratovolcano",
             "summitFeet": 19393,
@@ -473,7 +473,7 @@
         },
         {
             "name": "Concepción",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [11.537359303350195, -85.6217795388534],
             "type": "Stratovolcano",
             "summitFeet": 11253,
@@ -554,7 +554,7 @@
         },
         {
             "name": "Sheveluch",
-            "vei": 5,
+            "vei": 6,
             "coordinates": [56.6537554242363, 161.36313614440724],
             "type": "Stratovolcano",
             "summitFeet": 10771,
@@ -734,12 +734,12 @@
         },
         {
             "name": "Damavand",
-            "vei": 0,
+            "vei": 5,
             "coordinates": [35.95586670412353, 52.10961218268941],
             "type": "Stratovolcano",
             "summitFeet": 18602,
             "magmaType": "Basalt",
-            "desc": "Tall, weak volcano sitting near Tehran"
+            "desc": "Tall volcano sitting near Tehran"
         },
         {
             "name": "Wolf",
@@ -770,7 +770,7 @@
         },
         {  
             "name": "Opala",
-            "vei": 5,
+            "vei": 7,
             "coordinates": [52.543088781102455, 157.33872616806227],
             "type": "Stratovolcano",
             "summitFeet": 8002,
