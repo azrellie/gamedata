@@ -873,6 +873,15 @@
             "summitFeet": 9203,
             "magmaType": "Basalt",
             "desc": "VEI 7 near Yellowstone"
+        },
+        {
+            "name": "Krakatoa",
+            "vei": 6,
+            "coordinates": [-6.1497044228515545, 105.44605798105464],
+            "type": "Caldera",
+            "summitFeet": 2667,
+            "magmaType": "Rhyolite",
+            "desc": "Famous volcano in Indonesia, which is theorized to have produced the loudest sound ever recorded. It caused a global winter, and the year proceeding the eruption was known as The Year without a Summer."
         }
     ]
 }
