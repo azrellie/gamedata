@@ -671,7 +671,7 @@
         },
         {
             "name": "Etna",
-            "vei": 5,
+            "vei": 6,
             "coordinates": [37.75101806750681, 14.993433315138889],
             "type": "Stratovolcano",
             "summitFeet": 3357,
