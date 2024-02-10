@@ -980,7 +980,34 @@
             "type": "Stratovolcano",
             "summitFeet": 6562,
             "magmaType": "Andesite",
-            "desc": "" 
+            "desc": ""
+        },
+        {
+            "name": "Cerberean Caldera",
+            "vei": 8,
+            "coordinates": [-37.18819655305258, 145.9640398560064],
+            "type": "Caldera",
+            "summitFeet": 3000,
+            "magmaType": "Andesite",
+            "desc": "A Australian caldera that sits right below a national park. Some have theorized that the volcano erupted ~374 million years ago, and in part contributed to the Late Devonian extinction event."
+        },
+        {
+            "name": "High Island Caldera",
+            "vei": 8,
+            "coordinates": [22.356567897377662, 114.35183562918452],
+            "type": "Caldera",
+            "summitFeet": 6562,
+            "magmaType": "Tuff",
+            "desc": "An interesting caldera that is situated on High Island of Hong Kong. Not much is known about the volcano, though evidence suggests that it's last eruption was 140 million years ago, releasing enough ash to cover the entirety of Hong Kong."
+        },
+        {  
+            "name": "Ōkueyama",
+            "vei": 8,
+            "coordinates": [32.736458250426544, 131.50838026858838],
+            "type": "Stratovolcano",
+            "summitFeet": 5390,
+            "magmaType": "Andesite?",
+            "desc": "Mount Ōkueyama is among one of Japan's largest volcanoes. It last erupted 13.7 million years ago, which would've been a VEI 8. However, the volcano is now considered extinct IRL."
         }
     ]
 }
