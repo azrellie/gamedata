@@ -864,6 +864,15 @@
             "summitFeet": 4961,
             "magmaType": "Rhyolite",
             "desc": "Altenberg-Teplice is in a very odd location for a volcano, especially a strong one. Th"
+        },
+        {  
+            "name": "Henry's Fork Caldera",
+            "vei": 8,
+            "coordinates": [44.329889203428465, -111.33016801227201],
+            "type": "Caldera",
+            "summitFeet": 9203,
+            "magmaType": "Basalt",
+            "desc": "VEI 8 near Yellowstone"
         }
     ]
 }
