@@ -972,6 +972,15 @@
             "summitFeet": 1496,
             "magmaType": "Andesite",
             "desc": "Kurile Islands volcano" 
+        },
+        {  
+            "name": "Bárðarbunga",
+            "vei": 6,
+            "coordinates": [64.63942013245467, -17.5257082572976],
+            "type": "Stratovolcano",
+            "summitFeet": 6562,
+            "magmaType": "Andesite",
+            "desc": "" 
         }
     ]
 }
