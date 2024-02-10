@@ -882,6 +882,15 @@
             "summitFeet": 2667,
             "magmaType": "Rhyolite",
             "desc": "Famous volcano in Indonesia, which is theorized to have produced the loudest sound ever recorded. It caused a global winter, and the year proceeding the eruption was known as The Year without a Summer."
+        },
+        {
+            "name": "Pelée",
+            "vei": 4,
+            "coordinates": [14.811400131295668, -61.16590996774536],
+            "type": "Stratovolcano",
+            "summitFeet": 4583,
+            "magmaType": "Andesite",
+            "desc": "Volcano on Martinique, popular tourist destination"
         }
     ]
 }
