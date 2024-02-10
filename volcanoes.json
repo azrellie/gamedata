@@ -936,6 +936,42 @@
             "summitFeet": 570,
             "magmaType": "Basalt",
             "desc": "Pagan is an uninhabited island in the Northern Mariana Islands. It is a rather active volcano in real life, as it had eruptions in 1987, 1988, 1992, 1993, 1996, 2006, 2009, 2010, 2011, 2012, and 2021."
+        },
+        {  
+            "name": "Kozushima",
+            "vei": 4,
+            "coordinates": [34.220219612122435, 139.1522614235979],
+            "type": "Lava Dome",
+            "summitFeet": 572,
+            "magmaType": "Rhyolite",
+            "desc": "Kozushima is a volcano off the coast of Japan near Tokyo, and the last major eruption was in 838 CE, being a VEI 4 eruption."
+        },
+        {
+            "name": "Ulawun",
+            "vei": 4,
+            "coordinates": [-5.053646553162131, 151.33363338930013],
+            "type": "Stratovolcano",
+            "summitFeet": 2334,
+            "magmaType": "Basalt",
+            "desc": "" 
+        },
+        {
+            "name": "Tongariro",
+            "vei": 5,
+            "coordinates": [-39.13064101262619, 175.6361138900971],
+            "type": "Stratovolcano",
+            "summitFeet": 1978,
+            "magmaType": "Andesite",
+            "desc": "New Zealand volcano" 
+        },
+        {  
+            "name": "Sarychev Peak",
+            "vei": 4,
+            "coordinates": [48.092151909868115, 153.20199390554077],
+            "type": "Stratovolcano",
+            "summitFeet": 1496,
+            "magmaType": "Andesite",
+            "desc": "Kurile Islands volcano" 
         }
     ]
 }
