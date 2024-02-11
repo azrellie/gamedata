@@ -1125,6 +1125,42 @@
             "summitFeet": 11686,
             "magmaType": "Andesite",
             "desc": ""
+        },
+        {
+            "name": "Huaynaputina",
+            "vei": 6,
+            "coordinates": [-16.61269340254413, -70.85279262543337],
+            "type": "Stratovolcano",
+            "summitFeet": 15531,
+            "magmaType": "Dacite",
+            "desc": ""
+        },
+        {
+            "name": "El Misti",
+            "vei": 4,
+            "coordinates": [-16.29903575980277, -71.40538863089],
+            "type": "Stratovolcano",
+            "summitFeet": 19101,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Colo",
+            "vei": 4,
+            "coordinates": [-0.17046963237026386, 121.60698433650492],
+            "type": "Stratovolcano",
+            "summitFeet": 1325,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Lokon-Empung",
+            "vei": 3,
+            "coordinates": [1.3648484434138346, 124.79934936773321],
+            "type": "Stratovolcano",
+            "summitFeet": 5184,
+            "magmaType": "Basalt",
+            "desc": ""
         }
     ]
 }
