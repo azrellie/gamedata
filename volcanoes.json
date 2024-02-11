@@ -1233,6 +1233,24 @@
             "summitFeet": 3648,
             "magmaType": "Andesite",
             "desc": ""
+        },
+        {
+            "name": "Michoacán-Guanajuato",
+            "vei": 4,
+            "coordinates": [19.49281093711586, -102.25122418261726],
+            "type": "Volcanic Field",
+            "summitFeet": 12664,
+            "magmaType": "Andesite",
+            "desc": "Also known as Paricutin"
+        },
+        {
+            "name": "Arenal",
+            "vei": 4,
+            "coordinates": [10.462280295754208, -84.70277585347391],
+            "type": "Stratovolcano",
+            "summitFeet": 5479,
+            "magmaType": "Andesite",
+            "desc": ""
         }
     ]
 }
