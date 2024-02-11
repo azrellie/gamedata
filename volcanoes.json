@@ -1101,7 +1101,7 @@
         },
         {
             "name": "Galeras",
-            "vei": 3,
+            "vei": 6,
             "coordinates": [1.221300208496533, -77.35849982974266],
             "type": "Complex",
             "summitFeet": 14029,
@@ -1137,7 +1137,7 @@
         },
         {
             "name": "El Misti",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [-16.29903575980277, -71.40538863089],
             "type": "Stratovolcano",
             "summitFeet": 19101,
@@ -1160,6 +1160,51 @@
             "type": "Stratovolcano",
             "summitFeet": 5184,
             "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Ciomadul",
+            "vei": 4,
+            "coordinates": [46.136294541384366, 25.887587358534958],
+            "type": "Lava Dome",
+            "summitFeet": 4229,
+            "magmaType": "Dacite",
+            "desc": "Ciomadul had many explosive eruptions from 56,000-32,000 years ago, and some ash is theorized to have reached as far as the Black Sea during these eruptions. Because of this, it has the most recent volcanic activity in Europe (excluding Greece and Italy)."
+        },
+        {
+            "name": "Dacht-i Navar Group",
+            "vei": 6,
+            "coordinates": [33.947709742293625, 67.91062153441177],
+            "type": "Complex",
+            "summitFeet": 13251,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {  
+            "name": "Purace",
+            "vei": 3,
+            "coordinates": [2.3129405320191805, -76.3948688272389],
+            "type": "Stratovolcano",
+            "summitFeet": 15256,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Sabancaya",
+            "vei": 3,
+            "coordinates": [-15.785576644157599, -71.85667556567306],
+            "type": "Stratovolcano",
+            "summitFeet": 19554,
+            "magmaType": "Andesite",
+            "desc": ""
+        },
+        {
+            "name": "Yucamane",
+            "vei": 5,
+            "coordinates": [-17.183030970768048, -70.19888917571083],
+            "type": "Stratovolcano",
+            "summitFeet": 18028,
+            "magmaType": "Andesite",
             "desc": ""
         }
     ]
