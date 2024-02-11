@@ -1206,6 +1206,15 @@
             "summitFeet": 18028,
             "magmaType": "Andesite",
             "desc": ""
+        },
+        {  
+            "name": "Cerro Blanco",
+            "vei": 7,
+            "coordinates": [-26.772172309571122, -67.72033396610941],
+            "type": "Caldera",
+            "summitFeet": 15322,
+            "magmaType": "Rhyolite",
+            "desc": ""
         }
     ]
 }
