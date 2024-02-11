@@ -1215,6 +1215,24 @@
             "summitFeet": 15322,
             "magmaType": "Rhyolite",
             "desc": ""
+        },    
+        {
+            "name": "Toussidé",
+            "vei": 7,
+            "coordinates": [21.04105755916579, 16.465801203178874],
+            "type": "Stratovolcano",
+            "summitFeet": 5226,
+            "magmaType": "Rhyolite",
+            "desc": ""
+        },
+        {
+            "name": "Fisher",
+            "vei": 6,
+            "coordinates": [54.66830523979994, -164.36399394760758],
+            "type": "Stratovolcano",
+            "summitFeet": 3648,
+            "magmaType": "Andesite",
+            "desc": ""
         }
     ]
 }
