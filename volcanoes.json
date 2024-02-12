@@ -1269,6 +1269,15 @@
             "summitFeet": 4803,
             "magmaType": "Basalt",
             "desc": "Chaîne des Puys is a chain of cinder cones, lava domes and maars in the Massif Central in France.The chain is about 40 km (25 mi) long, and the identified volcanic features, which constitute a volcanic field,include 48 cinder cones, eight lava domes, and 15 maars and explosion craters."
+        },
+        {
+            "name": "East Eifel Volcanic Field",
+            "vei": 6,
+            "coordinates": [50.41341207835856, 7.269100837839249],
+            "type": "Volcanic Field",
+            "summitFeet": 1929,
+            "magmaType": "Rhyolite?",
+            "desc": "East Eifel Volcanic Field is a volcanic field in Germany that mostly consists of crater lakes and maars. The largest eruption in this volcanic field happened 12,900 years ago at Laacher See and was classified as a 6 on the VEI scale."
         }
     ]
 }
