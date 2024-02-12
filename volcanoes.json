@@ -1278,6 +1278,15 @@
             "summitFeet": 1929,
             "magmaType": "Rhyolite?",
             "desc": "East Eifel Volcanic Field is a volcanic field in Germany that mostly consists of crater lakes and maars. The largest eruption in this volcanic field happened 12,900 years ago at Laacher See and was classified as a 6 on the VEI scale."
+        },
+        {
+            "name": "Reykjanes",
+            "vei": 4,
+            "coordinates": [63.82032260432834, -22.689947191202187],
+            "type": "Crater Rows",
+            "summitFeet": 305,
+            "magmaType": "Basalt",
+            "desc": "Reykjanes volcanic system comprises a broad area of postglacial basaltic crater rows and small shield volcanoes."
         }
     ]
 }
