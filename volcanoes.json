@@ -1251,6 +1251,15 @@
             "summitFeet": 5479,
             "magmaType": "Andesite",
             "desc": ""
+        },
+        {
+            "name": "Udokan Plateau",
+            "vei": 3,
+            "coordinates": [57.08215725769283, 119.79913175683569],
+            "type": "Volcanic Field",
+            "summitFeet": 7150,
+            "magmaType": "Basalt",
+            "desc": "Udokan Plateau is a massive volcanic field in the Russian far east. Volcanism in the Udokan Plateau included both basaltic lava flows and later individual volcanic cones."
         }
     ]
 }
