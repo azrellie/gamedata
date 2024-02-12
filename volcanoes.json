@@ -1260,6 +1260,15 @@
             "summitFeet": 7150,
             "magmaType": "Basalt",
             "desc": "Udokan Plateau is a massive volcanic field in the Russian far east. Volcanism in the Udokan Plateau included both basaltic lava flows and later individual volcanic cones."
+        },
+        {
+            "name": "Chaîne des Puys",
+            "vei": 6,
+            "coordinates": [45.77403438423006, 2.9590687261047885],
+            "type": "Lava Dome",
+            "summitFeet": 4803,
+            "magmaType": "Basalt",
+            "desc": "Chaîne des Puys is a chain of cinder cones, lava domes and maars in the Massif Central in France.The chain is about 40 km (25 mi) long, and the identified volcanic features, which constitute a volcanic field,include 48 cinder cones, eight lava domes, and 15 maars and explosion craters."
         }
     ]
 }
