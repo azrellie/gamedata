@@ -1287,6 +1287,70 @@
             "summitFeet": 305,
             "magmaType": "Basalt",
             "desc": "Reykjanes volcanic system comprises a broad area of postglacial basaltic crater rows and small shield volcanoes."
+        },
+        {
+            "name": "Fueguino",
+            "vei": 2,
+            "coordinates": [-54.9618927840529, -70.26183213611331],
+            "type": "Lava Dome",
+            "summitFeet": 515,
+            "magmaType": "Andesite",
+            "desc": "Fueguino is a lava dome located on Isla Cook. It is the southernmost holocene volcano in South America."
+        },
+        {
+            "name": "Crater Basalt",
+            "vei": 1,
+            "coordinates": [-42.01921432180831, -70.19110484309512],
+            "type": "Volcanic Field",
+            "summitFeet": 4409,
+            "magmaType": "Basalt",
+            "desc": "Crater Basalt is a volcanic field in Argentina. It consists of 9 cinder and spatter cones."
+        },
+        {
+            "name": "Lake Tōya",
+            "vei": 7,
+            "coordinates": [42.601958496448326, 140.8503902952169],
+            "type": "Caldera",
+            "summitFeet": 2405,
+            "magmaType": "Andesite",
+            "desc": "Lake Tōya is a 10 kilometer wide caldera in Hokkaido, Japan. It had a single caldera forming VEI 7 eruption 110,000 years ago."
+        },
+        {
+            "name": "Adams Seamount",
+            "vei": 0,
+            "coordinates": [-25.362755789869983, -129.26517996047232],
+            "type": "Lava Dome",
+            "summitFeet": -128,
+            "magmaType": "Basalt",
+            "desc": "Adams Seamount is a submarine volcano in the Pacific Ocean. Given its height, during the last glacial maximum Adams was likely an island."
+        },
+        {
+            "name": "Adatarayama",
+            "vei": 3,
+            "coordinates": [37.62110735726349, 140.28787837035807],
+            "type": "Stratovolcano",
+            "summitFeet": 5669,
+            "magmaType": "Andesite",
+            "desc": "Adatarayama is a stratovolcano in Japan. Historical eruptions have been restricted to the 1.2-km-wide, 350-m-deep Numonotaira crater."
+        },
+        {
+            "name": "Semisopochnoi",
+            "vei": 7,
+            "coordinates": [51.94563595497955, 179.60776382301856],
+            "type": "Caldera",
+            "summitFeet": 4006,
+            "magmaType": "Basalt",
+            "desc": "Semisopochnoi is a volcanic island in the Rat Islands. A huge VEI 7 eruption occured in the Holocene, forming a 8 kilometer wide caldera."
+        },
+        {
+            "name": "Strechovy",
+            "vei": 4,
+            "coordinates": [48.78122522803923, 21.593920289227515],
+            "type": "Stratovolcano?",
+            "summitFeet": 2600,
+            "magmaType": "Andesite",
+            "desc": "Strechovy is a part of a volcanic chain in Slovakia called Slanské vrchy. It has produced over 100 explosive eruptions in its lifetime."
         }
+        
     ]
 }
