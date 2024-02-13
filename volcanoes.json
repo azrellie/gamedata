@@ -1056,7 +1056,7 @@
         },
         {
             "name": "Morne Watt",
-            "vei": 0,
+            "vei": 2,
             "coordinates": [15.3164492983203, -61.299923810920255],
             "type": "Stratovolcano",
             "summitFeet": 4016,
@@ -1593,6 +1593,132 @@
             "summitFeet": 8000,
             "magmaType": "Andesite",
             "desc": "El Metate is a shield volcano in Mexico. It had a single VEI 5 eruption in 1250 AD."
+        },
+        {
+            "name": "Lvinaya Past",
+            "vei": 7,
+            "coordinates": [44.610847592026985, 146.98984155058724],
+            "type": "Caldera",
+            "summitFeet": 1732,
+            "magmaType": "Dacite",
+            "desc": "Lvinaya Past is a huge caldera in the Kuril Islands. It produced one of the largest Holocene eruptions."
+        },
+        {
+            "name": "Medvezhya",
+            "vei": 7,
+            "coordinates": [45.38793455163856, 148.82960820303654],
+            "type": "Caldera",
+            "summitFeet": 3688,
+            "magmaType": "Rhyolite",
+            "desc": "Medvezhya is a caldera in the Kuril Islands. It produced only a single VEI 7 eruption."
+        },
+        {
+            "name": "Tao-Rusyr Caldera",
+            "vei": 6,
+            "coordinates": [49.3504702968679, 154.7201500480497],
+            "type": "Caldera",
+            "summitFeet": 4347,
+            "magmaType": "Andesite",
+            "desc": "Tao-Rusyr is a caldera in the Kuril Islands. The caldera forming eruption wiped out vegetation on southern Onekotan, and it took a long time for it to recover."
+        },
+        {
+            "name": "Uzon",
+            "vei": 6,
+            "coordinates": [54.51086850817863, 159.91564139327346],
+            "type": "Caldera",
+            "summitFeet": 5305,
+            "magmaType": "Rhyolite",
+            "desc": "Uzon is a caldera in Russia. Together with Geyzernaya caldera it erupted over 25 km3 of ignimbrite in mid-Pleistocene."
+        },
+        {
+            "name": "Scafells",
+            "vei": 7,
+            "coordinates": [54.452407457851585, -3.1947587751498627],
+            "type": "Caldera",
+            "summitFeet": 3209,
+            "magmaType": "Dacite",
+            "desc": "Scafells is a caldera in mainland UK. It had a singular VEI 7 eruption over 400 million years ago."
+        },
+        {
+            "name": "Morne Diablotins",
+            "vei": 6,
+            "coordinates": [15.499615592696562, -61.400307611241686],
+            "type": "Stratovolcano",
+            "summitFeet": 4747,
+            "magmaType": "Andesite",
+            "desc": "Morne Diablotins is a stratovolcano in the Dominica. No recent eruptions are known, although numerous hot springs, both onshore and submarine, are found near Glanvillia, on the NW flank."
+        },
+        {
+            "name": "Nemrut Dağı",
+            "vei": 6,
+            "coordinates": [38.62266072511571, 42.22790151787258],
+            "type": "Caldera",
+            "summitFeet": 9672,
+            "magmaType": "Rhyolite",
+            "desc": "Nemrut is a caldera in Türkiye. The volcano is named after King Nimrod who is said to have ruled this area in about 2100 BC."
+        },
+        {
+            "name": "Sturgeon Lake Caldera",
+            "vei": 6,
+            "coordinates": [49.87081566059369, -91.00278650011829],
+            "type": "Caldera",
+            "summitFeet": 1493,
+            "magmaType": "Rhyolite",
+            "desc": "Sturgeon Lake Caldera is a caldera in Ontario, Canada. It is one of the oldest volcanoes being formed approximately 2.7 billion years ago."
+        },
+        {
+            "name": "Erciyes Dağı",
+            "vei": 7,
+            "coordinates": [38.53135537511888, 35.44664797050198],
+            "type": "Stratovolcano",
+            "summitFeet": 12851,
+            "magmaType": "Andesite",
+            "desc": "Erciyes is a stratovolcano in Türkiye. It is one of the strongest volcanoes in Türkiye with one of the eruptions ejecting 146 km3 of tephra."
+        },
+        {
+            "name": "Acıgöl–Nevşehir",
+            "vei": 6,
+            "coordinates": [38.540956274299184, 34.62056126041784],
+            "type": "Caldera",
+            "summitFeet": 5522,
+            "magmaType": "Rhyolite",
+            "desc": "Acıgöl–Nevşehir is a caldera located in Türkiye. There is little information about this volcano besides 2 confirmed VEI 6 eruptions."
+        },
+        {
+            "name": "Hasan Dağı",
+            "vei": 4,
+            "coordinates": [38.125838828188805, 34.16229403687613],
+            "type": "Caldera",
+            "summitFeet": 10722,
+            "magmaType": "Andesite",
+            "desc": "Hasan is a stratovolcano in Türkiye. The Byzantine city of Mokissos was located on Mount Hasan."
+        },
+        {
+            "name": "Kula",
+            "vei": 5,
+            "coordinates": [38.57593270393584, 28.549320763037677],
+            "type": "Volcanic Field",
+            "summitFeet": 2460,
+            "magmaType": "Basalt",
+            "desc": "Kula is a volcanic field located in Türkiye. The area is a geopark recognized by UNESCO given the universal and scientific value."
+        },
+        {
+            "name": "Ararat",
+            "vei": 3,
+            "coordinates": [39.70912236612427, 44.29205849870242],
+            "type": "Stratovolcano",
+            "summitFeet": 16854,
+            "magmaType": "Andesite",
+            "desc": "Ararat is a stratovolcano in Türkiye. Ararat is known as the holy mountain of the Armenian people."
+        },
+        {
+            "name": "Ghegam Ridge",
+            "vei": 3,
+            "coordinates": [40.262735170368465, 44.99010954372005],
+            "type": "Volcanic Field",
+            "summitFeet": 11801,
+            "magmaType": "Rhyolite",
+            "desc": "Ghegam Ridge is a volcanic field in Armenia."
         }
         
     ]
