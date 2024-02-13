@@ -1590,7 +1590,7 @@
             "vei": 5,
             "coordinates": [19.537635846844164, -101.9920910504119],
             "type": "Shield",
-            "summitFeet": 8000?,
+            "summitFeet": 8000,
             "magmaType": "Andesite",
             "desc": "El Metate is a shield volcano in Mexico. It had a single VEI 5 eruption in 1250 AD."
         }
