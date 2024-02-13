@@ -1350,6 +1350,105 @@
             "summitFeet": 2600,
             "magmaType": "Andesite",
             "desc": "Strechovy is a part of a volcanic chain in Slovakia called Slanské vrchy. It has produced over 100 explosive eruptions in its lifetime."
+        },
+        {
+            "name": "Buzzard Creek",
+            "vei": 2,
+            "coordinates": [64.06187893697235, -148.43197535956944],
+            "type": "Tuff Rings",
+            "summitFeet": 2723,
+            "magmaType": "Basalt",
+            "desc": "Two Holocene tuff rings form craters 300 and 66m wide near the headwaters of Buzzard Creek. The total volume of ejecta, most of which is accessory material, probably does not exceed 0.001 km3."
+        },
+        {
+            "name": "Jebel Marra",
+            "vei": 4,
+            "coordinates": [12.952337669857398, 24.26236323628537],
+            "type": "Volcanic Field",
+            "summitFeet": 9980,
+            "magmaType": "Basalt",
+            "desc": "Jebel Marra is a volcanic field in Sudan. It's largest eruption happened 4,000 years ago at Deriba Caldera and has been rated as a 4 on the VEI scale."
+        },
+        {
+            "name": "Meidob Volcanic Field",
+            "vei": 4,
+            "coordinates": [15.303414368398778, 26.430201210485034],
+            "type": "Volcanic Field",
+            "summitFeet": 6562,
+            "magmaType": "Basalt",
+            "desc": "Meidob is a volcanic field in Sudan. It has produced 4 VEI 4 eruptions in 3,000 years. "
+        },
+        {
+            "name": "Menengai",
+            "vei": 6,
+            "coordinates": [-0.20182471405821364, 36.0752619656571],
+            "type": "Shield",
+            "summitFeet": 7474,
+            "magmaType": "Basalt",
+            "desc": "Menengai is a huge shield volcano in Kenya. Around 8,000 years ago it produced a huge caldera forming eruption, rated as a 6 on the VEI scale."
+        },
+        {
+            "name": "Nabro",
+            "vei": 6,
+            "coordinates": [13.356837325375624, 41.67608429960259],
+            "type": "Caldera",
+            "summitFeet": 7277,
+            "magmaType": "Rhyolite",
+            "desc": "Nabro is a caldera complex in Eritrea. The twin calderas likely formed during an eruption of about 20 to 100 cubic kilometres consisting of ignimbrite, although the date of their formation is unknown."
+        },
+        {
+            "name": "Karthala",
+            "vei": 3,
+            "coordinates": [-11.765070953384653, 43.36751678153547],
+            "type": "Shield",
+            "summitFeet": 7746,
+            "magmaType": "Basalt",
+            "desc": "Karthala is an active shield volcano in the Comoros. More than twenty eruptions have been recorded since the 19th century from the summit caldera and vents on the N and S flanks."
+        },
+        {
+            "name": "Igwisi Hills",
+            "vei": 2,
+            "coordinates": [-4.870610659048967, 31.919797539746394],
+            "type": "Volcanic Field",
+            "summitFeet": 3760,
+            "magmaType": "Kimberlite",
+            "desc": "Igwisi Hills are a volcanic field in Tanzania. The Igwisi Hills are the only places in the world where possible kimberlite lava flows have been found, in form of calcite-olivine lavas."
+        },
+        {
+            "name": "Ngozi",
+            "vei": 5,
+            "coordinates": [-9.004656235205506, 33.5549234024922],
+            "type": "Caldera",
+            "summitFeet": 8576,
+            "magmaType": "Phonolite",
+            "desc": "Ngozi is a caldera in Tanzania. There are a number of local myths and folk tales which surround the volcanic lake, and the surrounding area."
+        },
+        {
+            "name": "Ol Doinyo Lengai",
+            "vei": 3,
+            "coordinates": [-2.7650623565631784, 35.917577621430056],
+            "type": "Stratovolcano",
+            "summitFeet": 9718,
+            "magmaType": "Phonolite",
+            "desc": "Ol Doinyo Lengai is a stratovolcano in Tanzania. The Maasai and Sonjo people refer to the volcano as The Mountain of God, viewing it as the abode of the god Engai, who withdrew there after being hit by a hunter with an arrow."
+        },
+        {
+            "name": "Maipo",
+            "vei": 7,
+            "coordinates": [-34.168291909826735, -69.82576352345342],
+            "type": "Stratovolcano",
+            "summitFeet": 17270,
+            "magmaType": "Rhyolite",
+            "desc": "Maipo is a stratovolcano on the Chile-Argentina border. It is located within a 16 x 20km Diamante Caldera which produced a VEI 7 eruption 450,000 years ago."
+        },
+        {
+            "name": "Lake Maninjau",
+            "vei": 7,
+            "coordinates": [-0.315876408474245, 100.18266616642448],
+            "type": "Caldera",
+            "summitFeet": 1506,
+            "magmaType": "Rhyolite",
+            "desc": "Maninjau is a caldera lake in Sumatra, Indonesia. It is a notable tourist destination in the region due to its scenery and mild climate. It is also a site for paragliding."
         }
         
     ]
