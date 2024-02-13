@@ -1719,6 +1719,42 @@
             "summitFeet": 11801,
             "magmaType": "Rhyolite",
             "desc": "Ghegam Ridge is a volcanic field in Armenia."
+        },
+        {
+            "name": "Ranau",
+            "vei": 7,
+            "coordinates": [-4.86594264343756, 103.91918874803888],
+            "type": "Caldera",
+            "summitFeet": 6083,
+            "magmaType": "Rhyolite",
+            "desc": "Ranau is a caldera in Indonesia. It formed around 550,000 years ago in a VEI 7 eruption."
+        },
+        {
+            "name": "Tondano Caldera",
+            "vei": 7,
+            "coordinates": [1.2404257740091773, 124.90923265187756],
+            "type": "Caldera",
+            "summitFeet": 3944,
+            "magmaType": "Rhyolite",
+            "desc": "Tondao is a caldera in Indonesia. It produced the strongest VEI 7 eruption in Indonesia."
+        },
+        {
+            "name": "Colli Albani",
+            "vei": 7,
+            "coordinates": [41.740191691371635, 12.722042755196677],
+            "type": "Caldera",
+            "summitFeet": 3114,
+            "magmaType": "Rhyolite",
+            "desc": "Colli Albani is a caldera in Italy. It was formed during an eruptive period with six major explosions that produced at least 280 km3 of ejecta between about 560,000 and 350,000 years ago."
+        },
+        {
+            "name": "Timber Mountain Caldera Complex",
+            "vei": 8,
+            "coordinates": [37.04825611043948, -116.43482231224364],
+            "type": "Caldera",
+            "summitFeet": 10603,
+            "magmaType": "Rhyolite",
+            "desc": "Timber Mountain Caldera Complex is a caldera complex in Nevada, USA. It produced over 4 supereruptions during its lifetime. 2 of them being rated as a 8 on the VEI scale."
         }
         
     ]
