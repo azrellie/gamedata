@@ -226,7 +226,7 @@
             "type": "Stratovolcano",
             "summitFeet": 17694,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Popocatépetl is a stratovolcano in Mexico. Popocatépetl is one of the most active volcanoes in Mexico and the most famous, having had more than 15 major eruptions since the arrival of the Spanish in 1519."
         },
         {
             "name": "La Garita Caldera",
@@ -235,7 +235,7 @@
             "type": "Caldera",
             "summitFeet": 13711,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "La Garita is a caldera in the USA. The scale of La Garita volcanism was the second greatest of the Cenozoic Era. The resulting Fish Canyon Tuff has a volume of approximately 5,000 km3 (1,200 cubic miles), giving it a Volcanic Explosivity Index rating of 8."
         },
         {
             "name": "Misema Caldera",
@@ -244,7 +244,7 @@
             "type": "Caldera",
             "summitFeet": 13711,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Misema is a caldera in Canada. Misema Caldera is the oldest and largest caldera associated with the Blake River Megacaldera Complex and is comparable in size to Lake Toba caldera in Indonesia."
         },
         {
             "name": "La Pacana",
@@ -253,7 +253,7 @@
             "type": "Caldera",
             "summitFeet": 14800,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "La Pacana is a caldera in Bolivia. La Pacana is a supervolcano and is responsible for the eruption of the giant Atana ignimbrite, which reaches a volume of 2,500–3,500 cubic kilometres (600–840 cu mi) and constitutes the fifth-largest explosive eruption known."
         },
         {
             "name": "Taupo",
@@ -262,7 +262,7 @@
             "type": "Caldera",
             "summitFeet": 1483,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Taupo is a caldera in New Zealand. Taupō began erupting about 300,000 years ago. The main eruptions that still affect the surrounding landscape are the dacitic Mount Tauhara eruption 65,000 years ago, the Oruanui eruption about 26,500 years ago, which is responsible for the shape of the modern caldera, and the Hatepe eruption, dated 232 ± 10 CE."
         },
         {
             "name": "Long Island",
@@ -271,7 +271,7 @@
             "type": "Caldera",
             "summitFeet": 4199,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Long Island is a caldera in Papua New Guinea. According to findings by archaeologists, it is believed that the island was first inhabited by humans approximately 1000 years ago. The discovery of obsidian and pottery fragments from diverse cultures at these dig sites has provided compelling evidence of the island's inhabitants engaging in extensive trade networks, indicative of their active participation in regional trade routes."
         },
         {
             "name": "Wah Wah Springs",
@@ -280,7 +280,7 @@
             "type": "Caldera",
             "summitFeet": 4880,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Wah Wah Springs is a caldera in the USA. Over 30 million years ago Wah Wah Springs ejected over 5,900 km3 of tephra, producing the second most powerful confirmed eruption on Earth."
         },
         {
             "name": "Young Island",
@@ -289,7 +289,7 @@
             "type": "Stratovolcano",
             "summitFeet": 4396,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Young island is a stratovolcano in Antarctica. On some days near the Southern Hemisphere summer solstice, Young Island is the first place on land to have a sunrise - that is, the sun sets very briefly, and then rises again earlier in the day than anywhere else on Earth."
         },
         {
             "name": "Rinjani",
@@ -298,7 +298,7 @@
             "type": "Stratovolcano",
             "summitFeet": 4396,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Rinjani is a stratovolcano in Indonesia. The volcano and the caldera are protected by the Gunung Rinjani National Park established in 1997. Tourism is increasingly popular with trekkers able to visit the rim, make their way into the caldera or even to make the more arduous climb to the highest point; fatalities, however, are not unheard of."
         },
         {
             "name": "Torfajökull",
@@ -307,7 +307,7 @@
             "type": "Stratovolcano",
             "summitFeet": 6585,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Torfajökull is a stratovolcano in Iceland. According to a legend, the glacier is named for Torfi Jónsson í Klofa, an Icelandic historical figure. When the plague arrived in Iceland in 1493, Torfi fled with his family and his belongings into the highlands and settled in a valley surrounded by the glacier."
         },
         {
             "name": "Crater Lake",
@@ -316,7 +316,7 @@
             "type": "Caldera",
             "summitFeet": 8159,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Crater Lake is a caldera in the USA. The lake and surrounding park areas offer many recreational activities, including hiking, biking, snowshoeing, fishing, and cross-country skiing, and during the summer, campgrounds and lodges at Crater Lake are open to visitors."
         },
         {
             "name": "O'a Caldera",
@@ -325,7 +325,7 @@
             "type": "Caldera",
             "summitFeet": 6808,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "O'a is a caldera in Ethiopia. It has two lakes: Lake Shala and a small maar called Lake Chitu. Sub-features include Mount Fike (a pyroclastic cone) and Mount Billa (a cinder cone)."
         },
         {
             "name": "Emory Caldera",
@@ -334,7 +334,7 @@
             "type": "Caldera",
             "summitFeet": 5722,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Emory Caldera is a caldera in the USA. The eruption of the Emory caldera was followed by formation of a resurgent dome as the caldera floor was pushed back upwards by fresh injections of magma. Thick beds of densely welded intracaldera Kneeling Nun Tuff are exposed in the heavy faulted resurgent dome, which forms the core of the Black Range."
         },
         {
             "name": "Vilama",
@@ -343,7 +343,7 @@
             "type": "Caldera",
             "summitFeet": 17520,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Vilama is a caldera in Bolivia. The Vilama caldera was originally estimated to have a size of 40 by 65 kilometres (25 mi × 40 mi) but the size was later revised to be between 15–18 kilometres (9.3–11.2 mi) and 35–40 kilometres (22–25 mi) and is almost entirely buried beneath younger volcanoes that have grown along the margin of the caldera; volcanic activity on these volcanoes continued into the Pleistocene."
         },
         {
             "name": "Rincón de la Vieja",
@@ -352,16 +352,16 @@
             "type": "Complex",
             "summitFeet": 6286,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Rincón de la Vieja is a complex volcano in Costa Rica. There are many hot pools and areas of bubbling mud in two areas on the slopes of the volcano, indicating substantial reserves of geothermal energy. Investigations have been carried out into the feasibility of tapping these reserves, and the volcano is estimated to have a generating potential of 140 megawatts. However, as the area is protected within a national park, drilling was limited to test wells until 2001."
         },
         {
-            "name": "Santa Maria",
+            "name": "Santa María",
             "vei": 6,
             "coordinates": [14.756336612277721, -91.55341345311285],
             "type": "Stratovolcano",
             "summitFeet": 12287,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Santa María is a stratovolcano in Guatemala. Eruptions at Santa María are estimated to have begun about 103 ka. Construction of the volcanic edifice occurred in four phases, from 103–72, 72, 60–46, and 35–25 ka, building up the large cone that reaches about 1,400 metres (4,600 ft) above the plain on which the nearby city of Quetzaltenango sits."
         },
         {
             "name": "Öræfajökull",
@@ -370,7 +370,7 @@
             "type": "Stratovolcano",
             "summitFeet": 6921,
             "magmaType": "Basalt",
-            "desc": "An Iceland volcano, somewhat well known"
+            "desc": "Öræfajökull is a stratovolcano in Iceland. The original Norse settlers named the volcano Knappafellsjǫkull. The current name, Öræfajökull, was eventually adopted after the 1362 eruption."
         },
         {
             "name": "Novarupta",
@@ -379,7 +379,7 @@
             "type": "Caldera",
             "summitFeet": 12287,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Novarupta is a caldera in Alaska. The 1912 eruption that formed Novarupta was the largest to occur during the 20th century."
         },
         {
             "name": "Piton de la Fournaise",
@@ -388,7 +388,7 @@
             "type": "Stratovolcano",
             "summitFeet": 8635,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Piton de la Fournaise is a shield volcano in Réunion. Residents of Réunion sometimes refer to Piton de la Fournaise simply as le Volcan. It is a major tourist attraction."
         },
         {
             "name": "Kilimanjaro",
@@ -397,7 +397,7 @@
             "type": "Stratovolcano",
             "summitFeet": 19341,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Kilimanjaro is a stratovolcano in Tanzania. The volcanic interior of Kilimanjaro is poorly known because there has not been any significant erosion to expose the igneous strata that comprise the volcano's structure."
         },
         {
             "name": "Okmok",
@@ -406,7 +406,7 @@
             "type": "Shield",
             "summitFeet": 3520,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Okmok is a shield volcano in the Aleutian Islands. An algorithm that processes satellite-derived thermal images of the ground to identify anomalous areas, was developed after the 1996 Pavlof eruption and renamed Okmok Algorithm after the 1997 eruption of Okmok, to which it was first applied."
         },
         {
             "name": "Deception Island",
@@ -415,7 +415,7 @@
             "type": "Caldera",
             "summitFeet": 3520,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Deception Island is a caldera in Antarctica. The island previously held a whaling station. It is now a tourist destination with over 15,000 visitors per year."
         },
         {
             "name": "Cotopaxi",
@@ -424,16 +424,16 @@
             "type": "Stratovolcano",
             "summitFeet": 19393,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Cotopaxi is a stratovolcano in Ecuador. According to locals who speak Quechua, coto means Neck and paxi means Moon. This refers to the crater of Cotopaxi that looks like a crescent moon."
         },
         {
-            "name": "Puyehue",
+            "name": "Puyehue-Cordón Caulle",
             "vei": 6,
             "coordinates": [-40.582676034219, -72.11227086139536],
-            "type": "Stratovolcano",
+            "type": "Complex",
             "summitFeet": 19393,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Puyehue-Cordón Caulle is a complex volcano in Chile. The volcanic complex has shaped the local landscape and produced a huge variety of volcanic landforms and products over the last 300,000 years."
         },
         {
             "name": "Kikai",
@@ -442,7 +442,7 @@
             "type": "Caldera",
             "summitFeet": 2310,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Kikai is a caldera in Japan. The Kikai-Akahoya eruption had a major impact on the Jōmon culture in southern Kyūshū although the impact was not as great as some commentary had suggested with Nishinozono sub-type pottery tradition, that had started prior to the eruption, maintained in Kyūshū."
         },
         {
             "name": "Valles Caldera",
@@ -451,7 +451,7 @@
             "type": "Caldera",
             "summitFeet": 11253,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Valles is a caldera in the USA. The volcanic properties of Valles Caldera make it a likely source for renewable and nonpolluting geothermal energy."
         },
         {
             "name": "Kurile Lake",
@@ -460,7 +460,7 @@
             "type": "Caldera",
             "summitFeet": 11253,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Kurile Lake is a caldera in Russia. The caldera forming eruption commenced with a phreatoplinian eruption that generated deposits of fine ash. Several yellowish rhyolitic ignimbrites were erupted, reaching a thickness of over 50 metres (160 ft)."
         },
         {
             "name": "Tambora",
@@ -469,7 +469,7 @@
             "type": "Stratovolcano",
             "summitFeet": 11253,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Tambora is a stratovolcano in Indonesia. The 1815 Tambora eruption is the largest and most devastating observed eruption in recorded history."
         },
         {
             "name": "Concepción",
@@ -478,7 +478,7 @@
             "type": "Stratovolcano",
             "summitFeet": 11253,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Concepción is a stratovolcano in Nicaragua. It is considered a pristine volcano because there has been no influence of other volcanoes on its growth."
         },
         {
             "name": "Billy Mitchell",
@@ -487,7 +487,7 @@
             "type": "Caldera",
             "summitFeet": 5066,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Billy Mitchell is a caldera in Papua New Guinea. The last two major eruptions were in 1580 AD ± 20 years and about 1030 AD. They were among the largest Holocene eruptions in Papua New Guinea."
         },
         {
             "name": "Meager",
@@ -496,7 +496,7 @@
             "type": "Complex",
             "summitFeet": 8793,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Meager is a complex volcano in Canada. The Mount Meager massif produced the largest volcanic eruption in Canada in the last 10,000 years."
         },
         {
             "name": "Atitlán",
@@ -505,7 +505,7 @@
             "type": "Caldera",
             "summitFeet": 5125,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Atitlán is a caldera in Guatemala. During the Guatemalan Civil War (1960 - 1996), the lake was the scene of many terrible human rights abuses, as the government pursued a scorched earth policy."
         },
         {
             "name": "Cerro Galán",
@@ -514,7 +514,7 @@
             "type": "Caldera",
             "summitFeet": 20013,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Cerro Galán is a caldera in Argentina. Volcanic activity at Galán is the indirect consequence of the subduction of the Nazca Plate beneath the South America Plate, and involves the infiltration of melts into the crust and the formation of secondary magmas which after storage in the crust give rise to the dacitic to rhyodacitic rocks erupted by the volcano."
         },
         {
             "name": "Taranaki",
@@ -523,16 +523,7 @@
             "type": "Stratovolcano",
             "summitFeet": 8261,
             "magmaType": "Andesite",
-            "desc": ""
-        },
-        {
-            "name": "Taranaki",
-            "vei": 5,
-            "coordinates": [-39.296634122772026, 174.06343858757384],
-            "type": "Stratovolcano",
-            "summitFeet": 8261,
-            "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Taranaki is a stratovolcano in New Zealand. According to Māori mythology, Taranaki once resided in the middle of the North Island, with all the other New Zealand volcanoes."
         },
         {
             "name": "Tristan da Cunha",
@@ -541,7 +532,7 @@
             "type": "Shield",
             "summitFeet": 6759,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Tristan da Cunha is a shield volcano in overseas UK. Tristan, and its neighbouring islands, lies about 400 km east of the Mid-Atlantic Ridge. The volcanic activity is unrelated to the Mid-Atlantic Ridge; rather, it is due to a hotspot."
         },
         {
             "name": "Avachinsky",
@@ -550,16 +541,16 @@
             "type": "Stratovolcano",
             "summitFeet": 8914,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Avachinsky is a stratovolcano in Russia. Avachinsky lies on the Pacific Ring of Fire, at a point where the Pacific Plate is sliding underneath the Eurasian Plate at a rate of about 80 mm (3.1 in)/year."
         },
         {
-            "name": "Sheveluch",
+            "name": "Shiveluch",
             "vei": 6,
             "coordinates": [56.6537554242363, 161.36313614440724],
             "type": "Stratovolcano",
             "summitFeet": 10771,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Shiveluch is a stratovolcano in Russia. Catastrophic eruptions took place in 1854 and 1964, when a large part of the lava dome collapsed and created a devastating debris avalanche."
         },
         {
             "name": "Flat Landing Brook Formation",
@@ -577,7 +568,7 @@
             "type": "Caldera    ",
             "summitFeet": 19035,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Pastos Grandes is a caldera in Bolivia. Pastos Grandes was volcanically active for a long time, more than many other Altiplano-Puna volcanic complex centres."
         },
         {
             "name": "Siberian Traps",
@@ -703,7 +694,7 @@
             "type": "Shield",
             "summitFeet": 11385,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Nyiragongo is a shield volcano in the DRC. Nyiragongo's lava lake has at times been the most voluminous known lava lake in recent history. The depth of the lava lake varies considerably."
         },
         {
             "name": "Stromboli",
@@ -712,16 +703,16 @@
             "type": "Stratovolcano",
             "summitFeet": 3031,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Stromboli is a stratovolcano in Italy. Mount Stromboli has been in almost continuous eruption for the past 2,000–5,000 years; its last serious one occurred in 1921."
         },
         {
-            "name": "Fayal",
+            "name": "Capelinhos",
             "vei": 2,
             "coordinates": [38.585269752532405, -28.714898784559765],
             "type": "Stratovolcano",
-            "summitFeet": 3415,
+            "summitFeet": 1644,
             "magmaType": "Basalt",
-            "desc": "Azores Volcano"
+            "desc": "Capelinhos is a stratovolcano in the Azores. The volcano is a landmark on Faial; its ruined lighthouse and Visitors Center (which lies along the cliff from the volcano) is a tourist destination."
         },
         {
             "name": "La Palma",
@@ -730,7 +721,7 @@
             "type": "Stratovolcano",
             "summitFeet": 7959,
             "magmaType": "Basalt",
-            "desc": "Famous Spanish volcano in the Canary Islands"
+            "desc": "La Palma is a stratovolcano in the Canary Islands. Along with Tenerife, La Palma is the most volcanically active of the Canary Islands. Its base lies almost 4,000 m (13,123 ft) below sea level and reaches a height of 2,426 m (7,959 ft) above sea level."
         },
         {
             "name": "Damavand",
@@ -739,7 +730,7 @@
             "type": "Stratovolcano",
             "summitFeet": 18602,
             "magmaType": "Basalt",
-            "desc": "Tall volcano sitting near Tehran"
+            "desc": "Damavand is a stratovolcano in Iran. Damavand is a significant mountain in Persian mythology. It is the symbol of Iranian resistance against despotism and foreign rule in Persian poetry and literature."
         },
         {
             "name": "Wolf",
@@ -748,7 +739,7 @@
             "type": "Shield",
             "summitFeet": 5610,
             "magmaType": "Basalt",
-            "desc": "Galapagos Islands volcano"
+            "desc": "Wolf is a shield volcano in the Galapagos. The volcano was named after Theodor Wolf, a German geologist who studied the Galápagos Islands in the 19th century."
         },
         {
             "name": "Ulreung",
@@ -757,7 +748,7 @@
             "type": "Stratovolcano",
             "summitFeet": 3228,
             "magmaType": "Basalt",
-            "desc": "Volcano that's a populated island in South Korea"
+            "desc": "Ulreung is a stratovolcano in South Korea. Archaeological evidence indicates that the island has been inhabited since the 1st millennium BC."
         },
         {
             "name": "Ambrym",
@@ -766,16 +757,16 @@
             "type": "Shield",
             "summitFeet": 4377,
             "magmaType": "Basalt",
-            "desc": "Vanuatu volcano, quite active"
+            "desc": "Ambrym is a volcano in Vanuatu. The western part of the island, comprising 17,605 ha of forest, together with gardens around habitation, has been recognised as an Important Bird Area (IBA) by BirdLife International because it supports populations of Vanuatu megapodes, Tanna fruit doves, red-bellied fruit doves, grey-eared honeyeaters, cardinal myzomelas, fan-tailed gerygones, long-tailed trillers, streaked fantails, Melanesian flycatchers, buff-bellied monarchs and Vanuatu white-eyes."
         },
         {  
             "name": "Opala",
             "vei": 7,
             "coordinates": [52.543088781102455, 157.33872616806227],
-            "type": "Stratovolcano",
+            "type": "Caldera",
             "summitFeet": 8002,
             "magmaType": "Andesite",
-            "desc": "Volcano in Kamchatka"
+            "desc": "Opala is a caldera in Russia. It was formed 40,000 years ago from a VEI 7 eruption."
         },
         {  
             "name": "Mutnovsky",
@@ -784,7 +775,7 @@
             "type": "Complex",
             "summitFeet": 7507,
             "magmaType": "Basalt",
-            "desc": "Volcano in Kamchatka, "
+            "desc": "Mutnovsky is a complex volcano in Russia. It is one of the most active volcanoes of southern Kamchatka; the latest eruption was recorded in 2000."
         },
         {  
             "name": "Grímsvötn",
@@ -846,16 +837,16 @@
             "type": "Complex",
             "summitFeet": 5600,
             "magmaType": "Andesite",
-            "desc": "Kirishima is a volcano complex in Southern Japan,"
+            "desc": "Kirishima is a volcano complex in Southern Japan. The highest peak is Karakuni-dake (1700 m). Its name literally means Korea Peak; it was once believed to be so high that the Korean Peninsula could be seen from its summit."
         },   
         {
-            "name": "Stiavnica",
+            "name": "Štiavnica",
             "vei": 7,
             "coordinates": [48.40361366651884, 18.86666610976981],
-            "type": "Stratovolcano",
+            "type": "Caldera",
             "summitFeet": 3310,
             "magmaType": "Andesite",
-            "desc": "Kirishima is a volcano complex in Southern Japan,"
+            "desc": "Štiavnica is a caldera in Slovakia. From originally over 60 lakes called tajchy in Štiavnica Mountains, there are over 30 still existing today. Although they are now integrated in their natural environment, they were originally built as water reservoirs serving the mining industry, most of them in the 18th century."
         },
         {   "name": "Katla",
             "vei": 5,
@@ -881,7 +872,7 @@
             "type": "Caldera",
             "summitFeet": 4961,
             "magmaType": "Rhyolite",
-            "desc": "Altenberg-Teplice is in a very odd location for a volcano, especially a strong one. Th"
+            "desc": "Altenberg-Teplice is in a very odd location for a volcano, especially a strong one. The caldera was formed over 350 million years ago from a VEI 7 eruption."
         },
         {  
             "name": "Henry's Fork Caldera",
@@ -890,7 +881,7 @@
             "type": "Caldera",
             "summitFeet": 9203,
             "magmaType": "Basalt",
-            "desc": "VEI 7 near Yellowstone"
+            "desc": "Henry's Fork Caldera is a caldera in USA. The Henry's Fork caldera is in an area called Island Park, known for its beautiful forests, large springs, clear streams, waterfalls, lakes, ponds, marshes, wildlife, and fishing."
         },
         {
             "name": "Krakatoa",
@@ -953,16 +944,16 @@
             "type": "Stratovolcano",
             "summitFeet": 2334,
             "magmaType": "Basalt",
-            "desc": "" 
+            "desc": "Ulawun is a stratovolcano in Papua New Guinea. Because of its eruptive history and proximity to populated areas, Ulawun is considered one of the Decade Volcanoes." 
         },
         {
             "name": "Tongariro",
             "vei": 5,
             "coordinates": [-39.13064101262619, 175.6361138900971],
-            "type": "Stratovolcano",
+            "type": "Complex",
             "summitFeet": 1978,
             "magmaType": "Andesite",
-            "desc": "New Zealand volcano" 
+            "desc": "Tongariro is a complex volcano in New Zealand. Mount Tongariro is in the Tongariro National Park, New Zealand's first national park and one of the earliest in the world." 
         },
         {  
             "name": "Sarychev Peak",
@@ -971,7 +962,7 @@
             "type": "Stratovolcano",
             "summitFeet": 1496,
             "magmaType": "Andesite",
-            "desc": "Kurile Islands volcano" 
+            "desc": "Sarychev Peak is a stratovolcano in the Kuril Islands. During an early stage of the eruption, on June 12, 2009, the International Space Station passed overhead and astronauts photographed the event." 
         },
         {  
             "name": "Bárðarbunga",
@@ -980,7 +971,7 @@
             "type": "Stratovolcano",
             "summitFeet": 6562,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Bárðarbunga is a stratovolcano in Iceland. Bárðarbunga is named after an early Icelandic settler named Gnúpa-Bárður, and literally translates as Bárður's bulge or Bárður's bump since Bárðar is the genitive case of Bárður."
         },
         {
             "name": "Cerberean Caldera",
@@ -1016,7 +1007,7 @@
             "type": "Stratovolcano",
             "summitFeet": 9177,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Broken Top is a stratovolcano in the USA. In total, throughout its 150,000 years of eruptive activity, Broken Top erupted between 1.7 to 2.4 cubic miles (7 to 10 km3) of lava."
         },
         {
             "name": "Whakaari",
@@ -1025,7 +1016,7 @@
             "type": "Stratovolcano",
             "summitFeet": 1053,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Whakaari is an active stratovolcano in New Zealand. Some Māori myths describe Whakaari as part of Ngātoro-i-rangi's ascent of Tongariro. In one account, he called on his ancestors for warmth; the fire was kindled on Whakaari and brought to him."
         },
         {
             "name": "Ascension Island",
@@ -1034,16 +1025,16 @@
             "type": "Stratovolcano",
             "summitFeet": 2815,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Ascension Island is a stratovolcano in the UK. Ascension is considered active and could have erupted as recently as 500 years ago, but the exact eruption date is elusive."
         },
         {
             "name": "Hoodoo Mountain",
             "vei": 0,
             "coordinates": [56.77028744476555, -131.2814216303202],
-            "type": "Cinder Cone",
+            "type": "Stratovolcano",
             "summitFeet": 6070,
             "magmaType": "Phonolite",
-            "desc": ""
+            "desc": "Hoodoo Mountain is a stratovolcano in Canada. The Hoodoo Mountain area contains several large mining camps within the floodplain of the Iskut River. Prospecting in Bronson Creek commenced as early as 1907, during which time several mining claims had been staked. This was followed by drifting, trenching and stripping of several gold-bearing veins between 1910 and 1920."
         },
         {
             "name": "Axial Seamount",
@@ -1052,7 +1043,7 @@
             "type": "Fissure vent",
             "summitFeet": -4626,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Axial Seamount is a submarine volcano in the US. This position is not yet entirely understood. It is believed that the chain, formed over millions of years by the now-inactive Cobb hotspot, is older than the mid-ocean ridge it bisects. Between 200,000 and 700,000 years ago, the hotspot was encroached by the tectonic spreading center, displacing it by as much as 20 km (12 mi) and building up the 500 km (311 mi) long Juan de Fuca Ridge."
         },
         {
             "name": "Morne Watt",
@@ -1061,7 +1052,7 @@
             "type": "Stratovolcano",
             "summitFeet": 4016,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Morne Watt is a stratovolcano in Dominica. The mountain is home to the Boiling Lake and Valley of Desolation thermal areas, both of which are the best-known volcanic features in Dominica and major tourist attractions in Morne Trois Pitons National Park."
         },
         {
             "name": "The Quill",
@@ -1070,7 +1061,7 @@
             "type": "Stratovolcano",
             "summitFeet": 1972,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "The Quill is a stratovolcano in the Netherlands overseas territory Sint Eustatius. The crater of The Quill contains a lush rainforest populated by native and introduced tropical trees and plants."
         },
         {
             "name": "Liamuiga",
@@ -1079,7 +1070,7 @@
             "type": "Stratovolcano",
             "summitFeet": 3793,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Liamuiga is a stratovolcano in Saint Kitts and Nevis. Mount Liamuiga was formerly named Mount Misery."
         },
         {
             "name": "Soufrière Hills",
@@ -1088,7 +1079,7 @@
             "type": "Stratovolcano",
             "summitFeet": 5066,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Soufrière Hills is a stratovolcano in the UK overseas territory Montserrat. Its eruptions have rendered more than half of Montserrat uninhabitable, destroying the capital city, Plymouth, and causing widespread evacuations: about two-thirds of the population have left the island."
         },
         {
             "name": "Kick 'em Jenny",
@@ -1097,7 +1088,7 @@
             "type": "Complex",
             "summitFeet": -607,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Kick 'em Jenny is a complex submarine volcano in the Caribbean. The name itself may be a reference to the waters sometimes being extremely rough. "
         },
         {
             "name": "Galeras",
@@ -1106,7 +1097,7 @@
             "type": "Complex",
             "summitFeet": 14029,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Galeras is a complex volcano in Colombia. Galeras has been an active volcano for at least a million years, with andesite as the dominant product."
         },
         {
             "name": "Reventador",
@@ -1115,7 +1106,7 @@
             "type": "Stratovolcano",
             "summitFeet": 11686,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Reventador is a stratovolcano in Ecuador. In 2020, there were near daily emissions of clouds of ash rising one or two kilometres into the air, occasional crater incandescence, and frequent avalanches of incandescent blocks."
         },
         {
             "name": "Cerro Azul",
@@ -1124,7 +1115,7 @@
             "type": "Stratovolcano",
             "summitFeet": 11686,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Cerro Azul is a stratovolcano in the Galapagos. A study published in 2006 showed that there was continuous expansion of the volcano prior to and after the eruption in 1998."
         },
         {
             "name": "Huaynaputina",
@@ -1133,7 +1124,7 @@
             "type": "Stratovolcano",
             "summitFeet": 15531,
             "magmaType": "Dacite",
-            "desc": ""
+            "desc": "Huaynaputina is a stratovolcano in Peru. During the wet season, mudflows often descend from Huaynaputina."
         },
         {
             "name": "El Misti",
@@ -1142,7 +1133,7 @@
             "type": "Stratovolcano",
             "summitFeet": 19101,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "El Misti is a stratovolcano in Peru. The Aymara people viewed it as an abode of deceased souls."
         },
         {
             "name": "Colo",
@@ -1151,7 +1142,7 @@
             "type": "Stratovolcano",
             "summitFeet": 1325,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Colo is a stratovolcano in Indonesia. Only three eruptions have been recorded in the history with two of them causing damage."
         },
         {
             "name": "Lokon-Empung",
@@ -1160,7 +1151,7 @@
             "type": "Stratovolcano",
             "summitFeet": 5184,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Lokon-Empung is a stratovolcano in Indonesia. Historical eruptions have been reported since 1375."
         },
         {
             "name": "Ciomadul",
@@ -1172,22 +1163,22 @@
             "desc": "Ciomadul had many explosive eruptions from 56,000-32,000 years ago, and some ash is theorized to have reached as far as the Black Sea during these eruptions. Because of this, it has the most recent volcanic activity in Europe (excluding Greece and Italy)."
         },
         {
-            "name": "Dacht-i Navar Group",
+            "name": "Dacht-i-Navar Group",
             "vei": 6,
             "coordinates": [33.947709742293625, 67.91062153441177],
             "type": "Complex",
             "summitFeet": 13251,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Dacht-i-Navar Group is a complex volcano in Afghanistan. Dacht-i-Navar is considered to be the source of volcanic ash layers found in the Sivalik Hills that were erupted 2.31 ± 0.84 to 2.8 ± 0.56 million years ago."
         },
         {  
-            "name": "Purace",
+            "name": "Puracé",
             "vei": 3,
             "coordinates": [2.3129405320191805, -76.3948688272389],
             "type": "Stratovolcano",
             "summitFeet": 15256,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Puracé is a stratovolcano in Colombia. It is one of the most active volcanoes in Colombia."
         },
         {
             "name": "Sabancaya",
@@ -1196,7 +1187,7 @@
             "type": "Stratovolcano",
             "summitFeet": 19554,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Sabancaya is a stratovolcano in Peru. The basement of the volcano is formed by Precambrian rocks of the Arequipa Massif, which are up to 1.9 billion years old."
         },
         {
             "name": "Yucamane",
@@ -1205,7 +1196,7 @@
             "type": "Stratovolcano",
             "summitFeet": 18028,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Yucamane is a stratovolcano in Peru. Yucamane is fumarolically active in its summit crater, the fumaroles are most recognizable after precipitation and are not very intense."
         },
         {  
             "name": "Cerro Blanco",
@@ -1214,7 +1205,7 @@
             "type": "Caldera",
             "summitFeet": 15322,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Cerro Blanco is a caldera in Argentina. Cerro Blanco received attention from scientists after satellite images in the early 21st century observed deflation of the caldera."
         },    
         {
             "name": "Toussidé",
@@ -1223,7 +1214,7 @@
             "type": "Stratovolcano",
             "summitFeet": 5226,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Tarso Toussidé is a stratovolcano in Chad. Toussidé is among the youngest volcanoes in Tibesti, and may have erupted in historical time."
         },
         {
             "name": "Fisher",
@@ -1232,7 +1223,7 @@
             "type": "Stratovolcano",
             "summitFeet": 3648,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Fisher is a caldera in the Aleutian Islands. Historical eruptions have occurred in the 18th and 19th centuries."
         },
         {
             "name": "Michoacán-Guanajuato",
@@ -1241,7 +1232,7 @@
             "type": "Volcanic Field",
             "summitFeet": 12664,
             "magmaType": "Andesite",
-            "desc": "Also known as Paricutin"
+            "desc": "Michoacán-Guanajuato is a volcanic field in Mexico. The volcanic field is best known for the 18th-century eruption of Jorullo volcano, and 20th-century eruption of Parícutin volcano."
         },
         {
             "name": "Arenal",
@@ -1250,7 +1241,7 @@
             "type": "Stratovolcano",
             "summitFeet": 5479,
             "magmaType": "Andesite",
-            "desc": ""
+            "desc": "Arenal is a stratovolcano in Costa Rica. Arenal is one of seven historically active Costa Rican volcanoes along with Poás, Irazú, Miravalles, Orosí, Rincón de la Vieja complex, and Turrialba."
         },
         {
             "name": "Udokan Plateau",
