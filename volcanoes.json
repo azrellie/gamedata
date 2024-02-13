@@ -1449,6 +1449,150 @@
             "summitFeet": 1506,
             "magmaType": "Rhyolite",
             "desc": "Maninjau is a caldera lake in Sumatra, Indonesia. It is a notable tourist destination in the region due to its scenery and mild climate. It is also a site for paragliding."
+        },
+        {
+            "name": "Agrigan",
+            "vei": 4,
+            "coordinates": [18.773359958479393, 145.6671228276175],
+            "type": "Stratovolcano",
+            "summitFeet": 3166,
+            "magmaType": "Andesite?",
+            "desc": "Agrigan is a volcanic island in the Marianas. It is the highest volcano in the Marianas arc."
+        },
+        {
+            "name": "Agung",
+            "vei": 5,
+            "coordinates": [-8.344159488928387, 115.50800157996585],
+            "type": "Stratovolcano",
+            "summitFeet": 9833,
+            "magmaType": "Andesite",
+            "desc": "Agung is a stratovolcano in Indonesia. Balinese people believe that Mount Agung is a replica of Mount Meru, the central axis of the universe."
+        },
+        {
+            "name": "Ahyi",
+            "vei": 2,
+            "coordinates": [20.418342908472216, 145.01966254667047],
+            "type": "Stratovolcano",
+            "summitFeet": -246,
+            "magmaType": "Basalt?",
+            "desc": "Ahyi is a submarine volcano in the Marianas. On 24-25 April 2001 an explosive eruption was detected seismically by a station on Rangiroa Atoll, Tuamotu Archipelago."
+        },
+        {
+            "name": "Alcedo",
+            "vei": 5,
+            "coordinates": [-0.42472732158818755, -91.11676598864507],
+            "type": "Shield",
+            "summitFeet": 3710,
+            "magmaType": "Rhyolite",
+            "desc": "Alcedo is a shield volcano in the Galapagos. It is the only volcano in the Galapagos to have erupted Rhyolite lavas. Approximately 1 km3 of Rhyolite was erupted in total."
+        },
+        {
+            "name": "Ambae",
+            "vei": 3,
+            "coordinates": [-15.392851541670622, 167.82987705773618],
+            "type": "Shield",
+            "summitFeet": 4908,
+            "magmaType": "Basalt",
+            "desc": "Ambae is a shield volcano in the Vanuatu. The latest known flank eruption, about 300 years ago, destroyed the population of the Nduindui area near the western coast."
+        },
+        {
+            "name": "Bamus",
+            "vei": 3,
+            "coordinates": [-5.196918421437664, 151.23306209694886],
+            "type": "Stratovolcano",
+            "summitFeet": 7375,
+            "magmaType": "Andesite",
+            "desc": "Bamus is a stratovolcano in Papua New Guinea. Young pyroclastic-flow deposits are found on the volcano's flanks, and villagers describe an eruption that took place during the late 19th century."
+        },
+        {
+            "name": "Carrán-Los Venados",
+            "vei": 4,
+            "coordinates": [-40.308882597506354, -72.06978546567298],
+            "type": "Pyroclastic Cones",
+            "summitFeet": 3655,
+            "magmaType": "Andesite",
+            "desc": "Carrán-Los Venados is a volcano group in Chile. The volcanic features occupy a low-lying area N of the more topographically prominent Puyehue-Cordón Caulle volcanic chain, and many of the vents are postglacial in age."
+        },
+        {
+            "name": "Curacoa",
+            "vei": 3,
+            "coordinates": [-15.621932877322982, -173.6634245533308],
+            "type": "Complex",
+            "summitFeet": -108,
+            "magmaType": "Basalt?",
+            "desc": "Curacoa is a submarine complex volcano in Tonga. Explosive eruptions, which produced large rafts of dacitic pumice, covering an area of more than 100 km2, were observed from the island of Tafahi, 27 km SSW."
+        },
+        {
+            "name": "Darwin",
+            "vei": 2,
+            "coordinates": [-0.19551676561074952, -91.28300172660728],
+            "type": "Shield",
+            "summitFeet": 4364,
+            "magmaType": "Basalt?",
+            "desc": "Darwin is a shield volcano in the Galapagos. This prominent tuff cone and its neighbor Beagle (also breached to the south) are located on the SW-flank coastline and were a prominent part of Darwin's geological studies in the Galápagos Islands."
+        },
+        {
+            "name": "Pico do Fogo",
+            "vei": 2,
+            "coordinates": [14.949399719381917, -24.34060471911341],
+            "type": "Stratovolcano",
+            "summitFeet": 9281,
+            "magmaType": "Basalt",
+            "desc": "Pico do Fogo is a stratovolcano in the Cabo Verde. The roughly circular 25-km-wide island is truncated by a large 9-km-wide caldera that is breached to the east and has a headwall 1 km high."
+        },
+        {
+            "name": "Garibaldi",
+            "vei": 3,
+            "coordinates": [49.84882426271085, -123.00001046024853],
+            "type": "Stratovolcano",
+            "summitFeet": 8786,
+            "magmaType": "Dacite",
+            "desc": "Garibaldi is a stratovolcano in Canada. Mount Garibaldi is considered sacred to the Squamish people as it is an important part of their history."
+        },
+        {
+            "name": "Edziza",
+            "vei": 3,
+            "coordinates": [57.71305127271887, -130.6363066624905],
+            "type": "Stratovolcano",
+            "summitFeet": 9140,
+            "magmaType": "Basalt",
+            "desc": "Edziza is a stratovolcano in Canada. In prehistoric times, Edziza was a significant source of obsidian for the Tahltan people."
+        },
+        {
+            "name": "Bennett Lake Volcanic Complex",
+            "vei": 7,
+            "coordinates": [60.02499283364788, -135.32039685720034],
+            "type": "Caldera",
+            "summitFeet": 4921,
+            "magmaType": "Rhyolite",
+            "desc": "Bennett Lake Volcanic Complex is a huge caldera in Canada. Cataclysmic eruptions from the Bennett Lake Volcanic Complex were from vents along arcuate fracture systems that ejected out about 850 km3 (200 cu mi) of glowing avalanches of pyroclastic rock called pyroclastic flows."
+        },
+        {
+            "name": "Mount Churchill",
+            "vei": 6,
+            "coordinates": [61.41564775683661, -141.70658410864343],
+            "type": "Stratovolcano",
+            "summitFeet": 16421,
+            "magmaType": "Dacite",
+            "desc": "Churchill is a stratovolcano in Alaska. Mount Churchill is the source of two of the largest volcanic eruptions of the past two millennia in North America."
+        },
+        {
+            "name": "Los Humeros",
+            "vei": 7,
+            "coordinates": [19.683254505003536, -97.45001909028083],
+            "type": "Caldera",
+            "summitFeet": 10335,
+            "magmaType": "Rhyolite",
+            "desc": "Los Humeros is a giant caldera in Mexico. The first major silicic eruption produced the 230 km3 Xáltipan Ignimbrite about 460,000 years before present, which covered about 3500 km2 and resulted in formation of the 15 x 21 km Los Humeros caldera."
+        },
+        {
+            "name": "El Metate",
+            "vei": 5,
+            "coordinates": [19.537635846844164, -101.9920910504119],
+            "type": "Shield",
+            "summitFeet": 8000?,
+            "magmaType": "Andesite",
+            "desc": "El Metate is a shield volcano in Mexico. It had a single VEI 5 eruption in 1250 AD."
         }
         
     ]
