@@ -1755,6 +1755,33 @@
             "summitFeet": 10603,
             "magmaType": "Rhyolite",
             "desc": "Timber Mountain Caldera Complex is a caldera complex in Nevada, USA. It produced over 4 supereruptions during its lifetime. 2 of them being rated as a 8 on the VEI scale."
+        },
+        {
+            "name": "Campi Flegrei del Mar di Sicilia",
+            "vei": 3,
+            "coordinates": [37.0999647760906, 12.700085781438988],
+            "type": "Volcanic Field",
+            "summitFeet": -26,
+            "magmaType": "Andesite",
+            "desc": "Campi Flegrei del Mar di Sicilia is a group of submarine volcanoes in Italy. The volcanoes were constructed within a submarine depression about 1 km deep in the Strait of Sicily between the SW coast of Sicily and the NE tip of Tunisia, forming submarine banks that are capped by cones that rise to near sea level."
+        },
+        {
+            "name": "Nisyros",
+            "vei": 2,
+            "coordinates": [36.5884619640597, 27.16625061992239],
+            "type": "Stratovolcano",
+            "summitFeet": 2290,
+            "magmaType": "Andesite",
+            "desc": "Nisyros is a stratovolcano in Greece. Historical phreatic eruptions occurred from craters within the caldera between 1422 and 1888."
+        },
+        {
+            "name": "Vulcano",
+            "vei": 4,
+            "coordinates": [38.39881170411273, 14.964967722224293],
+            "type": "Stratovolcano",
+            "summitFeet": 1640,
+            "magmaType": "Rhyolite",
+            "desc": "Vulcano is a volcanic island in Italy. The english word for volcano is derived from Vulcano."
         }
         
     ]
