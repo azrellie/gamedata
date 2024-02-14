@@ -1818,6 +1818,15 @@
             "summitFeet": 3527,
             "magmaType": "Basalt",
             "desc": ""
-        }
+        },
+        {
+            "name": "Montagu",
+            "vei": 1,
+            "coordinates": [-58.4314176176131, -26.33653839710834],
+            "type": "Shield",
+            "summitFeet": 2766,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
     ]
 }
