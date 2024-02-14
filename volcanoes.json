@@ -1827,6 +1827,43 @@
             "summitFeet": 2766,
             "magmaType": "Basalt",
             "desc": ""
+        },
+        {
+            "name": "Dotsero",
+            "vei": 2,
+            "coordinates": [39.660852335765625, -107.03517170912815],
+            "type": "Maar",
+            "summitFeet": 7316,
+            "magmaType": "Basalt",
+            "desc": "Dotsero is a maar in Colorado. Erupting approximately 4200 years ago, it is the youngest volcano in Colorado."
+        },
+        {
+            "name": "Mammoth Mountain",
+            "vei": 2,
+            "coordinates": [37.631776451040665, -119.03099106271962],
+            "type": "Lava Dome",
+            "summitFeet": 11053,
+            "magmaType": "Dacite",
+            "desc": "Mammoth Mountain is a lava dome in California. Mammoth Mountain was formed in a series of eruptions that ended 57,000 years ago. Mammoth still produces hazardous volcanic gases that kill trees."
+        },
+        {
+            "name": "Hell's Half Acre",
+            "vei": 0,
+            "coordinates": [43.498629725466934, -112.45135406095031],
+            "type": "Volcanic Field",
+            "summitFeet": 5351,
+            "magmaType": "Basalt",
+            "desc": "Hell's Half Acre is a volcanic field in Idaho. In 1986, the Bureau of Land Management recommended that 68,760 acres (27,830 ha) of the site, located just southeast of the National Natural Landmark, to be a wilderness study area."
+        },
+        {
+            "name": "Black Rock Desert Volcanic Field",
+            "vei": 2,
+            "coordinates": [38.806001731268644, -112.48590107298162],
+            "type": "Volcanic Field",
+            "summitFeet": 5906,
+            "magmaType": "Rhyolite",
+            "desc": "Black Rock Desert is a volcanic field in Utah. The field's Ice Springs event was an explosive eruption followed by lava flows that were Utah's most recent volcanic activity (1140–1440 AD)."
         }
+            
     ]
 }
