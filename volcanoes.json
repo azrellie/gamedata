@@ -1773,7 +1773,51 @@
             "summitFeet": 1640,
             "magmaType": "Rhyolite",
             "desc": "Vulcano is a volcanic island in Italy. The english word for volcano is derived from Vulcano."
+        },
+        {
+            "name": "Zavodovski",
+            "vei": 2,
+            "coordinates": [-56.2987355722594, -27.575700211110885],
+            "type": "Stratovolcano",
+            "summitFeet": 1808,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Candlemas Island",
+            "vei": 2,
+            "coordinates": [-57.09878400875697, -26.709205496948666],
+            "type": "Stratovolcano",
+            "summitFeet": 1804,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Bristol Island",
+            "vei": 3,
+            "coordinates": [-59.05341967383996, -26.603045812451573],
+            "type": "Stratovolcano",
+            "summitFeet": 3609,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Saunders",
+            "vei": 2,
+            "coordinates": [-57.80261691232282, -26.487850331930414],
+            "type": "Shield",
+            "summitFeet": 4495,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
+            "name": "Thule",
+            "vei": 1,
+            "coordinates": [-59.4444139595198, -27.36443046922644],
+            "type": "Stratovolcano",
+            "summitFeet": 4495,
+            "magmaType": "Basalt",
+            "desc": ""
         }
-        
     ]
 }
