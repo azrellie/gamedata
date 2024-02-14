@@ -1781,7 +1781,7 @@
             "type": "Stratovolcano",
             "summitFeet": 1808,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Zavodovski is a stratovolcano in the overseas UK. It is the northernmost of the South Sandwich Islands and consists of one major stratovolcano, Mount Curry, which is surrounded to the east by a plain formed by lava flows."
         },
         {
             "name": "Candlemas Island",
@@ -1790,7 +1790,7 @@
             "type": "Stratovolcano",
             "summitFeet": 1804,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Candlemas Island is a stratovolcano in the overseas UK. A 6,000 years old tephra layer in the Vostok and South Pole ice cores has been tentatively attributed to a large explosive eruption at Candlemas, which would have spread ash over a distance of 4,000 kilometres (2,500 mi)."
         },
         {
             "name": "Bristol Island",
@@ -1799,7 +1799,7 @@
             "type": "Stratovolcano",
             "summitFeet": 3609,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Bristol Island is a stratovolcano in overseas UK. Recorded activity at Bristol goes back 150 years. Eruptions have been observed in 1823, 1935-1936, 1950 and 1956, and traces of very recent eruptions in 1964. A steaming crater was reported in 1962 which is presently buried under snow and ice."
         },
         {
             "name": "Saunders",
@@ -1808,16 +1808,16 @@
             "type": "Shield",
             "summitFeet": 4495,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Saunders is a shield volcano in the overseas UK. About 80% of the island is covered by ice. Rocky outcrops occur at the coasts, eroded pyroclastic cones on the eastern side and the Mount Michael volcano."
         },
         {
-            "name": "Thule",
+            "name": "Southern Thule",
             "vei": 1,
             "coordinates": [-59.4444139595198, -27.36443046922644],
             "type": "Stratovolcano",
             "summitFeet": 3527,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Southern Thule is a stratovolcano in the overseas UK. In 1954–1956, the Argentinians built a hut on Thule Island, at Hewison Point, and named it Teniente Esquivel, but abandoned it after witnessing a large eruption on Bristol Island. "
         },
         {
             "name": "Montagu",
@@ -1826,7 +1826,7 @@
             "type": "Shield",
             "summitFeet": 2766,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Montagu is a shield voclano in the overseas UK. The island was named by Cook after John Montagu, 4th Earl of Sandwich, at the time First Lord of the Admiralty."
         },
         {
             "name": "Dotsero",
