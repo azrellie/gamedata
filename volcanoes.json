@@ -1935,6 +1935,24 @@
             "summitFeet": 6360,
             "magmaType": "Dacite",
             "desc": "El Azufre is a complex of 3 stratovolcanoes in Baja California, Mexico. The ground floor of El Azufre volcano holds the oldest rock in the region which is a granitic rock of the Cretaceous era."
+        },
+        {
+            "name": "Heard",
+            "vei": 2,
+            "coordinates": [-53.11386146942705, 73.53641997737441],
+            "type": "Stratovolcano",
+            "summitFeet": 9006,
+            "magmaType": "Basalt",
+            "desc": "Heard is a stratovolcano in Australia. Volcanic activity at the cone has been known since 1881."
+        },
+        {
+            "name": "McDonald Islands",
+            "vei": 1,
+            "coordinates": [-53.039950354400936, 72.59363538315138],
+            "type": "Complex",
+            "summitFeet": 755,
+            "magmaType": "Phonolite",
+            "desc": "McDonald Islands is a complex volcano in Australia. In 2024, it got some notoriety thanks to an intrigue between two Fast Food Giants, McDonald's, and Burger King. The latest wants to change the island name to Ilha Whopper (Whopper Island) affirming that a place with real fire can't be named McDonald's."
         }
             
     ]
