@@ -1928,13 +1928,13 @@
             "desc": "Tacaná is a stratovolcano in Mexico. Tacaná is the first of hundreds of volcanoes in a 1,500 km (930 mi) km row, arranged NW to SE, parallel to the Pacific Ocean coast of Central America, known as the Central America Volcanic Arc, formed by an active subduction zone along the western boundary of the Caribbean Plate."
         },
         {
-            "name": "Tres Vírgenes",
+            "name": "El Azufre",
             "vei": 5,
             "coordinates": [27.47036018985008, -112.59084276630168],
             "type": "Stratovolcano",
             "summitFeet": 6360,
             "magmaType": "Dacite",
-            "desc": "Tres Vírgenes is a complex of 3 stratovolcanoes in Baja California, Mexico. The ground floor of Las Tres Vírgenes volcano holds the oldest rock in the region which is a granitic rock of the Cretaceous era."
+            "desc": "El Azufre is a complex of 3 stratovolcanoes in Baja California, Mexico. The ground floor of El Azufre volcano holds the oldest rock in the region which is a granitic rock of the Cretaceous era."
         }
             
     ]
