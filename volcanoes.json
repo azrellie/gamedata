@@ -1962,6 +1962,60 @@
             "summitFeet": 1542,
             "magmaType": "Basalt",
             "desc": "Waw an Namous is a caldera in Libya. The volcano is also known as Uaw en Namus, Uau en Namus, Wau-en-Namus and Wau Sqair. It means Oasis of mosquitoes, a reference to the small lakes around it and the numerous mosquitoes that exist at Waw an Namus, nurtured by the lakes at the volcano."
+        },
+        {
+            "name": "Harra es-Sawâd",
+            "vei": 3,
+            "coordinates": [13.579968700129392, 46.119946352082515],
+            "type": "Volcanic Field",
+            "summitFeet": 5699,
+            "magmaType": "Basalt",
+            "desc": "Harra es-Sawâd is a volcanic field in Yemen. The only eruption that has been noted in historical times occurred in 1253. This eruption was a large VEI 3 eruption, although it was poorly documented. Given the age of the field, other eruptions may have occurred in the recent past."
+        },
+        {
+            "name": "Harra of Arhab",
+            "vei": 2,
+            "coordinates": [15.597085297160671, 44.04622837840985],
+            "type": "Volcanic Field",
+            "summitFeet": 10171,
+            "magmaType": "Basalt",
+            "desc": "Harra of Arhab is a volcanic field in Yemen. Harra of Arhab is the northernmost, historically active volcanic field in Yemen."
+        },
+        {
+            "name": "Jebel at Tair",
+            "vei": 3,
+            "coordinates": [15.540546077487175, 41.8340492192371],
+            "type": "Stratovolcano",
+            "summitFeet": 801,
+            "magmaType": "Basalt",
+            "desc": "Jebel at Tair is a stratovolcano in Yemen. Yemen maintained a military base on the island from the dispute with Eritrea in 1996 until the 2007 eruption. There are or were two watchtowers for control and observation of the large warships, cargo ships, and oil tankers that pass by."
+        },
+        {
+            "name": "Tor Zawar",
+            "vei": 0,
+            "coordinates": [30.4797218284789, 67.47566482594792],
+            "type": "Fissure Vent",
+            "summitFeet": 7339,
+            "magmaType": "Basalt",
+            "desc": "Tor Zawar is a fissure vent in Pakistan. An eruption in the region on January 29, 2010 surprised volcanologists because no previous volcanic activity had ever taken place there before."
+        },
+        {
+            "name": "Gueishan Dao",
+            "vei": 2,
+            "coordinates": [24.84303477857467, 121.95193270920406],
+            "type": "Stratovolcano",
+            "summitFeet": 1184,
+            "magmaType": "Andesite",
+            "desc": "Gueishan Dao is a stratovolcano in Taiwan. Endemic species of crab, Xenograpsus testudinatus feeds on sulfur and lives around underwater hot springs of the island."
+        },
+        {
+            "name": "Ile des Cendres",
+            "vei": 2,
+            "coordinates": [10.157886047476158, 109.01397174718909],
+            "type": "Volcanic Field",
+            "summitFeet": -66,
+            "magmaType": "Basalt",
+            "desc": "Ile des Cendres is a submarine volcanic field in Vietnam. A recent eruption was recorded in 1923 which formed land that was later removed again by the sea."
         }
             
     ]
