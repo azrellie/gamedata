@@ -1863,6 +1863,78 @@
             "summitFeet": 5906,
             "magmaType": "Rhyolite",
             "desc": "Black Rock Desert is a volcanic field in Utah. The field's Ice Springs event was an explosive eruption followed by lava flows that were Utah's most recent volcanic activity (1140–1440 AD)."
+        },
+        {
+            "name": "El Chichón",
+            "vei": 5,
+            "coordinates": [17.359120095488695, -93.22703558160468],
+            "type": "Lava Domes",
+            "summitFeet": 3773,
+            "magmaType": "Andesite",
+            "desc": "El Chichón is a lava dome complex in Mexico. El Chichón became famous for its 1982 eruption. In little under a week, the presumed dormant volcano produced three plinian eruptions (March 29, April 3, and April 4)."
+        },
+        {
+            "name": "Volcán de Colima",
+            "vei": 5,
+            "coordinates": [19.512091009504303, -103.61785220042714],
+            "type": "Stratovolcano",
+            "summitFeet": 12631,
+            "magmaType": "Andesite",
+            "desc": "Volcán de Colima is a stratovolcano in Mexico. In light of its history of large eruptions and situation in a densely populated area, it was designated a Decade Volcano, singling it out for study."
+        },
+        {
+            "name": "Chichinautzin",
+            "vei": 4,
+            "coordinates": [19.20653482068897, -99.25857516738934],
+            "type": "Volcanic Field",
+            "summitFeet": 12920,
+            "magmaType": "Basalt",
+            "desc": "Chichinautzin is a volcanic field in Mexico. The southern part of Mexico City and the National University of Mexico, in the greater El Pedegral district, lie atop the distal end of the 13 kilometres (8.1 mi) long lava flow."
+        },
+        {
+            "name": "Mascota Volcanic Field",
+            "vei": 3,
+            "coordinates": [20.557634854153864, -104.77225220871271],
+            "type": "Volcanic Field",
+            "summitFeet": 8284,
+            "magmaType": "Basalt",
+            "desc": "Mascota is a volcanic field in Mexico. Minettes of the Mascota volcanic field are the world's youngest. Potassium-argon dating has yielded ages of 70,000 ± 80,000 years ago for these."
+        },
+        {
+            "name": "San Martín",
+            "vei": 4,
+            "coordinates": [18.562599789889383, -95.2014954520249],
+            "type": "Shield",
+            "summitFeet": 5413,
+            "magmaType": "Basanite",
+            "desc": "San Martín is a shield volcano located in the Tuxtla volcanic field, Mexico. The flanks of the volcano are dotted with 250 pyroclastic cones and maars, some of which have been active in historical times. The volcano is currently densely forested."
+        },
+        {
+            "name": "Socorro",
+            "vei": 2,
+            "coordinates": [18.79454557531603, -110.96888740451325],
+            "type": "Shield",
+            "summitFeet": 3445,
+            "magmaType": "Basalt",
+            "desc": "Socorro is a shield volcano in Mexico. It is the largest of the four islands of the Revillagigedo Archipelago."
+        },
+        {
+            "name": "Volcán Tacaná",
+            "vei": 4,
+            "coordinates": [18.79454557531603, -110.96888740451325],
+            "type": "Stratovolcano",
+            "summitFeet": 13320,
+            "magmaType": "Andesite",
+            "desc": "Tacaná is a stratovolcano in Mexico. Tacaná is the first of hundreds of volcanoes in a 1,500 km (930 mi) km row, arranged NW to SE, parallel to the Pacific Ocean coast of Central America, known as the Central America Volcanic Arc, formed by an active subduction zone along the western boundary of the Caribbean Plate."
+        },
+        {
+            "name": "Tres Vírgenes",
+            "vei": 5,
+            "coordinates": [27.47036018985008, -112.59084276630168],
+            "type": "Stratovolcano",
+            "summitFeet": 6360,
+            "magmaType": "Dacite",
+            "desc": "Tres Vírgenes is a complex of 3 stratovolcanoes in Baja California, Mexico. The ground floor of Las Tres Vírgenes volcano holds the oldest rock in the region which is a granitic rock of the Cretaceous era."
         }
             
     ]
