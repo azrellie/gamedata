@@ -2017,7 +2017,7 @@
             "magmaType": "Basalt",
             "desc": "Ile des Cendres is a submarine volcanic field in Vietnam. A recent eruption was recorded in 1923 which formed land that was later removed again by the sea."
         },
-                {
+        {
             "name": "Bir Borhut",
             "vei": 0,
             "coordinates": [15.515217941305814, 50.93457270244481],
@@ -2026,7 +2026,7 @@
             "magmaType": "Basalt",
             "desc": "Bir Borhut is a Volcanic Field in Yemen. Although Bir Borhut has no recorded eruptions, there is one potential recorded eruption in 950 AD that possibly formed the Lava Cone we now have today."
         },
-                        {
+        {
             "name": "Harras of Dhamar",
             "vei": 3,
             "coordinates": [14.595027357254368, 44.48912777396913],
@@ -2035,7 +2035,7 @@
             "magmaType": "Rhyolite",
             "desc": "Harras of Dhamar is a Volcanic Field in Yemen. This is a Geologically Interesting Volcanic Field with younger basaltic Lavas and Older Rhyolitic Lavas. the only known recorded eruption was in 1937 with residents reporting loud noises flames and lava fountains. This Volcanic Field contains one of the few places in the world to find Peridot. It is a green gemstone that forms in volcanic rocks. It is also known as The Birthstone of August. This is part of the Afar Triangle."
         },
-                                {
+        {
             "name": "Jabal Haylan",
             "vei": 0,
             "coordinates": [15.510316859386249, 45.02024038893415],
@@ -2044,7 +2044,7 @@
             "magmaType": "Basalt",
             "desc": "Jabal Haylan is a Volcanic Field in Yemen. This Volcanic Field had only 1 known eruption in 1200 BC with only a lava flow and it is the only known eruption from that Volcanic Field"
         },
-                                        {
+        {
             "name": "Jabal el-Marha",
             "vei": 4,
             "coordinates": [15.243796754011722, 44.23646380868304],
@@ -2052,6 +2052,15 @@
             "summitFeet": 1000,
             "magmaType": "Andesite",
             "desc": "Jabal el-Marha is a Cinder Cone in Yemen. Although Jabal el-Marha has no eruptions, the landforms at the area have andesitic minerals at the volcano as well as either a Collapsed Cinder Cone or an eroding Cinder Cone."
+        },
+        {
+            "name": "Theistareykjarbunga",
+            "vei": 0,
+            "coordinates": [65.89566491428711, -16.844649249136786],
+            "type": "Shield",
+            "summitFeet": 1850,
+            "magmaType": "Basalt",
+            "desc": "Theistareykjarbunga is a shield volcano in Iceland. There have been three dated eruptions, all VEI-0: the most recent eruption was around 900 BCE and the previous eruption was in 6800 BCE. Around 9500 BCE, an eruption produced approximately 18 billion cubic metres of basaltic lava."
         }
         
             
