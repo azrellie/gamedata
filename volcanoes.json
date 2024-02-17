@@ -2028,12 +2028,12 @@
         },
                         {
             "name": "Harras of Dhamar",
-            "vei": 5,
+            "vei": 3,
             "coordinates": [14.595027357254368, 44.48912777396913],
             "type": "Volcanic Field",
             "summitFeet": 3647,
             "magmaType": "Rhyolite",
-            "desc": "Harras of Dhamar is a Volcanic Field in Yemen. This is a GEologically Interesting Volcanic Field with younger basaltic Lavas and Older Rhyolitic Lavas. the only known recorded eruption was in 1937 with residents reporting loud noises flames and lava fountains. This Volcanic Field contains one of the few places in the world to find Peridot. It is a green gemstone that forms in volcanic rocks. It is also known as The Birthstone of August. This is part of the Afar Triangle."
+            "desc": "Harras of Dhamar is a Volcanic Field in Yemen. This is a Geologically Interesting Volcanic Field with younger basaltic Lavas and Older Rhyolitic Lavas. the only known recorded eruption was in 1937 with residents reporting loud noises flames and lava fountains. This Volcanic Field contains one of the few places in the world to find Peridot. It is a green gemstone that forms in volcanic rocks. It is also known as The Birthstone of August. This is part of the Afar Triangle."
         },
                                 {
             "name": "Jabal Haylan",
@@ -2047,7 +2047,7 @@
                                         {
             "name": "Jabal el-Marha",
             "vei": 4,
-            "coordinates": [15.510316859386249, 45.02024038893415],
+            "coordinates": [15.243796754011722, 44.23646380868304],
             "type": "Cinder Cone",
             "summitFeet": 1000,
             "magmaType": "Andesite",
