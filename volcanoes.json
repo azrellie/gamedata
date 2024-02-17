@@ -2062,6 +2062,60 @@
             "magmaType": "Basalt",
             "desc": "Theistareykjarbunga is a shield volcano in Iceland. There have been three dated eruptions, all VEI-0: the most recent eruption was around 900 BCE and the previous eruption was in 6800 BCE. Around 9500 BCE, an eruption produced approximately 18 billion cubic metres of basaltic lava."
         }
+        {
+            "name": "Dallol",
+            "vei": 1,
+            "coordinates": [14.24183094191987, 40.29780379957173],
+            "type": "Explosion Crater",
+            "summitFeet": -157,
+            "magmaType": "Basalt",
+            "desc": "Dallol is an explosion crater in Ethiopia. It is known for its unearthly colors and mineral patterns, and the very acidic fluids that discharge from its hydrothermal springs."
+        },
+        {
+            "name": "Yakedake",
+            "vei": 4,
+            "coordinates": [36.22704896277033, 137.58696014277166],
+            "type": "Stratovolcano",
+            "summitFeet": 8054,
+            "magmaType": "Basalt",
+            "desc": "Yakedake is a stratovolcano in Japan. Mount Yake is the most active of all the volcanoes in the Hida Mountains."
+        },
+        {
+            "name": "Emuruangogolak",
+            "vei": 0,
+            "coordinates": [1.4998712239800749, 36.331501978148495],
+            "type": "Shield",
+            "summitFeet": 4216,
+            "magmaType": "Basalt",
+            "desc": "Emuruangogolak is a shield volcano in Kenya. The last known eruption was a trachyte flow which occurred in 1910. Steam vents and fumarolic activity continues from fissures within the caldera and along the flanks of the volcano."
+        },
+        {
+            "name": "Auckland Volcanic Field",
+            "vei": 4,
+            "coordinates": [-36.78763794006866, 174.85810813337133],
+            "type": "Volcanic Field",
+            "summitFeet": 850,
+            "magmaType": "Basalt",
+            "desc": "Auckland Volcanic Field is a volcanic field in New Zealand. Tāmaki Māori myths describe the creation of the volcanic field as a creation of Mataaho (the guardian of the earth's secrets) and his brother Rūaumoko (the god of earthquakes and volcanoes), made as punishment against a tribe of patupaiarehe, supernatural beings living in the Waitākere Ranges, who used deadly magic from the earth to defeat a war party of patupaiarehe from the Hunua Ranges."
+        },
+        {
+            "name": "Buckle Island",
+            "vei": 2,
+            "coordinates": [-66.77997830741522, 163.2218226651609],
+            "type": "Stratovolcano",
+            "summitFeet": 4065,
+            "magmaType": "Basalt",
+            "desc": "Buckle Island is a stratovolcano in Antarctica. The island forms some parts of the Ross Dependency, claimed by New Zealand."
+        },
+        {
+            "name": "Oku Volcanic Field",
+            "vei": 4,
+            "coordinates": [6.438282164819316, 10.29921346499181],
+            "type": "Volcanic Field",
+            "summitFeet": 9879,
+            "magmaType": "Rhyolite",
+            "desc": "Oku is a volcanic field in Cameroon. The Oku Volcanic Field includes two crater lakes, Lake Nyos to the north and Lake Monoun to the south. On 15 August 1984, an earthquake and landslide triggered a major release of carbon dioxide from Lake Monoun, killing several people."
+        }
         
             
     ]
