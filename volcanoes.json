@@ -2115,8 +2115,34 @@
             "summitFeet": 9879,
             "magmaType": "Rhyolite",
             "desc": "Oku is a volcanic field in Cameroon. The Oku Volcanic Field includes two crater lakes, Lake Nyos to the north and Lake Monoun to the south. On 15 August 1984, an earthquake and landslide triggered a major release of carbon dioxide from Lake Monoun, killing several people."
+        },
+        {
+            "name": "Alney-Chashakondzha",
+            "vei": 3,
+            "coordinates": [56.6926184884554, 159.64519943466368],
+            "type": "Stratovolcano",
+            "summitFeet": 8432,
+            "magmaType": "Andesite",
+            "desc": "Alney-Chashakondzha is a stratovolcano in Russia. Alney is one of the few large stratovolcanoes in the Sredinny Range known to have been active throughout the Holocene, with more than 30 documented pyroclastic deposits. The last intense eruption took place about 350 years ago."
+        },
+        {
+            "name": "Koshelev",
+            "vei": 3,
+            "coordinates": [51.35880014224413, 156.7496640769982],
+            "type": "Stratovolcano",
+            "summitFeet": 5978,
+            "magmaType": "Basalt",
+            "desc": "Koshelev is a complex of stratovolcanoes in Russia. Major thermal fields are located in the summit crater of Valentin volcano and on the western flanks of west Koshelev volcano."
+        },
+        {
+            "name": "Wudalianchi",
+            "vei": 3,
+            "coordinates": [48.65327449785573, 126.28624062210085],
+            "type": "Volcanic Field",
+            "summitFeet": 1959,
+            "magmaType": "Basalt",
+            "desc": "Wudalianchi is a volcanic field in China. The volcanic field, whose name means Five Connected Pools was formed during five eruptive cycles from the early Pleistocene to historical time. Its ancient name was Nine Hills, which after the historical eruptions now number 14 hills."
         }
-        
             
     ]
 }
