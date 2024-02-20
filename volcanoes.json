@@ -2142,6 +2142,24 @@
             "summitFeet": 1959,
             "magmaType": "Basalt",
             "desc": "Wudalianchi is a volcanic field in China. The volcanic field, whose name means Five Connected Pools was formed during five eruptive cycles from the early Pleistocene to historical time. Its ancient name was Nine Hills, which after the historical eruptions now number 14 hills."
+        },
+        {
+            "name": "Hudson Mountains",
+            "vei": 4,
+            "coordinates": [-74.33422255955074, -99.418888743375],
+            "type": "Volcanic Field",
+            "summitFeet": 2457,
+            "magmaType": "Basalt",
+            "desc": "Hudson Mountains is a stratovolcano in Antarctica. The volcanism at the mountains may have either been caused by a mantle plume under Marie Byrd Land or by the presence of anomalies (slab windows) in the mantle left over by subduction."
+        },
+        {
+            "name": "Berlin",
+            "vei": 5,
+            "coordinates": [-76.0531737292911, -135.86666421857433],
+            "type": "Shield",
+            "summitFeet": 11411,
+            "magmaType": "Phonolite",
+            "desc": "Mount Berlin is a shield volcano in Antarctica. Mount Berlin was active from the Pliocene into the Holocene. The oldest parts are found at Wedemeyer Rocks and Brandenberger Bluff and are 2.7 million years old."
         }
             
     ]
