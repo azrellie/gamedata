@@ -661,6 +661,15 @@
             "desc": ""
         },
         {
+            "name": "Kerguelen Plateau",
+            "vei": 10,
+            "coordinates": [-52.93936184790187, 74.45159823957702],
+            "type": "Large Igneous Province",
+            "summitFeet": -6600,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
             "name": "Etna",
             "vei": 6,
             "coordinates": [37.75101806750681, 14.993433315138889],
