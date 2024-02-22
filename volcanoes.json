@@ -2160,6 +2160,33 @@
             "summitFeet": 11411,
             "magmaType": "Phonolite",
             "desc": "Mount Berlin is a shield volcano in Antarctica. Mount Berlin was active from the Pliocene into the Holocene. The oldest parts are found at Wedemeyer Rocks and Brandenberger Bluff and are 2.7 million years old."
+        },
+        {
+            "name": "Chinati Mountain Caldera Complex",
+            "vei": 8,
+            "coordinates": [29.884042484072843, -104.4372456514142],
+            "type": "Caldera",
+            "summitFeet": 7728,
+            "magmaType": "Rhyolite",
+            "desc": "Chinati Mountain Caldera Complex is a caldera complex in Texas. It is the largest and most documented volcano within the Trans-Pecos Volcanic Field, consisting mostly of two calderas: the Infernito Caldera and the Chinati Mountain Caldera."
+        },
+        {
+            "name": "Ōdai Caldera",
+            "vei": 8,
+            "coordinates": [34.17756578801184, 136.1043511412198],
+            "type": "Caldera",
+            "summitFeet": 5640,
+            "magmaType": "Rhyolite",
+            "desc": "Ōdai Caldera is a caldera in Japan. In 1980, an area of 36,000 hectares in the region of Mount Ōdaigahara and Mount Ōmine was designated a UNESCO Man and the Biosphere Reserve."
+        },
+        {
+            "name": "William's Ridge",
+            "vei": 8,
+            "coordinates": [38.53690818878468, -116.14402207822496],
+            "type": "Caldera",
+            "summitFeet": 6624,
+            "magmaType": "Rhyolite",
+            "desc": "William's Ridge is a caldera in Nevada. It erupted about 3,500 km3 of material 31,4 million years ago."
         }
             
     ]
