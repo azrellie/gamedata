@@ -2205,6 +2205,15 @@
             "summitFeet": 3940,
             "magmaType": "Basalt",
             "desc": "Kola Alkaline Province is a large igneous province in Russia. It has an unsually small volume compared to other LIP's (15,000 km3) thus making it a VEI 9."
-        }            
+        },
+        {
+            "name": "Awasa Caldera",
+            "vei": 8,
+            "coordinates": [7.063285151142903, 38.44123172960617],
+            "type": "Caldera",
+            "summitFeet": 7610,
+            "magmaType": "Rhyolite",
+            "desc": "Awasa Caldera is a caldera in Ethiopia. Because it is relatively accessible to scientists, Lake Awasa is the most studied of the Rift Valley lakes in Ethiopia."
+        }
     ]
 }
