@@ -2214,6 +2214,15 @@
             "summitFeet": 7610,
             "magmaType": "Rhyolite",
             "desc": "Awasa Caldera is a caldera in Ethiopia. Because it is relatively accessible to scientists, Lake Awasa is the most studied of the Rift Valley lakes in Ethiopia."
+        },
+        {
+            "name": "Bruneau-Jarbidge Caldera",
+            "vei": 8,
+            "coordinates": [42.45236385063628, -115.62716934891482],
+            "type": "Caldera",
+            "summitFeet": 2952,
+            "magmaType": "Rhyolite",
+            "desc": "Bruneau-Jarbidge Caldera is a caldera in Idaho. By its uniquely characteristic chemical composition and the distinctive size and shape of its crystals and glass shards, the volcano stood out among dozens of prominent ashfall horizons laid down in the Cretaceous, Paleogene, and Neogene periods of central North America."
         }
     ]
 }
