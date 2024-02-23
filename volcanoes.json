@@ -2223,6 +2223,15 @@
             "summitFeet": 2952,
             "magmaType": "Rhyolite",
             "desc": "Bruneau-Jarbidge Caldera is a caldera in Idaho. By its uniquely characteristic chemical composition and the distinctive size and shape of its crystals and glass shards, the volcano stood out among dozens of prominent ashfall horizons laid down in the Cretaceous, Paleogene, and Neogene periods of central North America."
+        },
+        {
+            "name": "McDermitt Caldera",
+            "vei": 7,
+            "coordinates": [41.84825065986883, -118.03631277580529],
+            "type": "Caldera",
+            "summitFeet": 6816,
+            "magmaType": "Rhyolite",
+            "desc": "McDermitt Caldera is a caldera on Oregon-Nevada border. Significant ore deposits are buried in the caldera, including mercury and uranium, which were mined at more than eight sites in the caldera during the 20th century."
         }
     ]
 }
