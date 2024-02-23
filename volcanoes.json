@@ -2214,6 +2214,15 @@
             "summitFeet": 7610,
             "magmaType": "Rhyolite",
             "desc": "Awasa Caldera is a caldera in Ethiopia. Because it is relatively accessible to scientists, Lake Awasa is the most studied of the Rift Valley lakes in Ethiopia."
+        },
+        {
+            "name": "Cerro Guacha",
+            "vei": 8,
+            "coordinates": [-22.668884364376318, -67.48424737188162],
+            "type": "Caldera",
+            "summitFeet": 17220,
+            "magmaType": "Rhyolite",
+            "desc": "Cerro Guacha is a caldera in Bolivia. Cerro Guacha and the other volcanoes of that region are formed from the subduction of the Nazca plate beneath the South America plate. Above the subduction zone, the crust is chemically modified and generates large volumes of melts that form the local caldera systems of the APVC. Guacha is constructed over a basement of sediments."
         }
     ]
 }
