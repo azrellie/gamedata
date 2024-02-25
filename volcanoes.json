@@ -670,6 +670,15 @@
             "desc": ""
         },
         {
+            "name": "Ahmeyim Great Dyke of Mauritania",
+            "vei": 10,
+            "coordinates": [20.811698483332737, -14.465005317066684],
+            "type": "Large Igneous Province",
+            "summitFeet": 2000,
+            "magmaType": "Basalt",
+            "desc": ""
+        },
+        {
             "name": "Etna",
             "vei": 6,
             "coordinates": [37.75101806750681, 14.993433315138889],
