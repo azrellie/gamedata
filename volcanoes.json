@@ -2232,6 +2232,15 @@
             "summitFeet": 6816,
             "magmaType": "Rhyolite",
             "desc": "McDermitt Caldera is a caldera on Oregon-Nevada border. Significant ore deposits are buried in the caldera, including mercury and uranium, which were mined at more than eight sites in the caldera during the 20th century."
+        },
+        {
+            "name": "Hood",
+            "vei": 2,
+            "coordinates": [45.37398995560104, -121.69639344495037],
+            "type": "Stratovolcano",
+            "summitFeet": 11240,
+            "magmaType": "Andesite",
+            "desc": "Mount Hood, also known as Wy'east, is the highest mountain peak in the entire state of Oregon. It is part of the Cascade Volcanic Arc. It was discovered in 1792 by European explorers. Hood also hosts 12 big glaciers surrounding the volcano's summit."
         }
     ]
 }
