@@ -2241,6 +2241,24 @@
             "summitFeet": 11240,
             "magmaType": "Andesite",
             "desc": "Mount Hood, also known as Wy'east, is the highest mountain peak in the entire state of Oregon. It is part of the Cascade Volcanic Arc. It was discovered in 1792 by European explorers. Hood also hosts 12 big glaciers surrounding the volcano's summit."
+        },
+        {  
+            "name": "Unzen",
+            "vei": 2,
+            "coordinates": [32.778550468039846, 130.26720414330634],
+            "type": "Complex",
+            "summitFeet": 4875,
+            "magmaType": "Andesite",
+            "desc": "Unzen, despite only having a max eruption intensity of a VEI 2, is infamous because during an eruption in 1792, a post-eruption earthquake caused part of the volcano to fall off and create a massive megatsunami that was estimated to kill 15,000 people. It has also had many more deadly eruptions."
+        },   
+        {
+            "name": "Raoul Island",
+            "vei": 1,
+            "coordinates": [-29.264974371467268, -177.91923803092646],
+            "type": "Stratovolcano",
+            "summitFeet": 1693,
+            "magmaType": "?",
+            "desc": "On March 17 2006, a 40-second long eruption occured, killing one person. It is apart of the Kermadec Islands."
         }
     ]
 }
