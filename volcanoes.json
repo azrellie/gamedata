@@ -2259,6 +2259,24 @@
             "summitFeet": 1693,
             "magmaType": "?",
             "desc": "On March 17 2006, a 40-second long eruption occured, killing one person. It is apart of the Kermadec Islands."
+        },
+        {
+            "name": "Macauley Island",
+            "vei": 7,
+            "coordinates": [-30.232899546302594, -178.42921785976202],
+            "type": "Stratovolcano",
+            "summitFeet": 1693,
+            "magmaType": "?",
+            "desc": "Macauley Island is a tiny island part of the Kermadec Islands Chain, but don't let that fool you, as the volcano likely produced a VEI 7 eruption during the Holocene era."
+        },   
+        {
+            "name": "Lake Ilopango",
+            "vei": 6,
+            "coordinates": [13.669109951289803, -89.03997924728905],
+            "type": "Caldera",
+            "summitFeet": 1476,
+            "magmaType": "Dacite",
+            "desc": "Lake Ilopango's eruption in the year 450 was the largest recorded eruption in El Salvador to date, likely covering the entire country in ash. It was also larger than the 1883 Krakatoa eruption as well as the 1991 Pinatubo eruption. The eruption devastated an area of up to 100 km radius around the volcano. It covered over 2,000,000 square kilometers in at least 0.5cm of ash in depth."
         }
     ]
 }
