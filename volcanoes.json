@@ -2295,6 +2295,60 @@
             "summitFeet": -4860,
             "magmaType": "Phonolite",
             "desc": "Cadamosto Seamount is a submarine stratovolcano in Cabo Verde. The seamount has had intense volcanic eruptions in the late Pleistocene, and recent seismic activity indicates that volcanism is ongoing."
+        },
+        {
+            "name": "Healy",
+            "vei": 6,
+            "coordinates": [-34.98803606854899, 179.00051627352153],
+            "type": "Stratovolcano",
+            "summitFeet": -4860,
+            "magmaType": "Rhyodacite",
+            "desc": "Healy is a seamount in the Kermadec Islands. Parts of the Loisels Pumice in New Zealand are suspected to have originated in this eruption, which took place 590±80 years before present (1950). Healy is also suspected to be the source of a tsunami that impacted Maori communities during the 15th century, and may be a continuing tsunami hazard."
+        },
+        {
+            "name": "Unnamed",
+            "vei": 0,
+            "coordinates": [20.329188771667745, 121.75004235751464],
+            "type": "Stratovolcano",
+            "summitFeet": -79,
+            "magmaType": "Basalt",
+            "desc": "Unnamed 274050 is a submarine startovolcano in the Philippines. Submarine eruptions reported in 1773, 1850, and 1854 are likely to have originated from this volcano. There have been no further reports since 1854."
+        },
+        {
+            "name": "Vailulu'u",
+            "vei": 0,
+            "coordinates": [-14.2181511117373, -169.05734105763784],
+            "type": "Shield",
+            "summitFeet": -1942,
+            "magmaType": "Basalt",
+            "desc": "Vailulu'u is a submarine shield volcano in the American Samoa. Eruptions at Vailuluʻu were recorded in 1973. An earthquake swarm in 1995 may have been related to an eruption from the seamount. Turbid water above the summit shows evidence of ongoing hydrothermal plume activity. Vailuluʻu may breach the surface of the ocean and officially become an island if a high rate of eruptions continue."
+        },
+        {
+            "name": "Monaco Bank",
+            "vei": 1,
+            "coordinates": [36.5954494727917, -25.881840964959903],
+            "type": "Fissure Vent",
+            "summitFeet": -646,
+            "magmaType": "Basalt",
+            "desc": "Monaco Bank is a submarine fissure vent in the Azores. Submarine eruptions took place during 1911 and 1907, when a submarine cable was ruptured."
+        },
+        {
+            "name": "Hebrides Terrace Seamount",
+            "vei": 0,
+            "coordinates": [56.44715879522802, -10.338838158837596],
+            "type": "Guyot",
+            "summitFeet": -3280,
+            "magmaType": "Basalt",
+            "desc": "Hebrides Terrace Seamount is a guyot in the UK. The formation of the Hebrides Terrace Seamount began after the Cretaceous-Palaeogene extinction event. In the early Cenozoic, three pulses of volcanic activity generated the seamount."
+        },
+        {
+            "name": "Cortes Bank",
+            "vei": 1,
+            "coordinates": [32.464950405277136, -119.1646765473351],
+            "type": "Stratovolcano",
+            "summitFeet": -3,
+            "magmaType": "Basalt",
+            "desc": "Cortes Bank is a submarine volcano in the US. At various times during geologic history, the bank has been an island, depending on sea level rise and fall. The last time it was a substantial island was around 10,000 years ago during the last ice age. It is possible that this island was visited by the first human inhabitants of the Channel Islands, most notably San Clemente Island, whose seafaring residents would have been able to see the island from high elevations on clear days."
         }
     ]
 }
