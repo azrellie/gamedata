@@ -2253,11 +2253,11 @@
         },   
         {
             "name": "Raoul Island",
-            "vei": 1,
+            "vei": 6,
             "coordinates": [-29.264974371467268, -177.91923803092646],
             "type": "Stratovolcano",
             "summitFeet": 1693,
-            "magmaType": "?",
+            "magmaType": "Dacite",
             "desc": "On March 17 2006, a 40-second long eruption occured, killing one person. It is apart of the Kermadec Islands."
         },
         {
@@ -2266,7 +2266,7 @@
             "coordinates": [-30.232899546302594, -178.42921785976202],
             "type": "Stratovolcano",
             "summitFeet": 1693,
-            "magmaType": "?",
+            "magmaType": "Basalt",
             "desc": "Macauley Island is a tiny island part of the Kermadec Islands Chain, but don't let that fool you, as the volcano likely produced a VEI 7 eruption during the Holocene era."
         },   
         {
@@ -2277,6 +2277,24 @@
             "summitFeet": 1476,
             "magmaType": "Dacite",
             "desc": "Lake Ilopango's eruption in the year 450 was the largest recorded eruption in El Salvador to date, likely covering the entire country in ash. It was also larger than the 1883 Krakatoa eruption as well as the 1991 Pinatubo eruption. The eruption devastated an area of up to 100 km radius around the volcano. It covered over 2,000,000 square kilometers in at least 0.5cm of ash in depth."
+        },
+        {
+            "name": "Mount Hudson",
+            "vei": 6,
+            "coordinates": [-45.9061777015585, -72.97060180667529],
+            "type": "Caldera",
+            "summitFeet": 6250,
+            "magmaType": "Rhyolite",
+            "desc": "Mount Hudson is a stratovolcano in Chile. During the 1991 eruption, volcanic ash covered a large area in Chile and neighbouring Argentina, causing high mortality in farm animals, aggravating an existing economic crisis, and depositing ash as far as Antarctica."
+        },
+        {
+            "name": "Cadamosto Seamount",
+            "vei": 4,
+            "coordinates": [14.665283597429683, -24.909872487133853],
+            "type": "Stratovolcano",
+            "summitFeet": -4860,
+            "magmaType": "Phonolite",
+            "desc": "Cadamosto Seamount is a submarine stratovolcano in Cabo Verde. The seamount has had intense volcanic eruptions in the late Pleistocene, and recent seismic activity indicates that volcanism is ongoing."
         }
     ]
 }
