@@ -2358,6 +2358,51 @@
             "summitFeet": -3,
             "magmaType": "Basalt",
             "desc": "Cortes Bank is a submarine volcano in the US. At various times during geologic history, the bank has been an island, depending on sea level rise and fall. The last time it was a substantial island was around 10,000 years ago during the last ice age. It is possible that this island was visited by the first human inhabitants of the Channel Islands, most notably San Clemente Island, whose seafaring residents would have been able to see the island from high elevations on clear days."
+        },
+        {
+            "name": "Kemp Caldera",
+            "vei": 6,
+            "coordinates": [-59.69983172630644, -28.246776177105524],
+            "type": "Caldera",
+            "summitFeet": -260,
+            "magmaType": "Basalt",
+            "desc": "Kemp Caldera is a caldera in the South Sandwich Islands. The caldera was discovered and sampled in 2009 during bathymetric mapping operations carried out by the RRS James Clark Ross."
+        },
+        {
+            "name": "Quitman Caldera",
+            "vei": 7,
+            "coordinates": [31.114446448816718, -105.51438134208709],
+            "type": "Caldera",
+            "summitFeet": 6589,
+            "magmaType": "Rhyolite",
+            "desc": "Quitman Caldera is a caldera in Texas. It has erupted over 300 km^3 of Square Peak Volcanics over 36 mya."
+        },
+        {
+            "name": "Oxaya Formation",
+            "vei": 8,
+            "coordinates": [-18.402657889691277, -69.79987689189055],
+            "type": "Geological Formation",
+            "summitFeet": 3300,
+            "magmaType": "Rhyolite",
+            "desc": "Oxaya Formation is a geological formation in Chile. The formation formed about 25 to 19 million years ago in the Late Oligocene and Early Miocene."
+        },
+        {
+            "name": "Akademia Nauk",
+            "vei": 7,
+            "coordinates": [53.9844707845623, 159.46354146605475],
+            "type": "Caldera",
+            "summitFeet": 3870,
+            "magmaType": "Rhyolite",
+            "desc": "Akademia Nauk is a caldera in Russia. The volcano is named after the Российская Академия Наук, the Russian (Soviet) Academy of Sciences."
+        },
+        {
+            "name": "Ashikule Volcanic Field",
+            "vei": 2,
+            "coordinates": [35.735662799373145, 81.56606477676647],
+            "type": "Volcanic Field",
+            "summitFeet": 16699,
+            "magmaType": "Trachyandesite",
+            "desc": "Ashikule Volcanic Field is a volcanic field in China. The latest eruption was on 27 May 1951, at Ashi volcano as was reported by the newspaper Xinjiang Daily. The report claimed that soldiers building a road heard roaring and saw a column of smoke, which continued for several days."
         }
     ]
 }
