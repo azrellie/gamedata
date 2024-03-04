@@ -2403,6 +2403,51 @@
             "summitFeet": 16699,
             "magmaType": "Trachyandesite",
             "desc": "Ashikule Volcanic Field is a volcanic field in China. The latest eruption was on 27 May 1951, at Ashi volcano as was reported by the newspaper Xinjiang Daily. The report claimed that soldiers building a road heard roaring and saw a column of smoke, which continued for several days."
+        },
+        {
+            "name": "Sinabung",
+            "vei": 4,
+            "coordinates": [3.1700211706764265, 98.39210432570779],
+            "type": "Stratovolcano",
+            "summitFeet": 8070,
+            "magmaType": "Andesite",
+            "desc": "Sinabung is a stratovolcano in Indonesia. The volcano has recently claimed the life of at least 23 people in a number of events since 2014."
+        },
+        {
+            "name": "Kerinci",
+            "vei": 2,
+            "coordinates": [-1.6956591428505619, 101.26600206118837],
+            "type": "Stratovolcano",
+            "summitFeet": 12484,
+            "magmaType": "Andesite",
+            "desc": "Kerinci is a stratovolcano in Indonesia. Based on research in 1973, the 'Kecik Wok Gedang Wok' people are recognized as the first tribe to settle at a plateau around Mount Kerinci 10,000 years ago."
+        },
+        {
+            "name": "Galunggung",
+            "vei": 5,
+            "coordinates": [-7.25701089780806, 108.07040372964057],
+            "type": "Stratovolcano",
+            "summitFeet": 7113,
+            "magmaType": "Andesite",
+            "desc": "Galunggung is a stratovolcano in Indonesia. Galunggung had its first historical eruption in 1822 that produced pyroclastic flows and lahars that killed 4,011 people."
+        },
+        {
+            "name": "Melibengoy",
+            "vei": 5,
+            "coordinates": [6.101377256319772, 124.8891359224847],
+            "type": "Stratovolcano",
+            "summitFeet": 5984,
+            "magmaType": "Andesite",
+            "desc": "Melibengoy is a stratovolcano in the Philippines. Mount Parker is believed to have erupted thrice over the past 3,800 years, the last one on January 4, 1641."
+        },
+        {
+            "name": "Popa",
+            "vei": 4,
+            "coordinates": [20.92660945859985, 95.2448411258172],
+            "type": "Stratovolcano",
+            "summitFeet": 4980,
+            "magmaType": "Basalt",
+            "desc": "Popa is a stratovolcano in Myanmar. Many legends are associated with this mountain including its dubious creation from a great earthquake and the mountain erupted out of the ground in 442 BC."
         }
     ]
 }
