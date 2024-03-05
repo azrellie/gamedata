@@ -2448,6 +2448,87 @@
             "summitFeet": 4980,
             "magmaType": "Basalt",
             "desc": "Popa is a stratovolcano in Myanmar. Many legends are associated with this mountain including its dubious creation from a great earthquake and the mountain erupted out of the ground in 442 BC."
+        },
+        {
+            "name": "Eyjafjallajökull",
+            "vei": 4,
+            "coordinates": [63.629275750196456, -19.619552351805716],
+            "type": "Stratovolcano",
+            "summitFeet": 5466,
+            "magmaType": "Basalt",
+            "desc": "Eyjafjallajökull is a stratovolcano in Iceland. The 2010 eruption of this volcano caused one of the biggest air travel disruptions in history."
+        },
+        {
+            "name": "Surtsey",
+            "vei": 3,
+            "coordinates": [63.3040110827198, -20.611347980996676],
+            "type": "Shield",
+            "summitFeet": 509,
+            "magmaType": "Basalt",
+            "desc": "Surtsey is a shield volcano in Iceland. The island was named after Surtr, a fire jötunn or giant from Norse mythology."
+        },
+        {
+            "name": "Merapi",
+            "vei": 4,
+            "coordinates": [-7.54098270197486, 110.44564408526578],
+            "type": "Stratovolcano",
+            "summitFeet": 9550,
+            "magmaType": "Andesite",
+            "desc": "Merapi is a stratovolcano in Indonesia. Merapi is very important to the Javanese people, especially those living around its crater. As such, there are many myths and beliefs attached to Merapi."
+        },
+        {
+            "name": "Semeru",
+            "vei": 4,
+            "coordinates": [-8.111651977359957, 112.92408284635941],
+            "type": "Stratovolcano",
+            "summitFeet": 12060,
+            "magmaType": "Andesite",
+            "desc": "Semeru is a stratovolcano in Indonesia. Semeru is named after Sumeru, the central world mountain in Hinduism. As stated in legend, it was transplanted from India to create the island of Java; the tale is recorded in the 15th-century East Javanese work Tantu Pagelaran."
+        },
+        {
+            "name": "Rotorua Caldera",
+            "vei": 7,
+            "coordinates": [-38.079065845549266, 176.2712995743315],
+            "type": "Caldera",
+            "summitFeet": 2484,
+            "magmaType": "Rhyolite",
+            "desc": "Rotorua Caldera is a caldera in New Zealand. The caldera was formed in a single event paired major eruption, lasting only weeks, that is now dated to 240,000 ± 11,000 years ago. It ejected more than 340 cubic kilometres (82 cu mi) of rhyolitic Mamaku ignimbrite giving it a Volcanic Explosivity Index of 7."
+        },
+        {
+            "name": "Sumisu-tō",
+            "vei": 6,
+            "coordinates": [31.44625626285685, 140.04427425558336],
+            "type": "Caldera",
+            "summitFeet": 440,
+            "magmaType": "Basalt",
+            "desc": "Sumisu-tō is a caldera in Japan. The abundance of fish in the surrounding waters have made it attractive for both sport and commercial fishing."
+        },
+        {
+            "name": "The Barrier",
+            "vei": 6,
+            "coordinates": [2.320839645558741, 36.58837594194435],
+            "type": "Shield",
+            "summitFeet": 3386,
+            "magmaType": "Trachyte",
+            "desc": "The Barrier is a shield volcano in Kenya. The Barrier was given its name because it forms a barrier about 20 kilometres (12 mi) long across the Kenyan Rift Valley."
+        },
+        {
+            "name": "Hakone",
+            "vei": 6,
+            "coordinates": [35.232360991052964, 139.02133589049723],
+            "type": "Complex",
+            "summitFeet": 4718,
+            "magmaType": "Andesite",
+            "desc": "Hakone is a caldera complex in Japan. The latest magmatic eruptive activity at Hakone occurred 2,900 years ago. It produced a pyroclastic flow and a lava dome in the explosion crater, although phreatic eruptions took place as recently as the 12–13th centuries AD."
+        },
+        {
+            "name": "Santo Antão",
+            "vei": 6,
+            "coordinates": [17.04297517720256, -25.20586694722101],
+            "type": "Stratovolcano",
+            "summitFeet": 6493,
+            "magmaType": "Phonolite",
+            "desc": "Santo Antão is a stratovolcano in the Cabo Verde. The youngest eruptive products are lava flows that originated from vents at Cha de Lagoa in the central part of the island, just south of the NE-SW axial ridge."
         }
     ]
 }
