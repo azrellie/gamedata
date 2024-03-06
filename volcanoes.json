@@ -2529,6 +2529,69 @@
             "summitFeet": 6493,
             "magmaType": "Phonolite",
             "desc": "Santo Antão is a stratovolcano in the Cabo Verde. The youngest eruptive products are lava flows that originated from vents at Cha de Lagoa in the central part of the island, just south of the NE-SW axial ridge."
+        },
+        {
+            "name": "Mayon",
+            "vei": 4,
+            "coordinates": [13.254639639439311, 123.68587222117151],
+            "type": "Stratovolcano",
+            "summitFeet": 8081,
+            "magmaType": "Andesite",
+            "desc": "Mayon is a stratovolcano in the Philippines. Mayon is the most active volcano in the Philippines, and its activity is regularly monitored by the Philippine Institute of Volcanology and Seismology (PHIVOLCS) from their provincial headquarters on Ligñon Hill, about 12 kilometers (7.5 mi) from the summit."
+        },
+        {
+            "name": "Babuyan Claro",
+            "vei": 4,
+            "coordinates": [19.524041363339602, 121.9496458035278],
+            "type": "Stratovolcano",
+            "summitFeet": 3304,
+            "magmaType": "Andesite",
+            "desc": "Babuyan Claro is a stratovolcano in the Philippines. It is classified as one of the active volcanoes of the country with the last confirmed eruption in 1860."
+        },
+        {
+            "name": "Anjuisky",
+            "vei": 4,
+            "coordinates": [67.15593636043064, 165.82704080909664],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 5118,
+            "magmaType": "Trachybasalt",
+            "desc": "Anjuisky is a pyroclastic cone in Russia. It was considered to have been active during the 14th and 18th centuries, but radiometric dating has shown ages of almost 250,000 years ago."
+        },
+        {
+            "name": "Aluchin",
+            "vei": 3,
+            "coordinates": [66.10004846316336, 165.40105038533056],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 230,
+            "magmaType": "Trachybasalt",
+            "desc": "Aluchin is a pyroclastic cone in Russia. The volcano is located in part of the Anyuy area where a fault dating back possibly to the Paleozoic cuts the terrain. Paleozoic and possibly Proterozoic rocks crop out at the sides of the fault. A number of volcanic rocks, both effusive and intrusive ones, are associated with the fault and go as far back as the Devonian."
+        },
+        {
+            "name": "Jom-Bolok Volcanic Field",
+            "vei": 4,
+            "coordinates": [52.704221814728655, 99.0001139496517],
+            "type": "Volcanic Field",
+            "summitFeet": 6814,
+            "magmaType": "Basalt",
+            "desc": "Jom-Bolok Volcanic Field is a volcanic field in Russia.  The eruptions at Jom-Bolok are the most voluminous Holocene eruptions of Central Asia; their volume has been estimated to be 16 cubic kilometres (3.8 cu mi)."
+        },
+        {
+            "name": "Hallasan",
+            "vei": 5,
+            "coordinates": [33.36126079525969, 126.53271040971877],
+            "type": "Shield",
+            "summitFeet": 6388,
+            "magmaType": "Trachyte",
+            "desc": "Hallasan is a shield volcano in South Korea. The Hallasan Natural Reserve was designated as a South Korean Natural Monument no. 182 on October 12, 1966."
+        },
+        {
+            "name": "Ch'uga-ryong",
+            "vei": 3,
+            "coordinates": [38.32998350111643, 127.33019056446757],
+            "type": "Shield",
+            "summitFeet": 1483,
+            "magmaType": "Basalt",
+            "desc": "Ch'uga-ryong is a shield volcano in the DPRK. An area of extensive basaltic lava flows occupies a graben, the NNE-SSW-trending Ch'uga-ryong rift, that cuts diagonally across the demilitarized zone between North and South Korea."
         }
     ]
 }
