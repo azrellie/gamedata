@@ -2610,6 +2610,24 @@
             "summitFeet": 5223,
             "magmaType": "Basalt",
             "desc": "Chilcotin Group is a large igneous province in Canada. Eruptions were most vigorous 6-10 million years ago and 2-3 million years ago, when most of the basalt was released. Less extensive eruptions continued 0.01 to 1.6 million years ago."
+        },
+        {  
+            "name": "Lake Turkana South Island",
+            "vei": 1,
+            "coordinates": [2.6336970532670962, 36.58655786154834],
+            "type": "Stratovolcano",
+            "summitFeet": 2625,
+            "magmaType": "Basalt",
+            "desc": "Lake Turkana South Island is an island in Lake Turkana. It's only confirmed eruption was in 1888. While no one lives on the island, it is still part of the Lake Turkana National Park, which is part of UNESCO World Heritage."
+        },
+        {   
+            "name": "Mambilla Plateau",
+            "vei": 9,
+            "coordinates": [7.598671699166901, 11.562448344543421],
+            "type": "Volcanic Plateau",
+            "summitFeet": 7936,
+            "magmaType": "Basalt",
+            "desc": ""
         }
     ]
 }
