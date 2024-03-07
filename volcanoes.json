@@ -2646,6 +2646,15 @@
             "summitFeet": 6000,
             "magmaType": "Basalt",
             "desc": ""
+        },
+        {
+            "name": "Ontong Java Plateu",
+            "vei": 10,
+            "coordinates": [-3.0498285817740176, 160.38298967726698],
+            "type": "Large Igneous Province",
+            "summitFeet": 5600,
+            "magmaType": "Basalt",
+            "desc": "The Ontong Java Plateau (OJP) is a massive oceanic plateau located in the southwestern Pacific Ocean, north of the Solomon Islands. The OJP was formed around 116 million years ago in the Ontong Java Event, which represents the largest volcanic event of the past 200 million years, with a magma eruption rate estimated at up to 22 km3 (5.3 cu mi) per year over 3 million years, several times larger than the Deccan Traps. It covers an area of 579 thousand square miles, roughly the size of Alaska."
         }
     ]
 }
