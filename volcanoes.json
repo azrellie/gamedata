@@ -2592,6 +2592,24 @@
             "summitFeet": 1483,
             "magmaType": "Basalt",
             "desc": "Ch'uga-ryong is a shield volcano in the DPRK. An area of extensive basaltic lava flows occupies a graben, the NNE-SSW-trending Ch'uga-ryong rift, that cuts diagonally across the demilitarized zone between North and South Korea."
+        },
+        {
+            "name": "South Caucasus Basalt Province",
+            "vei": 8,
+            "coordinates": [41.12494746163948, 44.76710621358649],
+            "type": "Large Igneous Province",
+            "summitFeet": 7200,
+            "magmaType": "Basalt",
+            "desc": "South Caucasus Basalt Province is a large igneous province in the Caucausus region. It is the smallest and youngest Continental Flood Basalt in the world."
+        },
+        {
+            "name": "Chilcotin Group",
+            "vei": 8,
+            "coordinates": [51.848175129854, -123.2528583791899],
+            "type": "Large Igneous Province",
+            "summitFeet": 5223,
+            "magmaType": "Basalt",
+            "desc": "Chilcotin Group is a large igneous province in Canada. Eruptions were most vigorous 6-10 million years ago and 2-3 million years ago, when most of the basalt was released. Less extensive eruptions continued 0.01 to 1.6 million years ago."
         }
     ]
 }
