@@ -2655,6 +2655,15 @@
             "summitFeet": 5600,
             "magmaType": "Basalt",
             "desc": "The Ontong Java Plateau (OJP) is a massive oceanic plateau located in the southwestern Pacific Ocean, north of the Solomon Islands. The OJP was formed around 116 million years ago in the Ontong Java Event, which represents the largest volcanic event of the past 200 million years, with a magma eruption rate estimated at up to 22 km3 (5.3 cu mi) per year over 3 million years, several times larger than the Deccan Traps. It covers an area of 579 thousand square miles, roughly the size of Alaska."
+        },
+        {
+            "name": "Butler Hill Caldera",
+            "vei": 6,
+            "coordinates": [37.667830264991515, -90.40349827578153],
+            "type": "Caldera",
+            "summitFeet": 1004,
+            "magmaType": "Rhyolite",
+            "desc": "Butler Hill Caldera is a caldera in Missouri. It produced a giant eruption over 1 billion years ago. The estimated volume ranges from 32 to 100 km^3."
         }
     ]
 }
