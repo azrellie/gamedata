@@ -2673,6 +2673,15 @@
             "summitFeet": 1772,
             "magmaType": "Rhyolite",
             "desc": "Taum Sauk Caldera is a caldera in Missouri. It has produced several eruptions 1.48 billion years ago. One of the eruptions had an estimated ejecta volume of 600 km^3, thus making the Taum Sauk Caldera a VEI 7 volcano."
+        },
+        {
+            "name": "Messum Crater",
+            "vei": 8,
+            "coordinates": [-21.418238282376944, 14.199761259866113],
+            "type": "Caldera",
+            "summitFeet": 1404,
+            "magmaType": "Rhyolite",
+            "desc": "Messum Crater is a caldera in Namibia. It is a part of the Etendeka Traps."
         }
     ]
 }
