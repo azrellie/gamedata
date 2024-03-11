@@ -2664,6 +2664,15 @@
             "summitFeet": 1004,
             "magmaType": "Rhyolite",
             "desc": "Butler Hill Caldera is a caldera in Missouri. It produced a giant eruption over 1 billion years ago. The estimated volume ranges from 32 to 100 km^3."
+        },
+        {
+            "name": "Taum Sauk Caldera",
+            "vei": 7,
+            "coordinates": [37.570388498162025, -90.7331233869999],
+            "type": "Caldera",
+            "summitFeet": 1772,
+            "magmaType": "Rhyolite",
+            "desc": "Taum Sauk Caldera is a caldera in Missouri. It has produced several eruptions 1.48 billion years ago. One of the eruptions had an estimated ejecta volume of 600 km^3, thus making the Taum Sauk Caldera a VEI 7 volcano."
         }
     ]
 }
