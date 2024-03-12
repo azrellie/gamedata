@@ -2682,6 +2682,24 @@
             "summitFeet": 1404,
             "magmaType": "Rhyolite",
             "desc": "Messum Crater is a caldera in Namibia. It is a part of the Etendeka Traps."
+        },
+        {  
+            "name": "Ebeko",
+            "vei": 2,
+            "coordinates": [50.6850731323062, 156.01413431488643],
+            "type": "Stratovolcano",
+            "summitFeet": 3619,
+            "magmaType": "Andesite",
+            "desc": "This volcano has very recently erupted (and may be still erupting if you're reading this). It is one of the most active volcanoes in the Kurile Islands."
+        },
+        {
+            "name": "Dunoko",
+            "vei": 3,
+            "coordinates": [1.6997423656999935, 127.86705294077143],
+            "type": "Complex",
+            "summitFeet": 4177,
+            "magmaType": "Andesite",
+            "desc": "Dunoko is one of the most active volcanoes in Indonesia. It has been erupting since 1933 continously, and it's likely still erupting as you're reading this."
         }
     ]
 }
