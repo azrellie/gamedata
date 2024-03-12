@@ -2709,6 +2709,15 @@
             "summitFeet": 371,
             "magmaType": "Rhyodacite",
             "desc": "Wurzen Caldera is a 30x25 km caldera in Germany. The climactic Wurzen ignimbrite contains different fiamme of fine-grained mafic, fine-grained rhyolitic (71.8 to 76.6 wt% SiO2), porphyritic (trachy-) dacitic (64.5 to 67.6 wt% SiO2), and coarse porphyritic rhyodacitic composition (64.7 to 74.3 wt% SiO2), which point to a permanent interplay between rejuvenation, differentiation, and cooling in the Wurzen magma body."
+        },
+        {
+            "name": "Raton-Clayton Volcanic Field",
+            "vei": 3,
+            "coordinates": [37.11539388867238, -103.57020632429922],
+            "type": "Volcanic Field",
+            "summitFeet": 4973,
+            "magmaType": "Basalt",
+            "desc": "Raton-Clayton Volcanic Field is a volcanic field in the USA. One of the lava flows from this volcano has reached Oklahoma."
         }
     ]
 }
