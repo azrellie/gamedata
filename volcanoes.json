@@ -2700,6 +2700,15 @@
             "summitFeet": 4177,
             "magmaType": "Andesite",
             "desc": "Dunoko is one of the most active volcanoes in Indonesia. It has been erupting since 1933 continously, and it's likely still erupting as you're reading this."
+        },
+        {
+            "name": "Wurzen Caldera",
+            "vei": 8,
+            "coordinates": [51.43886156376798, 13.022666120338343],
+            "type": "Caldera",
+            "summitFeet": 371,
+            "magmaType": "Rhyodacite",
+            "desc": "Wurzen Caldera is a 30x25 km caldera in Germany. The climactic Wurzen ignimbrite contains different fiamme of fine-grained mafic, fine-grained rhyolitic (71.8 to 76.6 wt% SiO2), porphyritic (trachy-) dacitic (64.5 to 67.6 wt% SiO2), and coarse porphyritic rhyodacitic composition (64.7 to 74.3 wt% SiO2), which point to a permanent interplay between rejuvenation, differentiation, and cooling in the Wurzen magma body."
         }
     ]
 }
