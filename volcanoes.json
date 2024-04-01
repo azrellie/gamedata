@@ -2907,6 +2907,24 @@
             "summitFeet": 4396,
             "magmaType": "Andesite",
             "desc": "formed by glaciers and developers"
+        },
+        {
+            "name": "siberan trap",
+            "vei": 1,
+            "coordinates": [62.82302743760996, 76.01127364548002],
+            "type": "larg igenenneous provinc",
+            "summitFeet": 49959958958,
+            "magmaType": "large igenenous rock",
+            "desc": "anak krakatoa"
+        },
+        {
+            "name": "glue plateu",
+            "vei": 2,
+            "coordinates": [-49.885905631401954, 69.98336587480145],
+            "type": "flud basal",
+            "summitFeet": -49,
+            "magmaType": "large igenenous rock amd lava",
+            "desc": "the kid who ate glue"
         }
     ]
 }
