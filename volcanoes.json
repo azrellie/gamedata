@@ -2808,6 +2808,33 @@
             "summitFeet": 2,
             "magmaType": "Cheese",
             "desc": "The Nacho Caldera is rumored to expel a bunch of hot cheese amongst eruption."
+        },
+        {
+            "name": "Fr*nch Polynesia Caldera",
+            "vei": 8,
+            "coordinates": [-17.629204414201457, -149.46472450543646],
+            "type": "french",
+            "summitFeet": 999999999999999999999999999999999,
+            "magmaType": "french",
+            "desc": "s.o.s"
+        },
+        {
+            "name": "Lake Winnebago Seamount",
+            "vei": 2,
+            "coordinates": [43.917999129913476, -88.43848848024547],
+            "type": "geyser",
+            "summitFeet": -1,
+            "magmaType": "water",
+            "desc": "bruh"
+        },
+        {
+            "name": "Piparo Mud Volcano",
+            "vei": 6,
+            "coordinates": [10.33899021983412, -61.34529902596265],
+            "type": "Mud Volcano",
+            "summitFeet": 4787,
+            "magmaType": "warm mud",
+            "desc": "this was a real suggestion someone made"
         }
     ]
 }
