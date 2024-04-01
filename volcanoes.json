@@ -2844,6 +2844,69 @@
             "summitFeet": 69420,
             "magmaType": "owo",
             "desc": "OwO notice me senpaiii uwu nyaaaa~ >w< :3 meow >:3"
+        },
+        {
+            "name": "Chernobyl Nuclear Power Plant",
+            "vei": 8,
+            "coordinates": [51.38912607786478, 30.09856915872815],
+            "type": "Nuclear Reactor",
+            "summitFeet": 3708,
+            "magmaType": "Nuclear",
+            "desc": "there goes the boom boom bomb"
+        },
+        {
+            "name": "St Lawrence Volcanic Group",
+            "vei": 6,
+            "coordinates": [49.54768590829167, -58.47951454349865],
+            "type": "Volcanic Group",
+            "summitFeet": -59,
+            "magmaType": "Basalt",
+            "desc": "hmmm"
+        },
+        {
+            "name": "PATRIOT CALDERA",
+            "vei": 7,
+            "coordinates": [41.87884041226215, -87.6359027411666],
+            "type": "Willis Tower",
+            "summitFeet": 29,
+            "magmaType": "boom",
+            "desc": "there goes"
+        },
+        {
+            "name": "Block Game Servers",
+            "vei": 6,
+            "coordinates": [41.88722011301858, -87.65279786259138],
+            "type": "Server",
+            "summitFeet": 229,
+            "magmaType": "microchips",
+            "desc": "sorry there was a spider"
+        },
+        {
+            "name": "Pluto Remnant",
+            "vei": 4,
+            "coordinates": [41.912168620569325, -87.62940139484628],
+            "type": "Cyrovolcano",
+            "summitFeet": 229,
+            "magmaType": "Ice",
+            "desc": "A piece of pluto landed on Earth, creating this weird volcano that erupts ice every once in a while."
+        },
+        {
+            "name": "Ris Seamount",
+            "vei": 3,
+            "coordinates": [41.89423094274789, -87.58420646974635],
+            "type": "Seamount",
+            "summitFeet": -39,
+            "magmaType": "Rhyolite",
+            "desc": "its just a fake seamount"
+        },
+        {
+            "name": "Twisted Valley Caldera",
+            "vei": 8,
+            "coordinates": [43.5572880950655, -90.88800750367112],
+            "type": "Caldera",
+            "summitFeet": 4396,
+            "magmaType": "Andesite",
+            "desc": "formed by glaciers and developers"
         }
     ]
 }
