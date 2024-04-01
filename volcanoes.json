@@ -2763,6 +2763,24 @@
             "summitFeet": 69420,
             "magmaType": "napalm",
             "desc": "gender reveals in california be like"
+        },
+        {
+            "name": "Cobre Ridge Caldera",
+            "vei": 8,
+            "coordinates": [31.451447232501092, -111.28982272686882],
+            "type": "Caldera",
+            "summitFeet": 4665,
+            "magmaType": "Rhyodacite",
+            "desc": "The Cobre Ridge caldera is a large Jurassic volcano in the U.S. state of Arizona. It formed about 170 million years ago when a VEI-8 eruption ejected more than 1,000 km3 (240 cu mi) of crystal-rich rhyodacite ignimbrite."
+        },
+        {
+            "name": "Ossipee Caldera",
+            "vei": 6,
+            "coordinates": [43.74331270798961, -71.27419622930312],
+            "type": "Caldera",
+            "summitFeet": 2990,
+            "magmaType": "Syenite",
+            "desc": "OSsipee Caldera is a huge caldera in New Hampshire. It was formed around 125 million years ago in a giant eruption."
         }
     ]
 }
