@@ -2736,6 +2736,15 @@
             "summitFeet": 1234567890,
             "magmaType": "idk man",
             "desc": "Why?"
+        },
+        {
+            "name": "Cerro Guacha",
+            "vei": 8,
+            "coordinates": [-22.872694948343003, -68.21342388220489],
+            "type": "why",
+            "summitFeet": 1235253,
+            "magmaType": "idk man",
+            "desc": "Why?"
         }
     ]
 }
