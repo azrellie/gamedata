@@ -2799,6 +2799,15 @@
             "summitFeet": 2990,
             "magmaType": "Syenite",
             "desc": "Ossipee Caldera is a huge caldera in New Hampshire. It was formed around 125 million years ago in a giant eruption."
+        },
+        {
+            "name": "Nacho Caldera",
+            "vei": 7,
+            "coordinates": [43.74331270798961, -71.27419622930312],
+            "type": "Seamount/Caldera",
+            "summitFeet": 2,
+            "magmaType": "Cheese",
+            "desc": "The Nacho Caldera is rumored to expel a bunch of hot cheese amongst eruption."
         }
     ]
 }
