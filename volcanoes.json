@@ -2745,6 +2745,24 @@
             "summitFeet": 1235253,
             "magmaType": "idk man",
             "desc": "Why?"
+        },
+        {
+            "name": "its a boy",
+            "vei": 8,
+            "coordinates": [37.69291441245209, -121.03575173137682],
+            "type": "deez",
+            "summitFeet": 69420,
+            "magmaType": "napalm",
+            "desc": "gender reveals in california be like"
+        },
+        {
+            "name": "its a girl",
+            "vei": 8,
+            "coordinates": [38.74865086006171, -121.86057630828513],
+            "type": "deez",
+            "summitFeet": 69420,
+            "magmaType": "napalm",
+            "desc": "gender reveals in california be like"
         }
     ]
 }
