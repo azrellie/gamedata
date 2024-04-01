@@ -2835,6 +2835,15 @@
             "summitFeet": 4787,
             "magmaType": "warm mud",
             "desc": "this was a real suggestion someone made"
+        },
+        {
+            "name": "uwu nyaaaaa~ >w< :3",
+            "vei": 8,
+            "coordinates": [36.181262, 138.342885],
+            "type": "UwU",
+            "summitFeet": 69420,
+            "magmaType": "owo",
+            "desc": "OwO notice me senpaiii uwu nyaaaa~ >w< :3 meow >:3"
         }
     ]
 }
