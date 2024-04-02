@@ -2925,6 +2925,15 @@
             "summitFeet": -49,
             "magmaType": "large igenenous rock amd lava",
             "desc": "the kid who ate glue"
+        },
+        {
+            "name": "uwu nyaaaaa~ >w< :3",
+            "vei": 0,
+            "coordinates": [34.99695326190845, 133.50258080917897],
+            "type": "UwU",
+            "summitFeet": 420,
+            "magmaType": "owo",
+            "desc": "OwO notice me senpaiii uwu nyaaaaa~ >w< :3 meow >:3"
         }
     ]
 }
