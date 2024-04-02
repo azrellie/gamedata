@@ -2934,6 +2934,78 @@
             "summitFeet": 420,
             "magmaType": "owo",
             "desc": "OwO notice me senpaiii uwu nyaaaaa~ >w< :3 meow >:3"
+        },
+        {
+            "name": "Little Muskego Lake",
+            "vei": 4,
+            "coordinates": [42.91299387099083, -88.14323178410216],
+            "type": "Caldera",
+            "summitFeet": -7,
+            "magmaType": "Rhyolite",
+            "desc": "smol lake"
+        },
+        {
+            "name": "Big Cedar Lake",
+            "vei": 5,
+            "coordinates": [43.3739829168041, -88.26267178660275],
+            "type": "Caldera",
+            "summitFeet": -21,
+            "magmaType": "Rhyolite",
+            "desc": "BEEG lake"
+        },
+        {
+            "name": "Devil's Lake",
+            "vei": 6,
+            "coordinates": [43.41662624464675, -89.73019616190535],
+            "type": "Caldera",
+            "summitFeet": -8,
+            "magmaType": "Basalt",
+            "desc": "warm lake"
+        },
+        {
+            "name": "Upper Wisconsin Volcanic Arc",
+            "vei": 3,
+            "coordinates": [44.909758223117144, -88.53254544666892],
+            "type": "Volcanic Arc",
+            "summitFeet": 1283,
+            "magmaType": "Basalt",
+            "desc": "A small volcanic arc in an odd position."
+        },
+        {
+            "name": "Sugar Range",
+            "vei": 3,
+            "coordinates": [39.936796797281424, -90.59465517094795],
+            "type": "Volcanic Valley",
+            "summitFeet": 3385,
+            "magmaType": "Andesite",
+            "desc": "what"
+        },
+        {
+            "name": "Washington Seamount",
+            "vei": 0,
+            "coordinates": [45.4768893824439, -87.02488786978127],
+            "type": "Seamount",
+            "summitFeet": -148,
+            "magmaType": "steam",
+            "desc": "what"
+        },
+        {
+            "name": "Gull Lake",
+            "vei": 0,
+            "coordinates": [42.39239805318089, -85.40683285830065],
+            "type": "Caldera",
+            "summitFeet": -6,
+            "magmaType": "Basalt",
+            "desc": "what"
+        },
+        {
+            "name": "my pet volcano greg",
+            "vei": 5,
+            "coordinates": [40.35066596065971, -94.7742885733667],
+            "type": "pet volcano",
+            "summitFeet": 38384,
+            "magmaType": "Magma or something idk",
+            "desc": "it just wants to play"
         }
     ]
 }
