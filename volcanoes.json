@@ -2720,24 +2720,6 @@
             "desc": "Raton-Clayton Volcanic Field is a volcanic field in the USA. One of the lava flows from this volcano has reached Oklahoma."
         },
         {
-            "name": "Talking tom caldera",
-            "vei": 8,
-            "coordinates": [38.90541691444108, -77.01924252207907],
-            "type": "Farrttt",
-            "summitFeet": 6666,
-            "magmaType": "Liquid Robux",
-            "desc": "Why?"
-        },
-        {
-            "name": "brrr skibidi dop dodrtjrothjseiruthg",
-            "vei": 7,
-            "coordinates": [55.73488559901271, 37.65236138155475],
-            "type": "toielt",
-            "summitFeet": 1234567890,
-            "magmaType": "idk man",
-            "desc": "Why?"
-        },
-        {
             "name": "Cerro Guacha",
             "vei": 8,
             "coordinates": [-22.872694948343003, -68.21342388220489],
@@ -2745,42 +2727,6 @@
             "summitFeet": 1235253,
             "magmaType": "idk man",
             "desc": "Why?"
-        },
-        {
-            "name": "its a boy",
-            "vei": 8,
-            "coordinates": [37.69291441245209, -121.03575173137682],
-            "type": "deez",
-            "summitFeet": 69420,
-            "magmaType": "napalm",
-            "desc": "gender reveals in california be like"
-        },
-        {
-            "name": "its a girl",
-            "vei": 8,
-            "coordinates": [38.74865086006171, -121.86057630828513],
-            "type": "deez",
-            "summitFeet": 69420,
-            "magmaType": "napalm",
-            "desc": "gender reveals in california be like"
-        },
-        {
-            "name": "fr*nch caldera",
-            "vei": 8,
-            "coordinates": [46.63576889850818, 2.4917542102437906],
-            "type": "baguette",
-            "summitFeet": 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999,
-            "magmaType": "napalm",
-            "desc": "i hate the fr*nch"
-        },
-        {
-            "name": "bri'ish caldera",
-            "vei": 8,
-            "coordinates": [54.98874519277366, -2.6645214073656844],
-            "type": "🔪",
-            "summitFeet": 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999,
-            "magmaType": "tea",
-            "desc": "big bad buck teeth bri'ish blokes"
         },
         {
             "name": "Cobre Ridge Caldera",
@@ -2801,24 +2747,6 @@
             "desc": "Ossipee Caldera is a huge caldera in New Hampshire. It was formed around 125 million years ago in a giant eruption."
         },
         {
-            "name": "Nacho Caldera",
-            "vei": 7,
-            "coordinates": [41.19661913979762, -72.96103501078613],
-            "type": "Seamount/Caldera",
-            "summitFeet": 2,
-            "magmaType": "Cheese",
-            "desc": "The Nacho Caldera is rumored to expel a bunch of hot cheese amongst eruption."
-        },
-        {
-            "name": "Fr*nch Polynesia Caldera",
-            "vei": 8,
-            "coordinates": [-17.629204414201457, -149.46472450543646],
-            "type": "french",
-            "summitFeet": 999999999999999999999999999999999,
-            "magmaType": "french",
-            "desc": "s.o.s"
-        },
-        {
             "name": "Lake Winnebago Seamount",
             "vei": 2,
             "coordinates": [43.917999129913476, -88.43848848024547],
@@ -2837,24 +2765,6 @@
             "desc": "this was a real suggestion someone made"
         },
         {
-            "name": "uwu nyaaaaa~ >w< :3 owo",
-            "vei": 8,
-            "coordinates": [35.67607917490125, 139.77012780703436],
-            "type": "UwU",
-            "summitFeet": 69420,
-            "magmaType": "owo",
-            "desc": "OwO notice me senpaiii uwu nyaaaa~ >w< :3 meow >:3"
-        },
-        {
-            "name": "Chernobyl Nuclear Power Plant",
-            "vei": 8,
-            "coordinates": [51.38912607786478, 30.09856915872815],
-            "type": "Nuclear Reactor",
-            "summitFeet": 3708,
-            "magmaType": "Nuclear",
-            "desc": "there goes the boom boom bomb"
-        },
-        {
             "name": "St Lawrence Volcanic Group",
             "vei": 6,
             "coordinates": [49.54768590829167, -58.47951454349865],
@@ -2862,24 +2772,6 @@
             "summitFeet": -59,
             "magmaType": "Basalt",
             "desc": "hmmm"
-        },
-        {
-            "name": "PATRIOT CALDERA",
-            "vei": 7,
-            "coordinates": [41.87884041226215, -87.6359027411666],
-            "type": "Willis Tower",
-            "summitFeet": 29,
-            "magmaType": "boom",
-            "desc": "there goes"
-        },
-        {
-            "name": "Block Game Servers",
-            "vei": 6,
-            "coordinates": [41.88722011301858, -87.65279786259138],
-            "type": "Server",
-            "summitFeet": 229,
-            "magmaType": "microchips",
-            "desc": "sorry there was a spider"
         },
         {
             "name": "Pluto Remnant",
@@ -2898,42 +2790,6 @@
             "summitFeet": -39,
             "magmaType": "Rhyolite",
             "desc": "its just a fake seamount"
-        },
-        {
-            "name": "Twisted Valley Caldera",
-            "vei": 8,
-            "coordinates": [43.5572880950655, -90.88800750367112],
-            "type": "Caldera",
-            "summitFeet": 4396,
-            "magmaType": "Andesite",
-            "desc": "formed by glaciers and developers"
-        },
-        {
-            "name": "siberan trap",
-            "vei": 1,
-            "coordinates": [62.82302743760996, 76.01127364548002],
-            "type": "larg igenenneous provinc",
-            "summitFeet": 49959958958,
-            "magmaType": "large igenenous rock",
-            "desc": "anak krakatoa"
-        },
-        {
-            "name": "glue plateu",
-            "vei": 2,
-            "coordinates": [-49.885905631401954, 69.98336587480145],
-            "type": "flud basal",
-            "summitFeet": -49,
-            "magmaType": "large igenenous rock amd lava",
-            "desc": "the kid who ate glue"
-        },
-        {
-            "name": "uwu nyaaaaa~ >w< :3",
-            "vei": 0,
-            "coordinates": [34.99695326190845, 133.50258080917897],
-            "type": "UwU",
-            "summitFeet": 420,
-            "magmaType": "owo",
-            "desc": "OwO notice me senpaiii uwu nyaaaaa~ >w< :3 meow >:3"
         },
         {
             "name": "Little Muskego Lake",
@@ -2998,14 +2854,5 @@
             "magmaType": "Basalt",
             "desc": "what"
         },
-        {
-            "name": "my pet volcano greg",
-            "vei": 5,
-            "coordinates": [40.35066596065971, -94.7742885733667],
-            "type": "pet volcano",
-            "summitFeet": 38384,
-            "magmaType": "Magma or something idk",
-            "desc": "it just wants to play"
-        }
     ]
 }
