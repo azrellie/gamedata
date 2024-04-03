@@ -233,6 +233,15 @@
             "population": 120324,
             "hdi": 0.91,
             "coordinates": [34.20623137728098, -77.88604320560022]
+        },
+        {
+            "name": "Zürich",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Switzerland",
+            "population": 341730,
+            "hdi": 0.98,
+            "coordinates": [47.374681900843306, 8.541666826957352]
         }
     ]
 }
