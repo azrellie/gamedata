@@ -50,7 +50,7 @@
             "state:": "Oklahoma",
             "stateAbbrev": "OK",
             "country": "United States",
-            "population": 687725
+            "population": 687725,
             "hdi": 0.7,
             "coordinates": [35.468172853648035, -97.51534496662066]
         },
@@ -59,7 +59,7 @@
             "state:": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
-            "population": 191774
+            "population": 191774,
             "hdi": 0.85,
             "coordinates": [25.901664322459677, -97.49753314439442]
         },
