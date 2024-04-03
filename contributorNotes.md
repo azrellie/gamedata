@@ -13,3 +13,6 @@
 
 ## httpData.json
 1. this file is updated by the game server and should not be touched unless necessary
+
+## contributorNotes.md
+1. notes for each file mentioned should only be updated to serve as reminders for when updating the specified file
