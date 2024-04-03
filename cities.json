@@ -14,7 +14,7 @@
             "state:": "Colorado",
             "stateAbbrev": "CO",
             "country": "United States",
-            "population": 711463
+            "population": 711463,
             "hdi": 0.94,
             "coordinates": [39.74019513428951, -104.99030676657203]
         },
@@ -23,7 +23,7 @@
             "state:": "Arizona",
             "stateAbbrev": "AZ",
             "country": "United States",
-            "population": 543242
+            "population": 543242,
             "hdi": 0.9,
             "coordinates": [32.25370224791275, -110.9734154759764]
         },
@@ -32,7 +32,7 @@
             "state:": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
-            "population": 439890
+            "population": 439890,
             "hdi": 0.95,
             "coordinates": [25.76160956342318, -80.19197886382732]
         },
@@ -41,7 +41,7 @@
             "state:": "Nevada",
             "stateAbbrev": "NV",
             "country": "United States",
-            "population": 646790
+            "population": 646790,
             "hdi": 0.84,
             "coordinates": [36.173815848091984, -115.13878845166381]
         },
@@ -68,7 +68,7 @@
             "state:": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
-            "population": 316239
+            "population": 316239,
             "hdi": 0.8,
             "coordinates": [27.799719340500104, -97.3981790793408]
         },
@@ -77,7 +77,7 @@
             "state:": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
-            "population": 2302878
+            "population": 2302878,
             "hdi": 0.94,
             "coordinates": [29.760025047119033, -95.36962502597683]
         },
@@ -86,7 +86,7 @@
             "state:": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
-            "population": 2302878
+            "population": 2302878,
             "hdi": 0.92,
             "coordinates": [29.301357921297576, -94.79777063899319]
         },
@@ -95,7 +95,7 @@
             "state:": "Louisiana",
             "stateAbbrev": "LA",
             "country": "United States",
-            "population": 369749
+            "population": 369749,
             "hdi": 0.9,
             "coordinates": [29.94904780329661, -90.0740479247519]
         },
@@ -104,7 +104,7 @@
             "state:": "Louisiana",
             "stateAbbrev": "LA",
             "country": "United States",
-            "population": 221453
+            "population": 221453,
             "hdi": 0.84,
             "coordinates": [30.45154502706973, -91.18796705441859]
         },
@@ -113,7 +113,7 @@
             "state:": "Louisiana",
             "stateAbbrev": "LA",
             "country": "United States",
-            "population": 121389
+            "population": 121389,
             "hdi": 0.87,
             "coordinates": [30.223973285022335, -92.02000555057384]
         },
@@ -122,7 +122,7 @@
             "state:": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
-            "population": 112089
+            "population": 112089,
             "hdi": 0.8,
             "coordinates": [30.079206641437764, -94.13041613372772]
         },
@@ -131,7 +131,7 @@
             "state:": "Alabama",
             "stateAbbrev": "AL",
             "country": "United States",
-            "population": 183289
+            "population": 183289,
             "hdi": 0.9,
             "coordinates": [30.695138809576452, -88.03795944550787]
         },
@@ -140,7 +140,7 @@
             "state:": "Alabama",
             "stateAbbrev": "AL",
             "country": "United States",
-            "population": 201731
+            "population": 201731,
             "hdi": 0.95,
             "coordinates": [30.442863447117084, -84.28338539424189]
         },
@@ -149,7 +149,7 @@
             "state:": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
-            "population": 990931
+            "population": 990931,
             "hdi": 0.76,
             "coordinates": [30.333766565254503, -81.65622165123946]
         },
@@ -158,7 +158,7 @@
             "state:": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
-            "population": 302206
+            "population": 302206,
             "hdi": 0.89,
             "coordinates": [28.512573765004685, -81.37987645510722]
         },
@@ -167,7 +167,7 @@
             "state:": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
-            "population": 398173
+            "population": 398173,
             "hdi": 0.93,
             "coordinates": [27.94262941524427, -82.44608473193205]
         },
@@ -176,7 +176,7 @@
             "state:": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
-            "population": 261256
+            "population": 261256,
             "hdi": 0.89,
             "coordinates": [27.774801856772775, -82.63538564228243]
         },
@@ -185,7 +185,7 @@
             "state:": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
-            "population": 117027
+            "population": 117027,
             "hdi": 0.84,
             "coordinates": [27.97235032227863, -82.79873312693393]
         },
@@ -194,7 +194,7 @@
             "state:": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
-            "population": 120071
+            "population": 120071,
             "hdi": 0.88,
             "coordinates": [28.046514461911478, -81.9500285920695]
         },
@@ -203,7 +203,7 @@
             "state:": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
-            "population": 53876
+            "population": 53876,
             "hdi": 0.83,
             "coordinates": [30.41672996104868, -87.21856702839594]
         },
@@ -212,7 +212,7 @@
             "state:": "Georgia",
             "stateAbbrev": "GA",
             "country": "United States",
-            "population": 15159
+            "population": 15159,
             "hdi": 0.78,
             "coordinates": [31.159624778361742, -81.49604704189058]
         },
@@ -221,7 +221,7 @@
             "state:": "South Carolina",
             "stateAbbrev": "SC",
             "country": "United States",
-            "population": 153672
+            "population": 153672,
             "hdi": 0.9,
             "coordinates": [32.789403827050315, -79.94349221470597]
         },
@@ -230,7 +230,7 @@
             "state:": "North Carolina",
             "stateAbbrev": "NC",
             "country": "United States",
-            "population": 120324
+            "population": 120324,
             "hdi": 0.91,
             "coordinates": [34.20623137728098, -77.88604320560022]
         }
