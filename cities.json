@@ -2,7 +2,7 @@
     "cities": [
         {
             "name": "Phoenix",
-            "state:": "Arizona",
+            "state": "Arizona",
             "stateAbbrev": "AZ",
             "country": "United States",
             "population": 1625000,
@@ -11,7 +11,7 @@
         },
         {
             "name": "Denver",
-            "state:": "Colorado",
+            "state": "Colorado",
             "stateAbbrev": "CO",
             "country": "United States",
             "population": 711463,
@@ -20,7 +20,7 @@
         },
         {
             "name": "Tucson",
-            "state:": "Arizona",
+            "state": "Arizona",
             "stateAbbrev": "AZ",
             "country": "United States",
             "population": 543242,
@@ -29,7 +29,7 @@
         },
         {
             "name": "Miami",
-            "state:": "Florida",
+            "state": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
             "population": 439890,
@@ -38,7 +38,7 @@
         },
         {
             "name": "Las Vegas",
-            "state:": "Nevada",
+            "state": "Nevada",
             "stateAbbrev": "NV",
             "country": "United States",
             "population": 646790,
@@ -47,7 +47,7 @@
         },
         {
             "name": "Oklahoma City",
-            "state:": "Oklahoma",
+            "state": "Oklahoma",
             "stateAbbrev": "OK",
             "country": "United States",
             "population": 687725,
@@ -56,7 +56,7 @@
         },
         {
             "name": "Brownsville",
-            "state:": "Texas",
+            "state": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
             "population": 191774,
@@ -65,7 +65,7 @@
         },
         {
             "name": "Corpus Christi",
-            "state:": "Texas",
+            "state": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
             "population": 316239,
@@ -74,7 +74,7 @@
         },
         {
             "name": "Houston",
-            "state:": "Texas",
+            "state": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
             "population": 2302878,
@@ -83,7 +83,7 @@
         },
         {
             "name": "Galveston",
-            "state:": "Texas",
+            "state": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
             "population": 2302878,
@@ -92,7 +92,7 @@
         },
         {
             "name": "New Orleans",
-            "state:": "Louisiana",
+            "state": "Louisiana",
             "stateAbbrev": "LA",
             "country": "United States",
             "population": 369749,
@@ -101,7 +101,7 @@
         },
         {
             "name": "Baton Rouge",
-            "state:": "Louisiana",
+            "state": "Louisiana",
             "stateAbbrev": "LA",
             "country": "United States",
             "population": 221453,
@@ -110,7 +110,7 @@
         },
         {
             "name": "Lafayette",
-            "state:": "Louisiana",
+            "state": "Louisiana",
             "stateAbbrev": "LA",
             "country": "United States",
             "population": 121389,
@@ -119,7 +119,7 @@
         },
         {
             "name": "Beaumont",
-            "state:": "Texas",
+            "state": "Texas",
             "stateAbbrev": "TX",
             "country": "United States",
             "population": 112089,
@@ -128,7 +128,7 @@
         },
         {
             "name": "Mobile",
-            "state:": "Alabama",
+            "state": "Alabama",
             "stateAbbrev": "AL",
             "country": "United States",
             "population": 183289,
@@ -137,7 +137,7 @@
         },
         {
             "name": "Tallahassee",
-            "state:": "Alabama",
+            "state": "Alabama",
             "stateAbbrev": "AL",
             "country": "United States",
             "population": 201731,
@@ -146,7 +146,7 @@
         },
         {
             "name": "Jacksonville",
-            "state:": "Florida",
+            "state": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
             "population": 990931,
@@ -155,7 +155,7 @@
         },
         {
             "name": "Orlando",
-            "state:": "Florida",
+            "state": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
             "population": 302206,
@@ -164,7 +164,7 @@
         },
         {
             "name": "Tampa",
-            "state:": "Florida",
+            "state": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
             "population": 398173,
@@ -173,7 +173,7 @@
         },
         {
             "name": "St. Petersburg",
-            "state:": "Florida",
+            "state": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
             "population": 261256,
@@ -182,7 +182,7 @@
         },
         {
             "name": "Clearwater",
-            "state:": "Florida",
+            "state": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
             "population": 117027,
@@ -191,7 +191,7 @@
         },
         {
             "name": "Lakeland",
-            "state:": "Florida",
+            "state": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
             "population": 120071,
@@ -200,7 +200,7 @@
         },
         {
             "name": "Pensacola",
-            "state:": "Florida",
+            "state": "Florida",
             "stateAbbrev": "FL",
             "country": "United States",
             "population": 53876,
@@ -209,7 +209,7 @@
         },
         {
             "name": "Brunswick",
-            "state:": "Georgia",
+            "state": "Georgia",
             "stateAbbrev": "GA",
             "country": "United States",
             "population": 15159,
@@ -218,7 +218,7 @@
         },
         {
             "name": "Charleston",
-            "state:": "South Carolina",
+            "state": "South Carolina",
             "stateAbbrev": "SC",
             "country": "United States",
             "population": 153672,
@@ -227,7 +227,7 @@
         },
         {
             "name": "Wilmington",
-            "state:": "North Carolina",
+            "state": "North Carolina",
             "stateAbbrev": "NC",
             "country": "United States",
             "population": 120324,
