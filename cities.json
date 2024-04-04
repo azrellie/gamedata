@@ -242,6 +242,150 @@
             "population": 341730,
             "hdi": 0.98,
             "coordinates": [47.374681900843306, 8.541666826957352]
+        },
+        {
+            "name": "Cancún",
+            "state": "Quintana Roo",
+            "stateAbbrev": "QI",
+            "country": "Mexico",
+            "population": 888797,
+            "hdi": 0.76,
+            "coordinates": [21.161910609740946, -86.85152901276138]
+        },
+        {
+            "name": "Merida",
+            "state": "Yucatan",
+            "stateAbbrev": "YU",
+            "country": "Mexico",
+            "population": 888797,
+            "hdi": 0.76,
+            "coordinates": [21.161910609740946, -86.85152901276138]
+        },
+        {
+            "name": "Port-au Prince",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Haiti",
+            "population": 2618894,
+            "hdi": 0.55,
+            "coordinates": [18.558229755192173, -72.3151618987741]
+        },
+        {
+            "name": "Oranjestad",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Netherlands",
+            "population": 1598,
+            "hdi": 0.90,
+            "coordinates": [17.488089468929058, -62.97782399168253]
+        },
+        {
+            "name": "Charlotte Amalie",
+            "state": "US Virgin Islands",
+            "stateAbbrev": "",
+            "country": "United States of America",
+            "population": 18481,
+            "hdi": 0.89,
+            "coordinates": [18.343443522592416, -64.93615820517711]
+        },
+        {
+            "name": "Marigot",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 6000,
+            "hdi": 0.85,
+            "coordinates": [18.067736159066282, -63.080927986567296]
+        },
+        {
+            "name": "Basseterre",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "St. Kitts and Nevis",
+            "population": 14000,
+            "hdi": 0.8,
+            "coordinates": [17.29723506159882, -62.723160405056184]
+        },
+        {
+            "name": "St. Johns",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Antigua and Barbuda",
+            "population": 22219,
+            "hdi": 0.79,
+            "coordinates": [17.12940113611193, -61.840909990784375]
+        },
+        {
+            "name": "Pointe-à-Pitre",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 16343,
+            "hdi": 0.85,
+            "coordinates": [16.23642411946152, -61.54166454126283]
+        },
+        {
+            "name": "Roseau",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Dominica",
+            "population": 14725,
+            "hdi": 0.74,
+            "coordinates": [15.301401983117998, -61.38419653706104]
+        },
+        {
+            "name": "Roseau",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Dominica",
+            "population": 14725,
+            "hdi": 0.74,
+            "coordinates": [15.301401983117998, -61.38419653706104]
+        },
+        {
+            "name": "Fort-de-France",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 74921,
+            "hdi": 0.94,
+            "coordinates": [14.604337825815355, -61.06951131451838]
+        },
+        {
+            "name": "Castries",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Saint Lucia",
+            "population": 20000,
+            "hdi": 0.71,
+            "coordinates": [14.011017140438101, -60.989517117722436]
+        },
+        {
+            "name": "Bridgetown",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Barbados",
+            "population": 110000,
+            "hdi": 0.79,
+            "coordinates": [13.098779012262762, -59.61279303075591]
+        },
+        {
+            "name": "Kingstown",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "St Vincent And The Grenadines",
+            "population": 16500,
+            "hdi": 0.76,
+            "coordinates": [13.15549333422444, -61.226238214629475]
+        },
+        {
+            "name": "St. George's",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Grenada",
+            "population": 33734,
+            "hdi": 0.79,
+            "coordinates": [12.051071439117392, -61.7520222276748]
         }
     ]
 }
