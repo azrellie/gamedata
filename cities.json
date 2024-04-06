@@ -272,7 +272,7 @@
         },
         {
             "name": "Oranjestad",
-            "state": "",
+            "state": "Sint Eustatius",
             "stateAbbrev": "",
             "country": "Netherlands",
             "population": 1598,
@@ -290,7 +290,7 @@
         },
         {
             "name": "Marigot",
-            "state": "",
+            "state": "Saint Martin",
             "stateAbbrev": "",
             "country": "France",
             "population": 6000,
@@ -299,7 +299,7 @@
         },
         {
             "name": "Basseterre",
-            "state": "",
+            "state": "Saint Peter Basseterre",
             "stateAbbrev": "",
             "country": "St. Kitts and Nevis",
             "population": 14000,
@@ -308,7 +308,7 @@
         },
         {
             "name": "St. Johns",
-            "state": "",
+            "state": "Saint John",
             "stateAbbrev": "",
             "country": "Antigua and Barbuda",
             "population": 22219,
@@ -317,7 +317,7 @@
         },
         {
             "name": "Pointe-à-Pitre",
-            "state": "",
+            "state": "Pointe-à-Pitre",
             "stateAbbrev": "",
             "country": "France",
             "population": 16343,
@@ -326,16 +326,7 @@
         },
         {
             "name": "Roseau",
-            "state": "",
-            "stateAbbrev": "",
-            "country": "Dominica",
-            "population": 14725,
-            "hdi": 0.74,
-            "coordinates": [15.301401983117998, -61.38419653706104]
-        },
-        {
-            "name": "Roseau",
-            "state": "",
+            "state": "Saint George",
             "stateAbbrev": "",
             "country": "Dominica",
             "population": 14725,
@@ -344,7 +335,7 @@
         },
         {
             "name": "Fort-de-France",
-            "state": "",
+            "state": "Fort-de-France",
             "stateAbbrev": "",
             "country": "France",
             "population": 74921,
@@ -353,7 +344,7 @@
         },
         {
             "name": "Castries",
-            "state": "",
+            "state": "Castries",
             "stateAbbrev": "",
             "country": "Saint Lucia",
             "population": 20000,
@@ -362,7 +353,7 @@
         },
         {
             "name": "Bridgetown",
-            "state": "",
+            "state": "Saint Michael",
             "stateAbbrev": "",
             "country": "Barbados",
             "population": 110000,
@@ -371,21 +362,12 @@
         },
         {
             "name": "Kingstown",
-            "state": "",
+            "state": "St. George",
             "stateAbbrev": "",
             "country": "St Vincent And The Grenadines",
             "population": 16500,
             "hdi": 0.76,
             "coordinates": [13.15549333422444, -61.226238214629475]
-        },
-        {
-            "name": "St. George's",
-            "state": "",
-            "stateAbbrev": "",
-            "country": "Grenada",
-            "population": 33734,
-            "hdi": 0.79,
-            "coordinates": [12.051071439117392, -61.7520222276748]
         },
         {
             "name": "St. Petersburg",
