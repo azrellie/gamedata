@@ -2,7 +2,7 @@
     "faultlines": [
         {
             "name": "Peru-Chile Fault",
-            "lengthKm": 5400,
+            "lengthKm": 5900,
             "depthKm": 8,
             "points": [
                 [-62.94921723680388, -64.04345208633293],
@@ -408,8 +408,8 @@
             "visualizationColor": [170, 0, 0]
         },
         {
-            "name": "Java Fault",
-            "lengthKm": 3200,
+            "name": "Sunda Megathrust",
+            "lengthKm": 5500,
             "depthKm": 7.4,
             "points": [
                 [13.702025342774588, 92.54157437691215],
