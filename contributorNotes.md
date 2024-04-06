@@ -8,7 +8,7 @@
 2. volcanoes with negative elevations (whether its underwater or not) are accepted for the **summitFeet** property
 
 ## faultLines.json
-1. ***(TEMPORARY)*** fault lines can only be added by the owner of this repository since the owner is the only one who is able to edit the game and add colors for the fault lines for visualization purposes
+1. fault lines can have the same color for visualization purposes, but they cannot next to each other
 2. when adding fault lines, remember to deeply inspect the landscape to find any geological remarks of a fault line being present so the points defined are accurate
 
 ## httpData.json
