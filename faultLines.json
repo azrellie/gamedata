@@ -813,9 +813,9 @@
             "visualizationColor": [255, 255, 255]
         },
         {
-            "name": "Central African Shear Zone",
-            "lengthKm": 425,
-            "depthKm": 11,
+            "name": "Betics Fault",
+            "lengthKm": 620,
+            "depthKm": 7,
             "points": [
                 [35.13086959732318, -4.681770290147159],
                 [35.318011959498435, -5.108329671046807],
