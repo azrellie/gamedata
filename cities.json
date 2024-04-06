@@ -440,6 +440,60 @@
             "population": 279131,
             "hdi": 0.832,
             "coordinates": [46.6391580812989, 32.61646268137413]
+        },
+        {
+            "name": "Manchester",
+            "state": "England",
+            "stateAbbrev": "ENG",
+            "country": "United Kingdom",
+            "population": 549853,
+            "hdi": 0.914,
+            "coordinates": [53.47871688605632, -2.2474591185958888]
+        },
+        {
+            "name": "London",
+            "state": "England",
+            "stateAbbrev": "ENG",
+            "country": "United Kingdom",
+            "population": 14800000,
+            "hdi": 0.973,
+            "coordinates": [51.507565224150014, -0.10638035123778519]
+        },
+        {
+            "name": "Glasgow",
+            "state": "Scotland",
+            "stateAbbrev": "SCT",
+            "country": "United Kingdom",
+            "population": 1861315,
+            "hdi": 0.921,
+            "coordinates": [55.85743868443112, -4.2491191527967445]
+        },
+        {
+            "name": "Chattanooga",
+            "state": "Tennessee",
+            "stateAbbrev": "TN",
+            "country": "United States",
+            "population": 562647,
+            "hdi": 0.895,
+            "coordinates": [35.03899811692095, -85.29812463436676]
+        },
+        {
+            "name": "Nashville",
+            "state": "Tennessee",
+            "stateAbbrev": "TN",
+            "country": "United States",
+            "population": 2072283,
+            "hdi": 0.895,
+            "coordinates": [36.16195556572133, -86.78165144247343]
+        },
+        {
+            "name": "Knoxville",
+            "state": "Tennessee",
+            "stateAbbrev": "TN",
+            "country": "United States",
+            "population": 1096961,
+            "hdi": 0.895,
+            "coordinates": [35.98057822553712, -83.92852833918941]
         }
     ]
 }
