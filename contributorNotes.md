@@ -2,6 +2,7 @@
 
 ## cites.json
 1. the **stateAbbrev** can also be the abbreviation of the province/territories and not just american states
+2. hdi for american cities (per county) can be found at this website: https://communityhdi.org/#3.97/39.9/-119.38
 
 ## volcanoes.json
 1. exclude things like "mt" and such from the names of volcanoes to keep names consistent and shorter
