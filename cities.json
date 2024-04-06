@@ -386,6 +386,78 @@
             "population": 33734,
             "hdi": 0.79,
             "coordinates": [12.051071439117392, -61.7520222276748]
+        },
+        {
+            "name": "St. Petersburg",
+            "state": "St. Petersburg",
+            "stateAbbrev": "SPb",
+            "country": "Russia",
+            "population": 5600000,
+            "hdi": 0.918,
+            "coordinates": [59.93239475536908, 30.361202279562395]
+        },
+        {
+            "name": "Moscow",
+            "state": "Moscow",
+            "stateAbbrev": "MSK",
+            "country": "Russia",
+            "population": 13010112,
+            "hdi": 0.940,
+            "coordinates": [55.75586445533307, 37.61684485384861]
+        },
+        {
+            "name": "Petropavlovsk-Kamchatsky",
+            "state": "Kamchatka Krai",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 179780,
+            "hdi": 0.838,
+            "coordinates": [53.058899981639584, 158.63541152481804]
+        },
+        {
+            "name": "Vladivostok",
+            "state": "Primorsky Krai",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 597237,
+            "hdi": 0.836,
+            "coordinates": [43.12873403071479, 131.91946617730025]
+        },
+        {
+            "name": "Irkutsk",
+            "state": "Irkutsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 623869,
+            "hdi": 0.852,
+            "coordinates": [52.285953373545624, 104.31249991928917]
+        },
+        {
+            "name": "Yekaterinburg",
+            "state": "Sverdlovsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1495066,
+            "hdi": 0.864,
+            "coordinates": [56.83020764087959, 60.613905399797794]
+        },
+        {
+            "name": "Sevastopol",
+            "state": "Sevastopol",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 547820,
+            "hdi": 0.832,
+            "coordinates": [44.60612365705007, 33.51494630107737]
+        },
+        {
+            "name": "Kherson",
+            "state": "Kherson Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 279131,
+            "hdi": 0.832,
+            "coordinates": [46.6391580812989, 32.61646268137413]
         }
     ]
 }
