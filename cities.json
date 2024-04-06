@@ -408,7 +408,7 @@
         {
             "name": "Petropavlovsk-Kamchatsky",
             "state": "Kamchatka Krai",
-            "stateAbbrev": "",
+            "stateAbbrev": "KK",
             "country": "Russia",
             "population": 179780,
             "hdi": 0.838,
@@ -417,7 +417,7 @@
         {
             "name": "Vladivostok",
             "state": "Primorsky Krai",
-            "stateAbbrev": "",
+            "stateAbbrev": "PK",
             "country": "Russia",
             "population": 597237,
             "hdi": 0.836,
@@ -426,7 +426,7 @@
         {
             "name": "Irkutsk",
             "state": "Irkutsk Oblast",
-            "stateAbbrev": "",
+            "stateAbbrev": "IO",
             "country": "Russia",
             "population": 623869,
             "hdi": 0.852,
@@ -435,7 +435,7 @@
         {
             "name": "Yekaterinburg",
             "state": "Sverdlovsk Oblast",
-            "stateAbbrev": "",
+            "stateAbbrev": "SO",
             "country": "Russia",
             "population": 1495066,
             "hdi": 0.864,
@@ -444,7 +444,7 @@
         {
             "name": "Sevastopol",
             "state": "Sevastopol",
-            "stateAbbrev": "",
+            "stateAbbrev": "SL",
             "country": "Russia",
             "population": 547820,
             "hdi": 0.832,
@@ -453,7 +453,7 @@
         {
             "name": "Kherson",
             "state": "Kherson Oblast",
-            "stateAbbrev": "",
+            "stateAbbrev": "KO",
             "country": "Russia",
             "population": 279131,
             "hdi": 0.832,
