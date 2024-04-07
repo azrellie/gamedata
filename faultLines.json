@@ -323,7 +323,7 @@
         },
         {
             "name": "Denali Fault",
-            "lengthKm": 300,
+            "lengthKm": 2000,
             "depthKm": 5,
             "points": [
                 [56.148922026452176, -134.61367265397075],
