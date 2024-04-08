@@ -1134,8 +1134,8 @@
         },
         {
             "name": "East Tennessee Seismic Zone",
-            "lengthKm": 135,
-            "depthKm": 9,
+            "lengthKm": 300,
+            "depthKm": 10.1,
             "points": [
                 [34.399352175188724, -85.42509947509556],
                 [34.80094239617468, -85.13787345777683],
