@@ -1484,8 +1484,8 @@
         },
         {
             "name": "Sangihe Subduction Zone",
-            "lengthKm": 500,
-            "depthKm": 650,
+            "lengthKm": 650,
+            "depthKm": 40,
             "points": [
                 [6.632873521815852, 123.59493108879457],
                 [6.199378913632441, 123.91450288508834],
