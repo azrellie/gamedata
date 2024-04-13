@@ -33,7 +33,7 @@
             "visualizationColor": [255, 85, 0]
         },
         {
-            "name": "Middle America Fault",
+            "name": "Middle America Subduction Zone",
             "lengthKm": 2750,
             "depthKm": 6.669,
             "points": [
@@ -108,7 +108,7 @@
             "visualizationColor": [0, 255, 0]
         },
         {
-            "name": "Aleutian Fault",
+            "name": "Alaska-Aleutian Megathrust",
             "lengthKm": 4000,
             "depthKm": 8.1,
             "points": [
