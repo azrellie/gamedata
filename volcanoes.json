@@ -559,7 +559,7 @@
             "type": "Caldera",
             "summitFeet": 640,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Flat Landing Brook Formation is a caldera in New Brunswick. It erupted over 465 million years ago with an estimated volume of 12,000 cubic km, making it the second strongest confirmed explosive eruption in Earths history."
         },
         {
             "name": "Pastos Grandes",
@@ -577,16 +577,16 @@
             "type": "Large Igneous Province",
             "summitFeet": 397,
             "magmaType": "Rhyolite",
-            "desc": ""
+            "desc": "Siberian Traps is a large igneous province in Russia. It is well known for causing the Permian-Triassic Extinction event 252 million years ago."
         },
         {
             "name": "Caribbean Large Igneous Province",
             "vei": 10,
             "coordinates": [15.195956984413439, -69.72175985883337],
             "type": "Large Igneous Province",
-            "summitFeet": 0,
+            "summitFeet": -7217,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Caribbean LIP is a large igneous province in the Caribbean Sea. It erupted most of its material between 95 and 88 million years ago. "
         },
         {
             "name": "North Atlantic Igneous Province",
@@ -595,7 +595,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 0,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "North Atlantic Igneous Province is a large igneous province near UK and Ireland. The eruption of NAIP could be the cause of Paleocene-Eocene Thermal Maximum."
         },
         {
             "name": "Paraná Traps",
@@ -604,7 +604,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 1555,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Paraná Traps is a large igneous province in Brazil. It may have caused one of the largest explosive eruptions in Earths history."
         },
         {
             "name": "Deccan Traps",
@@ -613,7 +613,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 846,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Deccan Traps is a large igneous province in India. It is believed that Deccan Traps was the actual cause of the K-T extinction event."
         },
         {
             "name": "Emeishan Traps",
@@ -622,7 +622,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 9196,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Emeishan Traps is a large igneous province in China. It could have caused the end-Guadalupian extinction event."
         },
         {
             "name": "Columbia River Basalt Group",
@@ -631,7 +631,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 2690,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Columbia River Basalt Group is a large igneous province in the US. It is one of the youngest continental flood basalt provinces."
         },
         {  
             "name": "Afro-Arabian Large Igneous Province",
@@ -640,7 +640,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 2937,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Afro-Arabian LIP is a large igneous province between Africa and Arabian Peninsula. It caused the largest explosive eruptions in Africa."
         },
         {  
             "name": "Gawler Range Large Igneous Province",
@@ -649,7 +649,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 1500,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Gawler Range LIP is a large igneous province in Australia. It is one of the oldest LIPs, erupting over 1.6 billion years ago."
         },
         {
             "name": "Karoo Ferrar Large Igneous Province",
@@ -658,7 +658,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 8484,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Karoo-Ferrar LIP is a large igneous province in Africa and Antarctica. It may have caused the Pliensbachian-Toarcian extinction event."
         },
         {
             "name": "Kerguelen Plateau",
@@ -667,7 +667,7 @@
             "type": "Large Igneous Province",
             "summitFeet": -6600,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Kerguelen Plateau is a Large Igneous Province in the Indian Ocean. It is one of the most voluminous large igneous provinces, ejecting over 17 million cubic km of volcanic material."
         },
         {
             "name": "Ahmeyim Great Dyke of Mauritania",
@@ -676,7 +676,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 2000,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Ahmeyim Great Dyke of Mauritania is a large igneous province in Mauritania. It is a relatively small and a very old LIP, erupting over 2.7 billion years ago."
         },
         {
             "name": "Etna",
@@ -2627,7 +2627,7 @@
             "type": "Volcanic Plateau",
             "summitFeet": 7936,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Mambilla Plateau is a volcanic plateau in Nigeria. It erupted as a flood basalt with a volume of less than 100,000 cubic km."
         },
         {
             "name": "Garðar Large Igneous Province",
@@ -2636,7 +2636,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 5000,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Garðar LIP is a large igneous province in Greenland. It is likely the oldest VEI 9 volcano, erupting over 1.2 billion years ago."
         },
         {
             "name": "Harts Range",
@@ -2645,7 +2645,7 @@
             "type": "Large Igneous Province",
             "summitFeet": 6000,
             "magmaType": "Basalt",
-            "desc": ""
+            "desc": "Harts Range is a large igneous province in Australia. It erupted over 1.5 billion years ago as a low volume LIP."
         },
         {
             "name": "Ontong Java Plateau",
