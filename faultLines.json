@@ -1723,8 +1723,8 @@
         },
         {
             "name": "Northern Appenines Fault",
-            "lengthKm": 120,
-            "depthKm": 20,
+            "lengthKm": 550,
+            "depthKm": 16,
             "points": [
                 [44.922061041973436, 8.992842947536676],
                 [45.01001215310493, 9.235171809937619],
