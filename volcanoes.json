@@ -2718,15 +2718,6 @@
             "summitFeet": 4973,
             "magmaType": "Basalt",
             "desc": "Raton-Clayton Volcanic Field is a volcanic field in the USA. One of the lava flows from this volcano has reached Oklahoma."
-        },
-        {
-            "name": "Springdale Caldera",
-            "vei": 8,
-            "coordinates": [49.44484533991837, -56.05565749973032],
-            "type": "Caldera",
-            "summitFeet": 1000,
-            "magmaType": "Rhyolite",
-            "desc": "Springdale Caldera is a giant caldera in Newfoundland. It is at least 60 km (37 mi) long and 35 km (22 mi) wide. The Springdale Caldera is unlike any found with orogenic calc-alkaline suites in that its large size, representing a minimum eruption volume between 1000 and 10000 cubic km, matched only by the largest epicontinental calderas, like those of southwestern USA."
         }
     ]
 }
