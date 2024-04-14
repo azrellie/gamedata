@@ -494,6 +494,24 @@
             "population": 1096961,
             "hdi": 0.895,
             "coordinates": [35.98057822553712, -83.92852833918941]
+        },
+        {
+            "name": "Hull",
+            "state": "England",
+            "stateAbbrev": "",
+            "country": "United Kingdom",
+            "population": 266423,
+            "hdi": 0.93,
+            "coordinates": [53.7570753337258, -0.3278230045990585]
+        },
+        {
+            "name": "Dublin",
+            "state": "Leinster",
+            "stateAbbrev": "",
+            "country": "Ireland",
+            "population": 544107,
+            "hdi": 0.94,
+            "coordinates": [53.3472728114541, -6.26501794751519]
         }
     ]
 }
