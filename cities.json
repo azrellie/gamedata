@@ -137,8 +137,8 @@
         },
         {
             "name": "Tallahassee",
-            "state": "Alabama",
-            "stateAbbrev": "AL",
+            "state": "Florida",
+            "stateAbbrev": "FL",
             "country": "United States",
             "population": 201731,
             "hdi": 0.95,
