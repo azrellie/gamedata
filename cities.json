@@ -601,7 +601,7 @@
             "country": "Jamaica",
             "population": 1243000,
             "hdi": 0.71,
-            "coordinates": [21.467804285027754, -71.13726558931634]
+            "coordinates": [18.01760069151215, -76.80701616483385]
         },
         {
             "name": "Montego Bay",
@@ -674,6 +674,132 @@
             "population": 101297,
             "hdi": 0.81,
             "coordinates": [10.516831358859562, -61.41099303644685]
+        },
+        {
+            "name": "Philadelphia",
+            "state": "Pennsylvania",
+            "stateAbbrev": "PA",
+            "country": "United States",
+            "population": 5696125,
+            "hdi": 0.92,
+            "coordinates": [39.95183138672318, -75.16634323883736]
+        },
+        {
+            "name": "New York City",
+            "state": "New York",
+            "stateAbbrev": "NY",
+            "country": "United States",
+            "population": 19426449,
+            "hdi": 0.94,
+            "coordinates": [40.7097166174018, -74.00787767277025]
+        },
+        {
+            "name": "Baltimore",
+            "state": "Maryland",
+            "stateAbbrev": "MD",
+            "country": "United States",
+            "population": 2212038,
+            "hdi": 0.94,
+            "coordinates": [39.289872106297395, -76.61229357130466]
+        },
+        {
+            "name": "Washington D.C.",
+            "state": "District of Columbia",
+            "stateAbbrev": "DC",
+            "country": "United States",
+            "population": 689545,
+            "hdi": 0.94,
+            "coordinates": [38.896845438959204, -77.02231577598843]
+        },
+        {
+            "name": "Richmond",
+            "state": "Virginia",
+            "stateAbbrev": "VA",
+            "country": "United States",
+            "population": 1339182,
+            "hdi": 0.93,
+            "coordinates": [37.54075335906825, -77.43583936214671]
+        },
+        {
+            "name": "Norfolk",
+            "state": "Virginia",
+            "stateAbbrev": "VA",
+            "country": "United States",
+            "population": 1725246,
+            "hdi": 0.93,
+            "coordinates": [36.85067640525063, -76.28685952052291]
+        },
+        {
+            "name": "Boston",
+            "state": "Massachusetts",
+            "stateAbbrev": "MA",
+            "country": "United States",
+            "population": 4382009,
+            "hdi": 0.95,
+            "coordinates": [42.36142874374173, -71.06148946370504]
+        },
+        {
+            "name": "Providence",
+            "state": "Rhode Island",
+            "stateAbbrev": "RI",
+            "country": "United States",
+            "population": 1285806,
+            "hdi": 0.92,
+            "coordinates": [41.82551923550077, -71.41867760393286]
+        },
+        {
+            "name": "Portland",
+            "state": "Maine",
+            "stateAbbrev": "ME",
+            "country": "United States",
+            "population": 205356,
+            "hdi": 0.92,
+            "coordinates": [43.6600632542098, -70.25612566220748]
+        },
+        {
+            "name": "Bangor",
+            "state": "Maine",
+            "stateAbbrev": "ME",
+            "country": "United States",
+            "population": 61210,
+            "hdi": 0.92,
+            "coordinates": [44.80003029918657, -68.77196971527718]
+        },
+        {
+            "name": "Halifax",
+            "state": "Nova Scotia",
+            "stateAbbrev": "NS",
+            "country": "Canada",
+            "population": 465703,
+            "hdi": 0.91,
+            "coordinates": [44.671464227053015, -63.58913608668473]
+        },
+        {
+            "name": "Sydney",
+            "state": "Nova Scotia",
+            "stateAbbrev": "NS",
+            "country": "Canada",
+            "population": 30960,
+            "hdi": 0.91,
+            "coordinates": [46.136537999893314, -60.191929525114595]
+        },
+        {
+            "name": "St. John's",
+            "state": "Newfoundland & Labrador",
+            "stateAbbrev": "NL",
+            "country": "Canada",
+            "population": 30960,
+            "hdi": 0.90,
+            "coordinates": [47.552780317106794, -52.73581451575603]
+        },
+        {
+            "name": "Praia",
+            "state": "Praia",
+            "stateAbbrev": "",
+            "country": "Cape Verde",
+            "population": 159050,
+            "hdi": 0.66,
+            "coordinates": [14.919218835434174, -23.508162093685286]
         }
     ]
 }
