@@ -257,7 +257,7 @@
             "state": "Yucatan",
             "stateAbbrev": "YU",
             "country": "Mexico",
-            "population": 888797,
+            "population": 1316090,
             "hdi": 0.76,
             "coordinates": [20.97116942591282, -89.62243362369776]
         },
@@ -512,6 +512,168 @@
             "population": 544107,
             "hdi": 0.94,
             "coordinates": [53.3472728114541, -6.26501794751519]
+        },
+        {
+            "name": "Havana",
+            "state": "Havana",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 2130000,
+            "hdi": 0.76,
+            "coordinates": [23.113973073055316, -82.36621593490322] 
+        },
+        {
+            "name": "Camaguey",
+            "state": "Camagüey",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 306152,
+            "hdi": 0.76,
+            "coordinates": [21.384243374322015, -77.90705384011893] 
+        },
+        {
+            "name": "Santiago de Cuba",
+            "state": "Santiago de Cuba",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 433498,
+            "hdi": 0.76,
+            "coordinates": [20.02335001920656, -75.83127601329876] 
+        },
+        {
+            "name": "Santo Domingo",
+            "state": "Santiago de Cuba",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 4579356,
+            "hdi": 0.76,
+            "coordinates": [18.462641880251606, -69.93601688177951]
+        },
+        {
+            "name": "San Juan",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 340903,
+            "hdi": 0.84,
+            "coordinates": [18.432204694534825, -66.09814394201267]
+        },
+        {
+            "name": "Ponce",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 137491,
+            "hdi": 0.84,
+            "coordinates": [18.010176948685466, -66.61253088988207]
+        },
+        {
+            "name": "Nassau",
+            "state": "New Providence",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 266100,
+            "hdi": 0.82,
+            "coordinates": [25.046451490505834, -77.34779903908459]
+        }
+        {
+            "name": "Nassau",
+            "state": "West Grand Bahama",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 26914,
+            "hdi": 0.82,
+            "coordinates": [26.53354900765378, -78.64380668690586]
+        },
+        {
+            "name": "Cockburn Town",
+            "state": "Turks and Caicos Islands",
+            "stateAbbrev": "",
+            "country": "United Kingdom",
+            "population": 3700,
+            "hdi": 0.87,
+            "coordinates": [21.467804285027754, -71.13726558931634]
+        },
+        {
+            "name": "Kingston",
+            "state": "St. Andrew",
+            "stateAbbrev": "",
+            "country": "Jamaica",
+            "population": 1243000,
+            "hdi": 0.71,
+            "coordinates": [21.467804285027754, -71.13726558931634]
+        },
+        {
+            "name": "Montego Bay",
+            "state": "St. James",
+            "stateAbbrev": "",
+            "country": "Jamaica",
+            "population": 427891,
+            "hdi": 0.71,
+            "coordinates": [18.469178523776634, -77.91576948291288]
+        },
+        {
+            "name": "George Town",
+            "state": "Cayman Islands",
+            "stateAbbrev": "",
+            "country": "United Kingdom",
+            "population": 427891,
+            "hdi": 0.87,
+            "coordinates": [19.29593783817226, -81.38070827620538]
+        },
+        {
+            "name": "San Andrés",
+            "state": "San Andrés",
+            "stateAbbrev": "",
+            "country": "Colombia",
+            "population": 67912,
+            "hdi": 0.75,
+            "coordinates": [12.580964649826939, -81.70184957686136]
+        },
+        {
+            "name": "Oranjestad",
+            "state": "Aruba",
+            "stateAbbrev": "",
+            "country": "Netherlands",
+            "population": 28658,
+            "hdi": 0.87,
+            "coordinates": [12.52297182545941, -70.03584164334644]
+        },
+        {
+            "name": "Willemstad",
+            "state": "Curaçao",
+            "stateAbbrev": "",
+            "country": "Netherlands",
+            "population": 136660,
+            "hdi": 0.87,
+            "coordinates": [12.52297182545941, -70.03584164334644]
+        },
+        {
+            "name": "Key West",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 26444,
+            "hdi": 0.91,
+            "coordinates": [24.554295323591845, -81.78190220604809]
+        },
+        {
+            "name": "Port of Spain",
+            "state": "Trinidad",
+            "stateAbbrev": "",
+            "country": "Trinidad & Tobago",
+            "population": 81142,
+            "hdi": 0.81,
+            "coordinates": [10.666713315157363, -61.5104175399365]
+        },
+        {
+            "name": "Chaguanas",
+            "state": "Chaguanas",
+            "stateAbbrev": "",
+            "country": "Trinidad & Tobago",
+            "population": 101297,
+            "hdi": 0.81,
+            "coordinates": [10.516831358859562, -61.41099303644685]
         }
     ]
 }
