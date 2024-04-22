@@ -1538,6 +1538,69 @@
             "population": 98500,
             "hdi": 0.768,
             "coordinates": [9.992088432079322, -83.0425505075448]
+        },
+        {
+            "name": "Managua",
+            "state": "Managua",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 1401687,
+            "hdi": 0.768,
+            "coordinates": [12.133283556576448, -86.2306932669227]
+        },
+        {
+            "name": "Estelí",
+            "state": "Estelí",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 131179,
+            "hdi": 0.768,
+            "coordinates": [13.090352074993936, -86.35841910500679]
+        },
+        {
+            "name": "León",
+            "state": "León",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 213718,
+            "hdi": 0.768,
+            "coordinates": [12.434191535208827, -86.88121512864761]
+        },
+        {
+            "name": "Chinandega",
+            "state": "Chinandega",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 137539,
+            "hdi": 0.768,
+            "coordinates": [12.624468120721096, -87.12925831796078]
+        },
+        {
+            "name": "Matagalpa",
+            "state": "Matagalpa",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 169540,
+            "hdi": 0.768,
+            "coordinates": [12.931668635876228, -85.91592061945123]
+        },
+        {
+            "name": "Granada",
+            "state": "Granada",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 134104,
+            "hdi": 0.768,
+            "coordinates": [11.934642914833699, -85.95602308193696]
+        },
+        {
+            "name": "Puerto Cabezas",
+            "state": "North Caribbean Coast Autonomous Region",
+            "stateAbbrev": "",
+            "country": "Nicaragua",
+            "population": 134535,
+            "hdi": 0.768,
+            "coordinates": [14.037592916618074, -83.39461847464355]
         }
     ]
 }
