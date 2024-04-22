@@ -1223,6 +1223,114 @@
             "population": 300000,
             "hdi": 0.55,
             "coordinates": [19.453545917803957, -72.68198581916127]
+        },
+        {
+            "name": "Tegucigalpa",
+            "state": "Francisco Morazán",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 1326460,
+            "hdi": 0.62,
+            "coordinates": [14.064709149182832, -87.16876632628116]
+        },
+        {
+            "name": "San Pedro Sula",
+            "state": "Cortés",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 834883,
+            "hdi": 0.62,
+            "coordinates": [15.50510708825073, -88.0216165592557]
+        },
+        {
+            "name": "La Ceiba",
+            "state": "Atlántida",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 232696,
+            "hdi": 0.62,
+            "coordinates": [15.773386764280207, -86.79118761822454]
+        },
+        {
+            "name": "Tela",
+            "state": "Atlántida",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 110225,
+            "hdi": 0.62,
+            "coordinates": [15.777916803918785, -87.4644276441344]
+        },
+        {
+            "name": "Tocoa",
+            "state": "Colón",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 111972,
+            "hdi": 0.62,
+            "coordinates": [15.657585868460517, -85.99875110430806]
+        },
+        {
+            "name": "Puerto Lempira",
+            "state": "Gracias a Dios",
+            "stateAbbrev": "",
+            "country": "Honduras",
+            "population": 61626,
+            "hdi": 0.62,
+            "coordinates": [15.263156843131068, -83.77878218780904]
+        },
+        {
+            "name": "Belize City",
+            "state": "Belize",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 61461,
+            "hdi": 0.7,
+            "coordinates": [17.503259442160257, -88.19494402041228]
+        },
+        {
+            "name": "Belmopan",
+            "state": "Cayo",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 13381,
+            "hdi": 0.7,
+            "coordinates": [17.251107552059736, -88.76116248892404]
+        },
+        {
+            "name": "Orange Walk Town",
+            "state": "Orange Walk",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 25767,
+            "hdi": 0.7,
+            "coordinates": [18.08533233241455, -88.56850433132287]
+        },
+        {
+            "name": "San Pedro Town",
+            "state": "Belize",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 17429,
+            "hdi": 0.7,
+            "coordinates": [17.921764327514392, -87.96117396291466]
+        },
+        {
+            "name": "Corozal Town",
+            "state": "Corozal",
+            "stateAbbrev": "",
+            "country": "Belize",
+            "population": 13502,
+            "hdi": 0.7,
+            "coordinates": [18.39676241256038, -88.39326953671258]
+        },
+        {
+            "name": "Chetumal",
+            "state": "Quintana Roo",
+            "stateAbbrev": "QI",
+            "country": "Mexico",
+            "population": 169028,
+            "hdi": 0.76,
+            "coordinates": [18.49930416290748, -88.29674422597736]
         }
     ]
 }
