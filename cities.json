@@ -1475,6 +1475,69 @@
             "population": 9255,
             "hdi": 0.719,
             "coordinates": [7.7667212546122055, -80.27483331377431]
+        },
+        {
+            "name": "San José",
+            "state": "San José",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 2158898,
+            "hdi": 0.828,
+            "coordinates": [9.933683173475343, -84.09892642643452]
+        },
+        {
+            "name": "Quepos",
+            "state": "Puntarenas",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 19858,
+            "hdi": 0.828,
+            "coordinates": [9.43195850021463, -84.16193128285062]
+        },
+        {
+            "name": "Liberia",
+            "state": "Guanacaste",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 53382,
+            "hdi": 0.793,
+            "coordinates": [10.634435046029616, -85.44090495456517]
+        },
+        {
+            "name": "Tamarindo",
+            "state": "Guanacaste",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 6375,
+            "hdi": 0.793,
+            "coordinates": [10.298947758565108, -85.84075624592049]
+        },
+        {
+            "name": "Jacó",
+            "state": "Puntarenas",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 11685,
+            "hdi": 0.787,
+            "coordinates": [9.615175995950718, -84.62889630251198]
+        },
+        {
+            "name": "Puerto Viejo de Talamanca",
+            "state": "Limón",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 10000,
+            "hdi": 0.768,
+            "coordinates": [9.65609242272666, -82.75420547134021]
+        },
+        {
+            "name": "Limón",
+            "state": "Limón",
+            "stateAbbrev": "",
+            "country": "Costa Rica",
+            "population": 98500,
+            "hdi": 0.768,
+            "coordinates": [9.992088432079322, -83.0425505075448]
         }
     ]
 }
