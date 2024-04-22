@@ -971,6 +971,87 @@
             "population": 599242,
             "hdi": 0.95,
             "coordinates": [26.564681132816006, -81.9460816316696]
+        },
+        {
+            "name": "Andros Town",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 59,
+            "hdi": 0.8,
+            "coordinates": [24.704658399742083, -77.78549028611594]
+        },
+        {
+            "name": "Mars Bay Settlement",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 88,
+            "hdi": 0.81,
+            "coordinates": [23.868167014538802, -77.51639003481657]
+        },
+        {
+            "name": "Congo Town",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 90,
+            "hdi": 0.81,
+            "coordinates": [24.15977539992686, -77.58363182609081]
+        },
+        {
+            "name": "Black Point",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 412,
+            "hdi": 0.83,
+            "coordinates": [24.08099700070789, -76.39830239673473]
+        },
+        {
+            "name": "Matthew Town",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 430,
+            "hdi": 0.83,
+            "coordinates": [20.951140279823722, -73.6745590360705]
+        },
+        {
+            "name": "Betsy Bay Settlement",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 44,
+            "hdi": 0.81,
+            "coordinates": [22.41940909957326, -73.1340917730254]
+        },
+        {
+            "name": "Chester's Settlement",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 49,
+            "hdi": 0.81,
+            "coordinates": [22.706487872728832, -73.93516452893859]
+        },
+        {
+            "name": "George Town",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 2488,
+            "hdi": 0.83,
+            "coordinates": [22.706487872728832, -73.93516452893859]
+        },
+        {
+            "name": "Elbow Cay",
+            "state": "Bahamas",
+            "stateAbbrev": "",
+            "country": "Bahamas",
+            "population": 300,
+            "hdi": 0.81,
+            "coordinates": [26.523627702208362, -76.96842466059412]
         }
     ]
 }
