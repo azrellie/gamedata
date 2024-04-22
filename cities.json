@@ -843,7 +843,7 @@
             "stateAbbrev": "CA",
             "country": "United States",
             "population": 3070300,
-            "hdi": 0.81,
+            "hdi": 0.93,
             "coordinates": [32.7171863517969, -117.15974945528814]
         },
         {
@@ -1601,6 +1601,78 @@
             "population": 134535,
             "hdi": 0.768,
             "coordinates": [14.037592916618074, -83.39461847464355]
+        },
+        {
+            "name": "Los Angeles",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 12237376,
+            "hdi": 0.93,
+            "coordinates": [34.05613547765359, -118.23462076235008]
+        },
+        {
+            "name": "San Fransisco",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 4623264,
+            "hdi": 0.93,
+            "coordinates": [37.77596015546383, -122.41757013989037]
+        },
+        {
+            "name": "San Jose",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 1837446,
+            "hdi": 0.93,
+            "coordinates": [37.3373800302748, -121.88600113307065]
+        },
+        {
+            "name": "Sacramento",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 2397382,
+            "hdi": 0.93,
+            "coordinates": [38.57959320063111, -121.4947947730383]
+        },
+        {
+            "name": "Portland",
+            "state": "Oregon",
+            "stateAbbrev": "OR",
+            "country": "United States",
+            "population": 2104238,
+            "hdi": 0.93,
+            "coordinates": [45.51483428729584, -122.67782716589947]
+        },
+        {
+            "name": "Seattle",
+            "state": "Washington",
+            "stateAbbrev": "WA",
+            "country": "United States",
+            "population": 3544011,
+            "hdi": 0.93,
+            "coordinates": [47.60603643610282, -122.33329717159876]
+        },
+        {
+            "name": "Juneau",
+            "state": "Alaska",
+            "stateAbbrev": "AK",
+            "country": "United States",
+            "population": 32225,
+            "hdi": 0.93,
+            "coordinates": [58.382525311857556, -134.57958158217477]
+        },
+        {
+            "name": "Anchorage",
+            "state": "Alaska",
+            "stateAbbrev": "AK",
+            "country": "United States",
+            "population": 398807,
+            "hdi": 0.93,
+            "coordinates": [61.21716732818913, -149.89802673461693]
         }
     ]
 }
