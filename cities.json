@@ -1043,6 +1043,33 @@
             "population": 300,
             "hdi": 0.81,
             "coordinates": [26.523627702208362, -76.96842466059412]
+        },
+        {
+            "name": "Holguin",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 294965,
+            "hdi": 0.74,
+            "coordinates": [20.886510197065828, -76.25865498052562]
+        },
+        {
+            "name": "Santa Clara",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 216142,
+            "hdi": 0.74,
+            "coordinates": [22.40555476412992, -79.96609997729631]
+        },
+        {
+            "name": "Cienfuegos",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Cuba",
+            "population": 150736,
+            "hdi": 0.76,
+            "coordinates": [22.14363937608299, -80.44049854118464]
         }
     ]
 }
