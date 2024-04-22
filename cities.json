@@ -542,9 +542,9 @@
         },
         {
             "name": "Santo Domingo",
-            "state": "Santiago de Cuba",
+            "state": "Santo Domingo",
             "stateAbbrev": "",
-            "country": "Cuba",
+            "country": "Dominican Republic",
             "population": 4579356,
             "hdi": 0.76,
             "coordinates": [18.462641880251606, -69.93601688177951]
@@ -1124,6 +1124,105 @@
             "population": 2565000,
             "hdi": 0.93,
             "coordinates": [23.480790648927016, 120.44885565102076]
+        },
+        {
+            "name": "Bayamón",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 185171,
+            "hdi": 0.84,
+            "coordinates": [18.368883032941707, -66.16409955813111]
+        },
+        {
+            "name": "Caguas",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 127244,
+            "hdi": 0.84,
+            "coordinates": [18.238454791206287, -66.03531802539162]
+        },
+        {
+            "name": "Arecibo",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 87754,
+            "hdi": 0.84,
+            "coordinates": [18.45982353351391, -66.7437463776623]
+        },
+        {
+            "name": "Mayagüez",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 73077,
+            "hdi": 0.84,
+            "coordinates": [18.201578820502213, -67.14471926118878]
+        },
+        {
+            "name": "Aguadilla",
+            "state": "Puerto Rico",
+            "stateAbbrev": "PR",
+            "country": "United States",
+            "population": 55101,
+            "hdi": 0.84,
+            "coordinates": [18.433108438189112, -67.15388434388241]
+        },
+        {
+            "name": "Santiago",
+            "state": "Santiago Province",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 771748,
+            "hdi": 0.76,
+            "coordinates": [19.47416231953756, -70.6941151891787]
+        },
+        {
+            "name": "Puerto Plata",
+            "state": "Puerto Plata",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 329419,
+            "hdi": 0.76,
+            "coordinates": [19.780738489764477, -70.68786641660871]
+        },
+        {
+            "name": "La Vega",
+            "state": "La Vega",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 202864,
+            "hdi": 0.76,
+            "coordinates": [19.221496167952537, -70.52641903144143]
+        },
+        {
+            "name": "San Pedro de Macorís",
+            "state": "San Pedro de Macorís",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 217523,
+            "hdi": 0.76,
+            "coordinates": [18.462909559424965, -69.30413826857381]
+        },
+        {
+            "name": "La Romana",
+            "state": "La Romana",
+            "stateAbbrev": "",
+            "country": "Dominican Republic",
+            "population": 250000,
+            "hdi": 0.76,
+            "coordinates": [18.433788866642136, -68.9672616289907]
+        },
+        {
+            "name": "Gonaïves",
+            "state": "Artibonite",
+            "stateAbbrev": "",
+            "country": "Haiti",
+            "population": 300000,
+            "hdi": 0.55,
+            "coordinates": [19.453545917803957, -72.68198581916127]
         }
     ]
 }
