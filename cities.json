@@ -800,6 +800,168 @@
             "population": 159050,
             "hdi": 0.66,
             "coordinates": [14.919218835434174, -23.508162093685286]
+        },
+        {
+            "name": "Mexico City",
+            "state": "Federal District",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 21804515,
+            "hdi": 0.81,
+            "coordinates": [19.439968927266673, -99.1274374816992]
+        },
+        {
+            "name": "Guadalajara",
+            "state": "Jalisco",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 5286542,
+            "hdi": 0.76,
+            "coordinates": [20.67620306681962, -103.34728877250716]
+        },
+        {
+            "name": "Acapulco",
+            "state": "Guerrero",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 852662,
+            "hdi": 0.69,
+            "coordinates": [16.863811332305755, -99.88267099097999]
+        },
+        {
+            "name": "Monterrey",
+            "state": "Nuevo León",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 5341171,
+            "hdi": 0.80,
+            "coordinates": [25.68575117467227, -100.31172890128971]
+        },
+        {
+            "name": "San Diego",
+            "state": "California",
+            "stateAbbrev": "CA",
+            "country": "United States",
+            "population": 3070300,
+            "hdi": 0.81,
+            "coordinates": [19.439968927266673, -99.1274374816992]
+        },
+        {
+            "name": "Cabo San Lucas",
+            "state": "Baja California Sur",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 351111,
+            "hdi": 0.78,
+            "coordinates": [22.896457666098474, -109.9170108280096]
+        },
+        {
+            "name": "Puerto Vallarta",
+            "state": "Jalisco",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 479471,
+            "hdi": 0.77,
+            "coordinates": [20.663290163413013, -105.21581625257049]
+        },
+        {
+            "name": "Matamoros",
+            "state": "Tamaulipas",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 1387985,
+            "hdi": 0.77,
+            "coordinates": [25.86897072898417, -97.50368463194621]
+        },
+        {
+            "name": "Mazatlán",
+            "state": "Sinaloa",
+            "stateAbbrev": "",
+            "country": "Mexico",
+            "population": 502547,
+            "hdi": 0.78,
+            "coordinates": [23.250705224175803, -106.41263404665412]
+        },
+        {
+            "name": "Hilo",
+            "state": "Hawaii",
+            "stateAbbrev": "HI",
+            "country": "United States",
+            "population": 44186,
+            "hdi": 0.94,
+            "coordinates": [19.721447625698122, -155.08509946975275]
+        },
+        {
+            "name": "Honolulu",
+            "state": "Hawaii",
+            "stateAbbrev": "HI",
+            "country": "United States",
+            "population": 1016508,
+            "hdi": 0.94,
+            "coordinates": [21.310509616982, -157.85947047687594]
+        },
+        {
+            "name": "Manila",
+            "state": "Metro Manila",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 13484482,
+            "hdi": 0.71,
+            "coordinates": [14.59992610907044, 120.97986691402494]
+        },
+        {
+            "name": "Davao City",
+            "state": "Davao",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 2770000,
+            "hdi": 0.71,
+            "coordinates": [7.073441998650671, 125.6163252452452]
+        },
+        {
+            "name": "Cebu City",
+            "state": "Cebu",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 2454000,
+            "hdi": 0.71,
+            "coordinates": [10.315980677179455, 123.90106904998233]
+        },
+        {
+            "name": "Hong Kong",
+            "state": "Hong Kong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 7500000,
+            "hdi": 0.96,
+            "coordinates": [22.319824792447708, 114.17490222633273]
+        },
+        {
+            "name": "Macau",
+            "state": "Macau",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 672800,
+            "hdi": 0.92,
+            "coordinates": [22.199277540739864, 113.54490972483967]
+        },
+        {
+            "name": "Tokyo",
+            "state": "Tokyo",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 39105000,
+            "hdi": 0.95,
+            "coordinates": [35.69044858348485, 139.77680613537055]
+        },
+        {
+            "name": "Taipei",
+            "state": "Taipei",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 9078000,
+            "hdi": 0.93,
+            "coordinates": [25.026285163032828, 121.56290081416357]
         }
     ]
 }
