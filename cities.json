@@ -1331,6 +1331,87 @@
             "population": 169028,
             "hdi": 0.76,
             "coordinates": [18.49930416290748, -88.29674422597736]
+        },
+        {
+            "name": "Sochi",
+            "state": "Krasnodarsky Krai",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 466000,
+            "hdi": 0.840,
+            "coordinates": [43.60117694382596, 39.73540762086746]
+        },
+        {
+            "name": "Krasnodar",
+            "state": "Krasnodarsky Krai",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1728678,
+            "hdi": 0.840,
+            "coordinates": [45.039507379638934, 38.98739705315364]
+        },
+        {
+            "name": "Krasnodar",
+            "state": "Krasnodarsky Krai",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1728678,
+            "hdi": 0.840,
+            "coordinates": [45.039507379638934, 38.98739705315364]
+        },
+        {
+            "name": "Rostov-on-Don",
+            "state": "Rostov Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1115000,
+            "hdi": 0.826,
+            "coordinates": [47.23785912193875, 39.67681540490911]
+        },
+        {
+            "name": "Kazan",
+            "state": "Tatarstan",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1243500,
+            "hdi": 0.867,
+            "coordinates": [55.78535408258429, 49.12273253380063]
+        },
+        {
+            "name": "Murmansk",
+            "state": "Murmansk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 267422,
+            "hdi": 0.823,
+            "coordinates": [68.96427007142823, 33.08953992800133]
+        },
+        {
+            "name": "Chelyabinsk",
+            "state": "Chelyabinsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1202371,
+            "hdi": 0.826,
+            "coordinates": [55.16506315533124, 61.43301555723001]
+        },
+        {
+            "name": "Omsk",
+            "state": "Omsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1108367,
+            "hdi": 0.829,
+            "coordinates": [54.967018826156895, 73.393117191873]
+        },
+        {
+            "name": "Novosibirsk",
+            "state": "Novosibirsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 1567000,
+            "hdi": 0.862,
+            "coordinates": [54.994294818174886, 82.89515083900568]
         }
     ]
 }
