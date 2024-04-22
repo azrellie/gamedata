@@ -962,6 +962,15 @@
             "population": 9078000,
             "hdi": 0.93,
             "coordinates": [25.026285163032828, 121.56290081416357]
+        },
+        {
+            "name": "Cape Coral",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 599242,
+            "hdi": 0.95,
+            "coordinates": [26.564681132816006, -81.9460816316696]
         }
     ]
 }
