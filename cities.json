@@ -1412,6 +1412,69 @@
             "population": 1567000,
             "hdi": 0.862,
             "coordinates": [54.994294818174886, 82.89515083900568]
+        },
+        {
+            "name": "Panamá",
+            "state": "Panamá",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 1086990,
+            "hdi": 0.820,
+            "coordinates": [9.029843662785995, -79.50465071208454]
+        },
+        {
+            "name": "David",
+            "state": "Chiriquí",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 82907,
+            "hdi": 0.890,
+            "coordinates": [8.419360131497895, -82.43138774295679]
+        },
+        {
+            "name": "La Chorrera",
+            "state": "Panamá Oeste",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 161470,
+            "hdi": 0.890,
+            "coordinates": [8.880137902465396, -79.78335429741433]
+        },
+        {
+            "name": "Colón",
+            "state": "Colón",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 241817,
+            "hdi": 0.850,
+            "coordinates": [9.35331463615277, -79.8976459002857]
+        },
+        {
+            "name": "Santiago de Veraguas",
+            "state": "Veraguas",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 101027,
+            "hdi": 0.830,
+            "coordinates": [8.100704861229543, -80.97730468762994]
+        },
+        {
+            "name": "Bocas del Toro",
+            "state": "Bocas del Toro",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 159228,
+            "hdi": 0.719,
+            "coordinates": [9.340729901212292, -82.24311110981272]
+        },
+        {
+            "name": "Las Tablas",
+            "state": "Los Santos",
+            "stateAbbrev": "",
+            "country": "Panamá",
+            "population": 9255,
+            "hdi": 0.719,
+            "coordinates": [7.7667212546122055, -80.27483331377431]
         }
     ]
 }
