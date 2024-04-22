@@ -1070,6 +1070,60 @@
             "population": 150736,
             "hdi": 0.76,
             "coordinates": [22.14363937608299, -80.44049854118464]
+        },
+        {
+            "name": "Taichung City",
+            "state": "Taichung",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 2635000,
+            "hdi": 0.93,
+            "coordinates": [24.163033912557708, 120.67400369031779]
+        },
+        {
+            "name": "Kaohsiung City",
+            "state": "Koahsiung",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 2565000,
+            "hdi": 0.93,
+            "coordinates": [22.62470742709879, 120.30173200522815]
+        },
+        {
+            "name": "Taitung City",
+            "state": "Taitung",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 2565000,
+            "hdi": 0.93,
+            "coordinates": [22.761005862495672, 121.14330320877558]
+        },
+        {
+            "name": "Hualien City",
+            "state": "Hualien",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 99458,
+            "hdi": 0.93,
+            "coordinates": [23.984100053775116, 121.59711049001555]
+        },
+        {
+            "name": "Yilan City",
+            "state": "Yilan",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 95019,
+            "hdi": 0.93,
+            "coordinates": [22.62470742709879, 120.30173200522815]
+        },
+        {
+            "name": "Chiayi City",
+            "state": "Chiayi",
+            "stateAbbrev": "",
+            "country": "Taiwan",
+            "population": 2565000,
+            "hdi": 0.93,
+            "coordinates": [22.62470742709879, 120.30173200522815]
         }
     ]
 }
