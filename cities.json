@@ -1673,6 +1673,114 @@
             "population": 398807,
             "hdi": 0.93,
             "coordinates": [61.21716732818913, -149.89802673461693]
+        },
+        {
+            "name": "Shreveport",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 288502,
+            "hdi": 0.87,
+            "coordinates": [32.52554368094709, -93.74940906662684]
+        },
+        {
+            "name": "Lake Charles",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 254625,
+            "hdi": 0.87,
+            "coordinates": [30.226668019983975, -93.21765191208445]
+        },
+        {
+            "name": "Houma",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 208178,
+            "hdi": 0.87,
+            "coordinates": [29.595328225861575, -90.7200825653244]
+        },
+        {
+            "name": "New Iberia",
+            "state": "Louisiana",
+            "stateAbbrev": "LA",
+            "country": "United States",
+            "population": 28555,
+            "hdi": 0.87,
+            "coordinates": [30.003377370815297, -91.81964124636953]
+        },
+        {
+            "name": "Panama City",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 202236,
+            "hdi": 0.95,
+            "coordinates": [30.15951806102415, -85.66011067858592]
+        },
+        {
+            "name": "Cedar Key",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 687,
+            "hdi": 0.95,
+            "coordinates": [29.138635315925878, -83.03493522469299]
+        },
+        {
+            "name": "Victoria",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 116000,
+            "hdi": 0.94,
+            "coordinates": [28.80559028384547, -97.00384024138458]
+        },
+        {
+            "name": "Fort Worth",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 995049,
+            "hdi": 0.94,
+            "coordinates": [32.75592880400535, -97.33014462736307]
+        },
+        {
+            "name": "Dallas",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 1299524,
+            "hdi": 0.94,
+            "coordinates": [32.77917955736045, -96.79733990020414]
+        },
+        {
+            "name": "Austin",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 1809888,
+            "hdi": 0.94,
+            "coordinates": [30.269506629497485, -97.74299002621034]
+        },
+        {
+            "name": "San Antonio",
+            "state": "Texas",
+            "stateAbbrev": "TX",
+            "country": "United States",
+            "population": 1992868,
+            "hdi": 0.94,
+            "coordinates": [29.426187920546973, -98.49526699693877]
+        },
+        {
+            "name": "Dothan",
+            "state": "Alabama",
+            "stateAbbrev": "AL",
+            "country": "United States",
+            "population": 71072,
+            "hdi": 0.9,
+            "coordinates": [31.22440993337608, -85.3894955676342]
         }
     ]
 }
