@@ -161,7 +161,7 @@
             "visualizationColor": [255, 255, 255]
         },
         {
-            "name": "Izu-Ogasawara Fault",
+            "name": "Izu-Ogaara Fault",
             "lengthKm": 900,
             "depthKm": 9.8,
             "points": [
@@ -927,7 +927,7 @@
                 [44.16646688035356, -114.9942046647241],
                 [43.93838468747736, -114.8766690691207]
             ],
-            "visualizationColor": [137, 101, 70]
+            "visualizationColor": [255, 255, 255]
         },
         {
             "name": "Ramapo Fault",
