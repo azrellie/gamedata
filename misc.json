@@ -7,6 +7,10 @@
         "This game has custom commands. Type '/' in the chat bar to see a list of them",
         "The UI can be toggled on or off by pressing 'm'",
         "Volcano state notifier and volcano monitor will only be free during alpha testing to ensure all bugs associated with them are fixed",
-        "The P and S wave arrival times of earthquakes in this game assumes that the position from the earthquake is directly at the epicenter"
+        "The P and S wave arrival times of earthquakes in this game assumes that the position from the earthquake is directly at the epicenter",
+        "The Mericalli scale itensity calculation is still being worked on, so some earthquakes may have unrealistically low/high MMI ratings.",
+        "This game has an official board to see upcoming updates. Join the server to get a link to it.",
+        "If volcanic activity suddenly has a massive spike, there is a potential that a very large volcanic eruption is about to occur.",
+        "Major earthquakes can cause big volcanoes to become active, albeit it is somewhat rare."
     ]
 }
