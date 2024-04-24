@@ -1,0 +1,12 @@
+{
+    "chatMessages": [
+        "The volcano state notifier can be toggled on or off by pressing the 'x' key",
+        "The volcano monitor can be toggled on or off by pressing the 'z' key",
+        "Private server owners have owner only commands that allows them to mute/kick/ban players from their server",
+        "Fun fact: This game loads its volcanoes from a json file hosted on Github. The repo name is 'azrellie/gamedata'",
+        "This game has custom commands. Type '/' in the chat bar to see a list of them",
+        "The UI can be toggled on or off by pressing 'm'",
+        "Volcano state notifier and volcano monitor will only be free during alpha testing to ensure all bugs associated with them are fixed",
+        "The P and S wave arrival times of earthquakes in this game assumes that the position from the earthquake is directly at the epicenter"
+    ]
+}
