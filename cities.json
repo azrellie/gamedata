@@ -1781,6 +1781,132 @@
             "population": 71072,
             "hdi": 0.9,
             "coordinates": [31.22440993337608, -85.3894955676342]
+        },
+        {
+            "name": "Darwin",
+            "state": "Northern Territory",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 132045,
+            "hdi": 0.95,
+            "coordinates": [-12.464349766243151, 130.84461877610968]
+        },
+        {
+            "name": "Kununurra",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 5308,
+            "hdi": 0.95,
+            "coordinates": [-15.778696365707546, 128.74324574232733]
+        },
+        {
+            "name": "Derby",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 3325,
+            "hdi": 0.96,
+            "coordinates": [-17.309045944797255, 123.63914792507828]
+        },
+        {
+            "name": "Broome",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 14660,
+            "hdi": 0.96,
+            "coordinates": [-17.96256835232475, 122.23578062526956]
+        },
+        {
+            "name": "Port Hedland",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 16000,
+            "hdi": 0.96,
+            "coordinates": [-20.31034069612214, 118.60839089724934]
+        },
+        {
+            "name": "Bulgarra",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2990,
+            "hdi": 0.96,
+            "coordinates": [-20.72861984223426, 116.85886530047935]
+        },
+        {
+            "name": "Karratha",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 16796,
+            "hdi": 0.96,
+            "coordinates": [-20.735350360782782, 116.8450277728012]
+        },
+        {
+            "name": "Nickol",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 4938,
+            "hdi": 0.96,
+            "coordinates": [-20.74312222409528, 116.79992985881069]
+        },
+        {
+            "name": "Dampier",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1275,
+            "hdi": 0.96,
+            "coordinates": [-20.66215482930306, 116.71042191962118]
+        },
+        {
+            "name": "Exmouth",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 3205,
+            "hdi": 0.96,
+            "coordinates": [-21.93314584899593, 114.1279938742455]
+        },
+        {
+            "name": "Carnarvon",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 4879,
+            "hdi": 0.96,
+            "coordinates": [-24.883879017296977, 113.65717138485986]
+        },
+        {
+            "name": "Perth",
+            "state": "Western Australia",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2067000,
+            "hdi": 0.96,
+            "coordinates": [-31.95130030981305, 115.86124641882081]
+        },
+        {
+            "name": "Townsville",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 202000,
+            "hdi": 0.96,
+            "coordinates": [-19.294634414526666, 146.76192336957467]
+        },
+        {
+            "name": "Cairns",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 175398,
+            "hdi": 0.96,
+            "coordinates": [-16.921107557046028, 145.7703824551883]
         }
     ]
 }
