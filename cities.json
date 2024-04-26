@@ -1907,6 +1907,213 @@
             "population": 175398,
             "hdi": 0.96,
             "coordinates": [-16.921107557046028, 145.7703824551883]
+        },
+        {
+            "name": "Flying Fish Cove",
+            "state": "Christmas Island",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1692,
+            "hdi": 0.95,
+            "coordinates": [-10.473288359959337, 105.65768459895523]
+        },
+        {
+            "name": "Bantam",
+            "state": "Cocos Islands",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 593,
+            "hdi": 0.95,
+            "coordinates": [-12.117639232830966, 96.89612586685773]
+        },
+        {
+            "name": "Brisbane",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2628083,
+            "hdi": 0.96,
+            "coordinates": [-27.46357948883967, 153.01196268312316]
+        },
+        {
+            "name": "Thursday Island",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2805,
+            "hdi": 0.96,
+            "coordinates": [-10.580586539937585, 142.22074463298387]
+        },
+        {
+            "name": "Antananarivo",
+            "state": "Analamanga",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 2300000,
+            "hdi": 0.50,
+            "coordinates": [-18.915484250027355, 47.519702164753355]
+        },
+        {
+            "name": "Toamasina",
+            "state": "Atsinanana",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 325876,
+            "hdi": 0.50,
+            "coordinates": [-18.14327118225965, 49.396310323079724]
+        },
+        {
+            "name": "Antsirabe",
+            "state": "Vakinankaratra",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 265018,
+            "hdi": 0.50,
+            "coordinates": [-19.873013549363733, 47.02915072314431]
+        },
+        {
+            "name": "Mahajanga",
+            "state": "Boeny",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 265018,
+            "hdi": 0.50,
+            "coordinates": [-15.69330734835761, 46.328314506943194]
+        },
+        {
+            "name": "Fianarantsoa",
+            "state": "Haute Matsiatra",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 191776,
+            "hdi": 0.50,
+            "coordinates": [-21.454069926502914, 47.085476131245926]
+        },
+        {
+            "name": "Toliara",
+            "state": "Atsimo-Andrefana",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 168755,
+            "hdi": 0.50,
+            "coordinates": [-23.349778665605392, 43.68392727125841]
+        },
+        {
+            "name": "Antsiranana",
+            "state": "Diana Region",
+            "stateAbbrev": "",
+            "country": "Madagascar",
+            "population": 129320,
+            "hdi": 0.50,
+            "coordinates": [-12.321015861486517, 49.29154238955891]
+        },
+        {
+            "name": "Mutsamudu",
+            "state": "Anjouan",
+            "stateAbbrev": "",
+            "country": "Comoros",
+            "population": 25471,
+            "hdi": 0.56,
+            "coordinates": [-12.168785975063042, 44.400293619301586]
+        },
+        {
+            "name": "Moroni",
+            "state": "Grande Comore",
+            "stateAbbrev": "",
+            "country": "Comoros",
+            "population": 111326,
+            "hdi": 0.56,
+            "coordinates": [-11.705154119753656, 43.25198586911118]
+        },
+        {
+            "name": "Fomboni",
+            "state": "Mohéli",
+            "stateAbbrev": "",
+            "country": "Comoros",
+            "population": 18277,
+            "hdi": 0.56,
+            "coordinates": [-12.291374972395985, 43.74318116288566]
+        },
+        {
+            "name": "Mamoudzou",
+            "state": "Mamoudzou",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 18277,
+            "hdi": 0.77,
+            "coordinates": [-12.779238488703989, 45.230488028212534]
+        },
+        {
+            "name": "Port Mathurin",
+            "state": "Rodrigues",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 6000,
+            "hdi": 0.80,
+            "coordinates": [-19.68216107360288, 63.420584370515975]
+        },
+        {
+            "name": "Port Louis",
+            "state": "Port Louis District",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 147066,
+            "hdi": 0.80,
+            "coordinates": [-20.161095406876314, 57.496908474336756]
+        },
+        {
+            "name": "Vacoas-Phoenix",
+            "state": "Plaines Wilhems",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 115289,
+            "hdi": 0.80,
+            "coordinates": [-20.29809120805455, 57.49492296015027]
+        },
+        {
+            "name": "Beau Bassin-Rose Hill",
+            "state": "Plaines Wilhems",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 104610,
+            "hdi": 0.80,
+            "coordinates": [-20.222681025775035, 57.46700398537468]
+        },
+        {
+            "name": "Curepipe",
+            "state": "Plaines Wilhems",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 78618,
+            "hdi": 0.80,
+            "coordinates": [-20.31790505737346, 57.52737472952348]
+        },
+        {
+            "name": "Albion",
+            "state": "Black River",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 6042,
+            "hdi": 0.80,
+            "coordinates": [-20.207478896449896, 57.40839604302742]
+        },
+        {
+            "name": "Saint-Denis",
+            "state": "Saint-Denis",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 315080,
+            "hdi": 0.84,
+            "coordinates": [-20.883316822897186, 55.45577126494052]
+        },
+        {
+            "name": "Saint-Paul",
+            "state": "Saint-Paul",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 105240,
+            "hdi": 0.84,
+            "coordinates": [-21.005900851354497, 55.27554129928257]
         }
     ]
 }
