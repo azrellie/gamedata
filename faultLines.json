@@ -380,8 +380,8 @@
             "visualizationColor": [85, 0, 127]
         },
         {
-            "name": "Kermadec Tonga Fault",
-            "lengthKm": 2800,
+            "name": "Kermadec-Tonga Subduction Zone",
+            "lengthKm": 4800,
             "depthKm": 10.8,
             "points": [
                 [-14.35448551011047, -175.35248830242247],
