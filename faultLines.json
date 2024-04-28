@@ -4280,7 +4280,7 @@
         {
             "name": "Falkland-Agulhas Fracture Zone",
             "lengthKm": 4745,
-            "depthKm": 5,
+            "depthKm": 10.6,
             "points": [
                 [-49.484743231296385, -47.07834049197516],
                 [-49.363419034938566, -41.57072056627816],
