@@ -1325,13 +1325,13 @@
             "desc": "Lake Tōya is a 10 kilometer wide caldera in Hokkaido, Japan. It had a single caldera forming VEI 7 eruption 110,000 years ago."
         },
         {
-            "name": "Adams Seamount",
-            "vei": 0,
-            "coordinates": [-25.362755789869983, -129.26517996047232],
-            "type": "Lava Dome",
-            "summitFeet": -128,
-            "magmaType": "Basalt",
-            "desc": "Adams Seamount is a submarine volcano in the Pacific Ocean. Given its height, during the last glacial maximum Adams was likely an island."
+            "name": "Ngorongoro",
+            "vei": 7,
+            "coordinates": [-3.179345935042122, 35.560760341621595],
+            "type": "Caldera",
+            "summitFeet": 5900,
+            "magmaType": "Rhyolite",
+            "desc": "Ngorongoro is a caldera in Tanzania. It is the main feature of the Ngorongoro Conservation Authority."
         },
         {
             "name": "Adatarayama",
