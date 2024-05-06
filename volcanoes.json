@@ -2198,13 +2198,13 @@
             "desc": "Ōdai Caldera is a caldera in Japan. In 1980, an area of 36,000 hectares in the region of Mount Ōdaigahara and Mount Ōmine was designated a UNESCO Man and the Biosphere Reserve."
         },
         {
-            "name": "William's Ridge",
+            "name": "William's Ridge Caldera",
             "vei": 8,
             "coordinates": [38.53690818878468, -116.14402207822496],
             "type": "Caldera",
             "summitFeet": 6624,
             "magmaType": "Rhyolite",
-            "desc": "William's Ridge is a caldera in Nevada. It erupted about 3,500 km3 of material 31,4 million years ago."
+            "desc": "William's Ridge Caldera is a caldera in Nevada. It erupted about 3,500 km3 of material 31,4 million years ago."
         },
         {
             "name": "Kola Alkaline Province",
