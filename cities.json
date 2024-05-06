@@ -2114,6 +2114,96 @@
             "population": 105240,
             "hdi": 0.84,
             "coordinates": [-21.005900851354497, 55.27554129928257]
+        },
+        {
+            "name": "Kyiv",
+            "state": "Kyiv Oblast",
+            "stateAbbrev": "",
+            "country": "Ukraine",
+            "population": 3475000,
+            "hdi": 0.734,
+            "coordinates": [50.44837716394781, 30.520944047010754]
+        },
+        {
+            "name": "Minsk",
+            "state": "Minsk Oblast",
+            "stateAbbrev": "",
+            "country": "Belarus",
+            "population": 1995471,
+            "hdi": 0.818,
+            "coordinates": [53.896549267004865, 27.55800384153441]
+        },
+        {
+            "name": "Warszawa",
+            "state": "Masovian Voivodeship",
+            "stateAbbrev": "",
+            "country": "Poland",
+            "population": 1863056,
+            "hdi": 0.926,
+            "coordinates": [52.23036380688112, 21.009911646342534]
+        },
+        {
+            "name": "Berlin",
+            "state": "Berlin",
+            "stateAbbrev": "",
+            "country": "Germany",
+            "population": 6144600,
+            "hdi": 0.964,
+            "coordinates": [52.521628012715574, 13.405602790219717]
+        },
+        {
+            "name": "Paris",
+            "state": "Île-de-France",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 2102650,
+            "hdi": 0.952,
+            "coordinates": [48.85981871064162, 2.340247389311803]
+        },
+        {
+            "name": "Madrid",
+            "state": "Madrid",
+            "stateAbbrev": "",
+            "country": "Spain",
+            "population": 6791667,
+            "hdi": 0.940,
+            "coordinates": [40.424012926684696, -3.704833020194897]
+        },
+        {
+            "name": "Roma",
+            "state": "Lazio",
+            "stateAbbrev": "",
+            "country": "Italy",
+            "population": 4342212,
+            "hdi": 0.930,
+            "coordinates": [41.897616432589764, 12.48113686617188]
+        },
+        {
+            "name": "Napoli",
+            "state": "Campania",
+            "stateAbbrev": "",
+            "country": "Italy",
+            "population": 909048,
+            "hdi": 0.856,
+            "coordinates": [40.85510034964974, 14.270801865357155]
+        },
+        {
+            "name": "Athens",
+            "state": "Attica",
+            "stateAbbrev": "",
+            "country": "Greece",
+            "population": 3638281,
+            "hdi": 0.909,
+            "coordinates": [37.98365712355143, 23.721615669684176]
+        },
+        {
+            "name": "Istanbul",
+            "state": "İstanbul Bölgesi",
+            "stateAbbrev": "",
+            "country": "Türkiye",
+            "population": 15655924,
+            "hdi": 0.867,
+            "coordinates": [41.01228591502703, 28.944418775791114]
         }
     ]
 }
