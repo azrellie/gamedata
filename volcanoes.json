@@ -2315,13 +2315,13 @@
             "desc": "Healy is a seamount in the Kermadec Islands. Parts of the Loisels Pumice in New Zealand are suspected to have originated in this eruption, which took place 590±80 years before present (1950). Healy is also suspected to be the source of a tsunami that impacted Maori communities during the 15th century, and may be a continuing tsunami hazard."
         },
         {
-            "name": "Unnamed",
+            "name": "Adams Seamount",
             "vei": 0,
-            "coordinates": [20.329188771667745, 121.75004235751464],
-            "type": "Stratovolcano",
-            "summitFeet": -79,
+            "coordinates": [-25.362755789869983, -129.26517996047232],
+            "type": "Lava Dome",
+            "summitFeet": -128,
             "magmaType": "Basalt",
-            "desc": "Unnamed 274050 is a submarine startovolcano in the Philippines. Submarine eruptions reported in 1773, 1850, and 1854 are likely to have originated from this volcano. There have been no further reports since 1854."
+            "desc": "Adams Seamount is a submarine volcano in the Pacific Ocean. Given its height, during the last glacial maximum Adams was likely an island."
         },
         {
             "name": "Vailulu'u",
