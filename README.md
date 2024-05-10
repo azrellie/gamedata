@@ -1,0 +1,1 @@
+the purpose of this repository is to host data for a particular game on a particular platform. this is to ease up development on my side so i can add the specific feature, and the contributors can expand upon it.
