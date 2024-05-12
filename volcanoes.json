@@ -31,13 +31,13 @@
             "desc": "A stratovolcano in Oregon that has not erupted in over 1000 years. Not much is known about this volcano as there are only 2 confirmed eruptions in its entire 100,000 years since it began. Jefferson is the second highest mountain in Oregon."
         },
         {
-            "name": "Baker",
+            "name": "Kulshan Caldera",
             "vei": 7,
             "coordinates": [48.77668839068164, -121.81441320396915],
             "type": "Stratovolcano",
             "summitFeet": 10786,
             "magmaType": "Andesite",
-            "desc": "A stratovolcano in Washington state that sits really close to the border of Canada. Baker has the largest glacier cover of any of the cascade volcanoes and sits only 28 miles from Abbotsford in Canada."
+            "desc": "A caldera in Mount Baker Volcanic Field, Washington state that sits really close to the border of Canada. Kulshan has the largest glacier cover of any of the cascade volcanoes and sits only 28 miles from Abbotsford in Canada."
         },
         {
             "name": "Adams",
