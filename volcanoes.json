@@ -884,13 +884,13 @@
             "desc": "Ora Caldera is a Permian supervolcano situated within the Lower Alps of Italy, formed by a super eruption 275 million years ago."
         },
         {
-            "name": "Altenberg-Teplice",
+            "name": "Altenberg-Teplice Caldera",
             "vei": 7,
             "coordinates": [50.70769615015468, 13.790283038935392],
             "type": "Caldera",
             "summitFeet": 4961,
             "magmaType": "Rhyolite",
-            "desc": "Altenberg-Teplice is in a very odd location for a volcano, especially a strong one. The caldera was formed over 350 million years ago from a VEI 7 eruption."
+            "desc": "Altenberg-Teplice Caldera is in a very odd location for a volcano, especially a strong one. The caldera was formed over 350 million years ago from a VEI 7 eruption."
         },
         {  
             "name": "Henry's Fork Caldera",
