@@ -1556,7 +1556,7 @@
         },
         {
             "name": "Ulakhan Fault",
-            "lengthKm": 900,
+            "lengthKm": 2500,
             "depthKm": 20,
             "points": [
                 [65.40623513438088, 145.59646024958172],
