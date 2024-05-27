@@ -1775,13 +1775,13 @@
             "desc": "Campi Flegrei del Mar di Sicilia is a group of submarine volcanoes in Italy. The volcanoes were constructed within a submarine depression about 1 km deep in the Strait of Sicily between the SW coast of Sicily and the NE tip of Tunisia, forming submarine banks that are capped by cones that rise to near sea level."
         },
         {
-            "name": "Nisyros",
-            "vei": 2,
+            "name": "Kos-Nisyros Caldera",
+            "vei": 7,
             "coordinates": [36.5884619640597, 27.16625061992239],
-            "type": "Stratovolcano",
+            "type": "Caldera",
             "summitFeet": 2290,
             "magmaType": "Andesite",
-            "desc": "Nisyros is a stratovolcano in Greece. Historical phreatic eruptions occurred from craters within the caldera between 1422 and 1888."
+            "desc": "Kos-Nisyros Caldera is a caldera in Greece. Historical phreatic eruptions occurred from craters within the caldera between 1422 and 1888."
         },
         {
             "name": "Vulcano",
