@@ -2437,7 +2437,7 @@
             "country": "Japan",
             "population": 47562,
             "hdi": 0.95,
-            "coordinates": [26.211033077682544, 127.67625634182154]
+            "coordinates": [24.339132029883565, 124.1599707756495]
         },
         {
             "name": "Okinawa",
@@ -2456,6 +2456,15 @@
             "population": 41390,
             "hdi": 0.95,
             "coordinates": [28.380220988819968, 129.49591741493504]
+        },
+        {
+            "name": "Weno",
+            "state": "Chuuk State",
+            "stateAbbrev": "",
+            "country": "Micronesia",
+            "population": 13856,
+            "hdi": 0.63,
+            "coordinates": [7.44711836373813, 151.841110882435]
         }
     ]
 }
