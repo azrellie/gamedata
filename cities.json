@@ -2294,6 +2294,168 @@
             "population": 307079,
             "hdi": 0.71,
             "coordinates": [9.773672538344254, 118.75042578375393]
+        },
+        {
+            "name": "Guangzhou",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 26940000,
+            "hdi": 0.8,
+            "coordinates": [23.139143864450507, 113.27442305198295]
+        },
+        {
+            "name": "Haikou",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 2250000,
+            "hdi": 0.77,
+            "coordinates": [20.033250554583194, 110.2059727915879]
+        },
+        {
+            "name": "Sanya",
+            "state": "Hainan",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 1031396,
+            "hdi": 0.77,
+            "coordinates": [18.26596084674439, 109.50784771844455]
+        },
+        {
+            "name": "Danzhou",
+            "state": "Hainan",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 954294,
+            "hdi": 0.77,
+            "coordinates": [19.714502914944564, 109.21611135064055]
+        },
+        {
+            "name": "Shenzhen",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 14678000,
+            "hdi": 0.8,
+            "coordinates": [22.545461902211333, 114.06066515058352]
+        },
+        {
+            "name": "Zhanjiang",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 6981236,
+            "hdi": 0.8,
+            "coordinates": [21.27320545436598, 110.36719014839287]
+        },
+        {
+            "name": "Quanzhou",
+            "state": "Fujian",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 8782285,
+            "hdi": 0.78,
+            "coordinates": [24.87173873838832, 118.67556184214043]
+        },
+        {
+            "name": "Guangzhou",
+            "state": "Guangdong",
+            "stateAbbrev": "",
+            "country": "China",
+            "population": 5877025,
+            "hdi": 0.8,
+            "coordinates": [23.553434692043826, 116.37344055438459]
+        },
+        {
+            "name": "Koror",
+            "state": "Koror",
+            "stateAbbrev": "",
+            "country": "Palau",
+            "population": 11444,
+            "hdi": 0.8,
+            "coordinates": [7.340981401119788, 134.47715367724734]
+        },
+        {
+            "name": "Tamuning",
+            "state": "Guam",
+            "stateAbbrev": "",
+            "country": "United States",
+            "population": 18489,
+            "hdi": 0.9,
+            "coordinates": [13.489217854946569, 144.79045120307342]
+        },
+        {
+            "name": "Dededo",
+            "state": "Guam",
+            "stateAbbrev": "",
+            "country": "United States",
+            "population": 44908,
+            "hdi": 0.9,
+            "coordinates": [13.518120308686528, 144.83950617332798]
+        },
+        {
+            "name": "Saipan",
+            "state": "Northern Mariana Islands",
+            "stateAbbrev": "",
+            "country": "United States",
+            "population": 43385,
+            "hdi": 0.88,
+            "coordinates": [15.154893105560594, 145.7060021479323]
+        },
+        {
+            "name": "Colonia",
+            "state": "Yap State",
+            "stateAbbrev": "",
+            "country": "Micronesia",
+            "population": 3126,
+            "hdi": 0.63,
+            "coordinates": [9.516476258599301, 138.12307181733743]
+        },
+        {
+            "name": "Palikir",
+            "state": "Sokehs",
+            "stateAbbrev": "",
+            "country": "Micronesia",
+            "population": 6647,
+            "hdi": 0.63,
+            "coordinates": [6.9235836553994075, 158.159746684924]
+        },
+        {
+            "name": "Naha",
+            "state": "Okinawa",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 312099,
+            "hdi": 0.95,
+            "coordinates": [26.211033077682544, 127.67625634182154]
+        },
+        {
+            "name": "Ishigaki",
+            "state": "Okinawa",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 47562,
+            "hdi": 0.95,
+            "coordinates": [26.211033077682544, 127.67625634182154]
+        },
+        {
+            "name": "Okinawa",
+            "state": "Okinawa",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 142752,
+            "hdi": 0.95,
+            "coordinates": [26.352455524116333, 127.81041990042557]
+        },
+        {
+            "name": "Amami",
+            "state": "Kagoshima",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 41390,
+            "hdi": 0.95,
+            "coordinates": [28.380220988819968, 129.49591741493504]
         }
     ]
 }
