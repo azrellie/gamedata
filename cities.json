@@ -2465,6 +2465,195 @@
             "population": 13856,
             "hdi": 0.63,
             "coordinates": [7.44711836373813, 151.841110882435]
+        },
+        {
+            "name": "Ho Chi Minh City",
+            "state": "Dong nam Bo",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 8993093,
+            "hdi": 0.73,
+            "coordinates": [10.82442621227309, 106.62951642884099]
+        },
+        {
+            "name": "Hanoi",
+            "state": "Bac Ninh",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 8053663,
+            "hdi": 0.73,
+            "coordinates": [21.026390135468684, 105.83462505256763]
+        },
+        {
+            "name": "Haiphong",
+            "state": "Hai Phong",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 2088000,
+            "hdi": 0.73,
+            "coordinates": [20.845608953708954, 106.68690119141569]
+        },
+        {
+            "name": "Can Tho",
+            "state": "Can Tho",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 1252400,
+            "hdi": 0.73,
+            "coordinates": [10.040865134888403, 105.77286943586613]
+        },
+        {
+            "name": "Da Nang",
+            "state": "Quang Nam",
+            "stateAbbrev": "",
+            "country": "Vietnam",
+            "population": 1220200,
+            "hdi": 0.73,
+            "coordinates": [16.06712728064691, 108.20170814505603]
+        },
+        {
+            "name": "Bangkok",
+            "state": "Nonthaburi",
+            "stateAbbrev": "",
+            "country": "Thailand",
+            "population": 17400000,
+            "hdi": 0.8,
+            "coordinates": [13.752574220297772, 100.50252314688956]
+        },
+        {
+            "name": "Hat Yai",
+            "state": "Songkhla",
+            "stateAbbrev": "",
+            "country": "Thailand",
+            "population": 404044,
+            "hdi": 0.8,
+            "coordinates": [7.010729402410232, 100.47456205412146]
+        },
+        {
+            "name": "Surat Thani",
+            "state": "Surat Thani",
+            "stateAbbrev": "",
+            "country": "Thailand",
+            "population": 132040,
+            "hdi": 0.8,
+            "coordinates": [9.134351662950984, 99.33434472381346]
+        },
+        {
+            "name": "Chaophraya Surasak",
+            "state": "Chonburi",
+            "stateAbbrev": "",
+            "country": "Thailand",
+            "population": 327172,
+            "hdi": 0.8,
+            "coordinates": [13.101048712159319, 100.91372187775035]
+        },
+        {
+            "name": "Phnom Penh",
+            "state": "Kandal",
+            "stateAbbrev": "",
+            "country": "Cambodia",
+            "population": 2841553,
+            "hdi": 0.6,
+            "coordinates": [11.553147181780398, 104.92411940580277]
+        },
+        {
+            "name": "Yangon",
+            "state": "Yangon",
+            "stateAbbrev": "",
+            "country": "Myanmar",
+            "population": 7360703,
+            "hdi": 0.58,
+            "coordinates": [16.841705692379666, 96.17310191463822]
+        },
+        {
+            "name": "Port Blair",
+            "state": "Adaman and Nicobar Islands",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 140572,
+            "hdi": 0.74,
+            "coordinates": [11.624258287981805, 92.72601598840671]
+        },
+        {
+            "name": "Rangat",
+            "state": "Adaman and Nicobar Islands",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 38824,
+            "hdi": 0.74,
+            "coordinates": [12.506734189983383, 92.913384741034]
+        },
+        {
+            "name": "Kuala Lumpur",
+            "state": "Selangor",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 7564000,
+            "hdi": 0.8,
+            "coordinates": [3.159316759858673, 101.67456006171048]
+        },
+        {
+            "name": "Ipoh",
+            "state": "Perak",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 1022240,
+            "hdi": 0.8,
+            "coordinates": [4.60125847287994, 101.07946708018184]
+        },
+        {
+            "name": "Kuala Terengganu",
+            "state": "Terengganu",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 375242,
+            "hdi": 0.8,
+            "coordinates": [4.60125847287994, 101.07946708018184]
+        },
+        {
+            "name": "George Town",
+            "state": "Penang",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 2844214,
+            "hdi": 0.8,
+            "coordinates": [5.432399161139228, 100.32277539278459]
+        },
+        {
+            "name": "Kota Kinabalu",
+            "state": "Sabaha",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 731406,
+            "hdi": 0.8,
+            "coordinates": [5.98207602900363, 116.07553387279117]
+        },
+        {
+            "name": "Kuching",
+            "state": "Sarawak",
+            "stateAbbrev": "",
+            "country": "Malaysia",
+            "population": 723854,
+            "hdi": 0.8,
+            "coordinates": [1.5541899061997384, 110.36039252934533]
+        },
+        {
+            "name": "Ternate",
+            "state": "North Maluku",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 204920,
+            "hdi": 0.75,
+            "coordinates": [0.7744596913217915, 127.37703092216178]
+        },
+        {
+            "name": "Manado",
+            "state": "North Sulawesi",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 458582,
+            "hdi": 0.75,
+            "coordinates": [1.4774298899971199, 124.8408734135852]
         }
     ]
 }
