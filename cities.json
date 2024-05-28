@@ -2204,6 +2204,96 @@
             "population": 15655924,
             "hdi": 0.867,
             "coordinates": [41.01228591502703, 28.944418775791114]
+        },
+        {
+            "name": "Mont Lubin",
+            "state": "Rodrigues",
+            "stateAbbrev": "",
+            "country": "Mauritius",
+            "population": 3806,
+            "hdi": 0.80,
+            "coordinates": [-19.704295862905994, 63.44633204528592]
+        },
+        {
+            "name": "Zamboanga City",
+            "state": "Zamboanga del Sur",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 2100000,
+            "hdi": 0.71,
+            "coordinates": [6.920473384608767, 122.07948354581413]
+        },
+        {
+            "name": "Bacolod",
+            "state": "Western Visayas",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 1435593,
+            "hdi": 0.71,
+            "coordinates": [10.670518137021729, 122.9500749042732]
+        },
+        {
+            "name": "Dasmariñas",
+            "state": "Cavite",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 703141,
+            "hdi": 0.71,
+            "coordinates": [14.298932252254005, 120.95896733606209]
+        },
+        {
+            "name": "Batangas City",
+            "state": "Batangas",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 351417,
+            "hdi": 0.71,
+            "coordinates": [13.75610448693475, 121.05799998972643]
+        },
+        {
+            "name": "Angeles City",
+            "state": "Pampanga",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 1834563,
+            "hdi": 0.71,
+            "coordinates": [15.144931703923676, 120.58883341879402]
+        },
+        {
+            "name": "Cauayan",
+            "state": "Isabela",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 143403,
+            "hdi": 0.71,
+            "coordinates": [16.934572680907866, 121.76644236247732]
+        },
+        {
+            "name": "Laoag",
+            "state": "Ilocos Norte",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 111651,
+            "hdi": 0.71,
+            "coordinates": [15.144931703923676, 120.58883341879402]
+        },
+        {
+            "name": "Itbayat",
+            "state": "Batanes",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 3128,
+            "hdi": 0.71,
+            "coordinates": [20.783568405441212, 121.84014678698853]
+        },
+        {
+            "name": "Puerto Princesa",
+            "state": "Palawan",
+            "stateAbbrev": "",
+            "country": "Philippines",
+            "population": 307079,
+            "hdi": 0.71,
+            "coordinates": [9.773672538344254, 118.75042578375393]
         }
     ]
 }
