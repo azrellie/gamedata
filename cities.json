@@ -2654,6 +2654,87 @@
             "population": 458582,
             "hdi": 0.75,
             "coordinates": [1.4774298899971199, 124.8408734135852]
+        },
+        {
+            "name": "Bamaga",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1164,
+            "hdi": 0.96,
+            "coordinates": [-10.892058010840136, 142.38786741016554]
+        },
+        {
+            "name": "Mission River",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 974,
+            "hdi": 0.96,
+            "coordinates": [-12.684005007299662, 141.88808816946263]
+        },
+        {
+            "name": "Dili",
+            "state": "Dili",
+            "stateAbbrev": "",
+            "country": "Timor-Leste",
+            "population": 324296,
+            "hdi": 0.57,
+            "coordinates": [-8.556224207047158, 125.57974619011202]
+        },
+        {
+            "name": "Baucau",
+            "state": "Baucau",
+            "stateAbbrev": "",
+            "country": "Timor-Leste",
+            "population": 14961,
+            "hdi": 0.57,
+            "coordinates": [-8.47288769702044, 126.45697854093386]
+        },
+        {
+            "name": "Port Moresby",
+            "state": "Central Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 700000,
+            "hdi": 0.73,
+            "coordinates": [-8.47288769702044, 126.45697854093386]
+        },
+        {
+            "name": "Lae",
+            "state": "Morobe",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 193000,
+            "hdi": 0.59,
+            "coordinates": [-6.715940723174974, 146.9991553798559]
+        },
+        {
+            "name": "Merauke",
+            "state": "Papua",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 102351,
+            "hdi": 0.63,
+            "coordinates": [-8.49788336768434, 140.40410223619304]
+        },
+        {
+            "name": "Rabaul",
+            "state": "East New Britain",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 3885,
+            "hdi": 0.60,
+            "coordinates": [-4.200217237888823, 152.1652540725229]
+        },
+        {
+            "name": "Timika",
+            "state": "Papua",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 142909,
+            "hdi": 0.63,
+            "coordinates": [-4.544800763455277, 136.89014513192424]
         }
     ]
 }
