@@ -2843,6 +2843,15 @@
             "population": 997222,
             "hdi": 0.899,
             "coordinates": [47.21808528374644, -1.5514496960079491]
+        },
+        {
+            "name": "Santiago de Chile",
+            "state": "Santiago",
+            "stateAbbrev": "",
+            "country": "Chile",
+            "population": 6903479,
+            "hdi": 0.886,
+            "coordinates": [-33.45245866295209, -70.66679411853755]
         }
     ]
 }
