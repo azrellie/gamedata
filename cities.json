@@ -2744,6 +2744,105 @@
             "population": 63913,
             "hdi": 0.98,
             "coordinates": [32.29588929541112, -64.78411432321346]
+        },
+        {
+            "name": "Kaliningrad",
+            "state": "Kaliningrad Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 489584,
+            "hdi": 0.855,
+            "coordinates": [54.71206028575616, 20.50720013353073]
+        },
+        {
+            "name": "Donetsk",
+            "state": "Donetsk Oblast",
+            "stateAbbrev": "",
+            "country": "Russia/Ukraine",
+            "population": 915442,
+            "hdi": 0.761,
+            "coordinates": [48.01415464697691, 37.801826623620784]
+        },
+        {
+            "name": "Saratov",
+            "state": "Saratov Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 887365,
+            "hdi": 0.855,
+            "coordinates": [51.555833185759774, 45.99540706443473]
+        },
+        {
+            "name": "Lviv",
+            "state": "Lviv Oblast",
+            "stateAbbrev": "",
+            "country": "Ukraine",
+            "population": 1141191,
+            "hdi": 0.742,
+            "coordinates": [49.83863864978891, 24.023562631553187]
+        },
+        {
+            "name": "Odesa",
+            "state": "Odesa Oblast",
+            "stateAbbrev": "",
+            "country": "Ukraine",
+            "population": 1378490,
+            "hdi": 0.760,
+            "coordinates": [49.83863864978891, 24.023562631553187]
+        },
+        {
+            "name": "Rybinsk",
+            "state": "Yaroslavl Oblast",
+            "stateAbbrev": "",
+            "country": "Russia",
+            "population": 198214,
+            "hdi": 0.858,
+            "coordinates": [58.056463251023864, 38.81329565737822]
+        },
+        {
+            "name": "Riga",
+            "state": "Riga Region",
+            "stateAbbrev": "",
+            "country": "Latvia",
+            "population": 609489,
+            "hdi": 0.879,
+            "coordinates": [56.96266590348731, 24.11327191820825]
+        },
+        {
+            "name": "Sofia",
+            "state": "Yugozapaden Planning Region",
+            "stateAbbrev": "",
+            "country": "Bulgaria",
+            "population": 1667314,
+            "hdi": 0.879,
+            "coordinates": [42.698699608565335, 23.3217325335889]
+        },
+        {
+            "name": "Cairo",
+            "state": "Cairo Governorate",
+            "stateAbbrev": "",
+            "country": "Egypt",
+            "population": 22183000,
+            "hdi": 0.776,
+            "coordinates": [30.045439818634897, 31.23678401200119]
+        },
+        {
+            "name": "Lisbon",
+            "state": "Lisbon",
+            "stateAbbrev": "",
+            "country": "Portugal",
+            "population": 2871133,
+            "hdi": 0.900,
+            "coordinates": [38.72476659052832, -9.144600911234381]
+        },
+        {
+            "name": "Nantes",
+            "state": "Pays de la Loire",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 997222,
+            "hdi": 0.899,
+            "coordinates": [47.21808528374644, -1.5514496960079491]
         }
     ]
 }
