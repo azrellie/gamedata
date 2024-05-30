@@ -2735,6 +2735,15 @@
             "population": 142909,
             "hdi": 0.63,
             "coordinates": [-4.544800763455277, 136.89014513192424]
+        },
+        {
+            "name": "Hamilton",
+            "state": "Bermuda",
+            "stateAbbrev": "",
+            "country": "United Kingdom",
+            "population": 63913,
+            "hdi": 0.98,
+            "coordinates": [32.29588929541112, -64.78411432321346]
         }
     ]
 }
