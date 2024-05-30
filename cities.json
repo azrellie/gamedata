@@ -2852,6 +2852,78 @@
             "population": 6903479,
             "hdi": 0.886,
             "coordinates": [-33.45245866295209, -70.66679411853755]
+        },
+        {
+            "name": "Jayapura",
+            "state": "Papua",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 410852,
+            "hdi": 0.801,
+            "coordinates": [-2.591046068934139, 140.67037448998585]
+        },
+        {
+            "name": "Vanimo",
+            "state": "Sandaun Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 11863,
+            "hdi": 0.518,
+            "coordinates": [-2.687354191312953, 141.30074569884613]
+        },
+        {
+            "name": "Aitape",
+            "state": "Sandaun Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 18000,
+            "hdi": 0.518,
+            "coordinates": [-3.1374077975774908, 142.34694882376127]
+        },
+        {
+            "name": "Juba",
+            "state": "Central Equatoria",
+            "stateAbbrev": "",
+            "country": "South Sudan",
+            "population": 525953,
+            "hdi": 0.463,
+            "coordinates": [4.851381022820613, 31.583113707991572]
+        },
+        {
+            "name": "Sarmi",
+            "state": "Papua",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 14093,
+            "hdi": 0.801,
+            "coordinates": [-1.8533400134877147, 138.74993974993674]
+        },
+        {
+            "name": "Madang",
+            "state": "Madang Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 29339,
+            "hdi": 0.545,
+            "coordinates": [-5.224510664608352, 145.78835940949742]
+        },
+        {
+            "name": "Wewak",
+            "state": "East Sepik Province",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 21792,
+            "hdi": 0.516,
+            "coordinates": [-3.576727987889066, 143.64658342535898]
+        },
+        {
+            "name": "Sorong",
+            "state": "Papua Barat Daya",
+            "stateAbbrev": "",
+            "country": "Indonesia",
+            "population": 118017,
+            "hdi": 0.713,
+            "coordinates": [-0.8770960417597943, 131.25677484108175]
         }
     ]
 }
