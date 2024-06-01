@@ -1,7 +1,7 @@
 {
     "faultlines": [
         {
-            "name": "Peru-Chile Fault",
+            "name": "Peru-Chile Subduction Zone",
             "lengthKm": 5900,
             "depthKm": 8,
             "points": [
@@ -58,7 +58,7 @@
             "visualizationColor": [0, 0, 255]
         },
         {
-            "name": "Baja Fault",
+            "name": "Gulf of California Rift Zone",
             "lengthKm": 1375,
             "depthKm": 12,
             "points": [
@@ -133,7 +133,7 @@
             "visualizationColor": [255, 0, 255]
         },
         {
-            "name": "Kuril-Kamchatka Fault",
+            "name": "Kuril-Kamchatka Subduction Zone",
             "lengthKm": 2900,
             "depthKm": 10.5,
             "points": [
@@ -149,7 +149,7 @@
             "visualizationColor": [0, 255, 255]
         },
         {
-            "name": "Japan Fault",
+            "name": "Japan Trench Subduction Zone",
             "lengthKm": 800,
             "depthKm": 8,
             "points": [
@@ -174,7 +174,7 @@
             "visualizationColor": [0, 85, 0]
         },
         {
-            "name": "Ryukyu Fault",
+            "name": "Ryukyu Subduction Zone",
             "lengthKm": 2250,
             "depthKm": 7.5,
             "points": [
@@ -196,7 +196,7 @@
             "visualizationColor": [0, 255, 255]
         },
         {
-            "name": "Mariana Fault",
+            "name": "Mariana Subduction Zone",
             "lengthKm": 3000,
             "depthKm": 10.9,
             "points": [
@@ -224,7 +224,7 @@
             "visualizationColor": [255, 154, 0]
         },
         {
-            "name": "Philippine Fault",
+            "name": "Philippine Trench Subduction Zone",
             "lengthKm": 1320,
             "depthKm": 10.5,
             "points": [
@@ -241,7 +241,7 @@
             "visualizationColor": [255, 170, 255]
         },
         {
-            "name": "Manila Fault",
+            "name": "Manila Trench Subduction Zone",
             "lengthKm": 990,
             "depthKm": 5.4,
             "points": [
@@ -258,7 +258,7 @@
             "visualizationColor": [255, 170, 0]
         },
         {
-            "name": "New Madrid Fault",
+            "name": "New Madrid Seismic Zone",
             "lengthKm": 530,
             "depthKm": 9,
             "points": [
@@ -355,7 +355,7 @@
             "visualizationColor": [170, 85, 127]
         },
         {
-            "name": "New Hebrides Fault",
+            "name": "New Hebrides Subduction Zone",
             "lengthKm": 4520,
             "depthKm": 7.6,
             "points": [
@@ -441,7 +441,7 @@
             "visualizationColor": [85, 170, 127]
         },
         {
-            "name": "South Sandwich Fault",
+            "name": "South Sandwich Subduction Zone",
             "lengthKm": 965,
             "depthKm": 8.2,
             "points": [
@@ -513,7 +513,7 @@
             "visualizationColor": [170, 255, 127]
         },
         {
-            "name": "Lake Baikal Fault",
+            "name": "Baikal Rift Zone",
             "lengthKm": 2000,
             "depthKm": 9,
             "points": [
