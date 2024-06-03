@@ -2306,13 +2306,13 @@
             "desc": "Cadamosto Seamount is a submarine stratovolcano in Cabo Verde. The seamount has had intense volcanic eruptions in the late Pleistocene, and recent seismic activity indicates that volcanism is ongoing."
         },
         {
-            "name": "Healy",
-            "vei": 6,
-            "coordinates": [-34.98803606854899, 179.00051627352153],
-            "type": "Stratovolcano",
-            "summitFeet": -4860,
-            "magmaType": "Rhyodacite",
-            "desc": "Healy is a seamount in the Kermadec Islands. Parts of the Loisels Pumice in New Zealand are suspected to have originated in this eruption, which took place 590±80 years before present (1950). Healy is also suspected to be the source of a tsunami that impacted Maori communities during the 15th century, and may be a continuing tsunami hazard."
+            "name": "Springdale Caldera",
+            "vei": 8,
+            "coordinates": [49.424066960406705, -56.20245764707872],
+            "type": "Caldera",
+            "summitFeet": 2670,
+            "magmaType": "Rhyolite",
+            "desc": "Springdale Caldera is a caldera in Newfoundland. It could have produced one of the largest eruptions in Earth's history, with the ejecta volume ranging from 1,000 to 10,000 km3."
         },
         {
             "name": "Adams Seamount",
