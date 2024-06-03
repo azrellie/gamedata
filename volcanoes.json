@@ -2261,13 +2261,13 @@
             "desc": "Unzen, despite only having a max eruption intensity of a VEI 2, is infamous because during an eruption in 1792, a post-eruption earthquake caused part of the volcano to fall off and create a massive megatsunami that was estimated to kill 15,000 people. It has also had many more deadly eruptions."
         },   
         {
-            "name": "Raoul Island",
+            "name": "Ossipee Caldera",
             "vei": 6,
-            "coordinates": [-29.264974371467268, -177.91923803092646],
-            "type": "Stratovolcano",
-            "summitFeet": 1693,
-            "magmaType": "Dacite",
-            "desc": "On March 17 2006, a 40-second long eruption occured, killing one person. It is apart of the Kermadec Islands."
+            "coordinates": [43.7438246632741, -71.27393708676213],
+            "type": "Caldera",
+            "summitFeet": 2990,
+            "magmaType": "Rhyolite",
+            "desc": "Today, the Ossipee mountains are the remnants of a volcanic ring nearly 125 million years old. It used to be a stratovolcano in the Cretaceous period."
         },
         {
             "name": "Macauley Island",
