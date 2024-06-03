@@ -2639,13 +2639,13 @@
             "desc": "Garðar LIP is a large igneous province in Greenland. It is likely the oldest VEI 9 volcano, erupting over 1.2 billion years ago."
         },
         {
-            "name": "Harts Range",
+            "name": "Harts Range Large Igneous Province",
             "vei": 9,
             "coordinates": [-23.173422363773465, 134.84147266749724],
             "type": "Large Igneous Province",
             "summitFeet": 6000,
             "magmaType": "Basalt",
-            "desc": "Harts Range is a large igneous province in Australia. It erupted over 1.5 billion years ago as a low volume LIP."
+            "desc": "Harts Range LIP is a large igneous province in Australia. It erupted over 1.5 billion years ago as a low volume LIP."
         },
         {
             "name": "Ontong Java Plateau",
