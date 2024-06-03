@@ -302,7 +302,7 @@
         },
         {
             "name": "Torfajökull",
-            "vei": 3,
+            "vei": 6,
             "coordinates": [63.894411843175, -19.025857729752456],
             "type": "Stratovolcano",
             "summitFeet": 6585,
