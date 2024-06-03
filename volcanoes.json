@@ -2144,13 +2144,13 @@
             "desc": "Alney-Chashakondzha is a stratovolcano in Russia. Alney is one of the few large stratovolcanoes in the Sredinny Range known to have been active throughout the Holocene, with more than 30 documented pyroclastic deposits. The last intense eruption took place about 350 years ago."
         },
         {
-            "name": "Koshelev",
-            "vei": 3,
-            "coordinates": [51.35880014224413, 156.7496640769982],
-            "type": "Stratovolcano",
-            "summitFeet": 5978,
+            "name": "Gran Canaria Flood Basalt",
+            "vei": 8,
+            "coordinates": [27.964311593483224, -15.581884087272094],
+            "type": "Large Igneous Province",
+            "summitFeet": 6417,
             "magmaType": "Basalt",
-            "desc": "Koshelev is a complex of stratovolcanoes in Russia. Major thermal fields are located in the summit crater of Valentin volcano and on the western flanks of west Koshelev volcano."
+            "desc": "Gran Canaria is a large igneous province in Canary Islands, Spain. It had a total of 3 eruptive periods: During the first one, over 1,000 cubic km of volcanic material was released. The second one was 10 times smaller with only 100 cubic km of material erupted. The third cycle is still ongoing, and the last eruptions could have occured over 2000 years ago."
         },
         {
             "name": "Wudalianchi",
