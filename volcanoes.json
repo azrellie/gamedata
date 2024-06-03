@@ -1343,13 +1343,13 @@
             "desc": "Adatarayama is a stratovolcano in Japan. Historical eruptions have been restricted to the 1.2-km-wide, 350-m-deep Numonotaira crater."
         },
         {
-            "name": "Semisopochnoi",
-            "vei": 7,
-            "coordinates": [51.94563595497955, 179.60776382301856],
-            "type": "Caldera",
-            "summitFeet": 4006,
+            "name": "Atakor Flood Basalt",
+            "vei": 8,
+            "coordinates": [23.2527919, 5.7675628],
+            "type": "Large Igneous Province",
+            "summitFeet": 9573,
             "magmaType": "Basalt",
-            "desc": "Semisopochnoi is a volcanic island in the Rat Islands. A huge VEI 7 eruption occured in the Holocene, forming a 8 kilometer wide caldera."
+            "desc": "Atakor Flood Basalt is a large igneous province in Algeria. It erupted about 2,000 km3 of tholeiitic basalts about 30-32 million years ago."
         },
         {
             "name": "Strechovy",
