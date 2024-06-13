@@ -1571,11 +1571,12 @@
             "visualizationColor": [255, 222, 0]
         },
         {
-            "name": "Sangihe Subduction Zone",
-            "lengthKm": 650,
+            "name": "Cotabato Subduction Zone",
+            "lengthKm": 740,
             "depthKm": 40,
             "activity": 0.9,
             "points": [
+                [7.21588802333079, 123.39005431202861],
                 [6.632873521815852, 123.59493108879457],
                 [6.199378913632441, 123.91450288508834],
                 [5.981621053856123, 124.14936019077504],
