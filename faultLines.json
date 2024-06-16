@@ -1209,7 +1209,7 @@
         {
             "name": "West Antarctic Rift System",
             "lengthKm": 5000,
-            "depthKm": 10,
+            "depthKm": 15,
             "activity": 0.15,
             "points": [
                 [-71.14553256827051, 167.80755005727056],
