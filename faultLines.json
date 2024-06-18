@@ -4732,7 +4732,7 @@
             "name": "Canadian Arctic Rift System",
             "lengthKm": 4800,
             "depthKm": 14,
-            "activity": 0.1,
+            "activity": 0.15,
             "points": [
                 [78.41948998232282, -73.88897323506725],
                 [76.58002776147059, -73.54378936427366],
