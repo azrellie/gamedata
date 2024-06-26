@@ -2924,6 +2924,150 @@
             "population": 118017,
             "hdi": 0.713,
             "coordinates": [-0.8770960417597943, 131.25677484108175]
+        },
+        {
+            "name": "Nhulunbuy",
+            "state": "Northern Territory",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 3350,
+            "hdi": 0.94,
+            "coordinates": [-12.184341443250085, 136.78561890764345]
+        },
+        {
+            "name": "Yirrkala",
+            "state": "Northern Territory",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 657,
+            "hdi": 0.94,
+            "coordinates": [-12.252388319225526, 136.89158944948397]
+        },
+        {
+            "name": "Angurugu",
+            "state": "Northern Territory",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 855,
+            "hdi": 0.94,
+            "coordinates": [-13.981471386898283, 136.46078272925538]
+        },
+        {
+            "name": "Ayr",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 8603,
+            "hdi": 0.935,
+            "coordinates": [-13.981471386898283, 136.46078272925538]
+        },
+        {
+            "name": "Bowen",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 11205,
+            "hdi": 0.935,
+            "coordinates": [-20.01362444187456, 148.2449719076568]
+        },
+        {
+            "name": "Mackay",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 84333,
+            "hdi": 0.935,
+            "coordinates": [-21.14360189627352, 149.18662181053074]
+        },
+        {
+            "name": "Andergrove",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 9924,
+            "hdi": 0.935,
+            "coordinates": [-21.097663198196887, 149.18059697205337]
+        },
+        {
+            "name": "Ooralea",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 3691,
+            "hdi": 0.935,
+            "coordinates": [-21.17553285594346, 149.14725254072542]
+        },
+        {
+            "name": "Wonga",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1042,
+            "hdi": 0.935,
+            "coordinates": [-16.345920777433427, 145.4135441733659]
+        },
+        {
+            "name": "Rocky Point",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2214,
+            "hdi": 0.935,
+            "coordinates": [-12.625836699894874, 141.88030691168882]
+        },
+        {
+            "name": "Seisia",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 293,
+            "hdi": 0.935,
+            "coordinates": [-10.84851552837621, 142.36820873138893]
+        },
+        {
+            "name": "Umagico",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 394,
+            "hdi": 0.935,
+            "coordinates": [-10.892761246292824, 142.35009934346246]
+        },
+        {
+            "name": "Umagico",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 498,
+            "hdi": 0.935,
+            "coordinates": [-10.906640129896463, 142.3254669063553]
+        },
+        {
+            "name": "Bamaga",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1186,
+            "hdi": 0.935,
+            "coordinates": [-10.906640129896463, 142.3254669063553]
+        },
+        {
+            "name": "New Mapoon",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 412,
+            "hdi": 0.935,
+            "coordinates": [-10.867343664458854, 142.38416613349352]
+        },
+        {
+            "name": "New Mapoon",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 2805,
+            "hdi": 0.935,
+            "coordinates": [-10.58216454783217, 142.22089823412034]
         }
     ]
 }
