@@ -3104,6 +3104,24 @@
             "population": 320,
             "hdi": 0.935,
             "coordinates": [-13.946146921514227, 143.19885828299536]
+        },
+        {
+            "name": "Burketown",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 204,
+            "hdi": 0.935,
+            "coordinates": [-17.742219423421812, 139.54763666268332]
+        },
+        {
+            "name": "Borroloola",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 871,
+            "hdi": 0.935,
+            "coordinates": [-16.070361645636254, 136.30729521179114]
         }
     ]
 }
