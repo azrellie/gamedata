@@ -3068,6 +3068,42 @@
             "population": 2805,
             "hdi": 0.935,
             "coordinates": [-10.58216454783217, 142.22089823412034]
+        },
+        {
+            "name": "Karumba",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 487,
+            "hdi": 0.935,
+            "coordinates": [-17.48423838336143, 140.84832080752196]
+        },
+        {
+            "name": "Gununa",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 1022,
+            "hdi": 0.935,
+            "coordinates": [-16.665953674396427, 139.1772779398859]
+        },
+        {
+            "name": "Pormpuraaw",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 611,
+            "hdi": 0.935,
+            "coordinates": [-14.899278420085253, 141.62037472516997]
+        },
+        {
+            "name": "Coen",
+            "state": "Queensland",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 320,
+            "hdi": 0.935,
+            "coordinates": [-13.946146921514227, 143.19885828299536]
         }
     ]
 }
