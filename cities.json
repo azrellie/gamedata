@@ -2568,7 +2568,7 @@
         {
             "name": "Port Blair",
             "state": "Adaman and Nicobar Islands",
-            "stateAbbrev": "",
+            "stateAbbrev": "AN",
             "country": "India",
             "population": 140572,
             "hdi": 0.74,
@@ -2577,7 +2577,7 @@
         {
             "name": "Rangat",
             "state": "Adaman and Nicobar Islands",
-            "stateAbbrev": "",
+            "stateAbbrev": "AN",
             "country": "India",
             "population": 38824,
             "hdi": 0.74,
@@ -3266,6 +3266,78 @@
             "population": 8671746,
             "hdi": 0.929,
             "coordinates": [41.87824858280149, -87.62487056840243]
+        },
+        {
+            "name": "Mumbai",
+            "state": "Maharashtra",
+            "stateAbbrev": "MH",
+            "country": "India",
+            "population": 18414288,
+            "hdi": 0.688,
+            "coordinates": [19.06961611538498, 72.87768515558989]
+        },
+        {
+            "name": "Kolkata",
+            "state": "West Bengal",
+            "stateAbbrev": "WB",
+            "country": "India",
+            "population": 15333000,
+            "hdi": 0.688,
+            "coordinates": [19.06961611538498, 72.87768515558989]
+        },
+        {
+            "name": "Chennai",
+            "state": "Tamil Nadu",
+            "stateAbbrev": "TN",
+            "country": "India",
+            "population": 8696010,
+            "hdi": 0.686,
+            "coordinates": [13.084442771976084, 80.27149004097272]
+        },
+        {
+            "name": "Surat",
+            "state": "Gujarat",
+            "stateAbbrev": "GJ",
+            "country": "India",
+            "population": 6934534,
+            "hdi": 0.638,
+            "coordinates": [21.170319581709823, 72.82671681648544]
+        },
+        {
+            "name": "Ahmedabad",
+            "state": "Gujarat",
+            "stateAbbrev": "GJ",
+            "country": "India",
+            "population": 8650605,
+            "hdi": 0.688,
+            "coordinates": [23.028958476643137, 72.57049696175757]
+        },
+        {
+            "name": "Visakhapatnam",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "AP",
+            "country": "India",
+            "population": 2358412,
+            "hdi": 0.630,
+            "coordinates": [19.06961611538498, 72.87768515558989]
+        },
+        {
+            "name": "Dakha",
+            "state": "Dhaka Division",
+            "stateAbbrev": "",
+            "country": "Bangladesh",
+            "population": 22478168,
+            "hdi": 0.745,
+            "coordinates": [23.801101941335027, 90.40995680773207]
+        },
+        {
+            "name": "Colombo",
+            "state": "Western Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 5648000,
+            "hdi": 0.782,
+            "coordinates": [6.926955225027319, 79.86089533698421]
         }
     ]
 }
