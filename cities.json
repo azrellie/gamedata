@@ -3158,6 +3158,114 @@
             "population": 11616000,
             "hdi": 0.762,
             "coordinates": [-22.91681373267145, -43.188248609847584]
+        },
+        {
+            "name": "Salvador",
+            "state": "Bahia",
+            "stateAbbrev": "BA",
+            "country": "Brazil",
+            "population": 3919364,
+            "hdi": 0.691,
+            "coordinates": [-12.977659432791715, -38.503831872384175]
+        },
+        {
+            "name": "Recife",
+            "state": "Pernambuco",
+            "stateAbbrev": "PE",
+            "country": "Brazil",
+            "population": 3743854,
+            "hdi": 0.719,
+            "coordinates": [-8.059939108938458, -34.880203689173186]
+        },
+        {
+            "name": "Belo Horizonte",
+            "state": "Minas Gerais",
+            "stateAbbrev": "MG",
+            "country": "Brazil",
+            "population": 6006837,
+            "hdi": 0.810,
+            "coordinates": [-19.921490220260367, -43.94507621950218]
+        },
+        {
+            "name": "Curitiba",
+            "state": "Paraná",
+            "stateAbbrev": "PR",
+            "country": "Brazil",
+            "population": 3559366,
+            "hdi": 0.769,
+            "coordinates": [-25.427792755575453, -49.264607746361726]
+        },
+        {
+            "name": "Porto Alegre",
+            "state": "Rio Grande do Sul",
+            "stateAbbrev": "RS",
+            "country": "Brazil",
+            "population": 4405769,
+            "hdi": 0.771,
+            "coordinates": [-30.03914370051823, -51.21521063081054]
+        },
+        {
+            "name": "João Pessoa",
+            "state": "Paraíba",
+            "stateAbbrev": "PB",
+            "country": "Brazil",
+            "population": 1290223,
+            "hdi": 0.698,
+            "coordinates": [-7.117332309945435, -34.88289189023406]
+        },
+        {
+            "name": "Milwaukee",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 1306795,
+            "hdi": 0.929,
+            "coordinates": [43.03851124297925, -87.90696724367561]
+        },
+        {
+            "name": "Madison",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 450385,
+            "hdi": 0.929,
+            "coordinates": [43.070933571429386, -89.40184212168657]
+        },
+        {
+            "name": "Eau Claire",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 161151,
+            "hdi": 0.929,
+            "coordinates": [44.81098939992453, -91.49814363369768]
+        },
+        {
+            "name": "Appleton",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 243147,
+            "hdi": 0.929,
+            "coordinates": [44.26193831027456, -88.41532346494157]
+        },
+        {
+            "name": "Green Bay",
+            "state": "Wisconsin",
+            "stateAbbrev": "WI",
+            "country": "United States",
+            "population": 320050,
+            "hdi": 0.929,
+            "coordinates": [44.51398688855982, -88.01263544135585]
+        },
+        {
+            "name": "Chicago",
+            "state": "Illinois",
+            "stateAbbrev": "IL",
+            "country": "United States",
+            "population": 8671746,
+            "hdi": 0.929,
+            "coordinates": [41.87824858280149, -87.62487056840243]
         }
     ]
 }
