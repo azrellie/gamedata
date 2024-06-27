@@ -3125,11 +3125,11 @@
         },
         {
             "name": "Nouméa",
-            "state": "",
+            "state": "South Province",
             "stateAbbrev": "",
             "country": "New Caledonia",
-            "population": 871,
-            "hdi": 0.935,
+            "population": 182341,
+            "hdi": 0.813,
             "coordinates": [-22.27242327470954, 166.4450247666778]
         },
         {   
