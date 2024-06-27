@@ -3131,6 +3131,33 @@
             "population": 871,
             "hdi": 0.935,
             "coordinates": [-16.070361645636254, 136.30729521179114]
+        },
+        {   
+            "name": "São Paulo",
+            "state": "São Paulo",
+            "stateAbbrev": "SP",
+            "country": "Brazil",
+            "population": 22001801,
+            "hdi": 0.806,
+            "coordinates": [-16.070361645636254, 136.30729521179114]
+        },
+        {
+            "name": "Guarulhos",
+            "state": "São Paulo",
+            "stateAbbrev": "SP",
+            "country": "Brazil",
+            "population": 1291784,
+            "hdi": 0.806,
+            "coordinates": [-23.460195722839305, -46.53176219704209]
+        },
+        {
+            "name": "Rio de Janeiro",
+            "state": "Rio de Janeiro",
+            "stateAbbrev": "RJ",
+            "country": "Brazil",
+            "population": 11616000,
+            "hdi": 0.762,
+            "coordinates": [-22.91681373267145, -43.188248609847584]
         }
     ]
 }
