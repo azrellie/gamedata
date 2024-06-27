@@ -3122,6 +3122,15 @@
             "population": 871,
             "hdi": 0.935,
             "coordinates": [-16.070361645636254, 136.30729521179114]
+        },
+        {
+            "name": "Nouméa",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "New Caledonia",
+            "population": 871,
+            "hdi": 0.935,
+            "coordinates": [-16.070361645636254, 136.30729521179114]
         }
     ]
 }
