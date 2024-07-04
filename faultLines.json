@@ -706,7 +706,7 @@
             "name": "Main Uralian Fault",
             "lengthKm": 2000,
             "depthKm": 15,
-            "activity": 0.1,
+            "activity": 0.2,
             "points": [
                 [68.24985495171367, 66.41174110865872],
                 [67.92678147901601, 66.27108916149608],
@@ -5714,7 +5714,7 @@
             "name": "Northern Dvina Fault",
             "lengthKm": 850,
             "depthKm": 16,
-            "activity": 0.2,
+            "activity": 0.15,
             "points": [
                 [65.53382869298225, 35.9199064789823],
                 [64.5773889741998, 39.54461657153047],
