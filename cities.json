@@ -3365,6 +3365,258 @@
             "population": 343091,
             "hdi": 0.820,
             "coordinates": [52.28767762387863, 76.96563479235795]
+        },
+        {
+            "name": "Batticaloa",
+            "state": "Eastern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 86227,
+            "hdi": 0.782,
+            "coordinates": [7.727391039183916, 81.69522307511953]
+        },
+        {
+            "name": "Trincomalee",
+            "state": "Eastern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 99135,
+            "hdi": 0.782,
+            "coordinates": [8.589514099512279, 81.21673603723676]
+        },
+        {
+            "name": "Mullaitivu",
+            "state": "Northern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 28973,
+            "hdi": 0.782,
+            "coordinates": [9.2648464877283, 80.81624295443225]
+        },
+        {
+            "name": "Matara",
+            "state": "Southern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 68244,
+            "hdi": 0.782,
+            "coordinates": [5.951949170987162, 80.5467936374589]
+        },
+        {
+            "name": "Galle",
+            "state": "Southern Province",
+            "stateAbbrev": "",
+            "country": "Sri Lanka",
+            "population": 93118,
+            "hdi": 0.782,
+            "coordinates": [6.035117602317057, 80.21595079383447]
+        },
+        {
+            "name": "Nagercoil",
+            "state": "Tamil Nadu",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 522759,
+            "hdi": 0.726,
+            "coordinates": [8.182093032322763, 77.42354453653432]
+        },
+        {
+            "name": "Thiruvananthapuram",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 1687406,
+            "hdi": 0.752,
+            "coordinates": [8.515082418146402, 76.93476355205476]
+        },
+        {
+            "name": "Kollam",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 1871086,
+            "hdi": 0.752,
+            "coordinates": [8.888417338354309, 76.60205368811934]
+        },
+        {
+            "name": "Alappuzha",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 240991,
+            "hdi": 0.752,
+            "coordinates": [9.499070729158733, 76.3291977104091]
+        },
+        {
+            "name": "Kochi",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 2119724,
+            "hdi": 0.752,
+            "coordinates": [9.941608199290837, 76.25624909773062]
+        },
+        {
+            "name": "Kozhikode",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 3091984,
+            "hdi": 0.752,
+            "coordinates": [11.258709713140913, 75.779109229831]
+        },
+        {
+            "name": "Kannur",
+            "state": "Kerala",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 1640986,
+            "hdi": 0.752,
+            "coordinates": [11.874050483138745, 75.37007020869815]
+        },
+        {
+            "name": "Mangaluru",
+            "state": "Karnataka",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 724159,
+            "hdi": 0.706,
+            "coordinates": [12.919405765048612, 74.85223355429959]
+        },
+        {
+            "name": "Udupi",
+            "state": "Karnataka",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 436208,
+            "hdi": 0.706,
+            "coordinates": [13.339139732062536, 74.7417888746]
+        },
+        {
+            "name": "Karwar",
+            "state": "Karnataka",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 155213,
+            "hdi": 0.900,
+            "coordinates": [14.814795903742894, 74.13099105442456]
+        },
+        {
+            "name": "Panaji",
+            "state": "Goa",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 114759,
+            "hdi": 0.806,
+            "coordinates": [15.500896958311758, 73.82493729229677]
+        },
+        {
+            "name": "Ratnagiri",
+            "state": "Maharashtra",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 327120,
+            "hdi": 0.688,
+            "coordinates": [16.99498367312096, 73.29629080650574]
+        },
+        {
+            "name": "Nellore",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 600849,
+            "hdi": 0.649,
+            "coordinates": [14.446960144372024, 79.99367180489546]
+        },
+        {
+            "name": "Ongole",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 228629,
+            "hdi": 0.649,
+            "coordinates": [15.506345147617752, 80.04392613751646]
+        },
+        {
+            "name": "Machilipatnam",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 232000,
+            "hdi": 0.649,
+            "coordinates": [16.18534570789183, 81.1337215008665]
+        },
+        {
+            "name": "Kakinada",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 443028,
+            "hdi": 0.649,
+            "coordinates": [16.988628427244805, 82.24798306829085]
+        },
+        {
+            "name": "Srikakulam",
+            "state": "Andhra Pradesh",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 228025,
+            "hdi": 0.649,
+            "coordinates": [18.297382613546183, 83.88934942937261]
+        },
+        {
+            "name": "Brahmapur",
+            "state": "Odisha",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 355823,
+            "hdi": 0.649,
+            "coordinates": [19.311212665989895, 84.79583627361168]
+        },
+        {
+            "name": "Puri",
+            "state": "Odisha",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 201026,
+            "hdi": 0.649,
+            "coordinates": [19.805339569476693, 85.82616685711069]
+        },
+        {
+            "name": "Digha",
+            "state": "West Bengal",
+            "stateAbbrev": "",
+            "country": "India",
+            "population": 8159,
+            "hdi": 0.674,
+            "coordinates": [21.620568758895853, 87.50456206413395]
+        },
+        {
+            "name": "Chittagong",
+            "state": "Chittagong Division",
+            "stateAbbrev": "",
+            "country": "Bangladesh",
+            "population": 8254000,
+            "hdi": 0.695,
+            "coordinates": [22.36953125816612, 91.83189090455991]
+        },
+        {
+            "name": "Sittwe",
+            "state": "Rakhine State",
+            "stateAbbrev": "",
+            "country": "Myanmar",
+            "population": 100748,
+            "hdi": 0.520,
+            "coordinates": [20.15605753204493, 92.8565384769292]
+        },
+        {
+            "name": "Pathein",
+            "state": "Ayeyarwady Region",
+            "stateAbbrev": "",
+            "country": "Myanmar",
+            "population": 287071,
+            "hdi": 0.530,
+            "coordinates": [16.772272175505275, 94.73387105935497]
         }
     ]
 }
