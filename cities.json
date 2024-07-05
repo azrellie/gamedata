@@ -3338,6 +3338,33 @@
             "population": 5648000,
             "hdi": 0.782,
             "coordinates": [6.926955225027319, 79.86089533698421]
+        },
+        {
+            "name": "Astana",
+            "state": "Akmola",
+            "stateAbbrev": "",
+            "country": "Kazakhstan",
+            "population": 1550000,
+            "hdi": 0.820,
+            "coordinates": [51.164737804157554, 71.42721102994436]
+        },
+        {
+            "name": "Almaty",
+            "state": "Almaty Region",
+            "stateAbbrev": "",
+            "country": "Kazakhstan",
+            "population": 2249000,
+            "hdi": 0.841,
+            "coordinates": [43.239961118212655, 76.87720863738255]
+        },
+        {
+            "name": "Pavlodar",
+            "state": "Pavlodar Region",
+            "stateAbbrev": "",
+            "country": "Kazakhstan",
+            "population": 343091,
+            "hdi": 0.820,
+            "coordinates": [52.28767762387863, 76.96563479235795]
         }
     ]
 }
