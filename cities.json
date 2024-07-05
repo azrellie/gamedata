@@ -3734,6 +3734,249 @@
             "population": 19872,
             "hdi": 0.786,
             "coordinates": [64.17442533136914, -51.73744254943277]
+        },
+        {
+            "name": "Oslo",
+            "state": "Akershus",
+            "stateAbbrev": "",
+            "country": "Norway",
+            "population": 1064235,
+            "hdi": 0.980,
+            "coordinates": [59.91306784130575, 10.75192957601088]
+        },
+        {
+            "name": "Stockholm",
+            "state": "Uppland",
+            "stateAbbrev": "",
+            "country": "Sweden",
+            "population": 1617407,
+            "hdi": 0.972,
+            "coordinates": [59.32915626017838, 18.068204344035866]
+        },
+        {
+            "name": "Helsinki",
+            "state": "Uusimaa",
+            "stateAbbrev": "",
+            "country": "Finland",
+            "population": 19872,
+            "hdi": 0.960,
+            "coordinates": [60.16993306690853, 24.938969097031933]
+        },
+        {
+            "name": "Oulu",
+            "state": "North Ostrobothnia",
+            "stateAbbrev": "",
+            "country": "Finland",
+            "population": 214633,
+            "hdi": 0.925,
+            "coordinates": [65.01245650353938, 25.464921048940052]
+        },
+        {
+            "name": "Talinn",
+            "state": "Harju",
+            "stateAbbrev": "",
+            "country": "Estonia",
+            "population": 614561,
+            "hdi": 0.890,
+            "coordinates": [59.437149351880095, 24.75274840345949]
+        },
+        {
+            "name": "Vilnius",
+            "state": "Vilnius County",
+            "stateAbbrev": "",
+            "country": "Lithuania",
+            "population": 716856,
+            "hdi": 0.875,
+            "coordinates": [54.68710309881783, 25.28083956418272]
+        },
+        {
+            "name": "Copenhagen",
+            "state": "Capital",
+            "stateAbbrev": "",
+            "country": "Denmark",
+            "population": 2135635,
+            "hdi": 0.948,
+            "coordinates": [55.67617292905124, 12.568465981181198]
+        },
+        {
+            "name": "Prague",
+            "state": "Prague",
+            "stateAbbrev": "",
+            "country": "Czechia",
+            "population": 2267817,
+            "hdi": 0.960,
+            "coordinates": [50.075058808631134, 14.437230038401127]
+        },
+        {
+            "name": "Luxembourg City",
+            "state": "Luxembourg",
+            "stateAbbrev": "",
+            "country": "Luxembourg",
+            "population": 134697,
+            "hdi": 0.960,
+            "coordinates": [49.611636569463485, 6.130924316671938]
+        },
+        {
+            "name": "Brussels",
+            "state": "Brussels",
+            "stateAbbrev": "",
+            "country": "Belgium",
+            "population": 2500000,
+            "hdi": 0.953,
+            "coordinates": [50.84763799831582, 4.3572235426635215]
+        },
+        {
+            "name": "Amsterdam",
+            "state": "North Holland",
+            "stateAbbrev": "",
+            "country": "Netherlands",
+            "population": 1459402,
+            "hdi": 0.962,
+            "coordinates": [52.36721034578798, 4.903868580270257]
+        },
+        {
+            "name": "Chișinău",
+            "state": "Chișinău",
+            "stateAbbrev": "",
+            "country": "Moldova",
+            "population": 702300,
+            "hdi": 0.770,
+            "coordinates": [47.01057818851116, 28.863556593059105]
+        },
+        {
+            "name": "Bucharest",
+            "state": "Municipality of Bucharest",
+            "stateAbbrev": "",
+            "country": "Romania",
+            "population": 2304408,
+            "hdi": 0.963,
+            "coordinates": [44.42668825055745, 26.102349900236785]
+        },
+        {
+            "name": "Bratislava",
+            "state": "Bratislava",
+            "stateAbbrev": "",
+            "country": "Slovakia",
+            "population": 728370,
+            "hdi": 0.848,
+            "coordinates": [48.14859587466317, 17.107611182510013]
+        },
+        {
+            "name": "Budapest",
+            "state": "Central Hungary",
+            "stateAbbrev": "",
+            "country": "Hungary",
+            "population": 2999974,
+            "hdi": 0.901,
+            "coordinates": [47.495858501045205, 19.028688402313662]
+        },
+        {
+            "name": "Vienna",
+            "state": "Vienna",
+            "stateAbbrev": "",
+            "country": "Austria",
+            "population": 2223236,
+            "hdi": 0.942,
+            "coordinates": [48.2080467281215, 16.37128199448644]
+        },
+        {
+            "name": "Ljubljana",
+            "state": "Ljubljana",
+            "stateAbbrev": "",
+            "country": "Slovenia",
+            "population": 537893,
+            "hdi": 0.918,
+            "coordinates": [46.056519239224514, 14.50631135993148]
+        },
+        {
+            "name": "Andorra la Vella",
+            "state": "Andorra la Vella",
+            "stateAbbrev": "",
+            "country": "Slovenia",
+            "population": 22256,
+            "hdi": 0.884,
+            "coordinates": [42.506271744116425, 1.521900006169507]
+        },
+        {
+            "name": "Monaco",
+            "state": "Monte Carlo",
+            "stateAbbrev": "",
+            "country": "Monaco",
+            "population": 39050,
+            "hdi": 0.956,
+            "coordinates": [43.737545661724575, 7.420500466234483]
+        },
+        {
+            "name": "Vatican City",
+            "state": "Vatican City",
+            "stateAbbrev": "",
+            "country": "Vatican City",
+            "population": 764,
+            "hdi": 0.930,
+            "coordinates": [41.902054604926256, 12.453256566052227]
+        },
+        {
+            "name": "Zagreb",
+            "state": "City of Zagreb",
+            "stateAbbrev": "",
+            "country": "Croatia",
+            "population": 1217160,
+            "hdi": 0.916,
+            "coordinates": [45.81449702160589, 15.98248694241088]
+        },
+        {
+            "name": "Tirana",
+            "state": "Tirana",
+            "stateAbbrev": "",
+            "country": "Albania",
+            "population": 912190,
+            "hdi": 0.796,
+            "coordinates": [41.32694490075906, 19.819568720717978]
+        },
+        {
+            "name": "Sarajevo",
+            "state": "Sarajevo Canton",
+            "stateAbbrev": "",
+            "country": "Bosnia and Herzegovina",
+            "population": 555910,
+            "hdi": 0.780,
+            "coordinates": [43.85629122822496, 18.413185078812766]
+        },
+        {
+            "name": "Belgrade",
+            "state": "Belgrade",
+            "stateAbbrev": "",
+            "country": "Serbia",
+            "population": 1383875,
+            "hdi": 0.805,
+            "coordinates": [44.812016160727296, 20.460276739311308]
+        },
+        {
+            "name": "Podgorica",
+            "state": "Podgorica",
+            "stateAbbrev": "",
+            "country": "Montenegro",
+            "population": 186827,
+            "hdi": 0.832,
+            "coordinates": [42.430539638191604, 19.25963806515481]
+        },
+        {
+            "name": "Pristina",
+            "state": "Pristina",
+            "stateAbbrev": "",
+            "country": "Kosovo",
+            "population": 161751,
+            "hdi": 0.787,
+            "coordinates": [42.66243334038179, 21.163840819089433]
+        },
+        {
+            "name": "Skopje",
+            "state": "Greater Skopje",
+            "stateAbbrev": "",
+            "country": "North Macedonia",
+            "population": 526502,
+            "hdi": 0.770,
+            "coordinates": [41.99810964094033, 21.42572048377871]
         }
     ]
 }
