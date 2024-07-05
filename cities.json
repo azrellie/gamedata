@@ -3718,15 +3718,6 @@
             "coordinates": [-34.603761042632534, -58.37557162500094]
         },
         {
-            "name": "Santiago",
-            "state": "Santiago Province",
-            "stateAbbrev": "",
-            "country": "Chile",
-            "population": 6903479,
-            "hdi": 0.886,
-            "coordinates": [-33.44775516292437, -70.66898125289873]
-        },
-        {
             "name": "Ottawa",
             "state": "Ontario",
             "stateAbbrev": "",
