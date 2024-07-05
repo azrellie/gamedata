@@ -3617,6 +3617,132 @@
             "population": 287071,
             "hdi": 0.530,
             "coordinates": [16.772272175505275, 94.73387105935497]
+        },
+        {
+            "name": "Lima",
+            "state": "Lima",
+            "stateAbbrev": "",
+            "country": "Peru",
+            "population": 11283287,
+            "hdi": 0.762,
+            "coordinates": [-12.050479591344793, -77.04268503583998] 
+        },
+        {
+            "name": "Paramaribo",
+            "state": "Paramaribo District",
+            "stateAbbrev": "",
+            "country": "Suriname",
+            "population": 240924,
+            "hdi": 0.755,
+            "coordinates": [5.826775234850111, -55.16364086108324]
+        },
+        {
+            "name": "Georgetown",
+            "state": "Demerara-Mahaica",
+            "stateAbbrev": "",
+            "country": "Guyana",
+            "population": 118363,
+            "hdi": 0.733,
+            "coordinates": [6.818450972598773, -58.16104051003025]
+        },
+        {
+            "name": "Caracas",
+            "state": "Greater Caracas",
+            "stateAbbrev": "",
+            "country": "Venezuela",
+            "population": 8956813,
+            "hdi": 0.691,
+            "coordinates": [10.482119198880584, -66.90416869565925]
+        },
+        {
+            "name": "Bogotá",
+            "state": "Distrito Capital",
+            "stateAbbrev": "",
+            "country": "Colombia",
+            "population": 11658211,
+            "hdi": 0.813,
+            "coordinates": [4.710642889012175, -74.07253204291754]
+        },
+        {
+            "name": "Quito",
+            "state": "Pichincha",
+            "stateAbbrev": "",
+            "country": "Ecuador",
+            "population": 2889703,
+            "hdi": 0.740,
+            "coordinates": [-0.18686304248712302, -78.48784406708263]
+        },
+        {
+            "name": "La Paz",
+            "state": "",
+            "stateAbbrev": "",
+            "country": "Bolivia",
+            "population": 2187223,
+            "hdi": 0.827,
+            "coordinates": [-16.49136226890723, -68.1170714504006]
+        },
+        {
+            "name": "Asunción",
+            "state": "Central Department",
+            "stateAbbrev": "",
+            "country": "Paraguay",
+            "population": 2343908,
+            "hdi": 0.717,
+            "coordinates": [-25.290672522958047, -57.62651952026975]
+        },
+        {
+            "name": "Brasília",
+            "state": "Goiás",
+            "stateAbbrev": "",
+            "country": "Brazil",
+            "population": 3548439,
+            "hdi": 0.824,
+            "coordinates": [-15.797817696012158, -47.89139402070513]
+        },
+        {
+            "name": "Montevideo",
+            "state": "Montevideo Department",
+            "stateAbbrev": "",
+            "country": "Uruguay",
+            "population": 1947306,
+            "hdi": 0.841,
+            "coordinates": [-34.90416999391026, -56.18417151188764]
+        },
+        {
+            "name": "Buenos Aires",
+            "state": "Buenos Aires Province",
+            "stateAbbrev": "",
+            "country": "Argentina",
+            "population": 16700000,
+            "hdi": 0.882,
+            "coordinates": [-34.603761042632534, -58.37557162500094]
+        },
+        {
+            "name": "Santiago",
+            "state": "Santiago Province",
+            "stateAbbrev": "",
+            "country": "Chile",
+            "population": 6903479,
+            "hdi": 0.886,
+            "coordinates": [-33.44775516292437, -70.66898125289873]
+        },
+        {
+            "name": "Ottawa",
+            "state": "Ontario",
+            "stateAbbrev": "",
+            "country": "Canada",
+            "population": 1068821,
+            "hdi": 0.943,
+            "coordinates": [45.41987312125745, -75.70100364453285]
+        },
+        {
+            "name": "Nuuk",
+            "state": "Sermersooq",
+            "stateAbbrev": "",
+            "country": "Denmark",
+            "population": 1068821,
+            "hdi": 0.786,
+            "coordinates": [64.17442533136914, -51.73744254943277]
         }
     ]
 }
