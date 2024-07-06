@@ -2378,13 +2378,13 @@
             "desc": "Quitman Caldera is a caldera in Texas. It has erupted over 300 km^3 of Square Peak Volcanics over 36 mya."
         },
         {
-            "name": "Oxaya Formation",
+            "name": "Caldera Lauca",
             "vei": 8,
             "coordinates": [-18.402657889691277, -69.79987689189055],
-            "type": "Geological Formation",
+            "type": "Caldera",
             "summitFeet": 3300,
             "magmaType": "Rhyolite",
-            "desc": "Oxaya Formation is a geological formation in Chile. The formation formed about 25 to 19 million years ago in the Late Oligocene and Early Miocene."
+            "desc": "Caldera Lauca is a caldera in the Arica y Parinacota Region of Chile. It is responsible for the voluminous Oxaya Ignimbrite."
         },
         {
             "name": "Akademia Nauk",
