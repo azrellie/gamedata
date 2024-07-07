@@ -3977,6 +3977,159 @@
             "population": 526502,
             "hdi": 0.770,
             "coordinates": [41.99810964094033, 21.42572048377871]
+        },
+        {
+            "name": "Arawa",
+            "state": "Autonomous Region of Bougainville",
+            "stateAbbrev": "",
+            "country": "Papua New Guinea",
+            "population": 36443,
+            "hdi": 0.595,
+            "coordinates": [-6.2265316474493515, 155.56564148203643]
+        },
+        {
+            "name": "Honiara",
+            "state": "Honiara City",
+            "stateAbbrev": "",
+            "country": "Solomon Islands",
+            "population": 151538,
+            "hdi": 0.564,
+            "coordinates": [-9.430462016878256, 159.95271003797268]
+        },
+        {
+            "name": "Honiara",
+            "state": "Honiara City",
+            "stateAbbrev": "",
+            "country": "Solomon Islands",
+            "population": 151538,
+            "hdi": 0.564,
+            "coordinates": [-9.430462016878256, 159.95271003797268]
+        },
+        {
+            "name": "Port Vila",
+            "state": "Shefa",
+            "stateAbbrev": "",
+            "country": "Vanuatu",
+            "population": 49034,
+            "hdi": 0.716,
+            "coordinates": [-17.742834956718863, 168.31731115609506]
+        },
+        {
+            "name": "Luganville",
+            "state": "Sanma",
+            "stateAbbrev": "",
+            "country": "Vanuatu",
+            "population": 18062,
+            "hdi": 0.701,
+            "coordinates": [-15.506947121990612, 167.20082236323557]
+        },
+        {
+            "name": "Burnt Pine",
+            "state": "Norfolk Island",
+            "stateAbbrev": "",
+            "country": "Australia",
+            "population": 180,
+            "hdi": 0.958,
+            "coordinates": [-29.030937221058707, 167.9469508373206]
+        },
+        {
+            "name": "Canberra",
+            "state": "Australian Capital Territory",
+            "stateAbbrev": "ACT",
+            "country": "Australia",
+            "population": 466566,
+            "hdi": 0.980,
+            "coordinates": [-35.28038067992005, 149.13004539720512]
+        },
+        {
+            "name": "Wellington",
+            "state": "Wellington",
+            "stateAbbrev": "",
+            "country": "New Zealand",
+            "population": 215200,
+            "hdi": 0.937,
+            "coordinates": [-41.29246523975041, 174.7791800662631]
+        },
+        {
+            "name": "Nuku'alofa",
+            "state": "Tongatapu",
+            "stateAbbrev": "",
+            "country": "Tonga",
+            "population": 74454,
+            "hdi": 0.745,
+            "coordinates": [-21.134645665016052, -175.19966140512997]
+        },
+        {
+            "name": "Suva",
+            "state": "Rewa",
+            "stateAbbrev": "",
+            "country": "Fiji",
+            "population": 185912,
+            "hdi": 0.730,
+            "coordinates": [-18.141007898382124, 178.42325235747356]
+        },
+        {
+            "name": "Funafuti",
+            "state": "Funafuti",
+            "stateAbbrev": "",
+            "country": "Tuvalu",
+            "population": 6320,
+            "hdi": 0.653,
+            "coordinates": [-8.519329300172682, 179.1992742392525]
+        },
+        {
+            "name": "Yaren",
+            "state": "Yaren District",
+            "stateAbbrev": "",
+            "country": "Nauru",
+            "population": 803,
+            "hdi": 0.696,
+            "coordinates": [-0.5458405277794425, 166.9158393730277]
+        },
+        {
+            "name": "Delap-Uliga-Djarrit",
+            "state": "Majuro",
+            "stateAbbrev": "",
+            "country": "Marshall Islands",
+            "population": 20301,
+            "hdi": 0.731,
+            "coordinates": [7.091568011070922, 171.38041254858646]
+        },
+        {
+            "name": "Apia",
+            "state": "Tuamasaga",
+            "stateAbbrev": "",
+            "country": "Samoa",
+            "population": 35974,
+            "hdi": 0.702,
+            "coordinates": [-13.831459015031438, -171.7689283619649]
+        },
+        {
+            "name": "Tarawa",
+            "state": "Tarawa Atoll",
+            "stateAbbrev": "",
+            "country": "Kiribati",
+            "population": 70480,
+            "hdi": 0.628,
+            "coordinates": [1.365707116264312, 173.12656417623975]
+        },
+        {
+            "name": "Hanga Roa",
+            "state": "Easter Island",
+            "stateAbbrev": "",
+            "country": "Chile",
+            "population": 7322,
+            "hdi": 0.855,
+            "coordinates": [-27.149624187842775, -109.43208964302316]
+        },
+        {
+            "name": "Papeete",
+            "state": "French Polynesia",
+            "stateAbbrev": "",
+            "country": "France",
+            "population": 124724,
+            "hdi": 0.903,
+            "coordinates": [-17.53248343358865, -149.567371141096]
         }
     ]
 }
