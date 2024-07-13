@@ -371,7 +371,7 @@
             "visualizationColor": [255, 255, 255]
         },
         {
-            "name": "Izu-Ogasawara Fault",
+            "name": "Izu-Ogasawara Trench Subduction Zone",
             "lengthKm": 900,
             "depthKm": 9.8,
             "activity": 1,
@@ -408,7 +408,7 @@
             "visualizationColor": [0, 255, 255]
         },
         {
-            "name": "Mariana Subduction Zone",
+            "name": "Izu-Bonin-Mariana Arc Subduction Zone",
             "lengthKm": 3000,
             "depthKm": 10.9,
             "activity": 1,
