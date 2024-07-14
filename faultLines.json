@@ -6450,7 +6450,7 @@
         {
             "name": "Kodiak Shelf Fault",
             "lengthKm": 400,
-            "depthKm": 20,
+            "depthKm": 30,
             "activity": 0.1,
             "points": [
                 [58.83037816841042, -149.26291677121773],
