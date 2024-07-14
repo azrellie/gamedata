@@ -6486,7 +6486,7 @@
         {
             "name": "Castle Mountain Fault",
             "lengthKm": 443,
-            "depthKm": 13,
+            "depthKm": 15,
             "activity": 0.9,
             "points": [
                 [60.04650892143831, -154.82128711243485],
