@@ -5996,6 +5996,20 @@
             "visualizationColor": [0, 119, 255]
         },
         {
+            "name": "Møre-Trøndelag Fault Complex",
+            "lengthKm": 418,
+            "depthKm": 14,
+            "activity": 0.1,
+            "points": [
+                [62.65402654227804, 4.605284053083564],
+                [63.051486761794166, 6.748791429179016],
+                [63.33838298631569, 8.305036510453794],
+                [63.71795298467863, 9.900432411383285],
+                [64.24602519596546, 12.210330771011257]
+            ],
+            "visualizationColor": [141, 13, 215]
+        },
+        {
             "name": "Great Kavir, Doruneh Fault Zone",
             "lengthKm": 705,
             "depthKm": 15,
