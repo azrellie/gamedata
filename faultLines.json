@@ -476,7 +476,7 @@
             "name": "New Madrid Seismic Zone",
             "lengthKm": 530,
             "depthKm": 9,
-            "activity": 0.35,
+            "activity": 0.15,
             "points": [
                 [33.66804353988856, -91.30264757276001],
                 [34.18947432693262, -91.10155408888427],
@@ -931,7 +931,7 @@
             "name": "Brevard Fault",
             "lengthKm": 700,
             "depthKm": 11,
-            "activity": 0.45,
+            "activity": 0.25,
             "points": [
                 [32.916634773855364, -85.66364148282099],
                 [33.980167533329194, -84.43904565799029],
@@ -1353,7 +1353,7 @@
             "name": "Ramapo Fault",
             "lengthKm": 298,
             "depthKm": 14,
-            "activity": 0.6,
+            "activity": 0.5,
             "points": [
                 [41.2818877563276, -73.98119285722893],
                 [41.21444040501977, -74.00996364345333],
@@ -1494,7 +1494,7 @@
             "name": "Lower Saint Lawrence Seismic Zone",
             "lengthKm": 200,
             "depthKm": 8,
-            "activity": 0.4,
+            "activity": 0.3,
             "points": [
                 [48.889141442390574, -68.14735834080066],
                 [49.17926677851281, -67.28983305457052],
@@ -1611,7 +1611,7 @@
             "name": "East Tennessee Seismic Zone",
             "lengthKm": 300,
             "depthKm": 10.1,
-            "activity": 0.6,
+            "activity": 0.3,
             "points": [
                 [34.399352175188724, -85.42509947509556],
                 [34.80094239617468, -85.13787345777683],
@@ -2040,7 +2040,7 @@
             "name": "Central Virginia Seismic Zone",
             "lengthKm": 160,
             "depthKm": 8,
-            "activity": 0.45,
+            "activity": 0.2,
             "points": [
                 [37.514086272843684, -78.94656285897364],
                 [37.621651249342115, -78.33855484352446],
@@ -3969,7 +3969,7 @@
             "name": "South Carolina Sesmic Zone",
             "lengthKm": 255,
             "depthKm": 11,
-            "activity": 0.35,
+            "activity": 0.2,
             "points": [
                 [33.558910984102695, -81.85621879087122],
                 [33.88634133537406, -81.1757859983942],
@@ -6207,7 +6207,7 @@
             "name": "Oklahoma Seismic Zone",
             "lengthKm": 655,
             "depthKm": 12,
-            "activity": 0.4,
+            "activity": 0.2,
             "points": [
                 [38.051509184222446, -97.96957946952254],
                 [36.6058097398384, -99.21825090101802],
