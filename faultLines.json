@@ -5809,7 +5809,7 @@
         {
             "name": "Main Central Thrust",
             "lengthKm": 2900,
-            "depthKm": 33,
+            "depthKm": 33.2,
             "activity": 0.75,
             "points": [
                 [35.21567738452609, 71.47682253436565],
