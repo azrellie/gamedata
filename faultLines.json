@@ -8885,7 +8885,7 @@
             "name": "Grenville Front Tectonic Zone",
             "lengthKm": 5130,
             "depthKm": 30,
-            "activity": 0.02,
+            "activity": 0.1,
             "points": [
                 [28.006707456076295, -106.12836360494958],
                 [29.824943018182218, -105.81480315424017],
