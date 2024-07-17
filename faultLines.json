@@ -8745,7 +8745,7 @@
             "name": "Rocky Mountain Trench Fault",
             "lengthKm": 1600,
             "depthKm": 15,
-            "activity": 0.3,
+            "activity": 0.75,
             "points": [
                 [59.53948191564533, -129.47236390178747],
                 [58.938833230023505, -128.23581819183389],
