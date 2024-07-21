@@ -4127,7 +4127,7 @@
         {
             "name": "Snowbird Tectonic Zone",
             "lengthKm": 2800,
-            "depthKm": 27,
+            "depthKm": 44,
             "activity": 0.1,
             "points": [
                 [52.88948759998381, -117.63158419899851],
