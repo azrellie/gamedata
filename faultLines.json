@@ -5327,6 +5327,19 @@
             "visualizationColor": [255, 196, 0]
         },
         {
+            "name": "Dunhua-Mishan Fault",
+            "lengthKm": 1210,
+            "depthKm": 20,
+            "activity": 0.2,
+            "points": [
+                [56.57163188409698, 90.47561459557639],
+                [56.51261512139127, 90.45938121208536],
+                [56.438004178349246, 90.47013335863225],
+                [56.32515377204698, 90.46061822944117]
+            ],
+            "visualizationColor": [192, 0, 0]
+        },
+        {
             "name": "Huya Fault Zone",
             "lengthKm": 1520,
             "depthKm": 13,
