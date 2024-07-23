@@ -476,7 +476,7 @@
             "name": "New Madrid Seismic Zone",
             "lengthKm": 530,
             "depthKm": 9,
-            "activity": 0.15,
+            "activity": 0.3,
             "points": [
                 [33.66804353988856, -91.30264757276001],
                 [34.18947432693262, -91.10155408888427],
