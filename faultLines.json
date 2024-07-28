@@ -1719,7 +1719,7 @@
             "name": "Hellenic Subduction Zone",
             "lengthKm": 1000,
             "depthKm": 45,
-            "activity": 0.75,
+            "activity": 1,
             "points": [
                 [37.75630480422354, 20.305266683395924],
                 [37.14200633872956, 20.751609997664808],
