@@ -6375,7 +6375,7 @@
             "name": "Canadian Arctic Rift System",
             "lengthKm": 4800,
             "depthKm": 14,
-            "activity": 0.15,
+            "activity": 0.35,
             "points": [
                 [73.72911198668665, -114.0896365556523],
                 [74.34502519315437, -103.30855557398567],
@@ -8956,7 +8956,7 @@
             "name": "South Scotia Ridge Transform Fault",
             "lengthKm": 1530,
             "depthKm": 14,
-            "activity": 0.2,
+            "activity": 0.65,
             "points": [
                 [-60.938047407924266, -53.52496990261895],
                 [-60.35249174757789, -50.55877586840942],
