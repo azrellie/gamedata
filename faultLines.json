@@ -6312,7 +6312,7 @@
             "name": "Panama Fracture Zone",
             "lengthKm": 345,
             "depthKm": 33,
-            "activity": 0.2,
+            "activity": 0.65,
             "points": [
                 [7.173642478132033, -82.63626292043728],
                 [5.164347203166643, -82.58425028454113],
