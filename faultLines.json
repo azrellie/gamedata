@@ -232,10 +232,10 @@
             "visualizationColor": [255, 0, 0]
         },
         {
-            "name": "Cascadia Megathrust",
+            "name": "Cascadia Subduction Zone",
             "lengthKm": 1125,
             "depthKm": 15,
-            "activity": 1,
+            "activity": 0.75,
             "points": [
                 [40.28246422513049, -124.48271400107063],
                 [40.50591502286738, -124.80868700962522],
