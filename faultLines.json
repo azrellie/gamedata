@@ -9254,8 +9254,6 @@
             "visualizationColor": [0, 255, 85]
         },
         {
-<<<<<<< HEAD
-=======
             "name": "Son-Narmada Fault",
             "lengthKm": 562,
             "depthKm": 17,
@@ -9272,7 +9270,6 @@
             "visualizationColor": [188, 255, 0]
         },
         {
->>>>>>> parent of 489c73df (Update faultLines.json)
             "name": "Dauki Fault",
             "lengthKm": 333,
             "depthKm": 10,
