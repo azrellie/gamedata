@@ -946,6 +946,15 @@
             "magmaType": "Basalt",
             "desc": "Pagan is an uninhabited island in the Northern Mariana Islands. It is a rather active volcano in real life, as it had eruptions in 1987, 1988, 1992, 1993, 1996, 2006, 2009, 2010, 2011, 2012, and 2021."
         },
+        {
+            "name": "Cofre de Perote",
+            "vei": 2,
+            "coordinates": [19.493221433133492, -97.14835475767214],
+            "type": "Compound",
+            "summitFeet": 4282,
+            "magmaType": "Basalt",
+            "desc": "Cofre de Perote is a massive Quaternary andesitic-dacitic volcano at the NNE end of the Trans-Mexican Volcanic Belt."
+        },
         {  
             "name": "Kozushima",
             "vei": 4,
