@@ -965,6 +965,15 @@
             "desc": "Ulawun is a stratovolcano in Papua New Guinea. Because of its eruptive history and proximity to populated areas, Ulawun is considered one of the Decade Volcanoes." 
         },
         {
+            "name": "Kavachi",
+            "vei": 2,
+            "coordinates": [-8.994126982673887, 157.97048370464654],
+            "type": "Submarine",
+            "summitFeet": -20,
+            "magmaType": "Basalt",
+            "desc": "This volcano is sometimes referred to 'Kavachi's Oven', It is a shallow submarine volcano located south of Vangunu island and it has frequent submarine eruptions."
+        },
+        {
             "name": "Tongariro",
             "vei": 5,
             "coordinates": [-39.13064101262619, 175.6361138900971],
