@@ -2099,6 +2099,15 @@
             "desc": "Yakedake is a stratovolcano in Japan. Mount Yake is the most active of all the volcanoes in the Hida Mountains."
         },
         {
+            "name": "Norikuradake",
+            "vei": 3,
+            "coordinates": [36.11171147630234, 137.56153964459963],
+            "type": "Stratovolcano",
+            "summitFeet": 3026,
+            "magmatype": "Basalt",
+            "desc": "Norikuradake is a volcanic group in Japan. It features the third highest peak in Japan and lies on the Norikura volcanic zone, its last eruption was 2000 years ago."
+        },    
+        {
             "name": "Emuruangogolak",
             "vei": 0,
             "coordinates": [1.4998712239800749, 36.331501978148495],
