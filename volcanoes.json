@@ -463,6 +463,15 @@
             "desc": "Kurile Lake is a caldera in Russia. The caldera forming eruption commenced with a phreatoplinian eruption that generated deposits of fine ash. Several yellowish rhyolitic ignimbrites were erupted, reaching a thickness of over 50 metres (160 ft)."
         },
         {
+            "name": "Klyuchevskoy",
+            "vei": 4,
+            "coordinates": [56.057024679942096, 160.64171507791178],
+            "type": "Stratovolcano",
+            "summitFeet": 15597,
+            "magmaType": "Basalt",
+            "desc": "Klyuchevskoy, the highest and most active volcano on Kamchatka Peninsula, has been erupting for around 6,000 years. This symmetrical basaltic stratovolcano frequently experiences explosive and effusive eruptions, altering its 700-meter-wide summit crater. Over 100 flank eruptions have occurred in the last 3,000 years, with activity concentrated along radial fissures."
+        },
+        {
             "name": "Tambora",
             "vei": 7,
             "coordinates": [-8.247071593592436, 117.99167317157371],
@@ -827,7 +836,7 @@
             "vei": 2,
             "coordinates": [12.488325448075264, -86.66827443421674],
             "type": "Complex",
-            "summitFeet": 1088,
+            "summitFeet": 3570,
             "magmaType": "Basalt",
             "desc": "Las Pilas-El Hoyo volcanic complex includex a complex and diverse cluster of multiple cinder cones within a 3km area of eachother. Its last eruption was in october 29th 1954."
         },
@@ -836,7 +845,7 @@
             "vei": 3,
             "coordinates": [13.431985974828997, -88.27084573791859],
             "type": "Stratovolcano",
-            "summitFeet": 2130,
+            "summitFeet": 6988,
             "magmaType": "Basalt",
             "desc": "San Miguel, also known as Chaparrastique, is a prominent Salvadoran volcano with a symmetrical cone and deep crater. Frequent eruptions have produced broad lava fields on its flanks, now crossed by highways and railroads."
         },
@@ -845,7 +854,7 @@
             "vei": 3,
             "coordinates": [9.979970657544559, -83.84911034008631],
             "type": "Stratovolcano",
-            "summitFeet": 3436,
+            "summitFeet": 11273,
             "magmaType": "Basalt",
             "desc": "Irazú volcano, east of Costa Rica's capital San José, covers 500 km² and features a broad summit crater with a small lake. Known for explosive eruptions, including a major event in 1963-65, it caused significant ashfall in the region. The volcano is part of the Cordillera Volcanica Central UNESCO Biosphere Reserve."
         },
@@ -854,7 +863,7 @@
             "vei": 3,
             "coordinates": [14.382151113616713, -90.60149381934667],
             "type": "Complex",
-            "summitFeet": 2569,
+            "summitFeet": 8428,
             "magmaType": "Basalt",
             "desc": "Pacaya, a frequently active basaltic volcano near Guatemala City, rises outside the Amatitlán caldera's southern rim. The modern Pacaya volcano, or Mackenney cone, formed after Pacaya Viejo's collapse 600-1,500 years ago. Regular Strombolian eruptions and occasional larger explosions shape the cone, with lava flows partially filling the caldera moat."
         },
@@ -987,7 +996,7 @@
             "vei": 2,
             "coordinates": [19.493221433133492, -97.14835475767214],
             "type": "Compound",
-            "summitFeet": 4282,
+            "summitFeet": 14049,
             "magmaType": "Basalt",
             "desc": "Cofre de Perote is a massive Quaternary andesitic-dacitic volcano at the NNE end of the Trans-Mexican Volcanic Belt."
         },
