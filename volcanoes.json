@@ -822,7 +822,43 @@
             "magmaType": "Basalt",
             "desc": "Changbaishan sits directly on the border between China and North Korea, and the crater in the center is a large lake called Heaven Lake."
         },
-        {  
+        {
+            "name": "Las Pilas-El Hoyo Complex",
+            "vei": 2,
+            "coordinates": [12.488325448075264, -86.66827443421674],
+            "type": "Complex",
+            "summitFeet": 1088,
+            "magmaType": "Basalt",
+            "desc": "Las Pilas-El Hoyo volcanic complex includex a complex and diverse cluster of multiple cinder cones within a 3km area of eachother. Its last eruption was in october 29th 1954."
+        },
+        {
+            "name": "San Miguel",
+            "vei": 3,
+            "coordinates": [13.431985974828997, -88.27084573791859],
+            "type": "Stratovolcano",
+            "summitFeet": 2130,
+            "magmaType": "Basalt",
+            "desc": "San Miguel, also known as Chaparrastique, is a prominent Salvadoran volcano with a symmetrical cone and deep crater. Frequent eruptions have produced broad lava fields on its flanks, now crossed by highways and railroads."
+        },
+        {
+            "name": "Irazú",
+            "vei": 3,
+            "coordinates": [9.979970657544559, -83.84911034008631],
+            "type": "Stratovolcano",
+            "summitFeet": 3436,
+            "magmaType": "Basalt",
+            "desc": "Irazú volcano, east of Costa Rica's capital San José, covers 500 km² and features a broad summit crater with a small lake. Known for explosive eruptions, including a major event in 1963-65, it caused significant ashfall in the region. The volcano is part of the Cordillera Volcanica Central UNESCO Biosphere Reserve."
+        },
+        {
+            "name": "Pacaya",
+            "vei": 3,
+            "coordinates": [14.382151113616713, -90.60149381934667],
+            "type": "Complex",
+            "summitFeet": 2569,
+            "magmaType": "Basalt",
+            "desc": "Pacaya, a frequently active basaltic volcano near Guatemala City, rises outside the Amatitlán caldera's southern rim. The modern Pacaya volcano, or Mackenney cone, formed after Pacaya Viejo's collapse 600-1,500 years ago. Regular Strombolian eruptions and occasional larger explosions shape the cone, with lava flows partially filling the caldera moat."
+        },
+        { 
             "name": "Cameroon",
             "vei": 3,
             "coordinates": [4.216653826855627, 9.17408711018135],
