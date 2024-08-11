@@ -445,6 +445,204 @@
             "desc": "Kikai is a caldera in Japan. The Kikai-Akahoya eruption had a major impact on the Jōmon culture in southern Kyūshū although the impact was not as great as some commentary had suggested with Nishinozono sub-type pottery tradition, that had started prior to the eruption, maintained in Kyūshū."
         },
         {
+            "name": "Suwanosejima",
+            "vei": 4,
+            "coordinates": [29.642408111175648, 129.7151024534903],
+            "type": "Stratovolcano",
+            "summitFeet": 2612,
+            "magmaType": "Andesite",
+            "desc": "The 8-km-long island of Suwanosejima in the northern Ryukyu Islands consists of an andesitic stratovolcano with two active summit craters. The summit is truncated by a large breached crater extending to the sea on the E flank that was formed by edifice collapse. One of Japan's most frequently active volcanoes, it was in a state of intermittent Strombolian activity from Otake, the NE summit crater, between 1949 and 1996, after which periods of inactivity lengthened. The largest recorded eruption took place in 1813-14, when thick scoria deposits covered residential areas, and the SW crater produced two lava flows that reached the western coast. At the end of the eruption the summit of Otake collapsed, forming a large debris avalanche and creating an open collapse scarp extending to the eastern coast. The island remained uninhabited for about 70 years after the 1813-1814 eruption. Lava flows reached the eastern coast of the island in 1884. Only about 50 people live on the island."
+        },
+        {
+            "name": "Ontakesan",
+            "vei": 6,
+            "coordinates": [35.89290891126205, 137.46960560430858],
+            "type": "Complex",
+            "summitFeet": 10062,
+            "magmaType": "Andesite",
+            "desc": "Ontake is a complex volcano in Japan. It is constructed within a largely buried 4 x 5 km caldera and occupies the southern end of the Norikura volcanic zone, which extends northward to Yakedake volcano."
+        },
+        {
+            "name": "Chiqllarasu",
+            "vei": 6,
+            "coordinates": [-13.376141998427961, -74.63834819627915],
+            "type": "Caldera",
+            "summitFeet": 16952,
+            "magmaType": "Rhyolite",
+            "desc": "Chiqllarasu is a caldera in Peru. It is one of the strongest volcanoes in Peru."
+        },
+        {
+            "name": "Chacana",
+            "vei": 7,
+            "coordinates": [-0.37517160151497836, -78.25004297404267],
+            "type": "Caldera",
+            "summitFeet": 15233,
+            "magmaType": "Rhyolite",
+            "desc": "Chacana is a massive, eroded caldera complex of Pliocene-Holocene age that forms one of the largest rhyolitic centers of the northern Andes. The caldera is 32 km long in the N-S direction and 18-24 km wide E-W. It was constructed during three cycles of andesitic-to-rhyolitic volcanism, with major eruptions about 240,000, 180,00, and 160,000 years ago. Dacitic lava flows were erupted from caldera-floor fissures between about 30,000 and 21,000 years ago. Numerous lava domes were constructed within the caldera, which has been the source of frequent explosive eruptions throughout the Holocene as well as historical lava flows during the 18th century. The massive Antisana stratovolcano was constructed immediately to the SE."
+        },
+        {
+            "name": "Gamkonora",
+            "vei": 5,
+            "coordinates": [1.378422775901681, 127.53219752677539],
+            "type": "Stratovolcano",
+            "summitFeet": 5364,
+            "magmaType": "Andesite",
+            "desc": "Gamkonora is a stratovolcano in Indonesia.Since its first recorded eruption in the 16th century, typical activity has been small-to-moderate explosive eruptions. Its largest recorded eruption, in 1673, was accompanied by tsunamis."
+        },
+        {
+            "name": "Inielika",
+            "vei": 2,
+            "coordinates": [-8.721292890691844, 120.97448654409564],
+            "type": "Complex",
+            "summitFeet": 5115,
+            "magmaType": "Andesite",
+            "desc": "Inielika is a broad, low volcano in central Flores Island that was constructed within the Lobobutu caldera. The complex summit contains ten craters, some of which are lake filled, in a 5 km2 area north of the city of Bajawa. The largest of these, Wolo Runu and Wolo Lega North, are 750 m wide. A phreatic explosion in 1905 formed a new crater, and was the volcano's only eruption during the 20th century. Another eruption took place about a century later, in 2001. A chain of Pleistocene cinder cones, the Bajawa cinder cone complex, extends southward to Inierie."
+        },
+        {
+            "name": "Submarine Volcano NNE of Iriomotejima",
+            "vei": 5,
+            "coordinates": [24.569528377731352, 123.9301065630917],
+            "type": "Stratovolcano",
+            "summitFeet": 5115,
+            "magmaType": "Rhyolite",
+            "desc": "The southernmost Ryukyu Islands volcano is a shallow submarine volcano 20 km NNE of Iriomotejima island and 35 km WSW of the northern tip of the island of Ishigakishima in an area with an estimated depth of 200-300 m. A major submarine eruption on 31 October 1924 produced rhyolitic pumice rafts with an estimated volume of about 1 km3 that were carried by currents along both coasts of Japan as far north as Hokkaido. The largest pumice blocks exceeded 1 x 2 m in size, and the volume of ejecta places this poorly known eruption among the largest recorded in Japan."
+        },
+        {
+            "name": "Kolokol Group",
+            "vei": 3,
+            "coordinates": [46.04150905962179, 150.05003158672355],
+            "type": "Stratovolcano",
+            "summitFeet": 4357,
+            "magmaType": "Andesite",
+            "desc": "A group of Holocene volcanoes in central Urup Island is named after its most prominent volcano, Kolokol. Berg and Trezubetz volcanoes, flanking Kolokol on the NW, have breached summit calderas partially filled by lava domes. Trezubetz, whose name means Trident, has an eroded crater rim with three large peaks when seen at sea from the north. Kolokol is sometimes known as Urup-Fuji because of its symmetrical profile. The crater of Kolokol is not well preserved, but there is no evidence of glacial erosion. Several lava flows originate from Kolokol; one of these extends almost to the Sea of Okhotsk coast; a viscous lava flow armoring the SE flank is probably the most recent. Borzov volcano, the oldest of the group, lies to the SW of Kolokol. Eruptions have been observed since the late-18th century. Berg volcano has been most active, but Trezubetz erupted in 1924."
+        },
+        {
+            "name": "Kone",
+            "vei": 5,
+            "coordinates": [8.840442662500294, 39.68810698573277],
+            "type": "Caldera",
+            "summitFeet": 4528,
+            "magmaType": "Rhyolite",
+            "desc": "The Kone volcanic complex (also known as Gariboldi) is composed of a series of silicic calderas and young basaltic cinder cones and lava flows about 30 km SW of Fentale volcano in the Main Ethiopian Rift. As many as eight silicic calderas are accompanied by ignimbrite outflow sheets. Kone, the youngest caldera, is an elliptical 5 x 7.5 km structure trending E-W and oriented perpendicular to the rift. The rim rises about 100 m above the caldera floor; the eastern rim overlaps with a smaller elliptical caldera. Regional fissures trending roughly N-S cut across the caldera and its flanks. The youngest basalts were erupted during the first half of the 19th century from vents along a hinge line between the smaller eastern caldera (Korke) and the larger western one. A dark lava flow from a cone near the center of the southern caldera (Birenti), extended 12 km SW, where the caldera rim had been eroded, and surrounded older cones."
+        },
+        {
+            "name": "Lautaro",
+            "vei": 2,
+            "coordinates": [-49.019250429549714, -73.50634233793012],
+            "type": "Stratovolcano",
+            "summitFeet": 11621,
+            "magmaType": "Dacite",
+            "desc": "Lautaro is the northernmost volcano of the Austral Volcanic Zone (AVZ) in the southernmost Chilean Andes, and is the closest volcano to the Chile Triple Junction plate boundary. Volcanoes of the AVZ originated from subduction of the Antarctic plate beneath the South American plate. The Catalog of Active Volcanoes of the World synonyms for Lautaro (Cerro Pirámide, Chalten, and Chaltel) are actually synonyms of the dramatic Patagonian granitic peak of Cerro Fitz Roy (Moreno 1985, pers. comm.). Glacier-covered and rising above the Southern Patagonian Ice Field, this dominantly dacitic volcano has a crater just below its summit on the NW side and a 1-km-wide crater on the NE flank. Ash deposits from eruptions were visible on aerial photos taken during several occasions during the 20th century, and older ash layers form prominent markers on outflow glaciers of the Patagonian icecap."
+        },
+        {
+            "name": "Momotombo",
+            "vei": 4,
+            "coordinates": [12.424311252812688, -86.54067273259982],
+            "type": "Stratovolcano",
+            "summitFeet": 4167,
+            "magmaType": "Basalt",
+            "desc": "Momotombo is a young stratovolcano that rises prominently above the NW shore of Lake Managua, forming one of Nicaragua's most familiar landmarks. Momotombo began growing about 4500 years ago at the SE end of the Marrabios Range and consists of a somma from an older edifice that is surmounted by a symmetrical younger cone with a 150 x 250 m wide summit crater. Young lava flows extend down the NW flank into the 4-km-wide Monte Galán caldera. The youthful cone of Momotombito forms an island offshore in Lake Managua. Momotombo has a long record of Strombolian eruptions, punctuated by occasional stronger explosive activity. The latest eruption, in 1905, produced a lava flow that traveled from the summit to the lower NE base. A small black plume was seen above the crater after a 10 April 1996 earthquake, but later observations noted no significant changes in the crater. A major geothermal field is located on the south flank."
+        },
+        {
+            "name": "Oshima-Oshima",
+            "vei": 4,
+            "coordinates": [41.51217104601672, 139.35346829538733],
+            "type": "Stratovolcano",
+            "summitFeet": 2402,
+            "magmaType": "Basalt",
+            "desc": "Oshima-Oshima, a 10 km2 island about 105 km W offshore from the SW tip of Hokkaido, is the emergent summit of two coalescing basaltic-to-andesitic stratovolcanoes. Higashiyama, at the east end of the island, is cut by a 2-km-wide caldera covered on its west side by Nishiyama volcano. The western cone failed during an eruption in 1741 CE, producing a mostly submarine debris avalanche that traveled 16 km and leaving a scarp open to the north. A tsunami associated with the collapse swept the coasts of Hokkaido, western Honshu, and Korea, and caused nearly 1,500 fatalities. The 1741 eruption concluded with the construction of a basaltic pyroclastic cone at the head of the amphitheater. No eruptions have occurred since the late-18th century."
+        },
+        {
+            "name": "Rasshua",
+            "vei": 3,
+            "coordinates": [47.77016910520495, 153.01999867914733],
+            "type": "Stratovolcano",
+            "summitFeet": 3136,
+            "magmaType": "Basaltic Andesite",
+            "desc": "The elongated 6 x 13 km island of Rasshua in the central Kuriles contains three overlapping central cones within a 6 km caldera whose eastern margin is beyond the shoreline. An eroded central cone was constructed during the late Pleistocene, along with an isolated cone near the NW coast. Two Holocene cones were built within the crater of the central cone. The westernmost forms the 956 m high point of the island and is the source of lava flows that flooded the crater floor and descended to the coast. The easternmost cone, active during historical time, is truncated by a 500-m-wide crater that is breached to the SE. This crater may have formed during a violent eruption in 1846. The only other known historical eruption produced weak explosions in 1957. Fumarolic activity continues in the eastern crater and in the saddle between the two summit cones."
+        },
+        {
+            "name": "Roundtop",
+            "vei": 5,
+            "coordinates": [54.80066997954641, -163.59193766525607],
+            "type": "Stratovolcano",
+            "summitFeet": 6138,
+            "magmaType": "Rhyolite",
+            "desc": "The flat-topped, glacier-covered Roundtop is the easternmost and lowest of an E-W-trending line of volcanoes on eastern Unimak Island, 13 km SW of the village of False Pass. The snow and ice-covered edifice fills much of a 3-km-wide caldera that formed during the early Holocene. The caldera-forming eruption produced pyroclastic flows and a rhyolitic tephra layer that is widespread throughout the southwestern end of the Alaska Peninsula. A group of lava domes was constructed south of the volcano. No historical eruptions are known, but in the 1930's warm springs were found on its slopes."
+        },
+        {
+            "name": "Sand Mountain Field",
+            "vei": 4,
+            "coordinates": [44.38006784493694, -121.9313863663634],
+            "type": "Volcanic Field",
+            "summitFeet": 5459,
+            "magmaType": "Basalt",
+            "desc": "The Sand Mountain volcanic field consists of 23 basaltic and basaltic-andesite cinder cones along a N-S line immediately west of the Cascade crest NW of Mount Washington. Two cone alignments trending NNW and NNE intersect near the largest cinder cone, Sand Mountain. Although previous radiometric dates spanned a range of more than a thousand years, tightly constrained paleomagnetic ages imply that at least 13 eruptive units were emplaced in a relatively short period of time about 2,950 years ago lasting at most a few decades. The Jack Pine vent at the northern end of the field is compositionally distinct from the rest of the volcanic field and is considered to have been erupted about 4,000 years earlier. Lava flows traveled predominately to the west, blocking local drainages and forming several small lakes."
+        },
+        {
+            "name": "Sanbesan",
+            "vei": 4,
+            "coordinates": [35.140955101923176, 132.62194937790684],
+            "type": "Stratovolcano",
+            "summitFeet": 3694,
+            "magmaType": "Dacite",
+            "desc": "Sanbesan stratovolcano, near the northern coast of SW Honshu, has a summit cut by a small caldera about 1 km in diameter. The highest point on the dacitic-to-andesitic volcano is O-Sanbe, at the northern end of the complex. There have been several large explosive eruptions during the Pleistocene and one strong Holocene eruption from the Taiheizan lava dome about 3,700 years ago. This eruption was accompanied by pyroclastic flows that swept down the NE-to-SE flanks and traveled 9 km down the Hayamizu River to the SW. Younger, undated eruptions have also occurred."
+        },
+        {
+            "name": "Tanaga",
+            "vei": 0,
+            "coordinates": [51.88383502083203, -178.14138903944257],
+            "type": "Stratovolcano",
+            "summitFeet": 5925,
+            "magmaType": "Basalt",
+            "desc": "Tanaga volcano, the second largest volcanic center of the central Aleutians, is the central and highest of three youthful stratovolcanoes oriented along a roughly E-W line at the NW tip of Tanaga Island. Ridges to the east and south represent the rim of an arcuate caldera formed by collapse of an edifice during the Pleistocene. Most Holocene eruptions originated from Tanaga volcano itself, which consists of two large cones, the western of which is the highest, constructed within a caldera whose 400-m-high rim is prominent to the SE. At the westernmost end of the complex is conical Sajaka, a double cone that may be the youngest of the three volcanoes. Sajaka One volcano collapsed during the late Holocene, producing a debris avalanche that swept into the sea, after which the Sajaka Two cone was constructed within the collapse scarp."
+        },
+        {
+            "name": "Veniaminof",
+            "vei": 6,
+            "coordinates": [56.19887723465901, -159.39211882380064],
+            "type": "Stratovolcano",
+            "summitFeet": 8225,
+            "magmaType": "Andesite",
+            "desc": "Veniaminof, on the Alaska Peninsula, is truncated by a steep-walled, 8 x 11 km, glacier-filled caldera that formed around 3,700 years ago. The caldera rim is up to 520 m high on the north, is deeply notched on the west by Cone Glacier, and is covered by an ice sheet on the south. Post-caldera vents are located along a NW-SE zone bisecting the caldera that extends 55 km from near the Bering Sea coast, across the caldera, and down the Pacific flank. Historical eruptions probably all originated from the westernmost and most prominent of two intra-caldera cones, which rises about 300 m above the surrounding icefield. The other cone is larger, and has a summit crater or caldera that may reach 2.5 km in diameter, but is more subdued and barely rises above the glacier surface."
+        },
+        {
+            "name": "Vsevidof",
+            "vei": 3,
+            "coordinates": [52.98244237571966, -168.47492545678978],
+            "type": "Stratovolcano",
+            "summitFeet": 7051,
+            "magmaType": "Andesite",
+            "desc": "The symmetrical Vsevidof stratovolcano, near the SW end of Umnak Island, is one of the most prominent volcanoes in the Aleutians. Vsevidof contains a 1.2-km-wide, ice-filled summit crater that is breached by glaciers on the east and north sides. An E-W-trending zone of scoria cones that extends from 1220 m down much of the western flank has been the source of historical eruptions. The bulk of the 2149-m-high cone of Vsevidof was constructed during the Holocene. Young andesitic and dacitic lava flows were extruded from vents on the north and south flanks and on the west-flank rift. The largest lava flow traveled down the west flank to the coast, forming Cape Kigushimkada."
+        },
+        {
+            "name": "Westdahl",
+            "vei": 4,
+            "coordinates": [54.51483027514519, -164.65316278884987],
+            "type": "Stratovolcano",
+            "summitFeet": 5128,
+            "magmaType": "Basalt",
+            "desc": "Westdahl is a broad glacier-covered volcano occupying the SW end of Unimak Island. Two peaks protrude from the summit plateau, and a new crater formed in 1978 cuts the summit icecap. The volcano has a somewhat of a shield-like morphology and forms one of the largest volcanoes of the Aleutian Islands. The sharp-topped, conical Pogromni stratovolcano, 6 km N, rises several hundred meters higher than Westdahl, but is moderately glacially dissected and presumably older. Many satellitic cones of postglacial age are located along a NW-SE line cutting across the summit of Westdahl. Some of the historical eruptions attributed to the eroded Pogromni may have originated instead from Westdahl (Miller et al. 1998). The first historical eruption occurred in 1795. An 8-km-long fissure extending east from the summit produced explosive eruptions and lava flows in 1991."
+        },
+        {
+            "name": "Yokoatejima",
+            "vei": 2,
+            "coordinates": [28.799650962804364, 128.99570814454069],
+            "type": "Stratovolcano",
+            "summitFeet": 1624,
+            "magmaType": "Andesite",
+            "desc": "Yokoatejima is a small, 3.5-km-long, dumbbell-shaped island NW of Amami Oshima Island at the SW end of the Tokara island chain. Two peaks, Higashimine on the east and Nishimine on the west, form the andesitic island. Higashimine, the high point of the island, has a steep-walled, well-preserved summit crater. An arcuate ridge east of Yokoate-jima appears to be part of 7 x 10 km submarine caldera, with Yokoatejima and Kaminonejima to the NNE being post-caldera cones (Nakano et al., 2001-). Yokoatesho (Yokoate Reef) and Kaminone Kaikyu (Kaminone Knoll) lie to NNW and NE of Yokoatejima, respectively. Historical documents at the end of the Edo Period mention ash plumes from Yokoatejima."
+        },
+        {
+            "name": "Guallatiri",
+            "vei": 2,
+            "coordinates": [-18.42190946060587, -69.09235544703246],
+            "type": "Stratovolcano",
+            "summitFeet": 19918,
+            "magmaType": "Andesite",
+            "desc": "One of northern Chile's most active volcanoes, Volcán Guallatiri is a symmetrical ice-clad stratovolcano at the SW end of the Nevados de Quimsachata volcano group. It lies just W of the border with Bolivia and is capped by a central dacitic dome or lava complex, with the active vent situated on its S side. Thick lava flows are prominent on the lower N and W flanks of the andesitic-to-rhyolitic volcano. Minor explosive eruptions have been reported since the beginning of the 19th century. Intense fumarolic activity with jet-like noises continues, and numerous solfataras extend more than 300 m down the W flank."
+        },
+        {
             "name": "Valles Caldera",
             "vei": 7,
             "coordinates": [35.90299780929065, -106.5269137460628],
