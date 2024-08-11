@@ -1811,6 +1811,15 @@
             "desc": "Curacoa is a submarine complex volcano in Tonga. Explosive eruptions, which produced large rafts of dacitic pumice, covering an area of more than 100 km2, were observed from the island of Tafahi, 27 km SSW."
         },
         {
+            "name": "Dunedin Volcano",
+            "vei": 7,
+            "coordinates": [-45.819844171060616, 170.6232970145797],
+            "type": "Shield",
+            "summitFeet": 2296,
+            "magmaType": "Basalt",
+            "desc": "The Dunedin Volcano is an extensively eroded multi-vent shield volcano that was active between 16 and 10 million years ago. It originally extended from the modern city of Dunedin, New Zealand to Aramoana about 25 km away. Extensive erosion has occurred over the last 10 million years and Otago Harbour now fills the oldest parts of the volcano. The remnants of the volcano form the hills around Otago Harbour (including Mount Cargill, Flagstaff, Saddle Hill, Signal Hill, and Otago Peninsula)."
+        },
+        {
             "name": "Darwin",
             "vei": 2,
             "coordinates": [-0.19551676561074952, -91.28300172660728],
