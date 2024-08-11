@@ -31,6 +31,15 @@
             "desc": "A stratovolcano in Oregon that has not erupted in over 1000 years. Not much is known about this volcano as there are only 2 confirmed eruptions in its entire 100,000 years since it began. Jefferson is the second highest mountain in Oregon."
         },
         {
+            "name": "Gakkel Ridge Caldera",
+            "vei": 8,
+            "coordinates": [81.5587058366424, 119.90089406629],
+            "type": "Caldera",
+            "summitFeet": -3937,
+            "magmaType": "basalt",
+            "desc": "Gakkel Ridge Caldera, beneath the Arctic Ocean near Siberia, erupted 1.1 million years ago with a massive 3,000 km³ volume. This VEI-8 supervolcano is the only one located directly on a mid-ocean ridge."
+        },
+        {
             "name": "Kulshan Caldera",
             "vei": 7,
             "coordinates": [48.77668839068164, -121.81441320396915],
