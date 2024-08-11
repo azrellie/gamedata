@@ -1730,6 +1730,15 @@
             "desc": "Maninjau is a caldera lake in Sumatra, Indonesia. It is a notable tourist destination in the region due to its scenery and mild climate. It is also a site for paragliding."
         },
         {
+            "name": "Silverthrone Caldera",
+            "vei": 7,
+            "coordinates": [51.43308593623939, -126.30027353567934],
+            "type": "Caldera Complex",
+            "summitFeet": 10370,
+            "magmaType": "Rhyolite",
+            "desc": "The Silverthrone volcanic complex lies near the coast in SW British Columbia, 55 km N of Kingcome Inlet and 60 km NW of Knight Inlet. The roughly circular, 20-km-wide, deeply dissected caldera complex contains rhyolitic, dacitic and andesitic lava domes, lava flows, and breccia. The bulk of the complex appears to have been erupted between 100,000 and 500,000 years ago, but postglacial andesitic and basaltic-andesite cones and lava flows are also present. Anomalously old Potassium-Argon (K-Ar) dates of 1.0 and 1.1 Ma were obtained from a lava flow in the postglacial Pashleth and Machmel Creek valleys. This flow is clearly much younger than the K-Ar date, and high-energy glacial streams have only begun to etch a channel along the margin. A radiocarbon date from barnacles 8.5 km upstream from the mouth of Machmel River, and buried by the flow, yielded an age of 12,200 ± 140 years. This is a maximum age for the flow, which could be much younger."
+        },
+        {
             "name": "Agrigan",
             "vei": 4,
             "coordinates": [18.773359958479393, 145.6671228276175],
