@@ -1352,13 +1352,247 @@
             "desc": "The Quill is a stratovolcano in the Netherlands overseas territory Sint Eustatius. The crater of The Quill contains a lush rainforest populated by native and introduced tropical trees and plants."
         },
         {
-            "name": "Liamuiga",
-            "vei": 4,
-            "coordinates": [17.371322053481048, -62.807799771133205],
+            "name": "Pantelleria",
+            "vei": 6,
+            "coordinates": [36.78674503552963, 11.993501089898638],
+            "type": "Shield",
+            "summitFeet": 2743,
+            "magmaType": "Rhyolite",
+            "desc": "The island of Pantelleria is constructed above a drowned continental rift in the Strait of Sicily and has been the locus of intensive volcano-tectonic activity. Two large Pleistocene calderas dominate the island, which contains numerous post-caldera lava domes and cinder cones and is the type locality for peralkaline rhyolitic rocks, pantellerites. The 15-km-long island is the emergent summit of a largely submarine edifice. The 6-km-wide Cinque Denti caldera, the youngest of the two calderas, formed about 45,000 years ago and contains the two post-caldera shield volcanoes of Monte Grande and Monte Gibele. Holocene eruptions have constructed pumice cones, lava domes, and short, blocky lava flows. Many Holocene vents are located on three sides of the uplifted Montagna Grande block on the SE side of the island. A submarine eruption in 1891 from a vent ~4 km off the NW coast is the only confirmed historical activity."
+        },
+        {
+            "name": "Arjuno-Welirang",
+            "vei": 2,
+            "coordinates": [-7.732750621846033, 112.57404091735137],
             "type": "Stratovolcano",
-            "summitFeet": 3793,
+            "summitFeet": 10968,
             "magmaType": "Andesite",
-            "desc": "Liamuiga is a stratovolcano in Saint Kitts and Nevis. Mount Liamuiga was formerly named Mount Misery."
+            "desc": "The Arjuno and Welirang volcanoes anchor the SE and NW ends, respectively, of a 6-km-long line of volcanic cones and craters. The complex overlies most of the Gunung Ringgit edifice, whose summit is about 3 km NE from the main ridge. Pyroclastic cones are located on the north flank of Gunung Welirang and along an E-W line cutting across the southern side of Gunung Arjuno that extends to the lower SE flank. Fumarolic areas with sulfur deposition occur at several locations on Welirang."
+        },
+        {
+            "name": "Atka Volcanic Complex",
+            "vei": 3,
+            "coordinates": [52.29934202245924, -174.12434931518195],
+            "type": "Stratovolcano",
+            "summitFeet": 4980,
+            "magmaType": "Basalt",
+            "desc": "The Atka Volcanic Complex consists of a central shield and Pleistocene caldera and four notable volcanic cones. A major explosive dacitic eruption accompanied formation of the caldera about 500,000 to 300,000 years ago; approximately half of the caldera rime remains, open towards the NW. The Sarichef cone, ~5 km ESE of the caldera rim, retains a symmetrical profile, unlike most other heavily eroded features outside the caldera to the S and W. The Kliuchef stratovolcano grew within the caldera and exhibits five eruptive vents striking NE, including two at the summit, that have been active in the Holocene. A 700-m-diameter crater 1 km NE of the summit may have been the source vent for a large 1812 CE eruption. Hot springs and fumaroles are located on the flanks of Kliuchef and in a glacial valley to the SW. The most frequently active volcano of the complex is Korovin, at the NE tip of Atka Island about 5 km N of Kliuchef. An 800-m-diameter crater on the SE side of the summit contains a deep circular pit that sometimes contains a crater lake thought to be the source of phreatic ash explosions. The smaller Konia cone, slightly offset to the E, lies between Kliuchef and Korovin. Most of the lava flows in the complex are basaltic, though some dacitic flows are also present."
+        },
+        {
+            "name": "Augustine",
+            "vei": 4,
+            "coordinates": [59.36204287577617, -153.43209876863304],
+            "type": "Lava Dome",
+            "summitFeet": 3996,
+            "magmaType": "Andesite",
+            "desc": "Augustine volcano, rising above Kamishak Bay in the southern Cook Inlet about 290 km SW of Anchorage, is the most active volcano of the eastern Aleutian arc. It consists of a complex of overlapping summit lava domes surrounded by an apron of volcaniclastic debris that descends to the sea on all sides. Few lava flows are exposed; the flanks consist mainly of debris-avalanche and pyroclastic-flow deposits formed by repeated collapse and regrowth of the summit. The latest episode of edifice collapse occurred during Augustine's large 1883 eruption; subsequent dome growth has restored the edifice to a height comparable to that prior to 1883. The oldest dated volcanic rocks on Augustine are more than 40,000 years old. At least 11 large debris avalanches have reached the sea during the past 1,800-2,000 years, and five major pumiceous tephras have been erupted during this interval. Recorded eruptions have typically consisted of explosive activity with emplacement of pumiceous pyroclastic-flow deposits followed by lava dome extrusion with associated block-and-ash flows."
+        },
+        {
+            "name": "Banda Volcanic Complex",
+            "vei": 6,
+            "coordinates": [-4.523326063796756, 129.90678427674445],
+            "type": "Caldera",
+            "summitFeet": 1995,
+            "magmaType": "Dacite",
+            "desc": "The 3-km-wide island of Banda Api is the northern-most volcano in the Banda arc and has a long period of recorded observation because of its key location in the Portuguese and Dutch spice trade. The basaltic-to-rhyodacitic volcano is located in the SW corner of a mostly submerged 7 km caldera. At least two episodes of caldera formation are thought to have occurred, with the arcuate islands of Lonthor and Neira considered to be pre-caldera remnants. A conical peak rises to about 600 m at the center of the island. Eruptions have been recorded since 1586 CE, mostly consisting of Strombolian eruptions from the summit crater, but larger explosive eruptions have occurred and occasional lava flows have reached the coast."
+        },
+        {
+            "name": "Bulusan",
+            "vei": 6,
+            "coordinates": [12.77061063131952, 124.04962451854341],
+            "type": "Stratovolcano",
+            "summitFeet": 5036,
+            "magmaType": "Andesite",
+            "desc": "Luzon's southernmost volcano, Bulusan, was constructed along the rim of the 11-km-diameter dacitic-to-rhyolitic Irosin caldera, which was formed about 36,000 years ago. It lies at the SE end of the Bicol volcanic arc occupying the peninsula of the same name that forms the elongated SE tip of Luzon. A broad, flat moat is located below the topographically prominent SW rim of Irosin caldera; the NE rim is buried by the andesitic complex. Bulusan is flanked by several other large intracaldera lava domes and cones, including the prominent Mount Jormajan lava dome on the SW flank and Sharp Peak to the NE. The summit is unvegetated and contains a 300-m-wide, 50-m-deep crater. Three small craters are located on the SE flank. Many moderate explosive eruptions have been recorded since the mid-19th century."
+        },
+        {
+            "name": "Cagua",
+            "vei": 2,
+            "coordinates": [18.214791870384197, 122.15399903622992],
+            "type": "Stratovolcano",
+            "summitFeet": 3717,
+            "magmaType": "Andesite",
+            "desc": "The Mount Cagua stratovolcano lies at the NE tip of Luzon. The circular summit crater is 1.5 km in diameter, with steep, 60-m-high walls. Basaltic-andesite and basaltic lava effusion characterized the initial stage of volcanism during the early Pleistocene. From about 600,000 to 300,000 years ago thick pyroclastic flows covered the entire volcano. Recent periods of phreatomagmatic activity have produced ash flows. The forested volcano is locally known as the Mountain of Fire. A phreatic explosion in 1860 CE may have been accompanied by a pyroclastic flow. Strong solfataric activity occurred in 1907, and thermal areas are located near the summit crater and on the NW to NNE flanks."
+        },
+        {
+            "name": "Camiguin",
+            "vei": 3,
+            "coordinates": [9.16960571563089, 124.72430389940877],
+            "type": "Stratovolcano",
+            "summitFeet": 5092,
+            "magmaType": "Andesite",
+            "desc": "Oblate, 20-km-long Camiguin Island just off the coast of north-central Mindanao Island consists of four overlapping stratovolcanoes overlying older buried edifices. Mt. Mambajao forms the high point of the island. It has a youthful morphology with summit and flank lava domes, one of which partially fills a crater breached to the NW, but has not had historical eruptions. The eroded stratovolcanoes of Mt. Butay and Mt. Ginsiliban form the SE tip of the island and lie at one end of the NNW-SSE trending line of vents cutting across the island. The Binone cinder cone lies along the SE coast. The youngest volcano, and the only historically active one, is Hibok-Hibok (also known as Catarman). It lies at the NW end of the island, about 6 km NW of Mt. Mambajao. This andesitic-to-rhyolitic volcano contains several lava domes, including Mt. Vulcan on its NW flank. Major eruptions during 1871-75 and 1948-53 formed flank lava domes at Hibok-Hibok and produced pyroclastic flows that devastated coastal villages."
+        },
+        {
+            "name": "Chyulu Hills",
+            "vei": 3,
+            "coordinates": [-2.6180283274370018, 37.85899745870116],
+            "type": "Volcanic Field",
+            "summitFeet": 7178,
+            "magmaType": "Trachybasalt",
+            "desc": "The 100-km-long NW-SE-trending Chyulu Hills volcanic field is located 150 km E of the Kenya Rift. It contains several hundred small cones and flows, including numerous recent cinder cones. Two of these, Shaitani and Chainu, erupted during the mid-19th century. Volcanic activity began about 1.4 million years ago with eruptions in the northern Chyulu Hills and migrated to the SE, where a large number of Holocene cones are found. Many of the cinder cones are aligned along dominantly NW-trending older faults and younger NNE-trending fissures. The silica contents of the lava flows increased with time. Early flows consisted of foidites; later Holocene lava flows are basanites and alkali basalts. Six tephra deposits from Lake Chala were attibuted by Martin-Jones et al. (2020) to Pleistocene eruptions in the Chyulu Hills (~87-16.8 ka), along with one Holocene mafic cryptotephra 14C dated at about 4.2 ka."
+        },
+        {
+            "name": "Ciremai",
+            "vei": 3,
+            "coordinates": [-6.89542260331431, 108.4074707960261],
+            "type": "Stratovolcano",
+            "summitFeet": 9970,
+            "magmaType": "Andesite",
+            "desc": "The symmetrical Ciremai stratovolcano is located closer to the northern coast than other central Java volcanoes. A large crater, elongated in an E-W direction and formed by multiple vents, caps the summit of Gunung Ciremai, which was constructed on the northern rim of the 4.5 x 5 km Geger Halang caldera. A large landslide deposit to the north may be associated with the origin of the caldera, although collapse may rather be due to a voluminous explosive eruption. Eruptions have included explosive activity and lahars, primarily from the summit crater."
+        },
+        {
+            "name": "Dieng Volcanic Complex",
+            "vei": 6,
+            "coordinates": [-7.182365781456559, 109.897968141446],
+            "type": "Complex",
+            "summitFeet": 8415,
+            "magmaType": "Andesite",
+            "desc": "The Dieng plateau in the highlands of central Java is renowned both for the variety of its volcanic scenery and as a sacred area housing Java's oldest Hindu temples, dating back to the 9th century CE. The Dieng Volcanic Complex consists of multiple stratovolcanoes and more than 20 small Pleistocene-to-Holocene craters and cones over a 6 x 14 km area. Prahu stratovolcano was truncated by a large Pleistocene caldera, which was subsequently filled by a series of cones, lava domes, and craters, many containing lakes. Lava flows cover much of the plateau, but observed activity has been restricted to minor phreatic eruptions. Gas emissions are a hazard at several craters and have caused fatalities. There are abundant thermal features and high heat flow across the area."
+        },
+        {
+            "name": "Egon",
+            "vei": 2,
+            "coordinates": [-8.677350264098706, 122.45389239396489],
+            "type": "Stratovolcano",
+            "summitFeet": 5449,
+            "magmaType": "Andesite",
+            "desc": "Gunung Egon, also known as Namang, sits within the narrow section of eastern Flores Island. The barren, sparsely vegetated summit region has a 350-m-wide, 200-m-deep crater that sometimes contains a lake. Other small crater lakes occur on the flanks. A lava dome forms the southern summit. Solfataric activity occurs on the crater wall and rim and on the upper S flank. Reports of eruptive activity prior to explosive eruptions beginning in 2004 are unconfirmed. Emissions were often observed above the summit during 1888-1892. Strong emissions in 1907 reported by Sapper (1917) was considered by the Catalog of Active Volcanoes of the World (Neumann van Padang, 1951) to be an historical eruption, but Kemmerling (1929) noted that this was likely confused with an eruption on the same date and time from Lewotobi Lakilaki."
+        },
+        {
+            "name": "Emmons Lake Caldera",
+            "vei": 7,
+            "coordinates": [55.324365775875805, -162.0989111051841],
+            "type": "Caldera",
+            "summitFeet": 5033,
+            "magmaType": "Andesite",
+            "desc": "The Emmons Lake Volcanic Center, located north of Volcano Bay and SW of Pavlof volcano, includes the Emmons and Hague stratovolcanoes within the Emmons Lake caldera. The 9 x 15 km caldera contains a narrow elongated lake at its SW end that drains through a breach in the SE rim to the Pacific Ocean. The compound caldera was formed during six voluminous dacitic-to-rhyolitic eruptions between about 294,000 and 26,000 years ago that produced extensive ashflow tuffs. Mount Emmons, Mount Hague, and Double Crater are post-caldera cones of dominantly basaltic composition that were constructed along the SW-NE trend of the elongated caldera. Some Holocene flows have moved through a gap in the southern caldera rim to within 3 km of the ocean. A large fumarolic area is located on the south side of Mount Hague, and the only reported activity was the emission of steam plumes from Hague in 1990 and 1991."
+        },
+        {
+            "name": "Gareloi",
+            "vei": 3,
+            "coordinates": [51.790409770039815, -178.79817591099973],
+            "type": "Stratovolcano",
+            "summitFeet": 5161,
+            "magmaType": "Basalt",
+            "desc": "The 8 x 10 km Gareloi Island, the northernmost volcano of the Delarof Group at the western end of the Andreanof Islands, consists of a stratovolcano with two summits and a prominent SE-trending fissure. The fissure was formed during an eruption in 1929 and extends from the southern summit to the sea. Steep sea cliffs that are cut into rocks of an older, eroded center are found on the SW coast, and submarine deposits of three debris avalanches produced by edifice collapse are found offshore. Young lava flows cover the older volcano from the summit to the coast along three broad axes trending NW, ENE, and S. The 1929 eruption originated from 13 craters along a 4-km-long fissure. Phreatic explosions were followed by the ejection of glassy pumice, lapilli, scoria, and older blocks, as well as by the emission of four short, steep lava flows, one of which reached the SE coast."
+        },
+        {
+            "name": "Gede-Pangrango",
+            "vei": 3,
+            "coordinates": [-6.787747824352454, 106.98192096932668],
+            "type": "Stratovolcano",
+            "summitFeet": 9928,
+            "magmaType": "Andesite",
+            "desc": "The two peaks of the Gede-Pangrango volcanic complex overlook the major cities of Cianjur, Sukabumi, and Bogor, situated to the E, S, and NW, respectively. The summit of Gunung Pangrango, constructed over the NE rim of a 3 x 5 km caldera, forms the high point. Many lava flows are visible on the flanks of the younger Gunung Gede to the SE of Pangrango. The steep-walled summit crater has migrated about 1 km NNW over time. Two large debris-avalanche deposits are present on its flanks, one of which underlies the city of Cianjur. Activity recorded since the 16th century has typically consisted of small short explosive eruptions."
+        },
+        {
+            "name": "Great Sitkin",
+            "vei": 2,
+            "coordinates": [52.07847640673821, -176.11450183518755],
+            "type": "Stratovolcano",
+            "summitFeet": 5709,
+            "magmaType": "Andesite",
+            "desc": "The Great Sitkin volcano forms much of the northern side of Great Sitkin Island. A younger volcano capped by a small, 0.8 x 1.2 km ice-filled summit caldera was constructed within a large late-Pleistocene or early Holocene scarp formed by massive edifice failure that truncated an older edifice and produced a submarine debris avalanche. Deposits from this and an even older debris avalanche from a source to the south cover a broad area of the ocean floor north of the volcano. The summit lies along the eastern rim of the younger collapse scarp. Deposits from an earlier caldera-forming eruption of unknown age cover the flanks of the island to a depth up to 6 m. The small younger caldera was partially filled by lava domes emplaced in 1945 and 1974, and five small older flank lava domes, two of which lie on the coastline, were constructed along northwest- and NNW-trending lines. Hot springs, mud pots, and fumaroles occur near the head of Big Fox Creek, south of the volcano. Eruptions have been recorded since the late-19th century."
+        },
+        {
+            "name": "Teon",
+            "vei": 4,
+            "coordinates": [-6.971518115766728, 129.14292379866387],
+            "type": "Stratovolcano",
+            "summitFeet": 2388,
+            "magmaType": "Andesite",
+            "desc": "Teon, an elongated andesitic island volcano in the southwestern Banda arc, is also known as Serawerna, the name of its active crater. Another smaller crater is located to the NNE of Serawerna. Explosive eruptions have been recorded since the 17th century; the largest produced pyroclastic flows and surges in 1660 CE that caused damage and fatalities."
+        },
+        {
+            "name": "Bur ni Telong",
+            "vei": 2,
+            "coordinates": [4.830906788924693, 96.83348598948868],
+            "type": "Stratovolcano",
+            "summitFeet": 8586,
+            "magmaType": "Andesite",
+            "desc": "The conical Bur ni Telong volcano was constructed at the southern base of the massive Bur ni Geureudong volcanic complex, one of the largest in northern Sumatra. The historically active volcano lies 4.5 km from the summit of Geureudong,and its summit crater has migrated to the ESE, leaving arcuate crater rims. Lava flows are exposed on the southern flank. Explosive eruptions were recorded during the 19th and 20th centuries."
+        },
+        {
+            "name": "Tangkoko-Duasudara",
+            "vei": 5,
+            "coordinates": [1.492858033132054, 125.17004339237103],
+            "type": "Stratovolcano",
+            "summitFeet": 4377,
+            "magmaType": "Andesite",
+            "desc": "The eastern peninsula at the far NE end of Sulawesi near the city of Bitung is occupied by a volcanic complex consisting of two major edifices within a nature reserve. To the north is Tangkoko (also known as Tongkoko), with a large caldera (~3 x 1.5 km) elongated towards the SE from the highest rim point; the rim at the opposite end is more than 400 m lower. Eruptions occurred from the summit crater in the 17th century and in 1801, when the caldera also reportedly contained a cone surrounded by a lake. About 1.5 km down the outer E flank is the Batuangus (or Batu Angus) lava dome, formed in 1801, along with an adjacent vent (Baru Batuangus) that has been the source of all subsequent eruptions. The higher twin-peaked Duasudara (also Dua Suadara) stratovolcano is about 4.5 km SW of the Tangkoko summit. A NE-facing open crater appears to have a hummocky debris flow that reaches the base of the Tangkoko edifice"
+        },
+        {
+            "name": "Tandikat-Singgalang",
+            "vei": 1,
+            "coordinates": [-0.3936015027181583, 100.33317390916893],
+            "type": "Stratovolcano",
+            "summitFeet": 9364,
+            "magmaType": "Andesite",
+            "desc": "Tandikat and its twin volcano to the NNE, Singgalang, lie across the Bukittinggi plain from Marapi volcano. Volcanic activity has migrated to the SSW from the higher Singgalang, and only Tandikat has had historical activity. The summit of Tandikat has a partially eroded 1.2-km-wide crater containing a large central cone capped by a 360-m-wide crater with a small crater lake. The only three reported historical eruptions, in the late 19th and early 20th centuries, produced only mild explosive activity."
+        },
+        {
+            "name": "Sangeang Api",
+            "vei": 4,
+            "coordinates": [-8.189934048228919, 119.06662063686659],
+            "type": "Complex",
+            "summitFeet": 6273,
+            "magmaType": "Trachybasalt",
+            "desc": "Sangeang Api volcano, one of the most active in the Lesser Sunda Islands, forms a small 13-km-wide island off the NE coast of Sumbawa Island. Two large trachybasaltic-to-tranchyandesitic volcanic cones, Doro Api and Doro Mantoi, were constructed in the center and on the eastern rim, respectively, of an older, largely obscured caldera. Flank vents occur on the south side of Doro Mantoi and near the northern coast. Intermittent eruptions have been recorded since 1512, most of them during in the 20th century."
+        },
+        {
+            "name": "Ruang",
+            "vei": 5,
+            "coordinates": [2.3040418047888127, 125.36644967515446],
+            "type": "Stratovolcano",
+            "summitFeet": 2379,
+            "magmaType": "Andesite",
+            "desc": "Ruang volcano is the southernmost volcano in the Sangihe Island arc, north of Sulawesi Island; it is not the better known Raung volcano on Java. The 4 x 5 km island volcano is across a narrow strait SW of the larger Tagulandang Island. The summit contains a crater partially filled by a lava dome initially emplaced in 1904. Explosive eruptions recorded since 1808 have often been accompanied by lava dome formation and pyroclastic flows that have damaged inhabited areas."
+        },
+        {
+            "name": "Raung",
+            "vei": 5,
+            "coordinates": [-8.118910114820347, 114.05429084235081],
+            "type": "Stratovolcano",
+            "summitFeet": 10696,
+            "magmaType": "Andesite",
+            "desc": "Raung, one of Java's most active volcanoes, is a massive stratovolcano in easternmost Java that was constructed SW of the rim of Ijen caldera. The unvegetated summit is truncated by a dramatic steep-walled, 2-km-wide caldera that has been the site of frequent historical eruptions. A prehistoric collapse of Gunung Gadung on the W flank produced a large debris avalanche that traveled 79 km, reaching nearly to the Indian Ocean. Raung contains several centers constructed along a NE-SW line, with Gunung Suket and Gunung Gadung stratovolcanoes being located to the NE and W, respectively."
+        },
+        {
+            "name": "Ranakah",
+            "vei": 3,
+            "coordinates": [-8.633275087784297, 120.53255056133774],
+            "type": "Lava Dome",
+            "summitFeet": 7507,
+            "magmaType": "Andesite",
+            "desc": "The Anak Ranakah (Child of Ranakah) lava dome was formed in 1987 in an area without previous recorded eruptions at the base of the large older lava dome of Gunung Ranakah. An arcuate group of lava domes extending about 12 km west from Gunung Ranakah to Poco Mandosawa occurs on the outer N flanks of the poorly known Poco Leok caldera on western Flores Island."
+        },
+        {
+            "name": "Lamongan",
+            "vei": 3,
+            "coordinates": [-7.9806995456101255, 113.34089785502793],
+            "type": "Stratovolcano",
+            "summitFeet": 5384,
+            "magmaType": "Basalt",
+            "desc": "Lamongan, a small stratovolcano located between the massive Tengger and Iyang-Argapura volcanic complexes, is surrounded by numerous maars and cinder cones. The currently active cone has been constructed 650 m SW of Gunung Tarub, the volcano's high point. As many as 27 maars with diameters from 150 to 700 m, some containing crater lakes, surround the volcano, along with about 60 cinder cones and spatter cones. Lake-filled maars, including Ranu Pakis, Ranu Klakah, and Ranu Bedali, are located on the E and W flanks; dry maars are predominately located on the N flanks. None of the maars has erupted during historical time, although several of the youthful maars cut drainage channels from Gunung Tarub. The volcano was very active from the time of its first historical eruption in 1799 through the end of the 19th century, producing frequent explosive eruptions and lava flows from vents on the western side ranging from the summit to about 450 m elevation."
+        },
+        {
+            "name": "Merbabu",
+            "vei": 3,
+            "coordinates": [-7.45503391415192, 110.44003160855196],
+            "type": "Stratovolcano",
+            "summitFeet": 10230,
+            "magmaType": "Basalt",
+            "desc": "Gunung Merbabu is a massive forested volcano north of Merapi in central Java. Three prominent radial valleys extend from the summit toward the NW, NNE, and ESE. The most recent magmatic eruptions originated from a NNW-SSE fissure system that cut across the summit and fed the large-volume Kopeng and Kajor lava flows on the N and S flanks, respectively. Moderate explosive eruptions occurred from the summit crater in 1560 and 1797 CE."
+        },
+        {
+            "name": "Nila",
+            "vei": 2,
+            "coordinates": [-7.45503391415192, 110.44003160855196],
+            "type": "Stratovolcano",
+            "summitFeet": 2562,
+            "magmaType": "Andesite",
+            "desc": "The 5 x 6 km Nila Island in the Banda Sea is comprised of a low-rimmed caldera breached at sea level on the south and east, with a youthful forested cone. Phreatic eruptions from the dominantly andesitic volcano, also known as Laworkawra, have occurred from summit vents and flank fissures. A 1932 eruption from a fissure that extended from the summit to the SE coast produced heavy ashfall that forced abandonment of Rumadai village."
         },
         {
             "name": "Soufrière Hills",
