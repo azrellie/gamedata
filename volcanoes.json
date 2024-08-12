@@ -1748,6 +1748,60 @@
             "desc": "Agrigan is a volcanic island in the Marianas. It is the highest volcano in the Marianas arc."
         },
         {
+            "name": "Sollipulli",
+            "vei": 5,
+            "coordinates": [-38.97336203444805, -71.52030227283947],
+            "type": "Caldera",
+            "summitFeet": 7487,
+            "magmaType": "Andesite",
+            "desc": "The 4-km-wide, glacier-filled Sollipulli caldera lies E of the Pleistocene Nevados de Sollipulli complex. Major silicic pyroclastic rocks associated with caldera formation have not been found; it may have a non-explosive origin. Post-caldera eruptions have been focused along the caldera walls and have increased its height. A series of dacitic lava domes lines the E and S caldera rims. The 1-km-wide Alpehué crater, which cuts the SW rim, was the source of a large Plinian eruption 2900 years before present (BP). Explosion craters and scoria cones are found on the outer flanks. Two N-flank cones produced lava flows during the latest documented activity about 700 years BP. This low-profile volcano is less prominent than its neighbors Llaima and Villarrica, but its explosive history makes it a potentially hazardous volcanic center."
+        },
+        {
+            "name": "La Reforma",
+            "vei": 6,
+            "coordinates": [27.508051509734926, -112.3920247666076],
+            "type": "Caldera",
+            "summitFeet": 3900,
+            "magmaType": "Andesite",
+            "desc": "The early Pleistocene La Reforma caldera lies along the Gulf of California immediately east of Tres Vírgenes volcano and SE of the late Pleistocene El Aguajito caldera. The roughly 9-km-wide caldera contains basaltic, andesitic, and dacitic lava flows, and rhyolitic lava domes. A prominent arcuate caldera rim extends from La Reforma along the NW coast to near Punta Las Cuevas on the SE coast. The age of the caldera was determined (K-Ar) to be between 1.6 and 1.4 million years old (Ma). A 1.09 ± 0.11 Ma age was obtained on a ring-fracture lava dome. Andesitic lava flows were erupted on the flanks of the caldera both before and after caldera formation."
+        },
+        {
+            "name": "Carrizalillo",
+            "vei": 8,
+            "coordinates": [-27.611542227602826, -69.975420529891],
+            "type": "Caldera",
+            "summitFeet": 1279,
+            "magmaType": "Rhyolite",
+            "desc": "Carrizalillo is a huge caldera in Chile, measuring 58 by 32 kilometers. The exact volume of the eruption that caused the caldera collapse is unknown, but it is estimated to be over 1000 km3."
+        },
+        {
+            "name": "Pairique Volcanic Complex",
+            "vei": 5,
+            "coordinates": [-23.02860760543714, -66.8230450112452],
+            "type": "Volcanic Complex",
+            "summitFeet": 12139,
+            "magmaType": "Dacite",
+            "desc": "Pairique Volcanic Complex is a volcanic complex in Argentina. Pairique formed during the late Miocene between 8 and 6.7 million years ago, when volcanism reactivated on the Argentine side of the Puna. Later dates imply volcanic activity between 11.5 and 10.3 million years ago. Pairique is part of the Altiplano-Puna volcanic complex, although the volcanic eruptions of Pairique were less extensive than these from many other APVC volcanoes. Pairique is often considered to be the oldest caldera of the APVC."
+        },
+        {
+            "name": "Aguas Calientes",
+            "vei": 7,
+            "coordinates": [-23.363250128256997, -67.6830148473285],
+            "type": "Caldera",
+            "summitFeet": 14675,
+            "magmaType": "Dacite",
+            "desc": "Aguas Calientes is a caldera in Argentina. Post-caldera activity included hydrothermal–geothermal activity and may have migrated westward to the neighbouring Quevar volcanic centre. Subsequent to the caldera formation, the caldera floor was uplifted for 800–1,000 metres (2,600–3,300 ft). Geothermal activity still occurs at the Incachule field."
+        },
+        {
+            "name": "Abra Granada",
+            "vei": 6,
+            "coordinates": [-22.554727699440726, -66.54082183964337],
+            "type": "Volcanic Complex",
+            "summitFeet": 18700,
+            "magmaType": "Dacite",
+            "desc": "Abra Granada is a volcanic complex in the Puna de Atacama in Bolivia. It is located approximately 45 kilometres (28 mi) north of Pirquitas and is composed from a lava dome, lavas and dacitic ignimbrites centering on Cerro Granada and are dated 9.8-7.8 Ma. Deposits erupted 7.9-5.0 mya by this volcano overlie the older Granada ignimbrite. Individual volcanic centres are known as Cerro Caucani, Cerro Granada and Cerro Solterío. The Pirquitas mine is part of the volcanic complex."
+        },
+        {
             "name": "Agung",
             "vei": 5,
             "coordinates": [-8.344159488928387, 115.50800157996585],
