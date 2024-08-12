@@ -198,7 +198,7 @@
             "name": "Gulf of California Rift Zone",
             "lengthKm": 1375,
             "depthKm": 12,
-            "activity": 0.9,
+            "activity": 0.7,
             "points": [
                 [22.887213266220947, -108.00143361807908],
                 [23.280729419124704, -108.75331323867687],
@@ -260,7 +260,7 @@
             "name": "Cascadia Subduction Zone",
             "lengthKm": 1200,
             "depthKm": 15,
-            "activity": 0.75,
+            "activity": 0.65,
             "points": [
                 [50.18325327023799, -128.73605894963703],
                 [50.163393736474525, -128.66330907958465],
@@ -609,7 +609,7 @@
             "name": "Philippine Trench Subduction Zone",
             "lengthKm": 1320,
             "depthKm": 10.5,
-            "activity": 0.9,
+            "activity": 1,
             "points": [
                 [16.999159182280877, 122.62305864362067],
                 [16.846698274046556, 122.62767782462994],
@@ -661,7 +661,7 @@
             "name": "Manila Trench Subduction Zone",
             "lengthKm": 990,
             "depthKm": 5.4,
-            "activity": 0.9,
+            "activity": 0.85,
             "points": [
                 [12.837308503062069, 120.67730712127552],
                 [12.87741409346409, 120.58805062631416],
@@ -727,7 +727,7 @@
             "name": "New Madrid Seismic Zone",
             "lengthKm": 530,
             "depthKm": 9,
-            "activity": 0.3,
+            "activity": 0.45,
             "points": [
                 [33.66804353988856, -91.30264757276001],
                 [34.18947432693262, -91.10155408888427],
@@ -741,7 +741,7 @@
             "name": "Hayward Fault",
             "lengthKm": 119,
             "depthKm": 6.4,
-            "activity": 0.7,
+            "activity": 0.65,
             "points": [
                 [37.34688803948683, -121.76042193473928],
                 [37.43982429593376, -121.89023779290943],
@@ -757,7 +757,7 @@
             "name": "Wasatch Fault",
             "lengthKm": 386,
             "depthKm": 16,
-            "activity": 0.7,
+            "activity": 0.45,
             "points": [
                 [39.33450514925052, -111.90287854247778],
                 [39.70091961567113, -111.81268221940472],
@@ -797,7 +797,7 @@
             "name": "Denali Fault",
             "lengthKm": 2000,
             "depthKm": 10,
-            "activity": 1,
+            "activity": 0.85,
             "points": [
                 [56.148922026452176, -134.61367265397075],
                 [56.70967781515216, -134.5989192091307],
@@ -828,7 +828,7 @@
             "name": "Vanuatu Subduction Zone",
             "lengthKm": 4520,
             "depthKm": 12,
-            "activity": 1,
+            "activity": 0.95,
             "points": [
                 [-6.963182986274281, 149.1301421954982],
                 [-6.971843982485437, 149.30762178278025],
@@ -1200,7 +1200,7 @@
             "name": "Dead Sea Transform Fault",
             "lengthKm": 1000,
             "depthKm": 9.5,
-            "activity": 0.6,
+            "activity": 0.35,
             "points": [
                 [27.72671954941494, 34.25287568668098],
                 [27.99302519342274, 34.4630307365558],
@@ -1233,7 +1233,7 @@
             "name": "North Anatolian Fault",
             "lengthKm": 1500,
             "depthKm": 6,
-            "activity": 0.85,
+            "activity": 0.6,
             "points": [
                 [39.28287334092349, 40.94862265177049],
                 [39.346383076756446, 40.83800957082027],
@@ -1257,7 +1257,7 @@
             "name": "Baikal Rift Zone",
             "lengthKm": 2000,
             "depthKm": 9,
-            "activity": 0.85,
+            "activity": 0.55,
             "points": [
                 [56.60265169180036, 114.96541394123653],
                 [56.572743756644634, 112.93483669562436],
@@ -1280,7 +1280,7 @@
             "name": "East Anatolian Fault",
             "lengthKm": 700,
             "depthKm": 6,
-            "activity": 0.9,
+            "activity": 0.8,
             "points": [
                 [36.708211405340236, 35.72411637955898],
                 [37.294254179793604, 36.63521931497966],
@@ -1296,7 +1296,7 @@
             "name": "El Pilar Fault",
             "lengthKm": 1575,
             "depthKm": 8,
-            "activity": 0.65,
+            "activity": 0.35,
             "points": [
                 [11.268634193118954, -74.10530596468651],
                 [10.951334481735364, -71.52959083491366],
@@ -1332,7 +1332,7 @@
             "name": "Main Himalayan Thrust",
             "lengthKm": 2680,
             "depthKm": 14,
-            "activity": 0.75,
+            "activity": 0.65,
             "points": [
                 [34.97038673406063, 72.80440701923905],
                 [34.75300068440598, 73.12729575700916],
@@ -1426,7 +1426,7 @@
             "name": "Darling Fault",
             "lengthKm": 1500,
             "depthKm": 10,
-            "activity": 0.1,
+            "activity": 0.2,
             "points": [
                 [-34.557545420101015, 115.85902508011863],
                 [-34.342683727094084, 115.77661313699573],
@@ -1460,7 +1460,7 @@
             "name": "Azores-Gibraltar Transform Fault",
             "lengthKm": 2250,
             "depthKm": 10,
-            "activity": 0.7,
+            "activity": 0.75,
             "points": [
                 [37.327525737527864, -30.606389613243163],
                 [36.62871858893602, -25.74771259708523],
@@ -1536,7 +1536,7 @@
             "name": "Altyn Tagh Fault",
             "lengthKm": 2260,
             "depthKm": 20,
-            "activity": 0.45,
+            "activity": 0.65,
             "points": [
                 [36.50259092680799, 76.52634895317816],
                 [36.41028684917885, 76.83241972355931],
@@ -1586,7 +1586,7 @@
             "name": "Chaman Fault",
             "lengthKm": 850,
             "depthKm": 8,
-            "activity": 0.7,
+            "activity": 0.9,
             "points": [
                 [26.73264312052431, 62.22212097503587],
                 [26.89063916008191, 64.1437189907244],
