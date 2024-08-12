@@ -463,15 +463,6 @@
             "desc": "The 8-km-long island of Suwanosejima in the northern Ryukyu Islands consists of an andesitic stratovolcano with two active summit craters. The summit is truncated by a large breached crater extending to the sea on the E flank that was formed by edifice collapse. One of Japan's most frequently active volcanoes, it was in a state of intermittent Strombolian activity from Otake, the NE summit crater, between 1949 and 1996, after which periods of inactivity lengthened. The largest recorded eruption took place in 1813-14, when thick scoria deposits covered residential areas, and the SW crater produced two lava flows that reached the western coast. At the end of the eruption the summit of Otake collapsed, forming a large debris avalanche and creating an open collapse scarp extending to the eastern coast. The island remained uninhabited for about 70 years after the 1813-1814 eruption. Lava flows reached the eastern coast of the island in 1884. Only about 50 people live on the island."
         },
         {
-            "name": "Ontakesan",
-            "vei": 6,
-            "coordinates": [35.89290891126205, 137.46960560430858],
-            "type": "Complex",
-            "summitFeet": 10062,
-            "magmaType": "Andesite",
-            "desc": "Ontake is a complex volcano in Japan. It is constructed within a largely buried 4 x 5 km caldera and occupies the southern end of the Norikura volcanic zone, which extends northward to Yakedake volcano."
-        },
-        {
             "name": "Chiqllarasu",
             "vei": 6,
             "coordinates": [-13.376141998427961, -74.63834819627915],
@@ -526,13 +517,13 @@
             "desc": "A group of Holocene volcanoes in central Urup Island is named after its most prominent volcano, Kolokol. Berg and Trezubetz volcanoes, flanking Kolokol on the NW, have breached summit calderas partially filled by lava domes. Trezubetz, whose name means Trident, has an eroded crater rim with three large peaks when seen at sea from the north. Kolokol is sometimes known as Urup-Fuji because of its symmetrical profile. The crater of Kolokol is not well preserved, but there is no evidence of glacial erosion. Several lava flows originate from Kolokol; one of these extends almost to the Sea of Okhotsk coast; a viscous lava flow armoring the SE flank is probably the most recent. Borzov volcano, the oldest of the group, lies to the SW of Kolokol. Eruptions have been observed since the late-18th century. Berg volcano has been most active, but Trezubetz erupted in 1924."
         },
         {
-            "name": "Kone",
-            "vei": 5,
-            "coordinates": [8.840442662500294, 39.68810698573277],
-            "type": "Caldera",
-            "summitFeet": 4528,
-            "magmaType": "Rhyolite",
-            "desc": "The Kone volcanic complex (also known as Gariboldi) is composed of a series of silicic calderas and young basaltic cinder cones and lava flows about 30 km SW of Fentale volcano in the Main Ethiopian Rift. As many as eight silicic calderas are accompanied by ignimbrite outflow sheets. Kone, the youngest caldera, is an elliptical 5 x 7.5 km structure trending E-W and oriented perpendicular to the rift. The rim rises about 100 m above the caldera floor; the eastern rim overlaps with a smaller elliptical caldera. Regional fissures trending roughly N-S cut across the caldera and its flanks. The youngest basalts were erupted during the first half of the 19th century from vents along a hinge line between the smaller eastern caldera (Korke) and the larger western one. A dark lava flow from a cone near the center of the southern caldera (Birenti), extended 12 km SW, where the caldera rim had been eroded, and surrounded older cones."
+            "name": "Tungurcha Large Igneous Province",
+            "vei": 9,
+            "coordinates": [56.661304850247156, 123.61675864482469],
+            "type": "Large Igneous Province",
+            "summitFeet": 1709,
+            "magmaType": "Basalt",
+            "desc": "Tungurcha LIP is a large igneous province in Russia. Not much is known about this volcano, other than the fact that it erupted over 3.3 billion years ago as a low volume LIP."
         },
         {
             "name": "Lautaro",
@@ -1512,15 +1503,6 @@
             "summitFeet": 8586,
             "magmaType": "Andesite",
             "desc": "The conical Bur ni Telong volcano was constructed at the southern base of the massive Bur ni Geureudong volcanic complex, one of the largest in northern Sumatra. The historically active volcano lies 4.5 km from the summit of Geureudong,and its summit crater has migrated to the ESE, leaving arcuate crater rims. Lava flows are exposed on the southern flank. Explosive eruptions were recorded during the 19th and 20th centuries."
-        },
-        {
-            "name": "Tangkoko-Duasudara",
-            "vei": 5,
-            "coordinates": [1.492858033132054, 125.17004339237103],
-            "type": "Stratovolcano",
-            "summitFeet": 4377,
-            "magmaType": "Andesite",
-            "desc": "The eastern peninsula at the far NE end of Sulawesi near the city of Bitung is occupied by a volcanic complex consisting of two major edifices within a nature reserve. To the north is Tangkoko (also known as Tongkoko), with a large caldera (~3 x 1.5 km) elongated towards the SE from the highest rim point; the rim at the opposite end is more than 400 m lower. Eruptions occurred from the summit crater in the 17th century and in 1801, when the caldera also reportedly contained a cone surrounded by a lake. About 1.5 km down the outer E flank is the Batuangus (or Batu Angus) lava dome, formed in 1801, along with an adjacent vent (Baru Batuangus) that has been the source of all subsequent eruptions. The higher twin-peaked Duasudara (also Dua Suadara) stratovolcano is about 4.5 km SW of the Tangkoko summit. A NE-facing open crater appears to have a hummocky debris flow that reaches the base of the Tangkoko edifice"
         },
         {
             "name": "Tandikat-Singgalang",
