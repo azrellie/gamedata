@@ -2312,7 +2312,7 @@
             "name": "Vlora-Elbasani-Dibra Transversal Fault Zone",
             "lengthKm": 330,
             "depthKm": 45,
-            "activity": 1.0,
+            "activity": 1,
             "points": [
                 [39.65766331614364, 19.769354211173965],
                 [40.39158131347658, 19.409360744067033],
