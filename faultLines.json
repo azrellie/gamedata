@@ -828,7 +828,7 @@
             "name": "Vanuatu Subduction Zone",
             "lengthKm": 4520,
             "depthKm": 12,
-            "activity": 0.95,
+            "activity": 1,
             "points": [
                 [-6.963182986274281, 149.1301421954982],
                 [-6.971843982485437, 149.30762178278025],
