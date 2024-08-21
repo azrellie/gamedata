@@ -5698,8 +5698,8 @@
         },
         {
             "name": "Mid-Atlantic Ridge",
-            "lengthKm": 300,
-            "depthKm": 3,
+            "lengthKm": 933,
+            "depthKm": 7.85,
             "activity": 1,
             "points": [
                 [85.03480513298162, 9.030328492111517],
@@ -5758,8 +5758,8 @@
         },
         {
             "name": "East Pacific Rise",
-            "lengthKm": 300,
-            "depthKm": 3,
+            "lengthKm": 856,
+            "depthKm": 5,
             "activity": 1,
             "points": [
                 [-59.59108314709688, 159.4261730671816],
@@ -5812,7 +5812,7 @@
         },
         {
             "name": "South American-Antarctic Ridge",
-            "lengthKm": 300,
+            "lengthKm": 418,
             "depthKm": 3,
             "activity": 0.9,
             "points": [
@@ -5860,7 +5860,7 @@
         },
         {
             "name": "Chile Rise",
-            "lengthKm": 300,
+            "lengthKm": 676,
             "depthKm": 3,
             "activity": 1,
             "points": [
@@ -5891,8 +5891,8 @@
         },
         {
             "name": "Southeast Indian Ridge",
-            "lengthKm": 300,
-            "depthKm": 3,
+            "lengthKm": 1000,
+            "depthKm": 4.5,
             "activity": 1,
             "points": [
                 [-25.418789656492255, 70.2547836298644],
@@ -5935,8 +5935,8 @@
         },
         {
             "name": "Southwest Indian Ridge",
-            "lengthKm": 300,
-            "depthKm": 3,
+            "lengthKm": 911,
+            "depthKm": 4.7,
             "activity": 1,
             "points": [
                 [-54.923229722638574, -0.9500269127166239],
@@ -5974,8 +5974,8 @@
         },
         {
             "name": "Central Indian Ridge",
-            "lengthKm": 300,
-            "depthKm": 3,
+            "lengthKm": 375,
+            "depthKm": 4,
             "activity": 1,
             "points": [
                 [10.378035414095516, 56.79815868312902],
