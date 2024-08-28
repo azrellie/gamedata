@@ -4372,7 +4372,7 @@
             "name": "Trans-European Suture Zone",
             "lengthKm": 2270,
             "depthKm": 350,
-            "activity": 0.1,
+            "activity": 0.2,
             "points": [
                 [57.67222375283738, 4.319589764613256],
                 [57.58122729805695, 5.143942144608807],
