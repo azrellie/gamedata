@@ -1451,15 +1451,6 @@
             "desc": "Gunung Egon, also known as Namang, sits within the narrow section of eastern Flores Island. The barren, sparsely vegetated summit region has a 350-m-wide, 200-m-deep crater that sometimes contains a lake. Other small crater lakes occur on the flanks. A lava dome forms the southern summit. Solfataric activity occurs on the crater wall and rim and on the upper S flank. Reports of eruptive activity prior to explosive eruptions beginning in 2004 are unconfirmed. Emissions were often observed above the summit during 1888-1892. Strong emissions in 1907 reported by Sapper (1917) was considered by the Catalog of Active Volcanoes of the World (Neumann van Padang, 1951) to be an historical eruption, but Kemmerling (1929) noted that this was likely confused with an eruption on the same date and time from Lewotobi Lakilaki."
         },
         {
-            "name": "Emmons Lake Caldera",
-            "vei": 7,
-            "coordinates": [55.324365775875805, -162.0989111051841],
-            "type": "Caldera",
-            "summitFeet": 5033,
-            "magmaType": "Andesite",
-            "desc": "The Emmons Lake Volcanic Center, located north of Volcano Bay and SW of Pavlof volcano, includes the Emmons and Hague stratovolcanoes within the Emmons Lake caldera. The 9 x 15 km caldera contains a narrow elongated lake at its SW end that drains through a breach in the SE rim to the Pacific Ocean. The compound caldera was formed during six voluminous dacitic-to-rhyolitic eruptions between about 294,000 and 26,000 years ago that produced extensive ashflow tuffs. Mount Emmons, Mount Hague, and Double Crater are post-caldera cones of dominantly basaltic composition that were constructed along the SW-NE trend of the elongated caldera. Some Holocene flows have moved through a gap in the southern caldera rim to within 3 km of the ocean. A large fumarolic area is located on the south side of Mount Hague, and the only reported activity was the emission of steam plumes from Hague in 1990 and 1991."
-        },
-        {
             "name": "Gareloi",
             "vei": 3,
             "coordinates": [51.790409770039815, -178.79817591099973],
@@ -1530,15 +1521,6 @@
             "summitFeet": 2379,
             "magmaType": "Andesite",
             "desc": "Ruang volcano is the southernmost volcano in the Sangihe Island arc, north of Sulawesi Island; it is not the better known Raung volcano on Java. The 4 x 5 km island volcano is across a narrow strait SW of the larger Tagulandang Island. The summit contains a crater partially filled by a lava dome initially emplaced in 1904. Explosive eruptions recorded since 1808 have often been accompanied by lava dome formation and pyroclastic flows that have damaged inhabited areas."
-        },
-        {
-            "name": "Raung",
-            "vei": 5,
-            "coordinates": [-8.118910114820347, 114.05429084235081],
-            "type": "Stratovolcano",
-            "summitFeet": 10696,
-            "magmaType": "Andesite",
-            "desc": "Raung, one of Java's most active volcanoes, is a massive stratovolcano in easternmost Java that was constructed SW of the rim of Ijen caldera. The unvegetated summit is truncated by a dramatic steep-walled, 2-km-wide caldera that has been the site of frequent historical eruptions. A prehistoric collapse of Gunung Gadung on the W flank produced a large debris avalanche that traveled 79 km, reaching nearly to the Indian Ocean. Raung contains several centers constructed along a NE-SW line, with Gunung Suket and Gunung Gadung stratovolcanoes being located to the NE and W, respectively."
         },
         {
             "name": "Ranakah",
@@ -2009,15 +1991,6 @@
             "desc": "Aguas Calientes is a caldera in Argentina. Post-caldera activity included hydrothermal–geothermal activity and may have migrated westward to the neighbouring Quevar volcanic centre. Subsequent to the caldera formation, the caldera floor was uplifted for 800–1,000 metres (2,600–3,300 ft). Geothermal activity still occurs at the Incachule field."
         },
         {
-            "name": "Abra Granada",
-            "vei": 6,
-            "coordinates": [-22.554727699440726, -66.54082183964337],
-            "type": "Volcanic Complex",
-            "summitFeet": 18700,
-            "magmaType": "Dacite",
-            "desc": "Abra Granada is a volcanic complex in the Puna de Atacama in Bolivia. It is located approximately 45 kilometres (28 mi) north of Pirquitas and is composed from a lava dome, lavas and dacitic ignimbrites centering on Cerro Granada and are dated 9.8-7.8 Ma. Deposits erupted 7.9-5.0 mya by this volcano overlie the older Granada ignimbrite. Individual volcanic centres are known as Cerro Caucani, Cerro Granada and Cerro Solterío. The Pirquitas mine is part of the volcanic complex."
-        },
-        {
             "name": "Agung",
             "vei": 5,
             "coordinates": [-8.344159488928387, 115.50800157996585],
@@ -2153,15 +2126,6 @@
             "desc": "Los Humeros is a giant caldera in Mexico. The first major silicic eruption produced the 230 km3 Xáltipan Ignimbrite about 460,000 years before present, which covered about 3500 km2 and resulted in formation of the 15 x 21 km Los Humeros caldera."
         },
         {
-            "name": "El Metate",
-            "vei": 5,
-            "coordinates": [19.537635846844164, -101.9920910504119],
-            "type": "Shield",
-            "summitFeet": 8000,
-            "magmaType": "Andesite",
-            "desc": "El Metate is a shield volcano in Mexico. It had a single VEI 5 eruption in 1250 AD."
-        },
-        {
             "name": "Lvinaya Past",
             "vei": 7,
             "coordinates": [44.610847592026985, 146.98984155058724],
@@ -2207,6 +2171,15 @@
             "desc": "Scafells is a caldera in mainland UK. It had a singular VEI 7 eruption over 400 million years ago."
         },
         {
+            "name": "Stillwater Large Igneous Province",
+            "vei": 9,
+            "coordinates": [41.40255159327933, -106.33446550368093],
+            "type": "Large Igneous Province",
+            "summitFeet": 9104,
+            "magmaType": "Basalt",
+            "desc": "Stillwater LIP is large igneous province in Wyoming, USA. It has erupted 25,000 cubic km of volcanic material over 2 billion years ago."
+        },
+        {
             "name": "Morne Diablotins",
             "vei": 6,
             "coordinates": [15.499615592696562, -61.400307611241686],
@@ -2241,15 +2214,6 @@
             "summitFeet": 12851,
             "magmaType": "Andesite",
             "desc": "Erciyes is a stratovolcano in Türkiye. It is one of the strongest volcanoes in Türkiye with one of the eruptions ejecting 146 km3 of tephra."
-        },
-        {
-            "name": "Acıgöl–Nevşehir",
-            "vei": 6,
-            "coordinates": [38.540956274299184, 34.62056126041784],
-            "type": "Caldera",
-            "summitFeet": 5522,
-            "magmaType": "Rhyolite",
-            "desc": "Acıgöl–Nevşehir is a caldera located in Türkiye. There is little information about this volcano besides 2 confirmed VEI 6 eruptions."
         },
         {
             "name": "Hasan Dağı",
