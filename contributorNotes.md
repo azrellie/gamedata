@@ -11,7 +11,7 @@
 ## faultLines.json
 1. fault lines can have the same color for visualization purposes, but they cannot next to each other
 2. when adding fault lines, remember to deeply inspect the landscape to find any geological remarks of a fault line being present so the points defined are accurate
-3. the currently registered fault types are strike slip, subduction zone, oblique slip, reverse, normal, rift
+3. the currently registered fault types are strike slip, subduction zone, oblique slip, reverse, normal, rift, transform
 
 ## httpData.json
 1. this file is updated by the game server and should not be touched unless necessary
