@@ -894,7 +894,7 @@
             "lengthKm": 4520,
             "depthKm": 12,
             "activity": 1,
-            "type": "Subduction Zone",
+            "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
                 [-6.963182986274281, 149.1301421954982],
                 [-6.971843982485437, 149.30762178278025],
@@ -4672,7 +4672,7 @@
             "lengthKm": 840,
             "depthKm": 29,
             "activity": 0.6,
-            "type": "Subduction Zone",
+            "type": "Collision Zone",
             "points": [
                 [10.022848247702427, -83.29816392187712],
                 [10.017020216082367, -83.07800310272934],
@@ -4729,7 +4729,7 @@
             "lengthKm": 1660,
             "depthKm": 5.4,
             "activity": 0.1,
-            "type": "Subduction Zone",
+            "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
                 [-11.672040764140895, 72.74070435690362],
                 [-11.076077851883744, 72.43675231686214],
@@ -4799,7 +4799,7 @@
             "lengthKm": 1437,
             "depthKm": 10.1,
             "activity": 0.2,
-            "type": "Subduction Zone",
+            "type": "Collision Zone",
             "points": [
                 [9.072195484830447, -77.10518833137563],
                 [9.146119629446073, -76.89369223096368],
@@ -7230,7 +7230,7 @@
             "lengthKm": 3715,
             "depthKm": 20,
             "activity": 0.1,
-            "type": "Subduction Zone",
+            "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
                 [-31.452382462592258, 88.19009438964652],
                 [-31.0766960239349, 89.13390822241273],
@@ -7409,7 +7409,7 @@
             "lengthKm": 1790,
             "depthKm": 20,
             "activity": 0.4,
-            "type": "Subduction Zone",
+            "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
                 [8.916816802586332, 138.4306448291233],
                 [8.601929702154907, 139.1777151342355],
