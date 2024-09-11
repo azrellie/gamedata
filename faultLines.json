@@ -201,7 +201,7 @@
             "lengthKm": 1375,
             "depthKm": 12,
             "activity": 0.7,
-            "type": "Strike Slip",
+            "type": "Rift",
             "points": [
                 [22.887213266220947, -108.00143361807908],
                 [23.280729419124704, -108.75331323867687],
@@ -862,7 +862,7 @@
             "lengthKm": 2000,
             "depthKm": 10,
             "activity": 0.85,
-            "type": "Strike Slip",
+            "type": "Right Lateral Strike Slip",
             "points": [
                 [56.148922026452176, -134.61367265397075],
                 [56.70967781515216, -134.5989192091307],
