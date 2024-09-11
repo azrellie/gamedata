@@ -605,7 +605,7 @@
             "lengthKm": 3000,
             "depthKm": 10.9,
             "activity": 1,
-            "type": "Subduction Zone",
+            "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
                 [25.034647384151416, 143.21538743224605],
                 [24.435665545221383, 143.41350195945046],
@@ -789,7 +789,7 @@
             "lengthKm": 530,
             "depthKm": 9,
             "activity": 0.45,
-            "type": "Right Lateral Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [33.66804353988856, -91.30264757276001],
                 [34.18947432693262, -91.10155408888427],
@@ -961,7 +961,7 @@
             "lengthKm": 4800,
             "depthKm": 10.8,
             "activity": 1,
-            "type": "Subduction Zone",
+            "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
                 [-59.58701336445814, 159.4284404679517],
                 [-59.57197978350269, 159.3955241564692],
@@ -1240,7 +1240,7 @@
             "lengthKm": 965,
             "depthKm": 8.2,
             "activity": 0.9,
-            "type": "Subduction Zone",
+            "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
                 [-54.25202446277119, -34.46890320773491],
                 [-54.47195446373171, -33.42586010712098],
@@ -1892,7 +1892,7 @@
             "lengthKm": 2591,
             "depthKm": 12,
             "activity": 0.79,
-            "type": "Subduction Zone",
+            "type": "Collision Zone",
             "points": [
                 [33.8094471707, -4.005086331127744],
                 [36.37998617532665, 0.5734938991555626],
@@ -1913,7 +1913,7 @@
             "lengthKm": 995,
             "depthKm": 8,
             "activity": 0.68,
-            "type": "Subduction Zone",
+            "type": "Collision Zone",
             "points": [
                 [43.60338159007983, 3.0623172675340156],
                 [43.10453961829543, 2.7652649735919246],
@@ -2035,7 +2035,7 @@
             "lengthKm": 3126,
             "depthKm": 14,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [6.347246523186589, 1.3170318173743465],
                 [10.969903967549673, 2.0486728690296676],
@@ -2204,7 +2204,7 @@
             "lengthKm": 200,
             "depthKm": 8,
             "activity": 0.4,
-            "type": "Thrust",
+            "type": "Seismic Zone",
             "points": [
                 [48.889141442390574, -68.14735834080066],
                 [49.17926677851281, -67.28983305457052],
@@ -2326,7 +2326,7 @@
             "lengthKm": 300,
             "depthKm": 10.1,
             "activity": 0.51,
-            "type": "Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [34.399352175188724, -85.42509947509556],
                 [34.80094239617468, -85.13787345777683],
@@ -2715,7 +2715,7 @@
             "lengthKm": 300,
             "depthKm": 10,
             "activity": 0.2,
-            "type": "Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [37.65940873681104, -88.23789415065913],
                 [38.08329244954613, -87.98878078712063],
@@ -2756,7 +2756,7 @@
             "lengthKm": 80,
             "depthKm": 12.5,
             "activity": 0.3,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [36.25208125773558, 25.437578296237064],
                 [36.49392567185965, 25.721982284417173],
@@ -2847,7 +2847,7 @@
             "lengthKm": 70,
             "depthKm": 9,
             "activity": 1,
-            "type": "Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [63.90813189578476, -21.022973167373564],
                 [63.85270192082635, -20.476556111787612],
@@ -2893,7 +2893,7 @@
             "lengthKm": 160,
             "depthKm": 8,
             "activity": 0.32,
-            "type": "Reverse",
+            "type": "Seismic Zone",
             "points": [
                 [37.514086272843684, -78.94656285897364],
                 [37.621651249342115, -78.33855484352446],
@@ -5366,7 +5366,7 @@
             "lengthKm": 6060,
             "depthKm": 45,
             "activity": 0.15,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [3.1558604722103234, -11.995129627530098],
                 [4.446899111273594, -8.209236129891346],
@@ -5410,7 +5410,7 @@
             "lengthKm": 2300,
             "depthKm": 19,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [-28.704810522573936, 114.82167756830742],
                 [-27.60879893680879, 114.5898054354111],
@@ -5709,7 +5709,7 @@
             "lengthKm": 2168,
             "depthKm": 12,
             "activity": 0.7,
-            "type": "Subduction Zone",
+            "type": "Collision Zone",
             "points": [
                 [34.70305370022493, 137.4772627678114],
                 [35.13971668917256, 137.41756959040814],
@@ -5882,7 +5882,7 @@
             "lengthKm": 245,
             "depthKm": 28,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [58.81944166049549, -142.6644846743431],
                 [57.95698265468157, -142.7896652537594],
@@ -6468,7 +6468,7 @@
             "lengthKm": 1100,
             "depthKm": 10,
             "activity": 0.2,
-            "type": "Subduction Zone",
+            "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
                 [-1.5370342917250381, 142.3237292602193],
                 [-1.3169117098089873, 142.68876169316215],
@@ -6658,7 +6658,7 @@
             "lengthKm": 1880,
             "depthKm": 20,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [32.69214080808596, -114.1827494609759],
                 [32.33768477787254, -113.42982280247645],
@@ -6680,7 +6680,7 @@
             "lengthKm": 1820,
             "depthKm": 20,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [21.648918702041296, -97.24374212475237],
                 [21.647004057195712, -97.30497876148351],
@@ -7295,7 +7295,7 @@
             "lengthKm": 470,
             "depthKm": 20,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [46.51009443050113, -117.09967515726461],
                 [46.51292976643108, -116.5860643178826],
@@ -8206,7 +8206,7 @@
             "lengthKm": 2244,
             "depthKm": 35,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [48.845442589672686, -93.10370205932158],
                 [50.375555665956014, -91.49749059857473],
@@ -8225,7 +8225,7 @@
             "lengthKm": 900,
             "depthKm": 30,
             "activity": 0.15,
-            "type": "Reverse",
+            "type": "Seismic Zone",
             "points": [
                 [41.702087275831445, -83.58081911416338],
                 [41.33776250791227, -82.53123635560637],
@@ -8242,7 +8242,7 @@
             "lengthKm": 685,
             "depthKm": 17,
             "activity": 0.15,
-            "type": "Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [47.462451327301764, -79.68513492926053],
                 [47.31894321984198, -77.28284001631452],
@@ -8258,7 +8258,7 @@
             "lengthKm": 373,
             "depthKm": 30,
             "activity": 0.25,
-            "type": "Thrust",
+            "type": "Seismic Zone",
             "points": [
                 [46.63433364601961, -71.78557392699656],
                 [46.76924099073585, -71.2519106670486],
@@ -8275,7 +8275,7 @@
             "lengthKm": 650,
             "depthKm": 27,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [47.93454981663812, -64.84485447739986],
                 [47.67154763359855, -65.89229891483149],
@@ -9254,7 +9254,7 @@
             "lengthKm": 655,
             "depthKm": 12,
             "activity": 0.2,
-            "type": "Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [38.051509184222446, -97.96957946952254],
                 [36.6058097398384, -99.21825090101802],
@@ -9769,7 +9769,7 @@
             "lengthKm": 1400,
             "depthKm": 14,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [53.47275647745743, 141.6866934055242],
                 [52.79215651822362, 141.67774866363837],
@@ -10095,7 +10095,7 @@
             "lengthKm": 2100,
             "depthKm": 35,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [18.942647646150657, 65.18575726321727],
                 [19.699859704142703, 66.76931035263792],
@@ -10115,7 +10115,7 @@
             "lengthKm": 4500,
             "depthKm": 35,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [5.26318393395143, 64.45381776330422],
                 [6.109744447496602, 67.35091275100223],
@@ -10185,7 +10185,7 @@
             "lengthKm": 1205,
             "depthKm": 8.03,
             "activity": 0.5,
-            "type": "Subduction Zone",
+            "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
                 [10.069083554052343, 135.176250977784],
                 [9.590136327213994, 134.75339992404258],
@@ -10604,7 +10604,7 @@
             "lengthKm": 4000,
             "depthKm": 190,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [4.056199221802569, 9.187395291458722],
                 [6.241193494185214, 11.400848337869695],
@@ -10658,7 +10658,7 @@
             "lengthKm": 148,
             "depthKm": 14,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [41.188797227438016, 8.264242694157067],
                 [41.05822080365826, 8.405719040252324],
@@ -10675,7 +10675,7 @@
             "lengthKm": 908,
             "depthKm": 18,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [-16.574050293075796, 44.43157568888126],
                 [-16.659687391489594, 44.703596989401646],
@@ -10691,7 +10691,7 @@
             "lengthKm": 200,
             "depthKm": 8,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [9.378692980895336, 76.52142971100473],
                 [9.219275967221227, 76.8597924971342],
@@ -10706,7 +10706,7 @@
             "lengthKm": 355,
             "depthKm": 11,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [10.648943437222371, 75.97436753493855],
                 [10.669994117093621, 76.91239855800086],
@@ -10722,7 +10722,7 @@
             "lengthKm": 1055,
             "depthKm": 19,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [-23.657389324942436, 47.16359359272633],
                 [-22.553250404691752, 47.47377649358429],
@@ -10816,7 +10816,7 @@
             "lengthKm": 505,
             "depthKm": 12,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [-6.816317706455977, -35.516489782995116],
                 [-7.091065426952741, -35.891994330847346],
@@ -10938,7 +10938,7 @@
             "lengthKm": 103.5,
             "depthKm": 15,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [-28.98944081512948, 19.195809459326863],
                 [-29.074472442192516, 19.3317805488494],
@@ -11021,7 +11021,7 @@
             "lengthKm": 538,
             "depthKm": 13,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [-30.897022553046888, -57.796561264852144],
                 [-31.536977200115324, -56.82653311043978],
@@ -11038,7 +11038,7 @@
             "lengthKm": 5532,
             "depthKm": 15,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [-2.3802347817023035, -36.00825518034139],
                 [-2.598637240620051, -37.529728426513145],
@@ -11309,7 +11309,7 @@
             "lengthKm": 1035,
             "depthKm": 18,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [-32.0778247249194, 127.96680452887593],
                 [-30.399354355889905, 127.82709897010855],
@@ -11826,7 +11826,7 @@
             "lengthKm": 147,
             "depthKm": 9,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [26.446752978039207, 33.58668878226762],
                 [25.95354302642606, 34.0776728952221],
@@ -11986,7 +11986,7 @@
             "lengthKm": 234,
             "depthKm": 18,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [59.82862610438935, 22.808136187616892],
                 [59.872769601917504, 23.67605605671624],
@@ -12002,7 +12002,7 @@
             "lengthKm": 130,
             "depthKm": 11,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [58.76731840118162, 25.561953596260086],
                 [58.655733241584436, 25.73723149212423],
@@ -12017,7 +12017,7 @@
             "lengthKm": 147,
             "depthKm": 14,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Shear Zone",
             "points": [
                 [58.43479939665348, 22.321925088975284],
                 [58.50690204938276, 22.483579245310214],
