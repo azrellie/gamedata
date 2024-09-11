@@ -845,6 +845,19 @@
             ]
         },
         {
+            "name": "Voronezh Large Igneous Province",
+            "vei": 10,
+            "coordinates": [52.158253164950594, 39.369539212873406],
+            "type": "Large Igneous Province",
+            "summitFeet": 505,
+            "magmaType": "Basalt",
+            "desc": "Voronezh LIP is a large igneous province in European Russia. It has produced the Voronezh dyke swarm.",
+            "chatMessages": [
+                "Unusual seismic activity is observed in western Russia...",
+                "Giant ash clouds can be seen from Voronezh, Russia..."
+            ]
+        },
+        {
             "name": "Deccan Traps",
             "vei": 10,
             "coordinates": [18.99923403772129, 73.49983060020313],
