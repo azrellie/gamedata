@@ -528,7 +528,12 @@
             "type": "Large Igneous Province",
             "summitFeet": 1709,
             "magmaType": "Basalt",
-            "desc": "Tungurcha LIP is a large igneous province in Russia. Not much is known about this volcano, other than the fact that it erupted over 3.3 billion years ago as a low volume LIP."
+            "desc": "Tungurcha LIP is a large igneous province in Russia. Not much is known about this volcano, other than the fact that it erupted over 3.3 billion years ago as a low volume LIP.",
+            "chatMessages": [
+                "Wildfires originate in Siberia...",
+                "Massive uplift is detected in Siberia...",
+                "The ground violently cracks in Siberia..."
+            ]
         },
         {
             "name": "Lautaro",
@@ -2187,7 +2192,12 @@
             "type": "Large Igneous Province",
             "summitFeet": 9104,
             "magmaType": "Basalt",
-            "desc": "Stillwater LIP is large igneous province in Wyoming, USA. It has erupted 25,000 cubic km of volcanic material over 2 billion years ago."
+            "desc": "Stillwater LIP is large igneous province in Wyoming, USA. It has erupted 25,000 cubic km of volcanic material over 2 billion years ago.",
+            "chatMessages": [
+                "Earthquake swarms are detected in Southern Wyoming...",
+                "Small cracks open up in Southern Wyoming...",
+                "Massive magma intrusion is detected under Wyoming..."
+            ]
         },
         {
             "name": "Morne Diablotins",
@@ -2745,7 +2755,12 @@
             "type": "Large Igneous Province",
             "summitFeet": 3940,
             "magmaType": "Basalt",
-            "desc": "Kola Alkaline Province is a large igneous province in Russia. It has an unsually small volume compared to other LIP's (15,000 km3) thus making it a VEI 9."
+            "desc": "Kola Alkaline Province is a large igneous province in Russia. It has an unsually small volume compared to other LIP's (15,000 km3) thus making it a VEI 9.",
+            "chatMessages": [
+                "Forest fires start on the Kola Peninsula...",
+                "Massive earthquakes destroy buildings in nearby cities...",
+                "Fissures open up within the peninsula..."
+            ]
         },
         {
             "name": "Awasa Caldera",
@@ -3159,7 +3174,12 @@
             "type": "Volcanic Plateau",
             "summitFeet": 7936,
             "magmaType": "Basalt",
-            "desc": "Mambilla Plateau is a volcanic plateau in Nigeria. It erupted as a flood basalt with a volume of less than 100,000 cubic km."
+            "desc": "Mambilla Plateau is a volcanic plateau in Nigeria. It erupted as a flood basalt with a volume of less than 100,000 cubic km.",
+            "chatMessages": [
+                "Small lava flows are reported in Eastern Nigeria...",
+                "Some villages get so hot people need to be evacuated...",
+                "Tremors are heard and felt deep below the surface..."
+            ]
         },
         {
             "name": "Garðar Large Igneous Province",
@@ -3168,7 +3188,12 @@
             "type": "Large Igneous Province",
             "summitFeet": 5000,
             "magmaType": "Basalt",
-            "desc": "Garðar LIP is a large igneous province in Greenland. It is likely the oldest VEI 9 volcano, erupting over 1.2 billion years ago."
+            "desc": "Garðar LIP is a large igneous province in Greenland. It is likely the oldest VEI 9 volcano, erupting over 1.2 billion years ago.",
+            "chatMessages": [
+                "The Greenland ice sheet begins melting due to temperature increase...",
+                "Giant tsunamis are being formed in the Atlantic...",
+                "Large lava fountains begin flooding the island with lava..."
+            ]
         },
         {
             "name": "Harts Range Large Igneous Province",
@@ -3177,7 +3202,12 @@
             "type": "Large Igneous Province",
             "summitFeet": 6000,
             "magmaType": "Basalt",
-            "desc": "Harts Range LIP is a large igneous province in Australia. It erupted over 1.5 billion years ago as a low volume LIP."
+            "desc": "Harts Range LIP is a large igneous province in Australia. It erupted over 1.5 billion years ago as a low volume LIP.",
+            "chatMessages": [
+                "The ground starts rising in central Australia...",
+                "The temperatures in central Australia reach up to 100 C°...",
+                "Large ash collumns can be seen from Alice Springs..."
+            ]
         },
         {
             "name": "Ontong Java Plateau",
