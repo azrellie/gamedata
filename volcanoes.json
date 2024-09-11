@@ -162,6 +162,20 @@
             ]
         },
         {
+            "name": "Piñón Large Igneous Province",
+            "vei": 9,
+            "coordinates": [-1.1373666338410482, -80.41994103791222],
+            "type": "Large Igneous Province",
+            "summitFeet": 1000,
+            "magmaType": "Basalt",
+            "desc": "A large igneous province in Ecuador that erupted a billion years ago. There is very little info about this volcano.",
+            "chatMessages": [
+                "Earthquake swarms are detected in western Ecuador...",
+                "Nearby cities are evacuated due to massive earthquakes and temperature increase...",
+                "Large lava fountains destroy everything in their path..."
+            ]
+        },
+        {
             "name": "Pinatubo",
             "vei": 6,
             "coordinates": [15.142870220627742, 120.34954869637257],
