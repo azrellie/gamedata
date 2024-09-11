@@ -799,7 +799,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 397,
             "magmaType": "Rhyolite",
-            "desc": "Siberian Traps is a large igneous province in Russia. It is well known for causing the Permian-Triassic Extinction event 252 million years ago."
+            "desc": "Siberian Traps is a large igneous province in Russia. It is well known for causing the Permian-Triassic Extinction event 252 million years ago.",
+            "chatMessages": [
+                "The ground rises in Russia...",
+                "Animals in Russia flee..."
+            ]
         },
         {
             "name": "Caribbean Large Igneous Province",
@@ -808,7 +812,11 @@
             "type": "Large Igneous Province",
             "summitFeet": -7217,
             "magmaType": "Basalt",
-            "desc": "Caribbean LIP is a large igneous province in the Caribbean Sea. It erupted most of its material between 95 and 88 million years ago. "
+            "desc": "Caribbean LIP is a large igneous province in the Caribbean Sea. It erupted most of its material between 95 and 88 million years ago. ",
+            "chatMessages": [
+                "Large waves originate from the Caribbean...",
+                "Cruise and cargo ships race away from the Caribbean..."
+            ]
         },
         {
             "name": "North Atlantic Igneous Province",
@@ -817,7 +825,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 0,
             "magmaType": "Basalt",
-            "desc": "North Atlantic Igneous Province is a large igneous province near UK and Ireland. The eruption of NAIP could be the cause of Paleocene-Eocene Thermal Maximum."
+            "desc": "North Atlantic Igneous Province is a large igneous province near UK and Ireland. The eruption of NAIP could be the cause of Paleocene-Eocene Thermal Maximum.",
+            "chatMessages": [
+                "Landslides occur in the Scottish highlands...",
+                "A faint rumbling sound is heard through the Scottish highlands..."
+            ]
         },
         {
             "name": "Paraná Traps",
@@ -826,7 +838,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 1555,
             "magmaType": "Basalt",
-            "desc": "Paraná Traps is a large igneous province in Brazil. It may have caused one of the largest explosive eruptions in Earths history."
+            "desc": "Paraná Traps is a large igneous province in Brazil. It may have caused one of the largest explosive eruptions in Earths history.",
+            "chatMessages": [
+                "The ground cracks in south Brazil...",
+                "Tremors continue in south Brazil..."
+            ]
         },
         {
             "name": "Deccan Traps",
@@ -835,7 +851,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 846,
             "magmaType": "Basalt",
-            "desc": "Deccan Traps is a large igneous province in India. It is believed that Deccan Traps was the actual cause of the K-T extinction event."
+            "desc": "Deccan Traps is a large igneous province in India. It is believed that Deccan Traps was the actual cause of the K-T extinction event.",
+            "chatMessages": [
+                "The people of west India sense a foul smelling odor...",
+                "Large cracks open up in west India..."
+            ]
         },
         {
             "name": "Emeishan Traps",
@@ -844,7 +864,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 9196,
             "magmaType": "Basalt",
-            "desc": "Emeishan Traps is a large igneous province in China. It could have caused the end-Guadalupian extinction event."
+            "desc": "Emeishan Traps is a large igneous province in China. It could have caused the end-Guadalupian extinction event.",
+            "chatMessages": [
+                "The people of west China feel the ground shaking...",
+                "The birds flock away from west China..."
+            ]
         },
         {
             "name": "Columbia River Basalt Group",
@@ -853,7 +877,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 2690,
             "magmaType": "Basalt",
-            "desc": "Columbia River Basalt Group is a large igneous province in the US. It is one of the youngest continental flood basalt provinces."
+            "desc": "Columbia River Basalt Group is a large igneous province in the US. It is one of the youngest continental flood basalt provinces.",
+            "chatMessages": [
+                "The ground shakes as the ground begins heating up in Washington...",
+                "The area's climate changes due to the sudden increase in heat..."
+            ]
         },
         {  
             "name": "Afro-Arabian Large Igneous Province",
@@ -862,7 +890,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 2937,
             "magmaType": "Basalt",
-            "desc": "Afro-Arabian LIP is a large igneous province between Africa and Arabian Peninsula. It caused the largest explosive eruptions in Africa."
+            "desc": "Afro-Arabian LIP is a large igneous province between Africa and Arabian Peninsula. It caused the largest explosive eruptions in Africa.",
+            "chatMessages": [
+                "The sands of the Arabian desert begin rapidly heating up...",
+                "Parts of the Arabian desert begin turning to glass..."
+            ]
         },
         {  
             "name": "Gawler Range Large Igneous Province",
@@ -871,7 +903,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 1500,
             "magmaType": "Basalt",
-            "desc": "Gawler Range LIP is a large igneous province in Australia. It is one of the oldest LIPs, erupting over 1.6 billion years ago."
+            "desc": "Gawler Range LIP is a large igneous province in Australia. It is one of the oldest LIPs, erupting over 1.6 billion years ago.",
+            "chatMessages": [
+                "Evacuation orders are put in place across Australia due to an extreme increase in bush fires due to a major temperature increase...",
+                "The animals and insects begin fleeing South Australia..."
+            ]
         },
         {
             "name": "Karoo Ferrar Large Igneous Province",
@@ -880,7 +916,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 8484,
             "magmaType": "Basalt",
-            "desc": "Karoo-Ferrar LIP is a large igneous province in Africa and Antarctica. It may have caused the Pliensbachian-Toarcian extinction event."
+            "desc": "Karoo-Ferrar LIP is a large igneous province in Africa and Antarctica. It may have caused the Pliensbachian-Toarcian extinction event.",
+            "chatMessages": [
+                "The people of southern Africa notice a sharp increase in air pollution...",
+                "The ground heats up rapidly..."
+            ]
         },
         {
             "name": "Kerguelen Plateau",
@@ -889,7 +929,11 @@
             "type": "Large Igneous Province",
             "summitFeet": -6600,
             "magmaType": "Basalt",
-            "desc": "Kerguelen Plateau is a Large Igneous Province in the Indian Ocean. It is one of the most voluminous large igneous provinces, ejecting over 17 million cubic km of volcanic material."
+            "desc": "Kerguelen Plateau is a Large Igneous Province in the Indian Ocean. It is one of the most voluminous large igneous provinces, ejecting over 17 million cubic km of volcanic material.",
+            "chatMessages": [
+                "The ice caps begin melting throughout the Kerguelen Islands...",
+                "Large waves are seen near Perth, Australia..."
+            ]
         },
         {
             "name": "Ahmeyim Great Dyke of Mauritania",
@@ -898,7 +942,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 2000,
             "magmaType": "Basalt",
-            "desc": "Ahmeyim Great Dyke of Mauritania is a large igneous province in Mauritania. It is a relatively small and a very old LIP, erupting over 2.7 billion years ago."
+            "desc": "Ahmeyim Great Dyke of Mauritania is a large igneous province in Mauritania. It is a relatively small and a very old LIP, erupting over 2.7 billion years ago.",
+            "chatMessages": [
+                "The people of Mauritania notice that the air is getting heavy...",
+                "Nearby villages are catching on fire due to temperature increase..."
+            ]
         },
         {
             "name": "Etna",
@@ -3216,7 +3264,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 5600,
             "magmaType": "Basalt",
-            "desc": "The Ontong Java Plateau (OJP) is a massive oceanic plateau located in the southwestern Pacific Ocean, north of the Solomon Islands. The OJP was formed around 116 million years ago in the Ontong Java Event, which represents the largest volcanic event of the past 200 million years, with a magma eruption rate estimated at up to 22 km3 (5.3 cu mi) per year over 3 million years, several times larger than the Deccan Traps. It covers an area of 579 thousand square miles, roughly the size of Alaska."
+            "desc": "The Ontong Java Plateau (OJP) is a massive oceanic plateau located in the southwestern Pacific Ocean, north of the Solomon Islands. The OJP was formed around 116 million years ago in the Ontong Java Event, which represents the largest volcanic event of the past 200 million years, with a magma eruption rate estimated at up to 22 km3 (5.3 cu mi) per year over 3 million years, several times larger than the Deccan Traps. It covers an area of 579 thousand square miles, roughly the size of Alaska.",
+            "chatMessages": [
+                "Steam rises from the sea near the Solomon Islands...",
+                "Large waves and intense earthquakes are felt across the Solomon Islands..."
+            ]
         },
         {
             "name": "Butler Hill Caldera",
