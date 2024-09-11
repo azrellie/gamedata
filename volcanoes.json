@@ -532,7 +532,7 @@
             "chatMessages": [
                 "Wildfires originate in Siberia...",
                 "Massive uplift is detected in Siberia...",
-                "The ground violently cracks in Siberia..."
+                "The ground violently <b><font color='rgb(125,0,0)'>cracks</font></b> in Siberia..."
             ]
         },
         {
