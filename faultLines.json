@@ -3209,7 +3209,7 @@
             "lengthKm": 120,
             "depthKm": 15,
             "activity": 0.6,
-            "type": "Strike Slip",
+            "type": "Thrust",
             "points": [
                 [42.46520307353022, 13.378830698026057],
                 [42.42905744166456, 13.74154634964684],
@@ -3441,7 +3441,7 @@
             "lengthKm": 40,
             "depthKm": 15,
             "activity": 0.25,
-            "type": "Normal",
+            "type": "Reverse",
             "points": [
                 [-34.5879497168137, -71.83007502567567],
                 [-34.49622338244545, -71.88346631810549],
@@ -7122,7 +7122,7 @@
             "lengthKm": 770,
             "depthKm": 15,
             "activity": 0.5,
-            "type": "Strike Slip",
+            "type": "Thrust",
             "points": [
                 [51.766597608999184, 103.64760348216389],
                 [51.953779016702576, 102.82740269764665],
@@ -7138,7 +7138,7 @@
             "lengthKm": 420,
             "depthKm": 14,
             "activity": 0.6,
-            "type": "Strike Slip",
+            "type": "Right Lateral Strike Slip",
             "points": [
                 [50.174046094896966, 91.35211826543903],
                 [50.03469488773314, 91.50115242670996],
@@ -7463,11 +7463,11 @@
             "visualizationColor": [144, 0, 0]
         },
         {
-            "name": "Central Basin Fault",
+            "name": "Central Basin Spreading Center",
             "lengthKm": 500,
             "depthKm": 7,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Rift",
             "points": [
                 [18.072495041196465, 128.35421499162427],
                 [17.508753988812668, 128.53774335557512],
@@ -7482,7 +7482,7 @@
             "lengthKm": 45,
             "depthKm": 17,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Transform",
             "points": [
                 [-33.51810367094894, 171.1821647850811],
                 [-33.611858167481046, 171.3314384707364],
@@ -7670,7 +7670,7 @@
             "lengthKm": 1100,
             "depthKm": 21,
             "activity": 0.2,
-            "type": "Strike Slip",
+            "type": "Right Lateral Strike Slip",
             "points": [
                 [63.641387854478076, 142.32705338570796],
                 [63.34268983898168, 141.56531043232232],
@@ -7712,7 +7712,7 @@
             "lengthKm": 90,
             "depthKm": 10,
             "activity": 0.8,
-            "type": "Strike Slip",
+            "type": "Thrust",
             "points": [
                 [24.274863039609286, 120.81563721190109],
                 [24.280657090072335, 120.74990231859846],
@@ -7735,7 +7735,7 @@
             "lengthKm": 200,
             "depthKm": 12,
             "activity": 0.8,
-            "type": "Strike Slip",
+            "type": "Left Lateral Strike Slip",
             "points": [
                 [24.721375066028244, 121.8229957964277],
                 [24.708029931481704, 121.66721822862064],
@@ -7807,7 +7807,7 @@
             "lengthKm": 50,
             "depthKm": 25,
             "activity": 0.2,
-            "type": "Strike Slip",
+            "type": "Right Lateral Strike Slip",
             "points": [
                 [54.948711034741486, 20.42404964527772],
                 [54.94803242358273, 20.334185018833274],
@@ -8292,7 +8292,7 @@
             "lengthKm": 420,
             "depthKm": 40,
             "activity": 0.15,
-            "type": "Oblique Reverse",
+            "type": "Reverse Oblique",
             "points": [
                 [24.25614392761031, 74.6128526261038],
                 [24.96534262575136, 74.54067742791129],
@@ -8342,7 +8342,7 @@
             "lengthKm": 2900,
             "depthKm": 33.2,
             "activity": 0.75,
-            "type": "Continental Convergent Boundary",
+            "type": "Thrust",
             "points": [
                 [35.21567738452609, 71.47682253436565],
                 [35.44455677637475, 72.11807276898152],
@@ -8454,7 +8454,7 @@
             "lengthKm": 325,
             "depthKm": 20,
             "activity": 0.3,
-            "type": "Strike Slip",
+            "type": "Right Lateral Strike Slip",
             "points": [
                 [40.940482901642085, 43.97401776536318],
                 [40.88544575855896, 44.28430215570983],
@@ -8506,7 +8506,7 @@
             "lengthKm": 705,
             "depthKm": 15,
             "activity": 0.6,
-            "type": "Strike Slip",
+            "type": "Left Lateral Strike Slip",
             "points": [
                 [33.84674453841713, 53.94946084657699],
                 [34.4711747174907, 55.08892908323766],
@@ -8545,7 +8545,7 @@
             "lengthKm": 630,
             "depthKm": 23,
             "activity": 0.6,
-            "type": "Strike Slip",
+            "type": "Blind Thrust",
             "points": [
                 [28.65562544462506, 51.3140190630511],
                 [28.237262910878226, 51.63383847843754],
@@ -8582,7 +8582,7 @@
             "lengthKm": 585,
             "depthKm": 20,
             "activity": 0.4,
-            "type": "Strike Slip",
+            "type": "Right Lateral Strike Slip",
             "points": [
                 [45.05219977152052, 77.60878532439438],
                 [44.683679572409915, 78.8535597135473],
@@ -8628,7 +8628,7 @@
             "lengthKm": 615,
             "depthKm": 23,
             "activity": 0.2,
-            "type": "Strike Slip",
+            "type": "Thrust",
             "points": [
                 [32.49923969061545, -0.3735828954769619],
                 [33.056771648194484, 0.8116001103810104],
@@ -8685,7 +8685,7 @@
             "lengthKm": 480,
             "depthKm": 35,
             "activity": 0.15,
-            "type": "Normal",
+            "type": "Rift",
             "points": [
                 [47.76375181629033, 6.610203577579271],
                 [47.51102433920468, 5.826871928446539],
@@ -8864,11 +8864,11 @@
             "visualizationColor": [202, 181, 76]
         },
         {
-            "name": "Low Tagus Fault",
+            "name": "Lower Tagus Valley Fault",
             "lengthKm": 190,
             "depthKm": 18,
             "activity": 0.2,
-            "type": "Strike Slip",
+            "type": "Left Lateral Strike Slip",
             "points": [
                 [39.974405733918175, -8.365177179235724],
                 [39.688219540867145, -8.431116560585167],
@@ -9063,7 +9063,7 @@
             "lengthKm": 540,
             "depthKm": 16,
             "activity": 0.5,
-            "type": "Strike Slip",
+            "type": "Thrust",
             "points": [
                 [32.95522142092361, 74.0659318109175],
                 [32.38616633894812, 72.0045903675039],
@@ -9134,7 +9134,7 @@
             "lengthKm": 495,
             "depthKm": 10,
             "activity": 0.6,
-            "type": "Strike Slip",
+            "type": "Thrust",
             "points": [
                 [39.601144557931654, 75.20817965241274],
                 [39.62189382302507, 75.54018879218015],
@@ -9165,7 +9165,7 @@
             "lengthKm": 32.8,
             "depthKm": 35,
             "activity": 0.3,
-            "type": "Strike Slip",
+            "type": "Normal",
             "points": [
                 [19.263483790947213, -155.34483554741095],
                 [19.293760455002726, -155.3055812446973],
@@ -9628,7 +9628,7 @@
             "lengthKm": 260,
             "depthKm": 25,
             "activity": 0.35,
-            "type": "Strike Slip",
+            "type": "Normal",
             "points": [
                 [37.961578315846474, -112.34373011593422],
                 [37.85676692575542, -112.32693384467478],
@@ -9660,7 +9660,7 @@
             "lengthKm": 200,
             "depthKm": 13,
             "activity": 0.5,
-            "type": "Strike Slip",
+            "type": "Normal",
             "points": [
                 [43.31716900590075, -117.84359553633016],
                 [43.21773478042141, -117.93730981051624],
@@ -9862,7 +9862,7 @@
             "lengthKm": 107,
             "depthKm": 19,
             "activity": 0.15,
-            "type": "Strike Slip",
+            "type": "High Angle Normal",
             "points": [
                 [45.445572613417006, -111.62536074399671],
                 [45.39124501750889, -111.58555711848604],
@@ -10030,7 +10030,7 @@
             "lengthKm": 4185,
             "depthKm": 25,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Thrust",
             "points": [
                 [42.681304751511085, -104.079785998661],
                 [45.08228346305593, -103.67295562560126],
@@ -10171,7 +10171,7 @@
             "lengthKm": 107,
             "depthKm": 21,
             "activity": 0.3,
-            "type": "Strike Slip",
+            "type": "Transform",
             "points": [
                 [4.4305056856847065, 113.49557286035345],
                 [4.375012381270435, 113.55866513776277],
@@ -10303,7 +10303,7 @@
             "lengthKm": 473,
             "depthKm": 100,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Transform",
             "points": [
                 [63.021614186387595, -116.37010112456186],
                 [63.713556259429474, -116.2949879610652],
@@ -10644,7 +10644,7 @@
             "lengthKm": 28.6,
             "depthKm": 11,
             "activity": 0.4,
-            "type": "Strike Slip",
+            "type": "Thrust",
             "points": [
                 [-33.3731328538019, -70.5469706453561],
                 [-33.44059445499665, -70.525159646728],
@@ -10738,7 +10738,7 @@
             "lengthKm": 462,
             "depthKm": 10,
             "activity": 0.5,
-            "type": "Strike Slip",
+            "type": "Right Lateral Strike Slip",
             "points": [
                 [15.881398168354265, 97.70090025347066],
                 [15.281634324814938, 98.39402137624052],
@@ -10837,7 +10837,7 @@
             "lengthKm": 101.5,
             "depthKm": 21,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Thrust",
             "points": [
                 [81.99932379246411, -85.9278469605967],
                 [82.00537031813019, -84.59147291124509],
@@ -10903,7 +10903,7 @@
             "visualizationColor": [255, 0, 0]
         },
         {
-            "name": "Welsh Borderland Fault Zone",
+            "name": "Welsh Borderland Fault System",
             "lengthKm": 185,
             "depthKm": 12,
             "activity": 0.1,
@@ -10965,7 +10965,7 @@
             "lengthKm": 78.4,
             "depthKm": 17,
             "activity": 0.1,
-            "type": "Strike Slip",
+            "type": "Normal",
             "points": [
                 [-24.904580372344963, 16.28942616368524],
                 [-24.90700888728759, 16.30696635193104],
