@@ -154,7 +154,12 @@
             "type": "Caldera",
             "summitFeet": 3665,
             "magmaType": "Rhyolite",
-            "desc": "A caldera volcano in Sumatara Indonesia that is the culprit for the Toba catastrophe 74000 years ago, killing off nearly everyone on the planet. With only 3,000-10,000 survivors. This eruption was believed to be of a VEI 8, but has recently been recategorized as a VEI 9 due to the logarithmic nature of the Volcanic Explosivity Index."
+            "desc": "A caldera volcano in Sumatara Indonesia that is the culprit for the Toba catastrophe 74000 years ago, killing off nearly everyone on the planet. With only 3,000-10,000 survivors. This eruption was believed to be of a VEI 8, but has recently been recategorized as a VEI 9 due to the logarithmic nature of the Volcanic Explosivity Index.",
+            "chatMessages": [
+                "Sumatras land deforms...",
+                "Sumatras land deforms further...",
+                "Sumatras largest lake heats up..."
+            ]
         },
         {
             "name": "Pinatubo",
@@ -766,7 +771,12 @@
             "type": "Caldera",
             "summitFeet": 640,
             "magmaType": "Rhyolite",
-            "desc": "Flat Landing Brook Formation is a caldera in New Brunswick. It erupted over 465 million years ago with an estimated volume of 12,000 cubic km, making it the second strongest confirmed explosive eruption in Earths history."
+            "desc": "Flat Landing Brook Formation is a caldera in New Brunswick. It erupted over 465 million years ago with an estimated volume of 12,000 cubic km, making it the second strongest confirmed explosive eruption in Earths history.",
+            "chatMessages": [
+                "The ground shakes near Montreal...",
+                "The ground shakes once more near Montreal...",
+                "The ground <b><font color='rgb(125,0,0)'>violently shakes</font></b> near Montreal..."
+            ]
         },
         {
             "name": "Pastos Grandes",
