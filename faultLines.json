@@ -4459,8 +4459,8 @@
         {
             "name": "Iapetus Suture",
             "lengthKm": 9610,
-            "depthKm": 28,
-            "activity": 0.1,
+            "depthKm": 200,
+            "activity": 0.02,
             "type": "Suture Zone",
             "points": [
                 [80.36854816923352, 33.955460448230085],
