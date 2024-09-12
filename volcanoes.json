@@ -2261,17 +2261,44 @@
             "desc": "Scafells is a caldera in mainland UK. It had a singular VEI 7 eruption over 400 million years ago."
         },
         {
-            "name": "Stillwater Large Igneous Province",
+            "name": "Stillwater Igneous Complex",
             "vei": 9,
             "coordinates": [41.40255159327933, -106.33446550368093],
             "type": "Large Igneous Province",
             "summitFeet": 9104,
             "magmaType": "Basalt",
-            "desc": "Stillwater LIP is large igneous province in Wyoming, USA. It has erupted 25,000 cubic km of volcanic material over 2 billion years ago.",
+            "desc": "Stillwater Igneous Complex is large igneous province in Wyoming, USA. It has erupted 25,000 cubic km of volcanic material over 2 billion years ago.",
             "chatMessages": [
                 "Earthquake swarms are detected in Southern Wyoming...",
                 "Small cracks open up in Southern Wyoming...",
                 "Massive magma intrusion is detected under Wyoming..."
+            ]
+        },
+        {
+            "name": "Okhotsk Large Igneous Province",
+            "vei": 10,
+            "coordinates": [54.52595237510003, 149.34789497450825],
+            "type": "Large Igneous Province",
+            "summitFeet": -11063,
+            "magmaType": "Basalt",
+            "desc": "Okhotsk LIP is a large igneous province in the Okhotsk sea. It's responsible for the formation of the Okhotsk Plateau.",
+            "chatMessages": [
+                "New islands begin forming in the Okhotsk Sea...",
+                "Okhotsk Sea evaporates due to an extreme temperature increase..."
+            ]
+        },
+        {
+            "name": "Ushat Complex",
+            "vei": 9,
+            "coordinates": [55.72775010090483, 59.918220826532384],
+            "type": "Large Igneous Province",
+            "summitFeet": 3900,
+            "magmaType": "Basalt",
+            "desc": "Ushat Complex is a large igneous province in Russia. It is related to the subduction of Angara plate 400 million years ago.",
+            "chatMessages": [
+                "Earthquakes trigger landslides in the Ural mountains...",
+                "Massive CO2 emissions originate from the Ural mountains...",
+                "<b><font color='rgb(125,0,0)'>The ground violently explodes in the Ural mountains...</font></b>"
             ]
         },
         {
