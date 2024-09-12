@@ -430,7 +430,7 @@
         {
             "name": "Kuril-Kamchatka Subduction Zone",
             "lengthKm": 2900,
-            "depthKm": 10.5,
+            "depthKm": 600,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
