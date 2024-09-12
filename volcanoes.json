@@ -833,6 +833,19 @@
             ]
         },
         {
+            "name": "High Arctic Large Igneous Province",
+            "vei": 10,
+            "coordinates": [78.06867443467567, 17.224361204171057],
+            "type": "Large Igneous Province",
+            "summitFeet": 5620,
+            "magmaType": "Basalt",
+            "desc": "High Arctic LIP is a large igneous province in the Arctic. The HALIP event lasted from 130 million years ago to approximately 60 million years ago. During its active period, there were two distinct phases of volcanism. The first phase lasted from 130 million years ago to 80 million years ago and was characterized by tholeiitic igneous activity. During this time, numerous dikes and sills formed, and there were eruptions of basaltic flow. The basalts formed at this time are relatively rich in TiO2 and have a similar composition to continental flood basalts. The second phase lasted from approximately 85 million years ago to 60 million years ago and was characterized by mildly alkaline igneous activity and the eruption of flood basalts. The igneous rocks formed during the second phase have a similar geochemical makeup as the intra-plate composition.",
+            "chatMessages": [
+                "Svalbard experiences a steep increase in ice melt...",
+                "Nearby waters begin to evaporate..."
+            ]
+        },
+        {
             "name": "North Atlantic Igneous Province",
             "vei": 10,
             "coordinates": [56.141403108590026, -6.453498464751493],
