@@ -10316,11 +10316,11 @@
             "visualizationColor": [255, 0, 0]
         },
         {
-            "name": "Buyuk Menderes Graben Fault",
+            "name": "Büyük Menderes Graben Fault",
             "lengthKm": 233,
             "depthKm": 12,
             "activity": 0.25,
-            "type": "High Angle Normal",
+            "type": "Rift",
             "points": [
                 [37.680773123800144, 27.024158436832156],
                 [37.68095131264404, 27.10366280901313],
