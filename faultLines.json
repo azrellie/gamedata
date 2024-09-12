@@ -2340,7 +2340,7 @@
         {
             "name": "Mediterranean Ridge",
             "lengthKm": 2000,
-            "depthKm": 8,
+            "depthKm": 200,
             "activity": 0.42,
             "type": "Rift",
             "points": [
