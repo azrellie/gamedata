@@ -4529,7 +4529,7 @@
         {
             "name": "Trans-European Suture Zone",
             "lengthKm": 2270,
-            "depthKm": 355,
+            "depthKm": 700,
             "activity": 0.25,
             "type": "Suture Zone",
             "points": [
