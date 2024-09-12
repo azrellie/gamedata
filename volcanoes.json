@@ -2288,6 +2288,19 @@
             ]
         },
         {
+            "name": "Circum-Superior Belt",
+            "vei": 10,
+            "coordinates": [47.95945267993154, -87.20083826898065],
+            "type": "Large Igneous Province",
+            "summitFeet": -750,
+            "magmaType": "Basalt",
+            "desc": "Circum-Superior Belt is a large igneous province in Canada. A number of magmatic features are present in the Circum-Superior Belt, including dikes, sills and volcanics that comprise geologic formations.",
+            "chatMessages": [
+                "Massive waves are seen in Thunder Bay, Ontario...",
+                "Waters in lake Superior reach boiling temperatures..."
+            ]
+        },
+        {
             "name": "Ushat Complex",
             "vei": 9,
             "coordinates": [55.72775010090483, 59.918220826532384],
