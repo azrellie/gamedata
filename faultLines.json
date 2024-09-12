@@ -5512,7 +5512,7 @@
             "lengthKm": 255,
             "depthKm": 11,
             "activity": 0.2,
-            "type": "Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [33.558910984102695, -81.85621879087122],
                 [33.88634133537406, -81.1757859983942],
@@ -5526,7 +5526,7 @@
             "lengthKm": 650,
             "depthKm": 18,
             "activity": 0.2,
-            "type": "Strike Slip",
+            "type": "Seismic Zone",
             "points": [
                 [46.84648192944636, -59.25359340314224],
                 [46.0495607563972, -57.9093810373648],
