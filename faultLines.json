@@ -3,7 +3,7 @@
         {
             "name": "Peru-Chile Subduction Zone",
             "lengthKm": 5900,
-            "depthKm": 8,
+            "depthKm": 70,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -108,7 +108,7 @@
         {
             "name": "Middle America Subduction Zone",
             "lengthKm": 4970,
-            "depthKm": 10,
+            "depthKm": 70,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -349,7 +349,7 @@
         {
             "name": "Aleutian Subduction Zone",
             "lengthKm": 5350,
-            "depthKm": 8.1,
+            "depthKm": 70,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -892,7 +892,7 @@
         {
             "name": "Vanuatu Subduction Zone",
             "lengthKm": 4520,
-            "depthKm": 12,
+            "depthKm": 120,
             "activity": 1,
             "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
@@ -959,7 +959,7 @@
         {
             "name": "Kermadec-Tonga Subduction Zone",
             "lengthKm": 4800,
-            "depthKm": 10.8,
+            "depthKm": 120,
             "activity": 1,
             "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
@@ -1112,7 +1112,7 @@
         {
             "name": "Sunda Megathrust",
             "lengthKm": 5600,
-            "depthKm": 7.4,
+            "depthKm": 80,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
