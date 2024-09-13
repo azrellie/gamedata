@@ -2618,7 +2618,7 @@
         {
             "name": "Makran Subduction Zone",
             "lengthKm": 1160,
-            "depthKm": 38,
+            "depthKm": 100,
             "activity": 0.75,
             "type": "Subduction Zone",
             "points": [
