@@ -1888,11 +1888,11 @@
             "visualizationColor": [125, 195, 0]
         },
         {
-            "name": "Alboran Sea Fault",
+            "name": "African-Eurasian Plate Boundary Fault",
             "lengthKm": 2591,
-            "depthKm": 12,
+            "depthKm": 210,
             "activity": 0.79,
-            "type": "Collision Zone",
+            "type": "Subduction Zone",
             "points": [
                 [33.8094471707, -4.005086331127744],
                 [36.37998617532665, 0.5734938991555626],
@@ -5677,7 +5677,7 @@
             "lengthKm": 2168,
             "depthKm": 400,
             "activity": 0.7,
-            "type": "Collision Zone",
+            "type": "Subduction Zone",
             "points": [
                 [34.70305370022493, 137.4772627678114],
                 [35.13971668917256, 137.41756959040814],
