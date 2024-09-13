@@ -2891,7 +2891,7 @@
         {
             "name": "Ninety East Sumatra Orogeny",
             "lengthKm": 3770,
-            "depthKm": 45,
+            "depthKm": 65,
             "activity": 0.2,
             "type": "Collision Zone",
             "points": [
