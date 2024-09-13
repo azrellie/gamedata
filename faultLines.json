@@ -3244,7 +3244,7 @@
         {
             "name": "Calabrian Subduction Zone",
             "lengthKm": 440,
-            "depthKm": 30,
+            "depthKm": 350,
             "activity": 0.6,
             "type": "Subduction Zone",
             "points": [
