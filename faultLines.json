@@ -521,7 +521,7 @@
         {
             "name": "Ryukyu Subduction Zone",
             "lengthKm": 2360,
-            "depthKm": 7.5,
+            "depthKm": 450,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
