@@ -833,6 +833,19 @@
             ]
         },
         {
+            "name": "Chon Aike Large Igneous Province",
+            "vei": 10,
+            "coordinates": [-65.81889408909063, -62.727982953007114],
+            "type": "Large Igneous Province",
+            "summitFeet": 4921,
+            "magmaType": "Rhyolite",
+            "desc": "Chone Aike LIP is a large igneous province in Patagonia and Antarctica. It has erupted from 170 to 140 million years ago.",
+            "chatMessages": [
+                "Giant earthquakes cause Antarctic glaciers to collapse...",
+                "Small ash clouds are rising from the Antarctic Peninsula..."
+            ]
+        },
+        {
             "name": "High Arctic Large Igneous Province",
             "vei": 10,
             "coordinates": [78.06867443467567, 17.224361204171057],
