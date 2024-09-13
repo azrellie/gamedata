@@ -1406,7 +1406,7 @@
         {
             "name": "Main Himalayan Thrust",
             "lengthKm": 2680,
-            "depthKm": 14,
+            "depthKm": 250,
             "activity": 0.65,
             "type": "Continental Convergent Boundary",
             "points": [
@@ -8280,7 +8280,7 @@
         {
             "name": "Main Central Thrust",
             "lengthKm": 2900,
-            "depthKm": 33.2,
+            "depthKm": 250,
             "activity": 0.75,
             "type": "Continental Convergent Boundary",
             "points": [
