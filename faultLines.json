@@ -489,7 +489,7 @@
         {
             "name": "Izu-Ogasawara Trench Subduction Zone",
             "lengthKm": 1100,
-            "depthKm": 9.8,
+            "depthKm": 400,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -521,7 +521,7 @@
         {
             "name": "Ryukyu Subduction Zone",
             "lengthKm": 2360,
-            "depthKm": 450,
+            "depthKm": 250,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -667,7 +667,7 @@
         {
             "name": "Philippine Trench Subduction Zone",
             "lengthKm": 1320,
-            "depthKm": 10.5,
+            "depthKm": 560,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -1238,7 +1238,7 @@
         {
             "name": "South Sandwich Subduction Zone",
             "lengthKm": 965,
-            "depthKm": 8.2,
+            "depthKm": 300,
             "activity": 0.9,
             "type": "Oceanic-Oceanic Convergent Boundary",
             "points": [
@@ -1385,7 +1385,7 @@
         {
             "name": "Puerto Rico Trench",
             "lengthKm": 1750,
-            "depthKm": 8,
+            "depthKm": 150,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -3809,7 +3809,7 @@
         {
             "name": "Transcarpathian Fault System",
             "lengthKm": 1230,
-            "depthKm": 12,
+            "depthKm": 150,
             "activity": 0.5,
             "type": "Collision Zone",
             "points": [
@@ -5637,7 +5637,7 @@
         {
             "name": "Eastern Margin of the Sea of Japan",
             "lengthKm": 2168,
-            "depthKm": 12,
+            "depthKm": 400,
             "activity": 0.7,
             "type": "Collision Zone",
             "points": [
@@ -7115,7 +7115,7 @@
         {
             "name": "Lesser Antilles Subduction Zone",
             "lengthKm": 690,
-            "depthKm": 60,
+            "depthKm": 150,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
