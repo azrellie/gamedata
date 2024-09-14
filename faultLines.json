@@ -311,7 +311,7 @@
         {
             "name": "Cascadia Subduction Zone",
             "lengthKm": 1200,
-            "depthKm": 15,
+            "depthKm": 350,
             "activity": 0.65,
             "type": "Subduction Zone",
             "points": [
