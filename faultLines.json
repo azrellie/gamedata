@@ -3472,7 +3472,7 @@
         {
             "name": "Cyprus Subduction Zone",
             "lengthKm": 790,
-            "depthKm": 20,
+            "depthKm": 100,
             "activity": 0.8,
             "type": "Subduction Zone",
             "points": [
