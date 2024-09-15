@@ -1559,7 +1559,7 @@
         {
             "name": "Main Uralian Fault",
             "lengthKm": 2130,
-            "depthKm": 100,
+            "depthKm": 180,
             "activity": 0.2,
             "type": "Subduction Zone",
             "points": [
