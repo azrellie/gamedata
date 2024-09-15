@@ -8241,11 +8241,11 @@
             "visualizationColor": [160, 220, 170]
         },
         {
-            "name": "Central Metasedimentary Belt boundary thrust zone",
+            "name": "Central Metasedimentary Belt Boundary Thrust Zone",
             "lengthKm": 600,
             "depthKm": 30,
             "activity": 0.12,
-            "type": "thrust",
+            "type": "Thrust",
             "points": [
                 [41.78959780579814, -79.88924151956705],
                 [42.08191307364901, -79.94253850732522],
