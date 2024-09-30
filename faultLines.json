@@ -1057,8 +1057,8 @@
         },
         {
             "name": "Kermadec-Tonga Subduction Zone",
-            "lengthKm": 1630,
-            "depthKm": 450,
+            "lengthKm": 3000,
+            "depthKm": 720,
             "activity": 1,
             "type": "OCeanic Convergent Boundary",
             "points": [
