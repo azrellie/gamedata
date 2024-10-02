@@ -1155,6 +1155,42 @@
             "desc": "Las Pilas-El Hoyo volcanic complex includex a complex and diverse cluster of multiple cinder cones within a 3km area of eachother. Its last eruption was in october 29th 1954."
         },
         {
+            "name": "Akita-Yake-Yama",
+            "vei": 7,
+            "coordinates": [39.968014005285085, 140.75980443077387],
+            "type": "Stratovolcano",
+            "summitFeet": 4482,
+            "magmaType": "Andesite",
+            "desc": "One of several Japanese volcanoes named Yakeyama (Burning Mountain), Akita-Yakeyama is the most recently active of a group of coalescing edifices in NW Honshu immediately west of Hachimantai volcano. The main volcano, Yakeyama, contains a small lava dome in its 600-m-wide summit crater. Tsugamori to the east is a stratovolcano of roughly the same height and has a 2-km-wide crater breached to the NE. The flat-topped lava dome of Kuroshimori lies 4 km S of Yakedake. One of several thermal areas, the Tamagawa Spa at the western foot has strongly acidic and slightly radioactive water. The last magmatic eruption formed the Onigajo lava dome in the summit crater about 5000 years ago. There have been somewhat uncertain reported 19th-century eruptions and mild phreatic eruptions in the 20th century."
+        },
+        {
+            "name": "Kanlaon",
+            "vei": 2,
+            "coordinates": [10.411245619563033, 123.13208759757845],
+            "type": "Stratovolcano",
+            "summitFeet": 7946,
+            "magmaType": "Andesite",
+            "desc": "The massive andesitic stratovolcano is covered with fissure-controlled pyroclastic cones and craters, many of which are filled by lakes. The largest debris avalanche known in the Philippines traveled 33 km SW from Kanlaon. The summit contains a 2-km-wide, elongated northern caldera with a crater lake and a smaller but higher active vent, Lugud crater, to the south. Eruptions recorded since 1866 have typically consisted of phreatic explosions of small-to-moderate size that produce minor local ashfall."
+        },
+        {
+            "name": "Durango Volcanic Field",
+            "vei": 6,
+            "coordinates": [24.415564970895716, -104.53814317170155],
+            "type": "Volcanic Field",
+            "summitFeet": 6808,
+            "magmaType": "Trachybasalt",
+            "desc": "The broad Durango volcanic field covers 2,100 km2 at the NW corner of the Meseta Central near the eastern edge of the Sierra Madre Occidental of north-central México. The expansive undissected lava plain lies within the Mexican Basin and Range province and is NE of the city of Durango. The field includes about 100 Quaternary basanitic cinder and lava cones as well as several xenolith localities. La Breña-El Jagüey maar complex consists of two intersecting maars, the largest of which (La Breña) contains a series of nested cinder cones. The maar complex is one of the youngest eruptive centers and was considered by Aranda-Gómez et al. (1992) to be only a few thousand years old."
+        },
+        {
+            "name": "Crooked River Caldera",
+            "vei": 7,
+            "coordinates": [44.29990381625502, -120.90037729096537],
+            "type": "Caldera",
+            "summitFeet": 5106,
+            "magmaType": "Rhyolite",
+            "desc": "The Crooked River caldera is a large and ancient volcano that straddles three central Oregon counties. The diameter of the caldera is about 41 by 27 kilometres (25 mi × 17 mi) and is notable for the welded tuff present at Gray Butte, Smith Rock, Powell Buttes, Grizzly Mountain and Barnes Butte. The volcano is considered extinct and last erupted about 29.5 Ma."
+        },
+        {
             "name": "San Miguel",
             "vei": 3,
             "coordinates": [13.431985974828997, -88.27084573791859],
@@ -2324,6 +2360,19 @@
             "chatMessages": [
                 "Massive waves are seen in Thunder Bay, Ontario...",
                 "Waters in lake Superior reach boiling temperatures..."
+            ]
+        },
+        {
+            "name": "Tarim Large Igneous Province",
+            "vei": 10,
+            "coordinates": [38.81112759344431, 79.92981737335494],
+            "type": "Large Igneous Province",
+            "summitFeet": 4265,
+            "magmaType": "Basalt",
+            "desc": "Tarim LIP is a large igneous province in the Tarim Basin.",
+            "chatMessages": [
+                "Small vents begin erupting within the Tarim basin...",
+                "Intense shaking can be felt in Kashgar..."
             ]
         },
         {
