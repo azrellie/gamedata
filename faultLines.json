@@ -7571,7 +7571,7 @@
         {
             "name": "Cordilleran Orogenic Belt",
             "lengthKm": 8500,
-            "depthKm": 35,
+            "depthKm": 72,
             "activity": 0.5,
             "type": "Reverse",
             "points": [
