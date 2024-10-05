@@ -4130,6 +4130,15 @@
             "population": 124724,
             "hdi": 0.903,
             "coordinates": [-17.53248343358865, -149.567371141096]
+        },
+        {
+            "name": "Louisville",
+            "state": "Kentucky",
+            "stateAbbrev": "KY",
+            "country": "United States",
+            "population": 1025000,
+            "hdi": 0.879,
+            "coordinates": [38.246784300373335, -85.76674972103712]
         }
     ]
 }
