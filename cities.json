@@ -4166,6 +4166,51 @@
             "population": 1199391,
             "hdi": 0.925,
             "coordinates": [34.38115227830128, 132.46091290610423]
+        },
+        {
+            "name": "Vigo",
+            "state": "Galicia",
+            "stateAbbrev": "GA",
+            "country": "Spain",
+            "population": 481268,
+            "hdi": 0.900,
+            "coordinates": [42.24060796718658, -8.721061266108306]
+        },
+        {
+            "name": "Dakar",
+            "state": "Dakar",
+            "stateAbbrev": "",
+            "country": "Senegal",
+            "population": 4004427,
+            "hdi": 0.517,
+            "coordinates": [14.717094509753451, -17.46719822719654]
+        },
+        {
+            "name": "Conakry",
+            "state": "Conakry Region",
+            "stateAbbrev": "",
+            "country": "Guinea",
+            "population": 1660973,
+            "hdi": 0.660,
+            "coordinates": [9.509365606330743, -13.71138793373252]
+        },
+        {
+            "name": "Porto Seguro",
+            "state": "Bahia",
+            "stateAbbrev": "",
+            "country": "Brazil",
+            "population": 168326,
+            "hdi": 0.691,
+            "coordinates": [-16.44426164641625, -39.06553042255882]
+        },
+        {
+            "name": "Hadibu",
+            "state": "Socotra",
+            "stateAbbrev": "",
+            "country": "Yemen",
+            "population": 8545,
+            "hdi": 0.424,
+            "coordinates": [12.650175396136145, 54.019016801258864]
         }
     ]
 }
