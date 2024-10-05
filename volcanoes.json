@@ -13,6 +13,15 @@
             "desc": "A stratovolcano in Washington state that is responsible for the 1980 eruption of Mount St. Helens that covered most of north Washington in ash along with other states downwind east. The entire north flank of the volcano collapsed right as the eruption begun and caused a massive landslide because of a magnitude 5.1 earthquake directly under the north flank. The eruption was determined to be a VEI 5."
         },
         {
+            "name": "Payún Matrú",
+            "vei": 6,
+            "coordinates": [46.195585783508754, -122.18897141900877],
+            "type": "Shield",
+            "summitFeet": 12500,
+            "magmaType": "Basalt",
+            "desc": "Payún Matrú is a shield volcano in the Reserva Provincial La Payunia of the Malargüe Department, south of the Mendoza Province in Argentina. It lies in the back-arc region of the Andean Volcanic Belt, and was formed by the subduction of the Nazca Plate beneath the South American Plate. Payún Matrú, along with the Llancanelo, Nevado and Salado Basin volcanic fields, form the Payenia province. It has been proposed as a World Heritage Site since 2011."
+        },
+        {
             "name": "Vesuvius",
             "vei": 6,
             "coordinates": [40.821337267833876, 14.42591306434018],
