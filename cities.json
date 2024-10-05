@@ -4139,6 +4139,33 @@
             "population": 1025000,
             "hdi": 0.879,
             "coordinates": [38.246784300373335, -85.76674972103712]
+        },
+        {
+            "name": "Pyongyang",
+            "state": "Pyongyang",
+            "stateAbbrev": "",
+            "country": "North Korea",
+            "population": 3157538,
+            "hdi": 0.733,
+            "coordinates": [39.03903863298425, 125.76270803775633]
+        },
+        {
+            "name": "Seoul",
+            "state": "Seoul Capital",
+            "stateAbbrev": "",
+            "country": "South Korea",
+            "population": 9659322,
+            "hdi": 0.925,
+            "coordinates": [37.54933602350679, 127.0001936899799]
+        },
+        {
+            "name": "Hiroshima",
+            "state": "Hiroshima",
+            "stateAbbrev": "",
+            "country": "Japan",
+            "population": 1199391,
+            "hdi": 0.925,
+            "coordinates": [34.38115227830128, 132.46091290610423]
         }
     ]
 }
