@@ -2071,6 +2071,33 @@
             "desc": "Maipo is a stratovolcano on the Chile-Argentina border. It is located within a 16 x 20km Diamante Caldera which produced a VEI 7 eruption 450,000 years ago."
         },
         {
+            "name": "Ngorongoro",
+            "vei": 7,
+            "coordinates": [-3.1766553766626564, 35.57258951148825],
+            "type": "Caldera",
+            "summitFeet": 5900,
+            "magmaType": "Rhyolite",
+            "desc": "Ngorongoro is a caldera in Tanzania. It is the main feature of the Ngorongoro Conservation Area."
+        },
+        {
+            "name": "Acquasparta",
+            "vei": 3,
+            "coordinates": [42.655030092388024, 12.330289970013386],
+            "type": "Volcanic Field",
+            "summitFeet": 2222,
+            "magmaType": "Basalt?",
+            "desc": "Acquasparta is characterized by monogenetic centers aligned N-S along a 10 km line. It's pyroclastic flow, fall, and surge deposits form a small plateau and are likely of phreatomagmatic origin. Ar/Ar dating of these products has produced an age of about 390 ka."
+        },
+        {
+            "name": "Vulsini",
+            "vei": 7,
+            "coordinates": [42.60032191616495, 11.936579268512173],
+            "type": "Caldera",
+            "summitFeet": 2625,
+            "magmaType": "Trachydacite",
+            "desc": "The Vulsini volcanic complex in central Italy covers about 2,200 km2 at the northern end of the Roman Magmatic Province. Following lava extrusion and explosive eruptions that constructed the main complex, the 16 km lake-filled Bolsena caldera on the east and the 8 x 11 km Latera caldera on the west were formed during major Pleistocene eruptions at about 0.3 and 0.16 million years ago, respectively. Five major Plinian fall deposits were erupted from vents at or near Latera caldera during the late Pleistocene."
+        },
+        {
             "name": "Lake Maninjau",
             "vei": 7,
             "coordinates": [-0.315876408474245, 100.18266616642448],
