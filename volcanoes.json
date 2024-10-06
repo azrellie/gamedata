@@ -307,13 +307,157 @@
             "desc": "La Pacana is a caldera in Bolivia. La Pacana is a supervolcano and is responsible for the eruption of the giant Atana ignimbrite, which reaches a volume of 2,500–3,500 cubic kilometres (600–840 cu mi) and constitutes the fifth-largest explosive eruption known."
         },
         {
-            "name": "Taupo",
+            "name": "Taupō",
             "vei": 8,
             "coordinates": [-38.7998115708119, 175.90255126419189],
             "type": "Caldera",
             "summitFeet": 1483,
             "magmaType": "Rhyolite",
-            "desc": "Taupo is a caldera in New Zealand. Taupō began erupting about 300,000 years ago. The main eruptions that still affect the surrounding landscape are the dacitic Mount Tauhara eruption 65,000 years ago, the Oruanui eruption about 26,500 years ago, which is responsible for the shape of the modern caldera, and the Hatepe eruption, dated 232 ± 10 CE."
+            "desc": "Taupō is a caldera in New Zealand. Taupō began erupting about 300,000 years ago. The main eruptions that still affect the surrounding landscape are the dacitic Mount Tauhara eruption 65,000 years ago, the Oruanui eruption about 26,500 years ago, which is responsible for the shape of the modern caldera, and the Hatepe eruption, dated 232 ± 10 CE."
+        },
+        {
+            "name": "Mangakino Caldera Complex",
+            "vei": 8,
+            "coordinates": [-38.18387869073464, 175.76199189724915],
+            "type": "Caldera Complex",
+            "summitFeet": 3822,
+            "magmaType": "Rhyolite",
+            "desc": "The Mangakino caldera complex (other names are Mangakino volcanic center, Mangakino Caldera) is the westernmost and one of oldest extinct rhyolitic caldera volcanoes in the Taupō Volcanic Zone of New Zealand's North Island. It produced about a million years ago (1 Ma) in the Kidnappers eruption of 1,200 km3 (287.9 cu mi), the most widespread ignimbrite deposits on Earth being over 45,000 km2 (17,000 sq mi) and was closely followed in time by the smaller 200 km3 (48.0 cu mi) Rocky Hill eruption. The Kidnappers eruption had a estimated VEI of 8 and has been assigned a total eruption volume (not just tephra) of 2,760 km3 (662.2 cu mi)."
+        },
+        {
+            "name": "Karymshina",
+            "vei": 7,
+            "coordinates": [52.96954642732067, 157.71264306452343],
+            "type": "Caldera",
+            "summitFeet": 4471,
+            "magmaType": "Rhyolite",
+            "desc": "Karymshina is a large volcanic caldera located in the southern Kamchatka Peninsula of Russia. The earliest known eruption occurred about 1.5 million years ago. Although it is difficult to estimate ejecta volume due to erosion and more recent activity covering this eruptions ejecta, an estimate of ejecta volume has been produced by the discoverers, i.e. ~ 825 cubic km. After this eruption, an uplifted block formed. Rhyolite domes have also formed around the rim, about 500-800,000 years ago."
+        },
+        {
+            "name": "Ksudach",
+            "vei": 6,
+            "coordinates": [51.807673669878426, 157.5241942341197],
+            "type": "Stratovolcano",
+            "summitFeet": 3540,
+            "magmaType": "Rhyodacite",
+            "desc": "Ksudach is unique among Kamchatka volcanoes in its morphology and geologic history. It is a large, low-angle stratovolcano, constructed of alternating basaltic-andesitic lavas and dacitic pyroclastics, and is truncated by an intricate complex of five calderas. An array of post-caldera structures is truncated by later calderas, the last three of which formed during the Holocene, about 7,900 and 5,000 BCE and about 240 CE. The latter eruption was the second largest in Kamchatka during the Holocene, and produced about 20 km3 of rhyodacitic airfall tephra and 3-4 km3 of pyroclastic flows. The eastern part of the caldera complex contains two lakes, the northern of which forms an embayment in Shtyubel' (Stubel) Crater, a low-angle cone that began forming about 1,600 years ago in the youngest caldera. The only historical eruption, in 1907, originated from Shtyubel'."
+        },
+        {
+            "name": "Khangar",
+            "vei": 6,
+            "coordinates": [54.75432019650254, 157.3812130238178],
+            "type": "Stratovolcano",
+            "summitFeet": 6453,
+            "magmaType": "Rhyodacite",
+            "desc": "Khangar volcano, also spelled Hangar, is the southernmost volcano of the Sredinny Range, which stretches N-S across western Kamchaktka. It is the dominant feature within a larger volcano-tectonic depression composed of two parts: a stratovolcano with a 2-km-wide Holocene caldera, and a large lava dome on its eastern flank. The steep-walled caldera, now filled by a lake, was formed during a major explosive eruption about 7,000 years ago. An arcuate zone of pre-caldera flank lava domes nearly surrounds the volcano, and post-caldera domes form islands in the caldera lake. Late-stage olivine basalts were erupted along a NE-trending line in the southern part of the depression. The latest dated eruption took place about 500 years ago."
+        },
+        {
+            "name": "Gorny Institute",
+            "vei": 0,
+            "coordinates": [57.19949039775927, 160.10225282181412],
+            "type": "Stratovolcano",
+            "summitFeet": 6972,
+            "magmaType": "Basaltic Andesite",
+            "desc": "Gorny Institute volcano lies at the NE end of chain of small late-Quaternary volcanoes extending NE from Kebeney volcano in the central Sredinny Range. Gorny Institute volcano was constructed near the steep-walled eastern margin of a major NE-SW-trending graben extending NE from Kebeney volcano. A line of cinder cones with the same orientation is located on the NE and SW flanks of Gorny Institute. Gorny Institute is one of the few large stratovolcanoes in the Sredinny Range that has been active throughout the Holocene. More than 20 pyroclastic horizons have been documented, and the last major eruption took place about 700 years ago."
+        },
+        {
+            "name": "Kizimen",
+            "vei": 5,
+            "coordinates": [55.131372822784414, 160.31975271001463],
+            "type": "Stratovolcano",
+            "summitFeet": 7657,
+            "magmaType": "Andesite",
+            "desc": "Kizimen is an isolated, conical stratovolcano that is morphologically similar to St. Helens prior to its 1980 eruption. The summit consists of overlapping lava domes, and blocky lava flows descend the flanks of the volcano, which is the westernmost of a volcanic chain north of Kronotsky volcano. The 2334-m-high edifice was formed during four eruptive cycles beginning about 12,000 years ago and lasting 2000-3500 years. The largest eruptions took place about 10,000 and 8300-8400 years ago, and three periods of long-term lava dome growth have occurred. The latest eruptive cycle began about 3000 years ago with a large explosion and was followed by intermittent lava dome growth lasting about 1000 years. An explosive eruption about 1100 years ago produced a lateral blast and created a 1.0 x 0.7 km wide crater breached to the NE, inside which a small lava dome (the fourth at Kizimen) has grown. Prior to 2010, only a single explosive eruption, during 1927-28, had been recorded in historical time."
+        },
+        {
+            "name": "Zhupanovsky",
+            "vei": 3,
+            "coordinates": [53.58927254810801, 159.13732305775883],
+            "type": "Compound",
+            "summitFeet": 9511,
+            "magmaType": "Andesite",
+            "desc": "The Zhupanovsky volcanic massif consists of four overlapping stratovolcanoes along a WNW-trending ridge. The elongated complex was constructed within a Pliocene-early Pleistocene caldera whose rim is exposed only on the eastern side. Three of the stratovolcanoes were built during the Pleistocene. An early Holocene stage of frequent moderate and weak eruptions from 7,000 to 5,000 years before present (BP) was followed by a period of infrequent larger eruptions that produced pyroclastic flows. The last major eruption took place about 800-900 BP. Recorded eruptions have consisted of relatively minor explosions from Priemysh, the third cone from the E about 2.5 km from the summit peak."
+        },
+        {
+            "name": "Mayor Island",
+            "vei": 5,
+            "coordinates": [-37.285260715433516, 176.2539795402068],
+            "type": "Shield",
+            "summitFeet": 1165,
+            "magmaType": "Rhyolite",
+            "desc": "The small 4-km-wide Mayor Island, also known as Tuhua, in the Bay of Plenty is the emergent portion of a 15-km-wide compound peralkaline lava shield constructed between about 120,000 and 35,000 years ago. A 3-km-wide composite caldera was formed in two or three collapse events, the last of which took place about 6300 years ago, and was accompanied by a Plinian eruption that produced tephra deposits up to 70 cm thick on mainland North Island. Post-caldera eruptions generated a series of lava domes and flows emplaced from NNE-trending vents within the caldera that have filled it to depths of at least 180 m. The latest eruption of Mayor Island has not been dated, but was considered by Houghton et al. (1992) to have occurred perhaps only 500-1000 years ago."
+        },
+        {
+            "name": "Kuwae",
+            "vei": 7,
+            "coordinates": [-16.826953069271344, 168.54197920623793],
+            "type": "Caldera",
+            "summitFeet": -6,
+            "magmaType": "Rhyolite",
+            "desc": "The largely submarine Kuwae caldera occupies the area between Epi and Tongoa islands. The 6 x 12 km caldera contains two basins that cut the NW end of Tongoa Island and the flank of the Tavani Ruru volcano on the SE peninsula of Epi Island. Native legends and radiocarbon dates from pyroclastic-flow deposits have been correlated with a 1452 CE ice-core peak thought to be associated with collapse of Kuwae caldera; however, others considered the deposits to be of smaller-scale eruptions and the ice-core peak to be associated with another unknown major South Pacific eruption. The submarine Karua cone in the east-central part of the caldera has formed several ephemeral islands since it was first observed in eruption during 1897."
+        },
+        {
+            "name": "Amealco",
+            "vei": 7,
+            "coordinates": [20.133265064565023, -100.16847792568322],
+            "type": "Caldera",
+            "summitFeet": 6299,
+            "magmaType": "Rhyolite",
+            "desc": "The Amealco caldera is in the central part of the Mexican Volcanic Axis, midway between the towns of San Juan del Río and Maravatio. It dates from Pliocene times and has been heavily eroded since. It is about 11 km wide and 400 m deep and was the origin of great sheets of pyroclastic flow deposits (ignimbrites) with a total volume of around 500 cubic km."
+        },
+        {
+            "name": "Los Azufres",
+            "vei": 6,
+            "coordinates": [19.7821537974459, -100.65966733736245],
+            "type": "Caldera",
+            "summitFeet": 11155,
+            "magmaType": "Dacite",
+            "desc": "The Los Azufres volcanic center is one of several silicic volcanic complexes with active geothermal systems that lie north of the axis of the Mexican Volcanic Belt. Located about 200 km NW of Mexico City, the Los Azufres center consists of a 18 x 20 km wide early Pleistocene caldera that was later partially filled by resurgent dacitic-to-rhyolitic lava domes. Two magmatic cycles lasting about 200,000 years each took place between 1.4 and 0.8 Ma (million years), consisting of silicic, followed by basaltic volcanism. The latest magmatic cycle, beginning about 0.6 Ma, involved resurgent doming of the southern part of the caldera, the eruption of chemically diverse basaltic-to-rhyolitic products, and the emplacement of dacitic-rhyolitic lava domes. The latest paroxysmal eruptions produced ignimbrites between 38,000 and 26,000 years ago. Hot springs and fumaroles are located along E-W-trending faults, and Los Azufres is an active producing geothermal field."
+        },
+        {
+            "name": "Cerro Bravo",
+            "vei": 4,
+            "coordinates": [5.0918345657064465, -75.29395041582626],
+            "type": "Stratovolcano",
+            "summitFeet": 13074,
+            "magmaType": "Dacite",
+            "desc": "Cerro Bravo is a relatively low dominantly dacitic lava-dome complex north of Nevado del Ruiz that was constructed within the Pleistocene Quebrada Seca caldera. A series of moderate plinian eruptions during the Holocene were accompanied by pyroclastic flows and lava dome growth. Although historical records of the roughly 4000-m-high Cerro Bravo eruptions have not been found, stratigraphic evidence indicates that it last erupted sometime between the 1595 and 1845 eruptions of Ruiz."
+        },
+        {
+            "name": "Láscar",
+            "vei": 4,
+            "coordinates": [-23.36294140726684, -67.73162696171767],
+            "type": "Stratovolcano",
+            "summitFeet": 18346,
+            "magmaType": "Andesite",
+            "desc": "Láscar is the most active volcano of the northern Chilean Andes. The andesitic-to-dacitic stratovolcano contains six overlapping summit craters. Prominent lava flows descend its NW flanks. An older, higher stratovolcano 5 km E, Volcán Aguas Calientes, displays a well-developed summit crater and a probable Holocene lava flow near its summit (de Silva and Francis, 1991). Láscar consists of two major edifices; activity began at the eastern volcano and then shifted to the western cone. The largest eruption took place about 26,500 years ago, and following the eruption of the Tumbres scoria flow about 9000 years ago, activity shifted back to the eastern edifice, where three overlapping craters were formed. Frequent small-to-moderate explosive eruptions have been recorded since the mid-19th century, along with periodic larger eruptions that produced ashfall hundreds of kilometers away. The largest historical eruption took place in 1993, producing pyroclastic flows to 8.5 km NW of the summit and ashfall in Buenos Aires."
+        },
+        {
+            "name": "Shasta",
+            "vei": 5,
+            "coordinates": [41.40617949403057, -122.20032566269306],
+            "type": "Stratovolcano",
+            "summitFeet": 14163,
+            "magmaType": "Andesite",
+            "desc": "The most voluminous of the Cascade volcanoes, northern California's Mount Shasta is a massive compound stratovolcano composed of at least four main edifices constructed over a period of at least 590,000 years. An older edifice was destroyed by a large debris avalanche which filled the Shasta River valley to the NW. The Hotlum cone, forming the present summit, the Shastina lava dome complex, and the SW flank Black Butte lava dome, were constructed during the early Holocene. Eruptions from these vents have produced pyroclastic flows and mudflows that affected areas as far as 20 km from the summit. Eruptions from Hotlum cone continued throughout the Holocene."
+        },
+        {
+            "name": "Marysvale Volcanic Field",
+            "vei": 7,
+            "coordinates": [38.43349502176149, -112.434789826231],
+            "type": "Volcanic Field/Caldera Complex",
+            "summitFeet": 12143,
+            "magmaType": "Rhyolite",
+            "desc": "One of the largest volcanic fields in the western United States, the Marysvale straddles the Colorado Plateau-Great Basin transition zone. Most igneous rocks belong to a middle Cenozoic (~32 to 22 million years old) calc-alkaline sequence, although about 5% are related to an upper Cenozoic (23 million years to Holocene) bimodal (basalt and rhyolite) sequence. The Marysvale contains a variety of volcanic features, including stratovolcanoes, calderas, lava domes, and cinder cones."
+        },
+        {
+            "name": "North Pass Caldera",
+            "vei": 7,
+            "coordinates": [38.22035430381291, -106.72291805746927],
+            "type": "Caldera",
+            "summitFeet": 10135,
+            "magmaType": "Rhyolite",
+            "desc": "A massive 21x25km caldera in the San Juan Volcanic Field that was formed in a singular VEI-7 eruption with the estimated ejecta volume ranging from 400 to 500 km3."
         },
         {
             "name": "Long Island",
@@ -1924,7 +2068,7 @@
         },
         {
             "name": "Chaîne des Puys",
-            "vei": 6,
+            "vei": 4,
             "coordinates": [45.77403438423006, 2.9590687261047885],
             "type": "Lava Dome",
             "summitFeet": 4803,
