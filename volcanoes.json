@@ -1056,6 +1056,15 @@
             "desc": "Stromboli is a stratovolcano in Italy. Mount Stromboli has been in almost continuous eruption for the past 2,000–5,000 years; its last serious one occurred in 1921."
         },
         {
+            "name": "Cobre Ridge Caldera",
+            "vei": 8,
+            "coordinates": [31.452728176887746, -111.22916310424193],
+            "type": "Caldera",
+            "summitFeet": 4898,
+            "magmaType": "Rhyodacite",
+            "desc": "The Cobre Ridge caldera is a large Jurassic volcano in the U.S. state of Arizona. It formed about 170 million years ago when a VEI-8 eruption ejected more than 1,000 km3 (240 cu mi) of crystal-rich rhyodacite ignimbrite."
+        },
+        {
             "name": "Capelinhos",
             "vei": 2,
             "coordinates": [38.585269752532405, -28.714898784559765],
