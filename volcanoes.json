@@ -171,6 +171,20 @@
             ]
         },
         {
+            "name": "Vestfold Hills Large Igneous Province",
+            "vei": 9,
+            "coordinates": [-68.55508914935275, 78.25046981676404],
+            "type": "Large Igneous Province",
+            "summitFeet": 520,
+            "magmaType": "Basalt",
+            "desc": "Antarctic LIP",
+            "chatMessages": [
+                "Antarctic research stations are picking up unusual activity in the Vestfold Hills region...",
+                "Melting glaciers cause large tsunamis to form in the Southern Ocean...",
+                "Huge ash clouds arise in the Vestfold Hills region..."
+            ]
+        },
+        {
             "name": "Piñón Large Igneous Province",
             "vei": 9,
             "coordinates": [-1.1373666338410482, -80.41994103791222],
