@@ -663,7 +663,7 @@
             "name": "Yap Trench Subduction Zone",
             "lengthKm": 602,
             "depthKm": 130,
-            "activity": 1,
+            "activity": 0.7,
             "type": "Oceanic Convergent Boundary",
             "points": [
                 [11.14499190446166, 139.01231814994688],
