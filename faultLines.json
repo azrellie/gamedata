@@ -611,10 +611,10 @@
         },
         {
             "name": "Izu-Bonin-Mariana Arc Subduction Zone",
-            "lengthKm": 3000,
-            "depthKm": 130,
+            "lengthKm": 2400,
+            "depthKm": 600,
             "activity": 1,
-            "type": "Oceanic-Oceanic Convergent Boundary",
+            "type": "Oceanic Convergent Boundary",
             "points": [
                 [25.034647384151416, 143.21538743224605],
                 [24.435665545221383, 143.41350195945046],
@@ -655,7 +655,17 @@
                 [10.805934135011181, 139.64835277255563],
                 [10.85028461552784, 139.5308541033249],
                 [10.904117403346637, 139.44658725301238],
-                [10.989684463044249, 139.39997620982226],
+                [10.989684463044249, 139.39997620982226]
+            ],
+            "visualizationColor": [255, 154, 0]
+        },
+        {
+            "name": "Yap Trench Subduction Zone",
+            "lengthKm": 602,
+            "depthKm": 130,
+            "activity": 1,
+            "type": "Oceanic Convergent Boundary",
+            "points": [
                 [11.14499190446166, 139.01231814994688],
                 [10.936460909712595, 138.8636589470881],
                 [10.571075860815043, 138.69080966487533],
@@ -671,7 +681,7 @@
                 [7.335173833696611, 136.23948200137238],
                 [7.442055456125958, 135.98648120260177]
             ],
-            "visualizationColor": [255, 154, 0]
+            "visualizationColor": [214, 76, 125]
         },
         {
             "name": "Philippine Trench Subduction Zone",
