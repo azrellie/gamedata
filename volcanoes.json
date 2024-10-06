@@ -1526,6 +1526,15 @@
             "magmaType": "Basalt",
             "desc": "Pagan is an uninhabited island in the Northern Mariana Islands. It is a rather active volcano in real life, as it had eruptions in 1987, 1988, 1992, 1993, 1996, 2006, 2009, 2010, 2011, 2012, and 2021."
         },
+        { 
+            "name": "The Pleiades",
+            "vei": 6,
+            "coordinates": [-72.66993927293487, 165.50055200291223],
+            "type": "Stratovolcano",
+            "summitFeet": 9974,
+            "magmaType": "Trachyandesite",
+            "desc": "The Pleiades volcano consists of the small trachytic Mount Pleiones stratovolcano which, along with several lava domes and nested cinder cones with well-preserved craters, rises above the broad Evans Neve plateau. Located in the Melbourne Volcanic Province of Antarctica's northern Victoria Land near the western coast of the Ross Sea, they appear to be among the youngest volcanic centers in Antarctica. A Potassium-Argon age of 3,000 years was obtained from the Taygete cone NNE of Mount Pleiones. Other dates of 12-40,000 years support a youthful age despite the large analytical uncertainties."
+        },
         {
             "name": "Cofre de Perote",
             "vei": 2,
