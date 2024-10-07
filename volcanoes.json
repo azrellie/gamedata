@@ -2944,6 +2944,51 @@
             "desc": "Harra es-Sawâd is a volcanic field in Yemen. The only eruption that has been noted in historical times occurred in 1253. This eruption was a large VEI 3 eruption, although it was poorly documented. Given the age of the field, other eruptions may have occurred in the recent past."
         },
         {
+            "name": "Emmons Lake Volcanic Center",
+            "vei": 7,
+            "coordinates": [55.341046164932706, -162.0876844419171],
+            "type": "Caldera",
+            "summitFeet": 5033,
+            "magmaType": "Rhyolite",
+            "desc": "The Emmons Lake Volcanic Center, located north of Volcano Bay and SW of Pavlof volcano, includes the Emmons and Hague stratovolcanoes within the Emmons Lake caldera. The 9 x 15 km caldera contains a narrow elongated lake at its SW end that drains through a breach in the SE rim to the Pacific Ocean. The compound caldera was formed during six voluminous dacitic-to-rhyolitic eruptions between about 294,000 and 26,000 years ago that produced extensive ashflow tuffs. Mount Emmons, Mount Hague, and Double Crater are post-caldera cones of dominantly basaltic composition that were constructed along the SW-NE trend of the elongated caldera. Some Holocene flows have moved through a gap in the southern caldera rim to within 3 km of the ocean. A large fumarolic area is located on the south side of Mount Hague, and the only reported activity was the emission of steam plumes from Hague in 1990 and 1991."
+        },
+        {
+            "name": "Lassen Volcanic Center",
+            "vei": 6,
+            "coordinates": [40.49445994928944, -121.5063983350141],
+            "type": "Stratovolcano",
+            "summitFeet": 10456,
+            "magmaType": "Andesite",
+            "desc": "The Lassen volcanic center consists of the andesitic Brokeoff stratovolcano SW of Lassen Peak, a dacitic lava dome field, and peripheral small andesitic shield volcanoes and large lava flows, primarily on the Central Plateau NE of Lassen Peak. A series of eruptions from Lassen Peak from 1914 to 1917 marks the most recent eruptive activity in the southern Cascade Range. Activity spanning about 825,000 years began with eruptions of the Rockland caldera complex and was followed beginning about 590,000 years ago by construction of Brokeoff stratovolcano. Beginning about 310,000 years ago activity shifted to the north flank of Brokeoff, where episodic, more silicic eruptions produced the Lassen dome field, a group of 30 dacitic lava domes including Bumpass Mountain, Mount Helen, Ski Heil Peak, and Reading Peak. At least 12 eruptive episodes took place during the past 100,000 years, with Lassen Peak being constructed about 27,000 years ago. The Chaos Crags dome complex was constructed about 1100-1000 years ago north of Lassen Peak. The Cinder Cone complex NE of Lassen Peak was erupted in a single episode several hundred years before present and is considered part of the Lassen volcanic center (Clynne et al., 2000). The 1914-1917 eruptions of Lassen Peak began with phreatic eruptions and included emplacement of a small summit lava dome, subplinian explosions, mudflows, and pyroclastic flows."
+        },
+        {
+            "name": "Aniakchak",
+            "vei": 6,
+            "coordinates": [56.90517680242451, -158.1451293451421],
+            "type": "Caldera",
+            "summitFeet": 4400,
+            "magmaType": "Dacite",
+            "desc": "One of the most dramatic calderas of the Aleutian arc, the 10-km-wide Aniakchak caldera formed around 3,400 years ago during a voluminous eruption in which pyroclastic flows traveled more than 50 km N to the Bering Sea and also reached the Pacific Ocean to the south. At least 40 explosive eruptions have been documented during the past 10,000 years, making it the most active volcano of the eastern Aleutian arc. A dominantly andesitic pre-caldera volcano was constructed above basement Mesozoic and Tertiary sedimentary rocks that are exposed in the caldera walls to elevations of about 610 m. The ice-free caldera floor contains many pyroclastic cones, tuff cones, maars, and lava domes. Surprise Lake on the NE side drains through The Gates, a steep-walled breach on the east side of the 1-km-high caldera rim that was the site of catastrophic draining of a once larger lake about 1850 years BP. Vent Mountain and Half Cone are two long-lived vents on the south-central and NW caldera floor, respectively. The first and only confirmed historical eruption took place in 1931 from vents on the west and SW caldera floor."
+        },
+        {
+            "name": "Amukta",
+            "vei": 3,
+            "coordinates": [52.49084671925033, -171.25620824436115],
+            "type": "Stratovolcano",
+            "summitFeet": 3497,
+            "magmaType": "Andesite",
+            "desc": "The symmetrical Amukta stratovolcano lies in the central Aleutians SW of Chagulak Island and is the westernmost of the Islands of the Four Mountains group. Amukta was constructed at the northern side of an arcuate caldera-like feature that is open to the sea along the southern coast of the 8-km-wide Amukta Island. The 1066-m-high stratovolcano overlies a broad shield volcano and is topped by a 400-m-wide crater. A cinder cone is located near the NE coast. Amukta has had several eruptions in historical time from both summit and flank vents."
+        },
+        {
+            "name": "Makushin",
+            "vei": 5,
+            "coordinates": [53.88649273493339, -166.9311575747917],
+            "type": "Stratovolcano",
+            "summitFeet": 5906,
+            "magmaType": "Andesite",
+            "desc": "The ice-covered Makushin volcano on northern Unalaska Island is capped by a 2.5 km caldera. Its broad, dome-like structure contrasts with the steep-sided profiles of most other Aleutian stratovolcanoes. Much of the edifice was formed during the Pleistocene, but the caldera (which formed about 8,000 years ago), Sugarloaf cone on the ENE flank, and a cluster of about a dozen explosion pits and cinder cones at Point Kadin on the WNW flank, are of Holocene age. A broad band of NE-SW-trending vents cuts across the volcano. The composite Pakushin cone, with multiple summit craters, lies 8 km SW. Table Top (Pleistocene, 68 ± 14 ka) and Wide Bay (Holocene) cinder cones are about 20 km ENE on the peninsula across the bay from the City of Unalaska. Frequent explosive eruptions have occurred during the past 4,000 years, sometimes accompanied by pyroclastic flows and surges. Geothermal areas are found in the summit caldera and on the SE and E flanks. Small-to-moderate explosive eruptions have been recorded since 1786."
+        },
+        {
             "name": "Harra of Arhab",
             "vei": 2,
             "coordinates": [15.597085297160671, 44.04622837840985],
