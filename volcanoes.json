@@ -2346,6 +2346,42 @@
             "desc": "Carrizalillo is a huge caldera in Chile, measuring 58 by 32 kilometers. The exact volume of the eruption that caused the caldera collapse is unknown, but it is estimated to be over 1000 km3."
         },
         {
+            "name": "Hunter Mine Caldera",
+            "vei": 6,
+            "coordinates": [48.69898422359272, -79.27060701073745],
+            "type": "Caldera Complex",
+            "summitFeet": 869,
+            "magmaType": "Rhyolite",
+            "desc": "Hunter Mine Caldera Complex in western Quebec was formed around 2 billion years ago in multiple caldera-forming eruptions that have ejected over 40 km3 of tephra."
+        },
+        {
+            "name": "Silver Creek Caldera",
+            "vei": 8,
+            "coordinates": [35.10359648787943, -114.49895596433042],
+            "type": "Caldera",
+            "summitFeet": 558,
+            "magmaType": "Rhyolite",
+            "desc": "The Silver Creek Caldera in southwestern United States is the volcano that is responsible for the large Peach Springs Tuff (1300 km3)."
+        },
+        {
+            "name": "Silver Creek Caldera",
+            "vei": 8,
+            "coordinates": [35.10359648787943, -114.49895596433042],
+            "type": "Caldera",
+            "summitFeet": 558,
+            "magmaType": "Rhyolite",
+            "desc": "The Silver Creek Caldera in southwestern United States is the volcano that is responsible for the large Peach Springs Tuff (1300 km3)."
+        },
+        {
+            "name": "Caldera Puesto Salado Oriental",
+            "vei": 8,
+            "coordinates": [-48.785384832020355, -68.0926280333764],
+            "type": "Caldera",
+            "summitFeet": 656,
+            "magmaType": "Rhyolite",
+            "desc": "A huge caldera in Argentinian Patagonia. With an estimated volume of 1,000 km3, it is the direct result of the Chon-Aike Large Igneous Province."
+        },
+        {
             "name": "Pairique Volcanic Complex",
             "vei": 5,
             "coordinates": [-23.02860760543714, -66.8230450112452],
