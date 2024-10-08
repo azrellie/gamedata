@@ -1259,6 +1259,33 @@
             "desc": "Wolf is a shield volcano in the Galapagos. The volcano was named after Theodor Wolf, a German geologist who studied the Galápagos Islands in the 19th century."
         },
         {
+            "name": "Piton des Neiges",
+            "vei": 6,
+            "coordinates": [-21.142487556452846, 55.45814062052044],
+            "type": "Shield",
+            "summitFeet": 10072,
+            "magmaType": "Trachyte",
+            "desc": "The massive Piton des Neiges shield volcano occupies the NW side of Reunion Island. The volcano emerged from the sea about 2.1 million years ago, beginning construction of a basaltic subaerial shield. Three large erosional cirques surround the central summit peak, and large submarine debris-avalanche deposits are found offshore. Deniel et al. (1992) reported a Th-U age of 12,000 ± 3,000 BP for a trachytic pyroclastic density current deposit on the W flank, but noted that it trachytic intrusions in the cirque walls had not been dated, and 14C data on charcoal in air-fall deposits gave dates in the 28-35,000 BP range."
+        },
+        {
+            "name": "Emi Koussi",
+            "vei": 7,
+            "coordinates": [19.855008428231148, 18.545229108754086],
+            "type": "Pyroclastic Shield",
+            "summitFeet": 11204,
+            "magmaType": "Trachyte",
+            "desc": "The large Emi Koussi volcano at the SE end of the Tibesti Range, a 60 x 80 km massif constructed over a basement of Cretaceous and Paleozoic sandstones, forms the highest summit of the Sahara. Two nested calderas, 12 x 15 km, truncate the dominantly trachytic volcano, whose high point lies on the southern caldera rim of the low-angle pyroclastic shield volcano. The calderas contain several explosion craters, lava domes, and young scoria cones, along with lava flows of recent and pre-modern age (Geze et al., 1959). The Era Kohor (Trou au Natron du Koussi) caldera on the SE floor of the 2nd caldera is 2-3 km wide and 350 m deep. The latest activity in the calderas produced three maars, and numerous basaltic cinder cones; associated lava flows have been constructed both within the calderas and on their outer flanks. The Yi-Yerra thermal area is located on the S flank."
+        },
+        {
+            "name": "Jabal Kura'a",
+            "vei": 8,
+            "coordinates": [15.483379166688934, 44.59422115502264],
+            "type": "Caldera",
+            "summitFeet": 12030,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Yemen that was formed by the Afro-Arabian Large Igneous Province. It is the source of Jabal Kura'a ignimbrite."
+        },
+        {
             "name": "Ulreung",
             "vei": 6,
             "coordinates": [37.50637977884061, 130.8571409616231],
