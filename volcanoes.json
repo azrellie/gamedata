@@ -1707,6 +1707,15 @@
             "desc": "Morne Watt is a stratovolcano in Dominica. The mountain is home to the Boiling Lake and Valley of Desolation thermal areas, both of which are the best-known volcanic features in Dominica and major tourist attractions in Morne Trois Pitons National Park."
         },
         {
+            "name": "Streltsovka Caldera",
+            "vei": 6,
+            "coordinates": [49.905176758634305, 118.25803077029934],
+            "type": "Caldera",
+            "summitFeet": 2100,
+            "magmaType": "Rhyolite",
+            "desc": "A large, Jurassic caldera in the Russian Transbaikalia region. This volcano is the proposed source of uranium deposits in the area."
+        },
+        {
             "name": "The Quill",
             "vei": 4,
             "coordinates": [17.478132472127193, -62.96171968567863],
