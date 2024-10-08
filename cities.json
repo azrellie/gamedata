@@ -4211,6 +4211,51 @@
             "population": 8545,
             "hdi": 0.424,
             "coordinates": [12.650175396136145, 54.019016801258864]
+        },
+        {
+            "name": "Fort Lauderdale",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 183146,
+            "hdi": 0.94,
+            "coordinates": [26.122343477673937, -80.13775918796526]
+        },
+        {
+            "name": "West Palm Beach",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 120932,
+            "hdi": 0.96,
+            "coordinates": [26.71431729936127, -80.05422317452908]
+        },
+        {
+            "name": "Fort Pierce",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 47305,
+            "hdi": 0.76,
+            "coordinates": [27.446486003074465, -80.3257935420629]
+        },
+        {
+            "name": "Daytona Beach",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 77958,
+            "hdi": 0.83,
+            "coordinates": [29.21082609470466, -81.0220785728502]
+        },
+        {
+            "name": "Homestead",
+            "state": "Florida",
+            "stateAbbrev": "FL",
+            "country": "United States",
+            "population": 81562,
+            "hdi": 0.78,
+            "coordinates": [25.467434831101734, -80.47777856036019]
         }
     ]
 }
