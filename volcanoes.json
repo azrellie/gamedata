@@ -1833,6 +1833,24 @@
             "desc": "Teon, an elongated andesitic island volcano in the southwestern Banda arc, is also known as Serawerna, the name of its active crater. Another smaller crater is located to the NNE of Serawerna. Explosive eruptions have been recorded since the 17th century; the largest produced pyroclastic flows and surges in 1660 CE that caused damage and fatalities."
         },
         {
+            "name": "Furnas",
+            "vei": 5,
+            "coordinates": [37.757649753115075, -25.3326113506146],
+            "type": "Stratovolcano",
+            "summitFeet": 2641,
+            "magmaType": "Trachyte",
+            "desc": "Furnas volcano lies at the eastern end of Sao Miguel Island, immediately west of the older Nordeste shield volcano and its Povoaçao caldera. There are at least two calderas, a younger one that is 6-km wide and a larger older one that is less topographically distinct. The eastern wall of the 500-m-deep Furnas caldera overlaps the western wall of the Nordeste Povoaçao caldera. Volcanic activity dates back about 100,000 years. At least 11 trachytic pumice layers, all erupted during the past 5000 years, post-date the caldera. The most prominent post-caldera feature is the Pico do Gaspar lava dome, east of the Lagoa das Furnas caldera lake. A zone of late-Pleistocene to Holocene basaltic-to-trachytic cinder cones and lava domes is located between Furnas and Agua de Pau volcanoes. Two historical eruptions have occurred, one sometime between 1439 and 1443 and the other in 1630. The latter was one of the largest Holocene explosive eruptions in the Azores and caused significant damage and fatalities."
+        },
+        {
+            "name": "Gréixer Rhyolitic Caldera Complex",
+            "vei": 8,
+            "coordinates": [42.1867858721091, 2.0415983789580356],
+            "type": "Caldera Complex",
+            "summitFeet": 10312,
+            "magmaType": "Rhyolite",
+            "desc": "Located in the Catalan Pyrenees, a 400 million years old caldera complex that produced the strongest explosive eruptions (?) in the Iberian Peninsula."
+        },
+        {
             "name": "Bur ni Telong",
             "vei": 2,
             "coordinates": [4.830906788924693, 96.83348598948868],
