@@ -216,7 +216,7 @@
             "lengthKm": 1200,
             "depthKm": 16,
             "activity": 1,
-            "type": "Right Lateral Strike Slip",
+            "type": "Transform",
             "points": [
                 [40.385799405224276, -126.43119432409014],
                 [40.38992875930822, -126.15553915542874],
