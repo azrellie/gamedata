@@ -1607,6 +1607,114 @@
             "magmaType": "Andesite",
             "desc": "Tongariro is a complex volcano in New Zealand. Mount Tongariro is in the Tongariro National Park, New Zealand's first national park and one of the earliest in the world." 
         },
+        {
+            "name": "Raoul Island",
+            "vei": 6,
+            "coordinates": [-29.264622144155044, -177.92566013135004],
+            "type": "Caldera",
+            "summitFeet": 1693,
+            "magmaType": "Andesite",
+            "desc": "Anvil-shaped Raoul Island is the largest and northernmost of the Kermadec Islands. During the past several thousand years volcanism has been dominated by dacitic explosive eruptions. Two Holocene calderas exist, the older of which cuts the center the island and is about 2.5 x 3.5 km wide. Denham caldera, formed during a major dacitic explosive eruption about 2200 years ago, truncated the W side of the island and is 6.5 x 4 km wide. Its long axis is parallel to the tectonic fabric of the Havre Trough that lies W of the volcanic arc. Historical eruptions during the 19th and 20th centuries have sometimes occurred simultaneously from both calderas, and have consisted of small-to-moderate phreatic eruptions, some of which formed ephemeral islands in Denham caldera. An unnamed submarine cone, one of several located along a fissure on the lower NNE flank, has also erupted during historical time, and satellitic vents are concentrated along two parallel NNE-trending lineaments." 
+        },
+        {
+            "name": "Volcano F",
+            "vei": 3,
+            "coordinates": [-18.341414640371617, -174.37910679515264],
+            "type": "Stratovolcano",
+            "summitFeet": -131,
+            "magmaType": "Dacite",
+            "desc": "A submarine volcano along the Tofua volcanic arc ~45 km NW of Vava'u Island was first observed in September 2001, ~35 km S of Fonualei and 60 km NE of Late volcano. The site of the eruption is at an approximate bathymetric depth of 300 m. T-phase waves were recorded on 27-28 September 2001, and on the 27th local fishermen observed an ash-rich eruption column that rose above the ocean surface. No eruptive activity was reported after the 28th, but water discoloration was documented the following month. In early November rafts and strandings of dacitic pumice were reported along the coasts of Kadavu and Viti Levu in Fiji. The depth of the summit of the submarine cone following the eruption was determined to be 40 m during a 2007 survey; the crater of the 2001 eruption was open to the E." 
+        },
+        {
+            "name": "Tofua",
+            "vei": 5,
+            "coordinates": [-19.74744559100293, -175.06586306915707],
+            "type": "Caldera",
+            "summitFeet": 1690,
+            "magmaType": "Dacite",
+            "desc": "The low, forested Tofua Island in the central part of the Tonga Islands group is the emergent summit of a large stratovolcano that was seen in eruption by Captain Cook in 1774. The summit contains a 5-km-wide caldera whose walls drop steeply about 500 m. Three post-caldera cones were constructed at the northern end of a cold fresh-water caldera lake, whose surface lies only 30 m above sea level. The easternmost cone has three craters and produced young basaltic-andesite lava flows, some of which traveled into the caldera lake. The largest and northernmost of the cones, Lofia, has a steep-sided crater that is 70 m wide and 120 m deep and has been the source of historical eruptions, first reported in the 18th century. The fumarolically active crater of Lofia has a flat floor formed by a ponded lava flow." 
+        },
+        {
+            "name": "Niuafo'ou",
+            "vei": 4,
+            "coordinates": [-15.59946084325326, -175.6370102660272],
+            "type": "Shield",
+            "summitFeet": 853,
+            "magmaType": "Basalt",
+            "desc": "Niuafo'ou (Tin Can Island) is a low 8-km-wide island that forms the summit of a largely submerged basaltic shield volcano in the north central Lau Basin about 170 km W of the northern end of the Tofua volcanic arc. The circular island encloses a 5-km-wide caldera that is mostly filled by a lake whose bottom extends to below sea level. The inner walls of the caldera drop sharply to the lake, named Big Lake (or Vai Lahi), which contains several small islands and pyroclastic cones on its NE shore. Eruptions recorded since 1814, mostly from circumferential fissures on the west-to-south side of the island, have often damaged villages. A major eruption in 1946 forced evacuation of most of its 1,200 inhabitants." 
+        },
+        {
+            "name": "Volcano 2",
+            "vei": 0,
+            "coordinates": [-21.338086970157224, -175.64983402776096],
+            "type": "Stratovolcano",
+            "summitFeet": -223,
+            "magmaType": "Basalt???",
+            "desc": "During a submarine eruption in 1907 pyroclastic material was ejected to 100 m above the ocean surface, and pumice rafts were produced. The eruption was located approximately (on Admiralty Chart 2421) 48 km SW of Tongatapu Island, along the Tofua volcanic arc. The location given in this catalog has been shifted 5 km N relative to the 1907 report, to a seamount that rises to within 100 m of the ocean surface, because the previous spot corresponds to sloping terrain at 1,800 m depth on a 1982 bathymetric map. A second eruption from this area was reported in late 1932. This seamount may be the SE part of a larger edifice extending about 15 km NW, informally designated as Volcano 2 (R/V Sonne 167 survey)." 
+        },
+        {
+            "name": "Monowai",
+            "vei": 6,
+            "coordinates": [-25.882419866489837, -177.18471074994136],
+            "type": "Stratovolcano",
+            "summitFeet": -433,
+            "magmaType": "Basalt",
+            "desc": "Monowai, also known as Orion seamount, is a basaltic stratovolcano that rises from a depth of about 1,500 to within 100 m of the ocean surface about halfway between the Kermadec and Tonga island groups, at the southern end of the Tonga Ridge. Small cones occur on the N and W flanks, and an 8.5 x 11 km submarine caldera with a depth of more than 1,500 m lies to the NNE. Numerous eruptions have been identified using submarine acoustic signals since it was first recognized as a volcano in 1977. A shoal that had been reported in 1944 may have been a pumice raft or water disturbance due to degassing. Surface observations have included water discoloration, vigorous gas bubbling, and areas of upwelling water, sometimes accompanied by rumbling noises. It was named for one of the New Zealand Navy bathymetric survey ships that documented its morphology." 
+        },
+        {
+            "name": "Havre Seamount",
+            "vei": 1,
+            "coordinates": [-31.080734331938046, -179.03327513109411],
+            "type": "Stratovolcano",
+            "summitFeet": -2943,
+            "magmaType": "Unknown",
+            "desc": "Havre Seamount has a caldera capping a 1-km-high edifice. Located on the Kermadec Ridge, it is believed to have erupted in July 2012, the first recorded activity. The caldera has an asymmetric morphology with the N rim comprising mostly a single inner topographic wall, and the S rim comprising both an outer topographic rim and inner wall separated by a 1.1-1.4 km wide terrace. Smaller craters occur on this terrace. Rocks from the caldera wall include aphyric and plagioclase-bearing basalt-andesite, aphyric and plagioclase- and pyroxene-bearing dacite, gabbro, diorite, and pumice (Wright et al., 2006)." 
+        },
+        {
+            "name": "Rumble III",
+            "vei": 0,
+            "coordinates": [-35.74576334203354, 178.47779211895184],
+            "type": "Stratovolcano",
+            "summitFeet": -733,
+            "magmaType": "Andesite",
+            "desc": "Rumble III seamount, the largest of the Rumbles group of submarine volcanoes along the South Kermadec Ridge, rises 2,300 m from the seafloor to within about 200 m of the surface. Collapse of the edifice produced a scarp open to the west and a large debris-avalanche deposit. Fresh-looking andesitic rocks have been dredged from the summit and basaltic lava from its flanks. It has been the source of several submarine eruptions detected by hydrophone signals." 
+        },
+        {
+            "name": "Home Reef",
+            "vei": 3,
+            "coordinates": [-18.990166088101933, -174.76554615177096],
+            "type": "Stratovolcano",
+            "summitFeet": -33,
+            "magmaType": "Dacite",
+            "desc": "Home Reef, a submarine volcano midway between Metis Shoal and Late Island in the central Tonga islands, was first reported active in the mid-19th century, when an ephemeral island formed. An eruption in 1984 produced a 12-km-high eruption plume, large amounts of floating pumice, and an ephemeral 500 x 1,500 m island, with cliffs 30-50 m high that enclosed a water-filled crater. In 2006 an island-forming eruption produced widespread dacitic pumice rafts that drifted as far as Australia. Another island was built during a September-October 2022 eruption." 
+        },
+        {
+            "name": "Home Reef",
+            "vei": 3,
+            "coordinates": [-18.990166088101933, -174.76554615177096],
+            "type": "Stratovolcano",
+            "summitFeet": -33,
+            "magmaType": "Dacite",
+            "desc": "Home Reef, a submarine volcano midway between Metis Shoal and Late Island in the central Tonga islands, was first reported active in the mid-19th century, when an ephemeral island formed. An eruption in 1984 produced a 12-km-high eruption plume, large amounts of floating pumice, and an ephemeral 500 x 1,500 m island, with cliffs 30-50 m high that enclosed a water-filled crater. In 2006 an island-forming eruption produced widespread dacitic pumice rafts that drifted as far as Australia. Another island was built during a September-October 2022 eruption." 
+        },
+        {
+            "name": "Kao",
+            "vei": 2,
+            "coordinates": [-19.66801706865106, -175.0153764910689],
+            "type": "Stratovolcano",
+            "summitFeet": 3310,
+            "magmaType": "Andesite",
+            "desc": "The symmetrical Kao rises steeply from the ocean about 6 km N of Tofua Island in Tonga. It is elongated NNE-SSW and, with the exception of a small flat area on the SSW coast, rises at angles exceeding 35° to the summit, which has a series of small coalescing craters. The lower flanks of the basaltic-andesite volcano are densely jungled, but the upper slopes are almost vegetation free. There are no fresh-looking lava flows, although the absence of sufficient time for erosion to produce deep gullies or high sea cliffs suggests a very recent origin. A missionary on a ship anchored at Tofua reported that smoke was pouring forth from Kao on 10 July 1847." 
+        },
+        {
+            "name": "Fonualei",
+            "vei": 4,
+            "coordinates": [-18.022358538726472, -174.31605334262755],
+            "type": "Stratovolcano",
+            "summitFeet": 617,
+            "magmaType": "Dacite",
+            "desc": "The small island of Fonualei (~2 km diameter) contains a fumarolically active crater breached to the SE with a fresh lava flow extending to the sea and forming a rugged shoreline. Steep, inward-facing scarps mark the rim of a partially exposed caldera. Blocky lava flows fill much of the northern caldera moat and reach the sea to the north and east. In contrast to the andesitic and basaltic rocks of other islands of the Tonga arc, Fonualei lavas are of dominantly dacitic composition. Eruptions have been recorded since 1791, with the largest taking place in June 1846, when explosive eruptions produced large pumice rafts, ashfall damaged crops on the island of Vava'u (70 km SSE), and ash was reported by vessels up to 950 km distant. In 1939 explosive and effusive activity occurred from summit and flank vents, and water spouts were reported 1.6 km SE of the island." 
+        },
         {  
             "name": "Sarychev Peak",
             "vei": 4,
