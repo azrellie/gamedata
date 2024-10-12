@@ -2121,6 +2121,15 @@
             "desc": "Daisen volcano, along the northern coast of SW Honshu, has been the source of large explosive eruptions during the late Pleistocene. The last dated major eruption took place about 17,000-18,000 years before present, but at least one large tephra deposit is younger (Machida and Arai, 1992). Although included in a list of volcanoes with eruptions in the past 2,000 years (Hayakawa, 1994a), that list includes some youthful volcanoes that are not Holocene, and the latest eruption of Daisen occurred during the late Pleistocene (Hayakawa 1996, pers. comm.). The volcanic products mostly consist of biotite and hornblende andesites (Matsuhisa and Kurasawa, 1983)."
         },
         {
+            "name": "Coastal Maine Magmatic Province",
+            "vei": 8,
+            "coordinates": [44.349461311923534, -68.3050754771777],
+            "type": "Caldera Complex?",
+            "summitFeet": 1528,
+            "magmaType": "Rhyolite",
+            "desc": "A large volcanic province in southern Maine, USA. During its lifetime of 4 million years (from  424 Ma to 420 Ma), it had produced multiple supervolcanic eruptions."
+        },
+        {
             "name": "Ishizuchi Cauldron",
             "vei": 7,
             "coordinates": [33.71916907190584, 133.1093229774737],
