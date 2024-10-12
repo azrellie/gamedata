@@ -4076,12 +4076,12 @@
         },
         {
             "name": "Taum Sauk Caldera",
-            "vei": 7,
-            "coordinates": [37.570388498162025, -90.7331233869999],
+            "vei": 8,
+            "coordinates": [37.58401144012107, -90.80309510141261],
             "type": "Caldera",
             "summitFeet": 1772,
             "magmaType": "Rhyolite",
-            "desc": "Taum Sauk Caldera is a caldera in Missouri. It has produced several eruptions 1.48 billion years ago. One of the eruptions had an estimated ejecta volume of 600 km^3, thus making the Taum Sauk Caldera a VEI 7 volcano."
+            "desc": "Taum Sauk Caldera is a caldera in Missouri. It has produced several eruptions 1.48 billion years ago. One of the eruptions had an estimated ejecta volume of over 1000 km^3, thus making the Taum Sauk Caldera a VEI 8 volcano."
         },
         {
             "name": "Messum Crater",
