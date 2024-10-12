@@ -2085,6 +2085,195 @@
             "desc": "Kick 'em Jenny is a complex submarine volcano in the Caribbean. The name itself may be a reference to the waters sometimes being extremely rough. "
         },
         {
+            "name": "Aira",
+            "vei": 8,
+            "coordinates": [31.66435315619816, 130.70954904449164],
+            "type": "Caldera",
+            "summitFeet": 3665,
+            "magmaType": "Rhyolite",
+            "desc": "The Aira caldera in the northern half of Kagoshima Bay contains the post-caldera Sakurajima volcano, one of Japan's most active. Eruption of the voluminous Ito pyroclastic flow accompanied formation of the 17 x 23 km caldera about 22,000 years ago. The smaller Wakamiko caldera was formed during the early Holocene in the NE corner of the caldera, along with several post-caldera cones. The construction of Sakurajima began about 13,000 years ago on the southern rim and built an island that was joined to the Osumi Peninsula during the major explosive and effusive eruption of 1914. Activity at the Kitadake summit cone ended about 4,850 years ago, after which eruptions took place at Minamidake. Frequent eruptions since the 8th century have deposited ash on the city of Kagoshima, located across Kagoshima Bay only 8 km from the summit. The largest recorded eruption took place during 1471-76."
+        },
+        {
+            "name": "Sakurajima",
+            "vei": 6,
+            "coordinates": [31.580418367110966, 130.65824535857604],
+            "type": "Stratovolcano",
+            "summitFeet": 3665,
+            "magmaType": "Andesite",
+            "desc": "Sakurajima (Japanese: 桜島, lit. Cherry Blossom Island) is an active stratovolcano, formerly an island and now a peninsula, in Kagoshima Prefecture in Kyushu, Japan. The lava flows of the 1914 eruption connected it with the Ōsumi Peninsula. It is the most active volcano in Japan."
+        },
+        {
+            "name": "Yabakei",
+            "vei": 7,
+            "coordinates": [33.15645510804612, 131.22049588099298],
+            "type": "Caldera",
+            "summitFeet": 2625,
+            "magmaType": "Rhyolite",
+            "desc": "The largely buried Yabakei caldera (also known as the Shishimuta caldera), a member of the Hohi Volcanic Zone, was the source of two major Pleistocene explosive eruptions producing the dacitic Yabakei (0.1 Ma) and Imaichi (0.9 Ma) pyroclastic flows (Hayashida et al., 1996; Kamata, 1989). The Yabakei pyroclastics take the form of densely welded tuffs, originally more than 110 km3 in total volume, and crop out over an area of about 480 km2 (Kamata, 1989). The 8-km-diameter funnel-shaped caldera is filled with breccia and shows no evidence of resurgent volcanic activity after these two caldera eruptions. However, post-caldera monogenetic activity appears to have continued for about 600,000 years after the caldera activity (Kamata, 1989)."
+        },
+        {
+            "name": "Daisen",
+            "vei": 6,
+            "coordinates": [35.37592787884689, 133.54812680622928],
+            "type": "Stratovolcano",
+            "summitFeet": 5673,
+            "magmaType": "Andesite",
+            "desc": "Daisen volcano, along the northern coast of SW Honshu, has been the source of large explosive eruptions during the late Pleistocene. The last dated major eruption took place about 17,000-18,000 years before present, but at least one large tephra deposit is younger (Machida and Arai, 1992). Although included in a list of volcanoes with eruptions in the past 2,000 years (Hayakawa, 1994a), that list includes some youthful volcanoes that are not Holocene, and the latest eruption of Daisen occurred during the late Pleistocene (Hayakawa 1996, pers. comm.). The volcanic products mostly consist of biotite and hornblende andesites (Matsuhisa and Kurasawa, 1983)."
+        },
+        {
+            "name": "Ishizuchi Cauldron",
+            "vei": 7,
+            "coordinates": [33.71916907190584, 133.1093229774737],
+            "type": "Caldera",
+            "summitFeet": 6502,
+            "magmaType": "Andesite",
+            "desc": "South to the mount Ishizuchi in Japan, lies a caldera 8 km in diameter. The caldera was formed by a VEI-7 eruption around 14 million years ago."
+        },
+        {
+            "name": "Hotakadake",
+            "vei": 7,
+            "coordinates": [36.30008630886134, 137.64983888486356],
+            "type": "Caldera",
+            "summitFeet": 10466,
+            "magmaType": "Rhyolite",
+            "desc": "Hodakadake, the highest of a rugged group of peaks in the scenic Northern Alps National Park, lies within the Hodaka Graben, the source of two major explosive eruptions about 1.75 million years ago. The eruption of the caldera-forming Nyukawa Pyroclastic Flow Deposit about 1.76 million years ago (Kimura and Nagahashi, 2007) was followed by the Ebisutoge-Fukuda Tephra, with an estimated volume of 380-490 km3 (Kataoka et al., 2001)."
+        },
+        {
+            "name": "Tokachi-Mitsumata",
+            "vei": 7,
+            "coordinates": [43.533287488038596, 143.1332660269462],
+            "type": "Caldera",
+            "summitFeet": 2297,
+            "magmaType": "Rhyolite",
+            "desc": "Tokachi-Mitsumata, a rhyolitic caldera that was the source of the Muka and Meto pyroclastic flows, was active about 0.6-0.3 million years ago (Nakano et al., 2001-). Ishii et al. (2008) listed dates of around 1 million years ago for formation of the Tokachi-Mitsumata caldera."
+        },
+        {
+            "name": "Mashū",
+            "vei": 6,
+            "coordinates": [43.5814472858774, 144.537259326936],
+            "type": "Caldera",
+            "summitFeet": 2812,
+            "magmaType": "Dacite",
+            "desc": "Mashu is a 6-km-wide Holocene caldera that truncates a stratovolcano constructed on the ESE rim of the large Kussharo caldera. The steep-walled caldera, filled by Lake Mashu, is one of the scenic highlights of Hokkaido. Following caldera collapse about 7,000 years ago, a small andesitic stratovolcano, Kamuinupuri, was formed beginning about 4,000 years ago, creating a reentrant into the SE side of the deep caldera lake. A large explosive eruption about 1,000 years ago, the latest dated eruption, created a 1.2 x 1.5 km crater at the summit of Kamuinupuri. The small island of Kamuishu in the center of Lake Mashu represents the tip of a mostly submerged dacitic lava dome."
+        },
+        {
+            "name": "Tokachidake",
+            "vei": 3,
+            "coordinates": [43.42395144365806, 142.69239361542472],
+            "type": "Stratovolcano",
+            "summitFeet": 6814,
+            "magmaType": "Andesite",
+            "desc": "Tokachidake volcano consists of a group of dominantly andesitic stratovolcanoes and lava domes arranged on a NE-SW line above a plateau of welded Pleistocene tuffs in central Hokkaido. Numerous explosion craters and cinder cones are located on the upper flanks of the small stratovolcanoes, with the youngest Holocene centers located at the NW end of the chain. Frequent historical eruptions, consisting mostly of mild-to-moderate phreatic explosions, have been recorded since the mid-19th century. Two larger eruptions occurred in 1926 and 1962. Partial cone collapse of the western flank during the 1926 eruption produced a disastrous debris avalanche and mudflow."
+        },
+        {
+            "name": "Kurose Hole",
+            "vei": 6,
+            "coordinates": [33.39905198715868, 139.6803582327145],
+            "type": "Caldera",
+            "summitFeet": -374,
+            "magmaType": "Dacite",
+            "desc": "Kurose Hole, between Mikura and Hachijo-jima islands, is a nearly circular 5-7 km wide submarine caldera with a 600-760 m deep floor. The high point of the caldera rim rises to about 100 m of the ocean surface. Large amounts of dacitic pumice have been recovered from dredges along the inner caldera wall. The age of its most recent eruption is not known."
+        },
+        {
+            "name": "Zaōsan",
+            "vei": 4,
+            "coordinates": [38.136683456013664, 140.449597956088],
+            "type": "Complex",
+            "summitFeet": 6040,
+            "magmaType": "Andesite",
+            "desc": "The Zaozan (or Zaosan) volcano group consists of a complex cluster of stratovolcanoes in north-central Honshu about 40 km W of Sendai Bay. The Pleistocene Ryuzan volcano forms the western group (Nishi-Zao), and Byobu and Fubo volcanoes form the southern group (Minami-Zao). The complex was constructed over granitic basement rocks thus has a relatively small volume. The 7 km3 Zaozan volcano proper forms the central group (Chuo-Zao), a complex topped by several lava domes and the Goshikidake tuff cone, aligned NW-SE. Several episodes of edifice collapse produced debris avalanches during the Pleistocene. Goshikidake contains the active Okama crater, filled with a colorful, strongly acidic crater lake; it has been the source of most of the frequent eruptions recorded since the 8th century CE."
+        },
+        {
+            "name": "Kita-Ioto",
+            "vei": 2,
+            "coordinates": [25.43500815622928, 141.2825218518908],
+            "type": "Stratovolcano",
+            "summitFeet": 2598,
+            "magmaType": "Basalt",
+            "desc": "No historical eruptions have occurred from the deeply eroded Kita-Ioto stratovolcano, which forms a steep-sided basaltic cone rising about 800 m above the sea. However, eruptions have been recorded since the 18th century from Funka Asane, a submarine vent 4-5 km NW of the island. Kita-Ioto is the northernmost of the Kazan Retto (Volcano Islands), located in the middle of the Izu-Marianas arc."
+        },
+        {
+            "name": "Ioto",
+            "vei": 4,
+            "coordinates": [24.79215805972305, 141.31581195304193],
+            "type": "Caldera",
+            "summitFeet": 554,
+            "magmaType": "Trachyandesite",
+            "desc": "Ioto, in the Volcano Islands of Japan, lies within a 9-km-wide submarine caldera. The volcano is also known as Ogasawara-Iojima to distinguish it from several other Sulfur Island volcanoes in Japan. The triangular, low-elevation, 8-km-long island narrows toward its SW tip and has produced trachyandesitic and trachytic rocks that are more alkalic than those of other volcanoes in this arc. The island has undergone uplift for at least the past 700 years, accompanying resurgent doming of the caldera; a shoreline landed upon by Captain Cook's surveying crew in 1779 is now 40 m above sea level. The Motoyama plateau on the NE half of the island consists of submarine tuffs overlain by coral deposits and forms the island's high point. Many fumaroles are oriented along a NE-SW zone cutting through Motoyama. Numerous recorded phreatic eruptions, many from vents on the W and NW sides of the island, have accompanied the uplift."
+        },
+        {
+            "name": "Usami",
+            "vei": 7,
+            "coordinates": [34.968278391559735, 139.0630627739538],
+            "type": "Caldera",
+            "summitFeet": 3000,
+            "magmaType": "Rhyolite",
+            "desc": "A heavily eroded caldera volcano near the city of Ito in Japan. It is theorized that this caldera formed in a singular VEI 7 eruption."
+        },
+        {
+            "name": "Kaitoku Seamount",
+            "vei": 1,
+            "coordinates": [26.121340130462368, 141.0956984509754],
+            "type": "Stratovolcano",
+            "summitFeet": -312,
+            "magmaType": "Basalt",
+            "desc": "Submarine eruption have been observed during March 1984 and August 2022-January 2023 from Kaitoku Seamount (Kaitoku Kaizan), a three-peaked submarine volcano 80 km NNW of Kita-Ioto. The type of activity related to other observations of discolored water or bubbling, including an observation from 1543 CE, is uncertain."
+        },
+        {
+            "name": "Hachijojima",
+            "vei": 5,
+            "coordinates": [33.13918348102816, 139.76438516829185],
+            "type": "Stratovolcano",
+            "summitFeet": 2802,
+            "magmaType": "Basalt",
+            "desc": "Hachijojima, in the central Izu Islands about 300 km S of Tokyo, consists of two small Quaternary dominantly basaltic stratovolcanoes forming an elongated NW-SE-trending island. The eroded Pleistocene-to-Holocene Higashiyama volcano occupies the SE end of the 14-km-long island. The symmetrical Holocene Nishiyama volcano the NW end has cones on the SE flank. The small volcanic island of Kojima lies several kilometers W of Hachijojima. Growth of Higashiyama began several tens of thousands of years ago, and included the formation of two small calderas. The initial submarine and early subaerial eruptions of Nishiyama took place from 10,000 to 8,000 years before present (BP). Its latest major activity, from the early Holocene until about 4,000 BP, was restricted to flank eruptions. Eruptions recorded since the 15th century have been restricted to the summit of Nishiyama and a submarine vent of unknown location."
+        },
+        {
+            "name": "Toshima",
+            "vei": 0,
+            "coordinates": [34.523285993796726, 139.27910273899553],
+            "type": "Stratovolcano",
+            "summitFeet": 1667,
+            "magmaType": "Basalt",
+            "desc": "The small 2 x 2.4 km island of Toshima is located in the northern Izu Islands south of Izu-Oshima Island about 20 km W of the main volcanic front. Steep cliffs up to 300 m high ring the basaltic to basaltic andesite island on three sides. The summit is asymmetrically located opposite the more gentle slopes of the northern side of the island, where the village of Toshima is located. The latest known eruption of this stratovolcano occurred sometime between about 9,000 and 4,000 years ago, producing a lava flow from Kajiana crater."
+        },
+        {
+            "name": "South Sarigan Seamount",
+            "vei": 3,
+            "coordinates": [16.585594168124548, 145.78042764913158],
+            "type": "Stratovolcano",
+            "summitFeet": -604,
+            "magmaType": "Basalt???",
+            "desc": "South Sarigan seamount, rising to within about 184 m of the ocean surface 12 km S of Sarigan Island, was the site of a short explosive submarine eruption in May 2010 that produced a plume of ash and steam to 12 km altitude. Sidescan sonar imagery taken in 2003 shows an irregular summit with multiple peaks, including a possibly young cone at about 350 m depth, and flank morphology suggests it is a frequently active volcano."
+        },
+        {
+            "name": "Guguan",
+            "vei": 2,
+            "coordinates": [17.309942475132203, 145.84143729900262],
+            "type": "Stratovolcano",
+            "summitFeet": 942,
+            "magmaType": "Andesite",
+            "desc": "The small island of Guguan, only 2.8 km wide, is composed of an eroded volcano on the south, a caldera with a post-caldera cone, and a northern volcano. The latter has three coalescing cones and a breached summit crater that fed lava flows to the west and NW. The 287-m high point of the island is the south rim of the caldera. Freycinet misidentifed Guguan with Alamagan; reported eruptions in 1819 and 1901 (Catalog of Active Volcanoes of the World) actually refer to solfataric activity on Alamagan (Corwin, 1971). The only known historical eruption of Guguan took place between 1882 and 1884 and produced the northern volcano and lava flows that reached the coast."
+        },
+        {
+            "name": "Mariana Back-Arc Segment at 15.5°N",
+            "vei": 0,
+            "coordinates": [15.406098387081316, 144.50505155701876],
+            "type": "Fissure Vent",
+            "summitFeet": -13451,
+            "magmaType": "Basalt",
+            "desc": "A series of very recently erupted lava flows were discovered in late 2015 along the Mariana back-arc spreading zone about 130 km WNW of Saipan. The flows near 15.4°N were not present at the time of a February 2013 bathymetric survey. Large hydrothermal plumes and intense chemical anomalies in the ocean overlie the area. The sediment-free pillow lavas have a dark glassy crust at water depths of between 4,100 and 4,450 m, believed to be the deepest historical eruption known, and the first to be found along a slow-spreading ridge. This location, the segment centered at 15.5°N, is part of a line of recently surveyed spreading segments with anomalous hydrothermal plumes. The line parallels the Mariana Island chain (about 100 km E) and the Mariana Trench (about 300 km E)."
+        },
+        {
+            "name": "East Diamante Caldera",
+            "vei": 6,
+            "coordinates": [15.935662144202098, 145.6764441840246],
+            "type": "Caldera",
+            "summitFeet": -2296,
+            "magmaType": "Dacite",
+            "desc": "The dacitic East Diamante submarine volcano contains an elongated NE-SW-trending caldera with a pronounced rim on the NE side. A large post-caldera cone lies on the SW caldera rim, and a complex of lava domes was constructed in the center of the caldera. Several areas of hydrothermal activity including black smoker sulfide chimneys at the Black Forest site were detected on the central dome complex at depths of only a few hundred meters. The summit extends to within 127 m of the ocean surface. West Diamante seamount lies 28 km W, with the much smaller Middle Diamante about 15 km W."
+        },
+        {
             "name": "Galeras",
             "vei": 6,
             "coordinates": [1.221300208496533, -77.35849982974266],
@@ -2698,7 +2887,7 @@
         },
         {
             "name": "Lvinaya Past",
-            "vei": 7,
+            "vei": 6,
             "coordinates": [44.610847592026985, 146.98984155058724],
             "type": "Caldera",
             "summitFeet": 1732,
