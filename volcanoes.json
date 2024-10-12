@@ -2338,7 +2338,7 @@
         },
         {
             "name": "Ciomadul",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [46.136294541384366, 25.887587358534958],
             "type": "Lava Dome",
             "summitFeet": 4229,
