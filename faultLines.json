@@ -2245,8 +2245,8 @@
             "name": "Upper Rhine Graben",
             "lengthKm": 350,
             "depthKm": 14,
-            "activity": 0.34,
-            "type": "Rift",
+            "activity": 0.46,
+            "type": "Strike Slip",
             "points": [
                 [49.916614663736695, 8.21946026070326],
                 [49.51489715447069, 8.395756148093847],
@@ -9235,7 +9235,7 @@
             "lengthKm": 480,
             "depthKm": 35,
             "activity": 0.15,
-            "type": "Rift",
+            "type": "Thrust",
             "points": [
                 [47.76375181629033, 6.610203577579271],
                 [47.51102433920468, 5.826871928446539],
@@ -9251,7 +9251,7 @@
             "name": "Hessian Graben",
             "lengthKm": 120,
             "depthKm": 20,
-            "activity": 0.15,
+            "activity": 0.05,
             "type": "Rift",
             "points": [
                 [51.70171099205845, 9.98041810376022],
