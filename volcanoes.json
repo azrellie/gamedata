@@ -1250,6 +1250,15 @@
             "desc": "Damavand is a stratovolcano in Iran. Damavand is a significant mountain in Persian mythology. It is the symbol of Iranian resistance against despotism and foreign rule in Persian poetry and literature."
         },
         {
+            "name": "Turkey Creek Caldera",
+            "vei": 7,
+            "coordinates": [31.84385018172838, -109.28171136931351],
+            "type": "Caldera",
+            "summitFeet": 9759,
+            "magmaType": "Rhyolite",
+            "desc": "Over 26.5 million years ago, the Chiricahua mountains in southern Arizona were a site of a huge ultra-plinian eruption, that ejected more than 500 km3 of the rhyolitic Canyon Tuff."
+        },
+        {
             "name": "Wolf",
             "vei": 4,
             "coordinates": [0.01698482999848532, -91.34246842207509],
