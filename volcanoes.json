@@ -148,6 +148,15 @@
             "desc": "A stratovolcano located in Japan. This volcano is very well known in Japan and has the classic shape of a volcano."
         },
         {
+            "name": "Tumalo Volcanic Center",
+            "vei": 65,
+            "coordinates": [44.16406273538534, -121.50676794265028],
+            "type": "Lava Dome",
+            "summitFeet": 6414,
+            "magmaType": "Rhyolite",
+            "desc": "The Tumalo volcanic center is the inferred source of large-volume Pleistocene ashflows such as the Desert Spring Tuff, the Bend Pumice and Tumalo Tuff, and the Shevlin Park Tuff. The area contains a large number of rhyolitic domes, such as Melvin Butte, and andesitic cinder cones, such as those in the Triangle Hill area, which are compositionally similar to the Tumalo Tuff (and correlative Bend Pumice) and Shevlin Park Tuff, respectively."
+        },
+        {
             "name": "Calatrava",
             "vei": 2,
             "coordinates": [38.86726087897647, -4.013833070232816],
@@ -2517,13 +2526,13 @@
             "desc": "Crater Basalt is a volcanic field in Argentina. It consists of 9 cinder and spatter cones."
         },
         {
-            "name": "Lake Tōya",
+            "name": "Tōya",
             "vei": 7,
             "coordinates": [42.601958496448326, 140.8503902952169],
             "type": "Caldera",
             "summitFeet": 2405,
             "magmaType": "Andesite",
-            "desc": "Lake Tōya is a 10 kilometer wide caldera in Hokkaido, Japan. It had a single caldera forming VEI 7 eruption 110,000 years ago."
+            "desc": "Tōya is a 10 kilometer wide caldera in Hokkaido, Japan. It had a single caldera forming VEI 7 eruption 110,000 years ago."
         },
         {
             "name": "Upper Chegem Caldera",
@@ -2679,7 +2688,7 @@
             "desc": "The Vulsini volcanic complex in central Italy covers about 2,200 km2 at the northern end of the Roman Magmatic Province. Following lava extrusion and explosive eruptions that constructed the main complex, the 16 km lake-filled Bolsena caldera on the east and the 8 x 11 km Latera caldera on the west were formed during major Pleistocene eruptions at about 0.3 and 0.16 million years ago, respectively. Five major Plinian fall deposits were erupted from vents at or near Latera caldera during the late Pleistocene."
         },
         {
-            "name": "Lake Maninjau",
+            "name": "Maninjau",
             "vei": 7,
             "coordinates": [-0.315876408474245, 100.18266616642448],
             "type": "Caldera",
@@ -3705,7 +3714,7 @@
             "desc": "Macauley Island is a tiny island part of the Kermadec Islands Chain, but don't let that fool you, as the volcano likely produced a VEI 7 eruption during the Holocene era."
         },   
         {
-            "name": "Lake Ilopango",
+            "name": "Ilopango",
             "vei": 7,
             "coordinates": [13.669109951289803, -89.03997924728905],
             "type": "Caldera",
