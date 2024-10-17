@@ -2121,6 +2121,24 @@
             "desc": "The largely buried Yabakei caldera (also known as the Shishimuta caldera), a member of the Hohi Volcanic Zone, was the source of two major Pleistocene explosive eruptions producing the dacitic Yabakei (0.1 Ma) and Imaichi (0.9 Ma) pyroclastic flows (Hayashida et al., 1996; Kamata, 1989). The Yabakei pyroclastics take the form of densely welded tuffs, originally more than 110 km3 in total volume, and crop out over an area of about 480 km2 (Kamata, 1989). The 8-km-diameter funnel-shaped caldera is filled with breccia and shows no evidence of resurgent volcanic activity after these two caldera eruptions. However, post-caldera monogenetic activity appears to have continued for about 600,000 years after the caldera activity (Kamata, 1989)."
         },
         {
+            "name": "Koroglu Caldera",
+            "vei": 7,
+            "coordinates": [38.93695359514443, 30.86460917417341],
+            "type": "Caldera",
+            "summitFeet": 4532,
+            "magmaType": "Rhyolite",
+            "desc": "A large 13x18km caldera in western Türkiye that has produced multiple ignimbrites, with one of them producing enough tephra to be classified as a VEI-7."
+        },
+        {
+            "name": "Diamond Craters",
+            "vei": 4,
+            "coordinates": [43.09472703366518, -118.78589299148423],
+            "type": "Volcanic Field",
+            "summitFeet": 4708,
+            "magmaType": "Picro-Basalt",
+            "desc": "Diamond Craters volcanic field consists of a 70 km2 area of basaltic lava flows along with numerous cinder cones and maars located between the SE Oregon town of Burns and Steens Mountain. A basaltic pahoehoe lava field is overlain by deposits from phreatomagmatic and Strombolian eruptions that formed a late-stage central vent complex of about 20 craters and cones that densely fill a 1.1 x 1.6 km caldera. The age is constrained to within 7,320-7,790 calibrated years Before Present by radiocarbon-dated floodplain deposits below the lava flows and paloemagnetic evidence (Sherrod et al., 2012). Doming has created a series of six overlapping topographic highs. The highest of these is known as Graben Dome; its summit is cut by a NW-SE graben 0.4 x 2.1 km long and 30 m deep. Lava flows on the E side of the field, scattered cinder cones, and maars formed during the last stage of activity."
+        },
+        {
             "name": "Daisen",
             "vei": 6,
             "coordinates": [35.37592787884689, 133.54812680622928],
