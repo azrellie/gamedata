@@ -2481,6 +2481,15 @@
             "desc": "Udokan Plateau is a massive volcanic field in the Russian far east. Volcanism in the Udokan Plateau included both basaltic lava flows and later individual volcanic cones."
         },
         {
+            "name": "Bolaños Graben Caldera",
+            "vei": 8,
+            "coordinates": [21.800365476399328, -104.08244473439423],
+            "type": "Graben Caldera",
+            "summitFeet": 3674,
+            "magmaType": "Rhyolite",
+            "desc": "A unique caldera in the Sierra Madre Occidental mountain range in Mexico. It is one of the only graben calderas that had confirmed VEI-8 eruptions. The strongest eruption from this volcano has released over 2,650km3 magma (DRE)."
+        },
+        {
             "name": "Chaîne des Puys",
             "vei": 4,
             "coordinates": [45.77403438423006, 2.9590687261047885],
