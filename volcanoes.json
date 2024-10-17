@@ -149,7 +149,7 @@
         },
         {
             "name": "Tumalo Volcanic Center",
-            "vei": 65,
+            "vei": 6,
             "coordinates": [44.16406273538534, -121.50676794265028],
             "type": "Lava Dome",
             "summitFeet": 6414,
