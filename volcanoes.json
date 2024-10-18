@@ -916,7 +916,7 @@
         },
         {
             "name": "Laguna del Maule",
-            "vei": 7,
+            "vei": 6,
             "coordinates": [-36.054512058273325, -70.49815130798767],
             "type": "Caldera",
             "summitFeet": 7093,
