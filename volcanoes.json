@@ -425,7 +425,7 @@
         },
         {
             "name": "Cerro Bravo",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [5.0918345657064465, -75.29395041582626],
             "type": "Stratovolcano",
             "summitFeet": 13074,
@@ -434,7 +434,7 @@
         },
         {
             "name": "Láscar",
-            "vei": 4,
+            "vei": 6,
             "coordinates": [-23.36294140726684, -67.73162696171767],
             "type": "Stratovolcano",
             "summitFeet": 18346,
@@ -886,6 +886,159 @@
             "summitFeet": 11253,
             "magmaType": "Andesite",
             "desc": "Concepción is a stratovolcano in Nicaragua. It is considered a pristine volcano because there has been no influence of other volcanoes on its growth."
+        },
+        {
+            "name": "Antuco",
+            "vei": 3,
+            "coordinates": [-37.40982037036042, -71.35151417568754],
+            "type": "Stratovolcano",
+            "summitFeet": 9774,
+            "magmaType": "Basalt",
+            "desc": "Antuco volcano, constructed NE of the Pleistocene Sierra Velluda stratovolcano, rises dramatically above the SW shore of Laguna de la Laja. It has a complicated history beginning with construction of the basaltic-to-andesitic Sierra Velluda and Cerro Condor stratovolcanoes of Pliocene-Pleistocene age. Construction of the Antuco I volcano was followed by edifice failure at the beginning of the Holocene that produced a large debris avalanche which traveled down the Río Laja to the west and left a large 5-km-wide caldera breached to the west. The steep-sided modern basaltic-to-andesitic cone has grown 1,000 m since then; flank fissures and cones have also been active. Moderate explosive eruptions were recorded in the 18th and 19th centuries from both summit and flank vents, and lava flows have traveled into the Río Laja drainage."
+        },
+        {
+            "name": "Apagado",
+            "vei": 4,
+            "coordinates": [-41.883942823022515, -72.58841906534],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 3970,
+            "magmaType": "Basalt",
+            "desc": "Volcán Apagado, also known as Hualiaque, is located W of Hornopirén volcano and SW of Yate on the peninsula between the Gulf of Ancud and the Reloncaví estuary. The sparsely vegetated pyroclastic cone contains a well-preserved summit crater; scoria deposits have a calibrated age of about 2,500 years BP. A 6-km-wide depression open to the SW mentioned by González-Ferrán (1995), and a small lava flow passing through that breach, are not prominent on satellite imagery."
+        },
+        {
+            "name": "Huequi",
+            "vei": 3,
+            "coordinates": [-42.38098825261649, -72.5825014362013],
+            "type": "Lava Dome",
+            "summitFeet": 4324,
+            "magmaType": "Andesite",
+            "desc": "Volcán Huequi is a small, glacier-free lava-dome complex in the center of the Huequi Peninsula in Ancud Bay. The basaltic-andesite to dacitic volcano consists of a complex of lava domes within an arcuate collapse depression with debris-avalanche deposits extending to the NW. Explosive eruptions were recorded during the 19th and 20th centuries, initially in 1890 and most recently in about 1920."
+        },
+        {
+            "name": "Laguna del Maule",
+            "vei": 7,
+            "coordinates": [-36.054512058273325, -70.49815130798767],
+            "type": "Caldera",
+            "summitFeet": 7093,
+            "magmaType": "Rhyolite",
+            "desc": "The Laguna del Maule volcanic complex includes a 15 x 25 km caldera with a cluster of small stratovolcanoes, lava domes, and pyroclastic cones of Pleistocene-to-Holocene age. The caldera lies mostly on the Chilean side of the border, but partially extends into Argentina. Fourteen Pleistocene basaltic lava flows were erupted down the upper part of the Maule river valley. A cluster of Pleistocene cinder cones was constructed on the NW side of Maule lake in the northern part of the caldera. The latest activity produced an explosion crater on the E side of the lake and a series of Holocene rhyolitic lava domes and blocky lava flows that surround it."
+        },
+        {
+            "name": "Michinmahuida",
+            "vei": 6,
+            "coordinates": [-42.80213335593927, -72.44612775031673],
+            "type": "Stratovolcano",
+            "summitFeet": 8045,
+            "magmaType": "Andesite",
+            "desc": "The glacier-covered basaltic-to-andesitic Volcán Michinmahuida, located west of Lago Reñihue, has a saddle-shaped summit with an elongated 3-km-wide caldera. The massive edifice is elongated in a NE-SW direction, and a youthful eruptive center is located on the ENE side of the complex. A major explosive eruption at the beginning of the Holocene produced the Amarillo Ignimbrite that may have created the now ice-filled summit caldera, and Holocene tephra deposits from summit and flank vents have been identified. An eruption was reported in 1742, and Charles Darwin observed activity in 1834. The latest known eruption, February-March 1835, produced a lava flow from a flank crater and lahars that reached the coast at Punta Chana."
+        },
+        {
+            "name": "Mocho-Choshuenco",
+            "vei": 5,
+            "coordinates": [-39.92994409254295, -72.02767884354587],
+            "type": "Stratovolcano",
+            "summitFeet": 7946,
+            "magmaType": "Andesite",
+            "desc": "The compound Mocho-Choshuenco volcano is composed of two glacier-covered stratovolcanoes, located east of Lago Rinihué and SE of Lago Panguipulli and post-dating a 4-km-wide basaltic caldera. The small Choshuenco stratovolcano, constructed on the NW rim of the caldera, is late-glacial in age. A major Plinian eruption produced the Neltume Pumice about 10,300 years ago. The larger andesitic-to-dacitic El Mocho volcano, constructed within the caldera, is postglacial and has reported eruptions from 1864 and 1937. Additional craters and basaltic scoria cones are located on the flanks of Mocho-Choshuenco, primarily on the NE and SW sides."
+        },
+        {
+            "name": "Tromen Volcanic Plateau",
+            "vei": 3,
+            "coordinates": [-37.13951224338976, -70.05073372742571],
+            "type": "Stratovolcano",
+            "summitFeet": 13497,
+            "magmaType": "Andesite",
+            "desc": "Tromen is an Argentinian stratovolcano that is the primary structure in an elongated volcanic plateau or field that extends about 70 km from Tilhue in the S to Piujenta in the N, including the Boliviano caldera and Palao dome. The Pleistocene Volcán Cerro Negro del Tromen lies immediately north. At the SSW end of this chain is Cerro Tilhue, of Pleistocene-Holocene age. The youngest lava flows originated from flank vents and descended the N and NE sides of the andesitic-to-rhyolitic volcanic complex. Holocene vents are also located in the Cerro Michico area on the lower NE flank. Eruptions were reported in the mid-18th century and in 1822. Von Wolff (1929) attributed purported eruptions of Pomahuida in 1820, 1823, 1827, and 1828 as being from Tromen, but these are not confirmed."
+        },
+        {
+            "name": "Monte Burney",
+            "vei": 5,
+            "coordinates": [-52.32125040669054, -73.37715501763236],
+            "type": "Stratovolcano",
+            "summitFeet": 5768,
+            "magmaType": "Andesite",
+            "desc": "Monte Burney, a large ice-covered volcano in the Patagonian region of Chile, lies about 200 km NW of the town of Punta Arenas. It was constructed on the western rim of a 6-km-wide caldera, which is partially filled with and surrounded by an unglaciated pyroclastic-flow deposit. Flank vents produced andesitic-dacitic lava flows and pyroclastic material. Collapse of the edifice produced a major debris avalanche that traveled to the SSW. Two large Plinian eruptions have been documented during the Holocene. The only known historical eruption took place in 1910."
+        },
+        {
+            "name": "Planchón-Peteroa",
+            "vei": 4,
+            "coordinates": [-35.23987119166525, -70.5705603122334],
+            "type": "Stratovolcano",
+            "summitFeet": 13048,
+            "magmaType": "Andesite",
+            "desc": "Planchón-Peteroa is an elongated complex volcano along the Chile-Argentina border with several overlapping calderas. Activity began in the Pleistocene with construction of the basaltic-andesite to dacitic Volcán Azufre, followed by formation of basaltic and basaltic-andesite Volcán Planchón, 6 km to the north. About 11,500 years ago, much of Azufre and part of Planchón collapsed, forming the massive Río Teno debris avalanche, which traveled 95 km to reach Chile's Central Valley. Subsequently, Volcán Planchón II was formed. The youngest volcano, andesitic and basaltic-andesite Volcán Peteroa, consists of scattered vents between Azufre and Planchón. Peteroa has been active into historical time and contains a small steaming crater lake. Historical eruptions from the complex have been dominantly explosive, although lava flows were erupted in 1837 and 1937."
+        },
+        {
+            "name": "Llullaillaco",
+            "vei": 2,
+            "coordinates": [-24.72075504387155, -68.53666514740138],
+            "type": "Stratovolcano",
+            "summitFeet": 22110,
+            "magmaType": "Dacite",
+            "desc": "The world's highest historically active volcano, Llullaillaco sits astride the Chile-Argentina border. The summit is formed by a smaller well-preserved cone that was constructed on an older Pleistocene edifice. A major debris-avalanche deposit produced by collapse of the older volcano about 150,000 years ago extends eastward into Argentina and diverges around the N and S sides of the older Cerro Rosado stratovolcano 17 km to the E. Construction of several lava domes and flows was associated with growth of the modern cone. The two most prominent flows contain distinct flow levees and ridges and extend down the N and S flanks. These two extremely youthful-looking dacitic flows were initially considered to be of Holocene age, but more recent Ar/Ar dating indicates that they are of late Pleistocene age (Richards and Villeneuve, 2001). Two explosive eruptions and another that may have included lava effusion were reported in the 19th century."
+        },
+        {
+            "name": "Nevados Ojos del Salado",
+            "vei": 4,
+            "coordinates": [-27.10917467583859, -68.54073651767347],
+            "type": "Stratovolcano",
+            "summitFeet": 22569,
+            "magmaType": "Dacite",
+            "desc": "The world's highest active volcano, Nevados Ojos del Salado, rises to 6,879 m along the Chile-Argentina border. The volcano lies about 20 km south of the road that crosses the international border at Paso de San Francisco. The summit complex, which is elongated in a NE-SW direction and overlies a largely buried caldera, contains numerous craters, pyroclastic cones and andesitic-to-rhyolitic lava domes and has been the source of Holocene lava flows. A major rhyodacitic explosive eruption about 1000-1500 years ago produced pumiceous pyroclastic flows. The most recent eruptive activity appears to have originated along a NNE-trending rift along the summit complex. It involved formation of a thick, viscous lava flow and at least a dozen small cones, lava domes, and explosion craters. No confirmed historical eruptions have been recorded, but the volcano has displayed persistent fumarolic activity, and there was an unconfirmed report of minor gas-and-ash emission in 1993."
+        },
+        {
+            "name": "Copahue",
+            "vei": 7,
+            "coordinates": [-37.84646401207509, -71.16836265869469],
+            "type": "Caldera",
+            "summitFeet": 9688,
+            "magmaType": "Rhyolite",
+            "desc": "Volcán Copahue is an elongated composite cone constructed along the Chile-Argentina border within the 6.5 x 8.5 km wide Trapa-Trapa caldera that formed between 0.6 and 0.4 million years ago near the NW margin of the 20 x 15 km Pliocene Caviahue (Del Agrio) caldera. The eastern summit crater, part of a 2-km-long, ENE-WSW line of nine craters, contains a briny, acidic 300-m-wide crater lake (also referred to as El Agrio or Del Agrio) and displays intense fumarolic activity. Acidic hot springs occur below the eastern outlet of the crater lake, contributing to the acidity of the Río Agrio, and another geothermal zone is located within Caviahue caldera about 7 km NE of the summit. Infrequent mild-to-moderate explosive eruptions have been recorded since the 18th century. Twentieth-century eruptions from the crater lake have ejected pyroclastic rocks and chilled liquid sulfur fragments."
+        },
+        {
+            "name": "Incapillo",
+            "vei": 6,
+            "coordinates": [-27.90077916536847, -68.82398170565142],
+            "type": "Caldera",
+            "summitFeet": 18865,
+            "magmaType": "Rhyolite",
+            "desc": "The Plio-Pleistocene Icapillo caldera and lava-dome complex is the southernmost ignimbritic caldera of the Central Andes. The 5 x 6 km wide caldera formed during a rhyodacitic eruption about 510,000 years ago. About 40 rhyodacitic lava domes surround the caldera."
+        },
+        {
+            "name": "Reclus",
+            "vei": 6,
+            "coordinates": [-50.96389807066087, -73.5843227170373],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 4603,
+            "magmaType": "Dacite",
+            "desc": "Reclus, the source of several Patagonian Holocene tephra layers, was recognized to be an independent volcanic edifice in 1987. The volcano consists of a large dacitic pyroclastic cone with a crater about 1 km in diameter. As many as six tephra layers overlie a peat layer dated at 3,780 years before present. Research has also revealed evidence for eruptions in the 19th and early 20th centuries."
+        },
+        {
+            "name": "Tungurahua",
+            "vei": 5,
+            "coordinates": [-1.4693845162407966, -78.44678888726973],
+            "type": "Stratovolcano",
+            "summitFeet": 16480,
+            "magmaType": "Andesite",
+            "desc": "Tungurahua, a steep-sided andesitic-dacitic stratovolcano that towers more than 3 km above its northern base, is one of Ecuador's most active volcanoes. Three major edifices have been sequentially constructed since the mid-Pleistocene over a basement of metamorphic rocks. Tungurahua II was built within the past 14,000 years following the collapse of the initial edifice. Tungurahua II collapsed about 3,000 years ago and produced a large debris-avalanche deposit to the west. The modern glacier-capped stratovolcano (Tungurahua III) was constructed within the landslide scarp. Historical eruptions have all originated from the summit crater, accompanied by strong explosions and sometimes by pyroclastic flows and lava flows that reached populated areas at the volcano's base. Prior to a long-term eruption beginning in 1999 that caused the temporary evacuation of the city of Baños at the foot of the volcano, the last major eruption had occurred from 1916 to 1918, although minor activity continued until 1925."
+        },
+        {
+            "name": "Quizapú",
+            "vei": 5,
+            "coordinates": [-35.65694046104252, -70.76315369388321],
+            "type": "Stratovolcano",
+            "summitFeet": 12969,
+            "magmaType": "Dacite",
+            "desc": "The Cerro Azul stratovolcano is at the southern end of the Descabezado Grande-Cerro Azul eruptive system. It is a steep-sided edifice with a 500-m-wide summit crater open to the north. The three basaltic-andesite La Resoloma Craters scoria vents are located below the W flank and the two Los Hornitos scoria cones on the lower SW flank. Quizapu, a major vent on the northern flank of Cerro Azul, formed in 1846 during the first historical eruption, accompanied by the emission of voluminous dacitic lava flows that traveled both east into the Estero Barroso valley and west into the Río Blanquillo valley. Quizapu was later the source of one of the world's largest explosive eruptions of the 20th century in 1932, which created a 600-700 m wide, 150-m-deep crater and ejected 9.5 km3 of dacitic tephra."
+        },
+        {
+            "name": "Cerro Tuzgle",
+            "vei": 4,
+            "coordinates": [-24.054432514613556, -66.48056103237225],
+            "type": "Stratovolcano",
+            "summitFeet": 17999,
+            "magmaType": "Dacite",
+            "desc": "The easternmost young stratovolcano of the central Andes, Cerro Tuzgle is located in Argentina about 120 km E of the main volcanic arc. Many youthful-looking flank lava flows were erupted from the well-preserved summit crater. Schwab and Lippolt (1976) obtained a Potassium-Argon date of 0.1 million years ago on what they believed to be the youngest Tuzgle lava. However, de Silva and Francis (1991) and González-Ferrán (1995) considered the latest activity to be of Holocene age, and Coira and Kay (1993, Fig. 2B) placed the youngest flow at the Pleistocene-Holocene boundary. Activity began with the eruption of a rhyodacitic ignimbrite, followed by construction of a lava dome complex on the rim of an existing caldera. Andesitic lava flows covered much of the dome complex and later partially filled the crater. Several edifice-collapse events occurred during the evolution of the volcano. The youngest flows were erupted on the SE and SW flanks."
         },
         {
             "name": "Billy Mitchell",
