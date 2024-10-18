@@ -1589,6 +1589,24 @@
             "magmaType": "Basalt",
             "desc": "Cofre de Perote is a massive Quaternary andesitic-dacitic volcano at the NNE end of the Trans-Mexican Volcanic Belt."
         },
+        {
+            "name": "Picabo Volcanic Field",
+            "vei": 8,
+            "coordinates": [43.29977855511431, -113.048535645836],
+            "type": "Caldera",
+            "summitFeet": 2500,
+            "magmaType": "Rhyolite",
+            "desc": "A massive caldera in the Yellowstone hotspot that produced the Arbon Valley Tuffs (VEI-8) 10 million years ago."
+        },
+        {
+            "name": "Khari Khari Caldera",
+            "vei": 7,
+            "coordinates": [-19.67548434640112, -65.63902888313646],
+            "type": "Caldera",
+            "summitFeet": 16500,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in the Frailes Plateau in Bolivia that was formed by a VEI-7 eruption that released 470km3 of tephra over 5 million years ago."
+        },
         {  
             "name": "Kozushima",
             "vei": 4,
