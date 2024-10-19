@@ -469,13 +469,13 @@
             "desc": "One of the largest volcanic fields in the western United States, the Marysvale straddles the Colorado Plateau-Great Basin transition zone. Most igneous rocks belong to a middle Cenozoic (~32 to 22 million years old) calc-alkaline sequence, although about 5% are related to an upper Cenozoic (23 million years to Holocene) bimodal (basalt and rhyolite) sequence. The Marysvale contains a variety of volcanic features, including stratovolcanoes, calderas, lava domes, and cinder cones."
         },
         {
-            "name": "North Pass Caldera",
+            "name": "Cochetopa Caldera",
             "vei": 7,
             "coordinates": [38.22035430381291, -106.72291805746927],
             "type": "Caldera",
             "summitFeet": 10135,
             "magmaType": "Rhyolite",
-            "desc": "A massive 21x25km caldera in the San Juan Volcanic Field that was formed in a singular VEI-7 eruption with the estimated ejecta volume ranging from 400 to 500 km3."
+            "desc": "A massive 20x23km caldera in the San Juan Volcanic Field that was formed in a singular VEI-7 eruption."
         },
         {
             "name": "Long Island",
