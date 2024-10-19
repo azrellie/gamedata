@@ -3221,6 +3221,33 @@
                 "Massive CO2 emissions originate from the Ural mountains...",
                 "<b><font color='rgb(125,0,0)'>The ground violently explodes in the Ural mountains...</font></b>"
             ]
+        {
+            "name": "El Geneina Large Igneous Province",
+            "vei": 9,
+            "coordinates": [12.637711214297083, 22.869356436772012],
+            "type": "Large Igneous Province",
+            "summitFeet": 2483,
+            "magmaType": "Basalt",
+            "desc": "Sudan LIP lol",
+            "chatMessages": [
+                "A sudden increase in seismic activity and ground deformation is observed in southwestern Sudan...",
+                "Nearby villages are evacuated due to possible volcanic activity...",
+                "<b><font color='rgb(174,42,33)'>Large cracks open up and erupt large volumes of lava...</font></b>"
+            ]
+        },
+        {
+            "name": "Bas Drâa Large Igneous Province",
+            "vei": 9,
+            "coordinates": [29.73998035604664, -9.146657162704708],
+            "type": "Large Igneous Province",
+            "summitFeet": 13671,
+            "magmaType": "Basalt",
+            "desc": "Morocco LIP lol",
+            "chatMessages": [
+                "Unusual fumarolic activity is detected in northern Morocco...",
+                "A large earthquake swarm is ongoing in northern Morocco...",
+                "<b><font color='rgb(48,23,0)'>Small fissures erupt in northern Morocco...</font></b>"
+            ]
         },
         {
             "name": "Morne Diablotins",
