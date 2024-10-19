@@ -1158,6 +1158,19 @@
             ]
         },
         {
+            "name": "Sierra Madre Occidental Large Igneous Province",
+            "vei": 10,
+            "coordinates": [26.595189607885988, -107.2743937088327],
+            "type": "Large Igneous Province",
+            "summitFeet": 9800,
+            "magmaType": "Basalt",
+            "desc": "lip mexican",
+            "chatMessages": [
+                "Locals in the Sierra Madre Occidental region start reporting strange water boiling sounds coming from the ground...",
+                "Satellites notice extensive rifting damage in the Mexican town of Durango..."
+            ]
+        },
+        {
             "name": "Caribbean Large Igneous Province",
             "vei": 10,
             "coordinates": [15.195956984413439, -69.72175985883337],
