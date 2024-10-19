@@ -3944,6 +3944,24 @@
             "desc": "Unzen, despite only having a max eruption intensity of a VEI 2, is infamous because during an eruption in 1792, a post-eruption earthquake caused part of the volcano to fall off and create a massive megatsunami that was estimated to kill 15,000 people. It has also had many more deadly eruptions."
         },   
         {
+            "name": "St. Paul",
+            "vei": 2,
+            "coordinates": [-38.720798614301344, 77.52827062688924],
+            "type": "Caldera",
+            "summitFeet": 879,
+            "magmaType": "Basalt",
+            "desc": "St. Paul Island, an uninhabited triangular island near the East Indian Ocean Ridge, is 80 km south of Amsterdam Island. It consists of an older tuff cone topped by a basaltic stratovolcano with a 1.8-km-wide caldera. The NE half of the volcano collapsed along a fault, submerging part of it and creating an 80-m-deep bay connected to the ocean. Geothermal areas are found near the caldera rim and bay edges. The only recorded eruption was in 1793 from a vent on the lower SW flank."
+        },
+        {
+            "name": "Takahe",
+            "vei": 4,
+            "coordinates": [-76.28702491248582, -112.09953857373483],
+            "type": "Caldera",
+            "summitFeet": 11352,
+            "magmaType": "Trachyte",
+            "desc": "Mount Takahe is a shield volcano in eastern Marie Byrd Land with an 8-km-wide caldera. It has a youthful appearance, with the oldest rocks dating to 310,000 years. Some tephra layers found in ice cores are less than 30,000 years old and likely originated from Takahe. The volcano's recent activity formed cinder cones and tuff cones on its flanks."
+        },
+        {
             "name": "Ossipee Caldera",
             "vei": 6,
             "coordinates": [43.7438246632741, -71.27393708676213],
