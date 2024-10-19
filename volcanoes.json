@@ -924,6 +924,15 @@
             "desc": "Volcán Huequi is a small, glacier-free lava-dome complex in the center of the Huequi Peninsula in Ancud Bay. The basaltic-andesite to dacitic volcano consists of a complex of lava domes within an arcuate collapse depression with debris-avalanche deposits extending to the NW. Explosive eruptions were recorded during the 19th and 20th centuries, initially in 1890 and most recently in about 1920."
         },
         {
+            "name": "Jaraguay Volcanic Field",
+            "vei": 2,
+            "coordinates": [29.330110157786727, -114.50021376093214],
+            "type": "Volcanic Field",
+            "summitFeet": 3150,
+            "magmaType": "Andesite",
+            "desc": "The Jaraguay Volcanic Field is the northernmost young alkalic volcanic field in Baja California, located between Jaraguay and Arroyo San José on the Pacific side. It features many cinder cones and basaltic lava flows, with some areas less vegetated than the nearby San Quintín Volcanic Field. Several lava flows have erupted near the south side of Arroyo San José."
+        },
+        {
             "name": "Laguna del Maule",
             "vei": 6,
             "coordinates": [-36.054512058273325, -70.49815130798767],
