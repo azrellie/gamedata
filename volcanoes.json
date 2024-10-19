@@ -1538,6 +1538,15 @@
             "desc": "Las Pilas-El Hoyo volcanic complex includex a complex and diverse cluster of multiple cinder cones within a 3km area of eachother. Its last eruption was in october 29th 1954."
         },
         {
+            "name": "Mont-Dore Volcanic Complex",
+            "vei": 5,
+            "coordinates": [45.57620289115027, 2.846657220547599],
+            "type": "Caldera",
+            "summitFeet": 6178,
+            "magmaType": "Rhyolite",
+            "desc": "A large volcanic massif in France that has been active and producing low volume eruptions since 3 million years ago."
+        },
+        {
             "name": "Akita-Yake-Yama",
             "vei": 7,
             "coordinates": [39.968014005285085, 140.75980443077387],
