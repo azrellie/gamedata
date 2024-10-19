@@ -1394,6 +1394,15 @@
             "desc": "The Cobre Ridge caldera is a large Jurassic volcano in the U.S. state of Arizona. It formed about 170 million years ago when a VEI-8 eruption ejected more than 1,000 km3 (240 cu mi) of crystal-rich rhyodacite ignimbrite."
         },
         {
+            "name": "Mount Princeton Caldera",
+            "vei": 8,
+            "coordinates": [38.757119555510656, -106.25370327313288],
+            "type": "Caldera",
+            "summitFeet": 14204,
+            "magmaType": "Rhyolite",
+            "desc": "A heavily eroded caldera in the San Juan Volcanic Field of Colorado. It has produced a VEI-8 eruption during the Mid-Tertiary Ignimbrite Flare Up."
+        },
+        {
             "name": "Capelinhos",
             "vei": 2,
             "coordinates": [38.585269752532405, -28.714898784559765],
