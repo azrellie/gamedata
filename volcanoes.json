@@ -1959,6 +1959,24 @@
             "desc": "Rumble III seamount, the largest of the Rumbles group of submarine volcanoes along the South Kermadec Ridge, rises 2,300 m from the seafloor to within about 200 m of the surface. Collapse of the edifice produced a scarp open to the west and a large debris-avalanche deposit. Fresh-looking andesitic rocks have been dredged from the summit and basaltic lava from its flanks. It has been the source of several submarine eruptions detected by hydrophone signals." 
         },
         {
+            "name": "White Rock Caldera",
+            "vei": 8,
+            "coordinates": [38.056386438319706, -114.06601603736867],
+            "type": "Caldera",
+            "summitFeet": 9140,
+            "magmaType": "Rhyolite",
+            "desc": "A huge caldera in the Indian Peak-Caliente Caldera Complex of Nevada and Utah. It is the source of extremely voluminous Lund Tuff." 
+        },
+        {
+            "name": "Heise Volcanic Field",
+            "vei": 8,
+            "coordinates": [43.82913984916752, -112.12034146794412],
+            "type": "Caldera",
+            "summitFeet": 4705,
+            "magmaType": "Rhyolite",
+            "desc": "A huge caldera complex in the Idaho part of Yellowstone hotspot. It has produced multiple caldera-forming eruptions during its lifetime." 
+        },
+        {
             "name": "Home Reef",
             "vei": 3,
             "coordinates": [-18.990166088101933, -174.76554615177096],
