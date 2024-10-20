@@ -2175,6 +2175,24 @@
             "desc": "The 3-km-wide island of Banda Api is the northern-most volcano in the Banda arc and has a long period of recorded observation because of its key location in the Portuguese and Dutch spice trade. The basaltic-to-rhyodacitic volcano is located in the SW corner of a mostly submerged 7 km caldera. At least two episodes of caldera formation are thought to have occurred, with the arcuate islands of Lonthor and Neira considered to be pre-caldera remnants. A conical peak rises to about 600 m at the center of the island. Eruptions have been recorded since 1586 CE, mostly consisting of Strombolian eruptions from the summit crater, but larger explosive eruptions have occurred and occasional lava flows have reached the coast."
         },
         {
+            "name": "West Thumb Caldera",
+            "vei": 6,
+            "coordinates": [44.43387956145633, -110.53619533161317],
+            "type": "Caldera",
+            "summitFeet": 7818,
+            "magmaType": "Rhyolite",
+            "desc": "The West Thumb Caldera is a large volcano in the Yellowstone Hotspot. This volcano has formed the most recent large volume eruption in Wyoming."
+        },
+        {
+            "name": "Zavaritski Caldera",
+            "vei": 7,
+            "coordinates": [46.91977812366891, 151.9528737802777],
+            "type": "Caldera",
+            "summitFeet": 2008,
+            "magmaType": "Dacite",
+            "desc": "The Zavaritzki volcano on Simushir Island in the central Kuril Islands contains three nested calderas 10, 8, and 3 km in diameter. The steep-walled youngest caldera was formed during the Holocene and includes several young cones and lava domes near the margins of Biryuzovoe Lake. The current lake surface is at ~40 m elevation with the bottom ~30 m below sea level, but lacustrine sediments overlying pumice deposits indicate that the surface of an earlier caldera lake lay at 200 m above sea level. A small 500-m-diameter scoria cone, sketched by Gorshkov (1958, CAVW) that reportedly grew between 1916 and 1931, formed a peninsula extending into the lake from the NE caldera wall. Explosive eruptions in 1957 removed the cone and filled much of the NW part of the lake, including emplacement of a 350-m-wide, 40-m-high dome."
+        },
+        {
             "name": "Bulusan",
             "vei": 6,
             "coordinates": [12.77061063131952, 124.04962451854341],
