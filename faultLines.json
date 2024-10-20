@@ -7876,7 +7876,7 @@
             "lengthKm": 1790,
             "depthKm": 20,
             "activity": 0.4,
-            "type": "Oceanic-Oceanic Convergent Boundary",
+            "type": "Transform",
             "points": [
                 [8.916816802586332, 138.4306448291233],
                 [8.601929702154907, 139.1777151342355],
@@ -10731,11 +10731,11 @@
             "visualizationColor": [0, 111, 255]
         },
         {
-            "name": "Palau Trench Subduction Zone",
+            "name": "Palau Trench",
             "lengthKm": 1205,
             "depthKm": 8.03,
             "activity": 0.5,
-            "type": "Oceanic-Oceanic Convergent Boundary",
+            "type": "Rift",
             "points": [
                 [10.069083554052343, 135.176250977784],
                 [9.590136327213994, 134.75339992404258],
