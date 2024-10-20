@@ -230,6 +230,20 @@
             ]
         },
         {
+            "name": "Verkhovtsevo Large Igneous Province",
+            "vei": 9,
+            "coordinates": [47.895092796378606, 34.54184544513653],
+            "type": "Large Igneous Province",
+            "summitFeet": 252,
+            "magmaType": "Komatiite",
+            "desc": "nonexistent country LIP",
+            "chatMessages": [
+                "Geysers start forming along cracks in southern Ukraine...",
+                "Large earthquakes strike southern Ukraine...",
+                "A huge magmatic intrusion has been detected under southern Ukraine..."
+            ]
+        },
+        {
             "name": "Piñón Large Igneous Province",
             "vei": 9,
             "coordinates": [-1.1373666338410482, -80.41994103791222],
