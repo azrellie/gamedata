@@ -1208,6 +1208,19 @@
             ]
         },
         {
+            "name": "Wrangellia Large Igneous Province",
+            "vei": 10,
+            "coordinates": [61.47182078492747, -138.31521787501558],
+            "type": "Large Igneous Province",
+            "summitFeet": 1900,
+            "magmaType": "Basalt",
+            "desc": "first and probably last alaskan LIP",
+            "chatMessages": [
+                "The ground starts shaking heavily in southern Alaska...",
+                "A mantle plume has been detected under Alaskan Wrangellia..."
+            ]
+        },
+        {
             "name": "Sierra Madre Occidental Large Igneous Province",
             "vei": 10,
             "coordinates": [26.595189607885988, -107.2743937088327],
