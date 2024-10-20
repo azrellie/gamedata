@@ -67,6 +67,33 @@
             "desc": "A caldera in Mount Baker Volcanic Field, Washington state that sits really close to the border of Canada. Kulshan has the largest glacier cover of any of the cascade volcanoes and sits only 28 miles from Abbotsford in Canada."
         },
         {
+            "name": "Spurr",
+            "vei": 4,
+            "coordinates": [61.299619994243315, -152.25129633802393],
+            "type": "Stratovolcano",
+            "summitFeet": 11070,
+            "magmaType": "Andesite",
+            "desc": "Mount Spurr, 130 km west of Anchorage, Alaska, features a summit lava dome within a 5-km-wide amphitheater formed by a late-Pleistocene or early Holocene debris avalanche. The avalanche traveled over 25 km southeast, depositing large blocks. Crater Peak, the youngest vent at the amphitheater's southern end, has produced around 40 Holocene tephra layers. Eruptions in 1953 and 1992 from Crater Peak deposited ash in Anchorage."
+        },
+        {
+            "name": "Langila",
+            "vei": 3,
+            "coordinates": [-5.540059400061996, 148.41918146191622],
+            "type": "Complex",
+            "summitFeet": 4364,
+            "magmaType": "Basalt",
+            "desc": "Langila, one of New Britain's most active volcanoes, consists of four small overlapping basaltic-andesitic cones on the lower E flank of the extinct Talawe volcano in NW New Britain. A 2.5-km-long rectangular crater, breached to the SE, lies NE of Langila. An extensive lava field reaches the coast on the N and NE sides. Since the 19th century, frequent mild-to-moderate eruptions, sometimes with lava flows, have been recorded from its three summit craters. The youngest, crater no. 3, formed in 1960 and has a diameter of 150 m."
+        },
+        {
+            "name": "Harrat Khaybar",
+            "vei": 2,
+            "coordinates": [25.500213607157505, 39.99976991173142],
+            "type": "Volcanic Field",
+            "summitFeet": 6867,
+            "magmaType": "Basalt",
+            "desc": "Harrat Khaybar, one of Saudi Arabia's largest volcanic fields, covers an area of more than 14,000 km2 N of Madinah (Medina). A 100-km-long N-S linear vent system contains felsic lava domes, tuff rings, the Jabal Qidr stratovolcano, and numerous small basaltic cones. At least seven lava flows are less than 4,500 years old, and another eight are less than 1,500 years old."
+        },
+        {
             "name": "Adams",
             "vei": 2,
             "coordinates": [46.202439318033306, -121.49103546466154],
@@ -2188,6 +2215,15 @@
             "desc": "The 8 x 10 km Gareloi Island, the northernmost volcano of the Delarof Group at the western end of the Andreanof Islands, consists of a stratovolcano with two summits and a prominent SE-trending fissure. The fissure was formed during an eruption in 1929 and extends from the southern summit to the sea. Steep sea cliffs that are cut into rocks of an older, eroded center are found on the SW coast, and submarine deposits of three debris avalanches produced by edifice collapse are found offshore. Young lava flows cover the older volcano from the summit to the coast along three broad axes trending NW, ENE, and S. The 1929 eruption originated from 13 craters along a 4-km-long fissure. Phreatic explosions were followed by the ejection of glassy pumice, lapilli, scoria, and older blocks, as well as by the emission of four short, steep lava flows, one of which reached the SE coast."
         },
         {
+            "name": "Lewotobi",
+            "vei": 3,
+            "coordinates": [-8.541834030996341, 122.77396722895831],
+            "type": "Stratovolcano",
+            "summitFeet": 5587,
+            "magmaType": "Andesite",
+            "desc": "The Lewotobi edifice on eastern Flores Island consists of two adjacent stratovolcanoes, Lewotobi Laki-laki 'husband' and Lewotobi Perempuan 'wife', with summits less than 2 km apart. Laki-laki to the NW has been frequently active in the 19th and 20th centuries, while Perempuan had eruptions in 1921 and 1935. Small lava domes have formed in both summit craters, which are open to the north. The prominent Iliwokar cone lies on the E flank of Perempuan."
+        },
+        {
             "name": "Gede-Pangrango",
             "vei": 3,
             "coordinates": [-6.787747824352454, 106.98192096932668],
@@ -2692,6 +2728,15 @@
             "desc": "Arenal is a stratovolcano in Costa Rica. Arenal is one of seven historically active Costa Rican volcanoes along with Poás, Irazú, Miravalles, Orosí, Rincón de la Vieja complex, and Turrialba."
         },
         {
+            "name": "Sangay",
+            "vei": 3,
+            "coordinates": [-2.0063780820003227, -78.34053054794082],
+            "type": "Stratovolcano",
+            "summitFeet": 17343,
+            "magmaType": "Andesite",
+            "desc": "Sangay, Ecuador's southernmost and most active volcano, lies east of the Andes. This steep, glacier-covered andesitic volcano grew within the collapsed calderas of two earlier edifices, which sent debris avalanches to the Amazonian lowlands. The current structure dates back at least 14,000 years and rises above the eastern tropical jungle, while heavy rains have carved deep canyons into ash plains on other sides. Eruptions have been reported since 1628, with near-continuous activity from 1728 to 1916 and from 1934 to the present, altering the summit crater complex."
+        },
+        {
             "name": "Udokan Plateau",
             "vei": 3,
             "coordinates": [57.08215725769283, 119.79913175683569],
@@ -2942,6 +2987,15 @@
             "summitFeet": 3166,
             "magmaType": "Andesite?",
             "desc": "Agrigan is a volcanic island in the Marianas. It is the highest volcano in the Marianas arc."
+        },
+        {
+            "name": "Villarrica",
+            "vei": 5,
+            "coordinates": [-39.42022428297343, -71.93985855851834],
+            "type": "Stratovolcano",
+            "summitFeet": 9341,
+            "magmaType": "Basalt",
+            "desc": "Villarrica, a glacier-covered stratovolcano in central Chile's northern Lakes District, lies ~15 km south of Pucon. A 2-km-wide caldera, formed ~3,500 years ago, sits at the base of its active basaltic to basaltic-andesite cone, within a larger 6-km-wide Pleistocene caldera. Over 30 scoria cones and fissure vents are on its flanks. Holocene eruptions produced Plinian events and pyroclastic flows up to 20 km long, along with lava flows reaching 18 km. Since 1558, eruptions have mostly been mild-to-moderate, with occasional lava flows. Glaciers cover 40 km², and lahars have impacted nearby towns."
         },
         {
             "name": "Sollipulli",
@@ -4196,6 +4250,15 @@
             "desc": "Semeru is a stratovolcano in Indonesia. Semeru is named after Sumeru, the central world mountain in Hinduism. As stated in legend, it was transplanted from India to create the island of Java; the tale is recorded in the 15th-century East Javanese work Tantu Pagelaran."
         },
         {
+            "name": "Manam",
+            "vei": 4,
+            "coordinates": [-4.079178633730432, 145.03683745957292],
+            "type": "Stratovolcano",
+            "summitFeet": 5928,
+            "magmaType": "Basalt",
+            "desc": "Manam, a 10-km-wide island 13 km off the northern coast of Papua New Guinea, is one of the country’s most active volcanoes. Four large radial valleys from its summit channel lava flows and pyroclastic avalanches to the lower flanks, sometimes reaching the coast. Five small satellitic centers are near the island’s shoreline. Two summit craters are active, with most eruptions from the southern crater. Frequent mild-to-moderate eruptions have been recorded since 1616, occasionally producing larger pyroclastic flows and lava that reached populated coastal areas."
+        },
+        {
             "name": "Rotorua Caldera",
             "vei": 7,
             "coordinates": [-38.079065845549266, 176.2712995743315],
@@ -4422,13 +4485,13 @@
             "desc": "This volcano has very recently erupted (and may be still erupting if you're reading this). It is one of the most active volcanoes in the Kurile Islands."
         },
         {
-            "name": "Dunoko",
+            "name": "Dukono",
             "vei": 3,
             "coordinates": [1.6997423656999935, 127.86705294077143],
             "type": "Complex",
             "summitFeet": 4177,
             "magmaType": "Andesite",
-            "desc": "Dunoko is one of the most active volcanoes in Indonesia. It has been erupting since 1933 continously, and it's likely still erupting as you're reading this."
+            "desc": "Dukono is one of the most active volcanoes in Indonesia. It has been erupting since 1933 continously, and it's likely still erupting as you're reading this."
         },
         {
             "name": "Wurzen Caldera",
