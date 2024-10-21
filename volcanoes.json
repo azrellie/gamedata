@@ -4277,13 +4277,13 @@
             "desc": "Akademia Nauk is a caldera in Russia. The volcano is named after the Российская Академия Наук, the Russian (Soviet) Academy of Sciences."
         },
         {
-            "name": "Ashikule Volcanic Field",
-            "vei": 2,
+            "name": "Kunlun Volcanic Group",
+            "vei": 4,
             "coordinates": [35.735662799373145, 81.56606477676647],
             "type": "Volcanic Field",
             "summitFeet": 16699,
             "magmaType": "Trachyandesite",
-            "desc": "Ashikule Volcanic Field is a volcanic field in China. The latest eruption was on 27 May 1951, at Ashi volcano as was reported by the newspaper Xinjiang Daily. The report claimed that soldiers building a road heard roaring and saw a column of smoke, which continued for several days."
+            "desc": "Kunlun Volcanic Field is a volcanic field in China. The latest eruption was on 27 May 1951, at Ashi volcano as was reported by the newspaper Xinjiang Daily. The report claimed that soldiers building a road heard roaring and saw a column of smoke, which continued for several days."
         },
         {
             "name": "Sinabung",
