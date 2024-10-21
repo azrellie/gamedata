@@ -537,13 +537,13 @@
             "desc": "Long Island is a caldera in Papua New Guinea. According to findings by archaeologists, it is believed that the island was first inhabited by humans approximately 1000 years ago. The discovery of obsidian and pottery fragments from diverse cultures at these dig sites has provided compelling evidence of the island's inhabitants engaging in extensive trade networks, indicative of their active participation in regional trade routes."
         },
         {
-            "name": "Wah Wah Springs",
+            "name": "Wah Wah Springs Caldera",
             "vei": 8,
             "coordinates": [38.47986542029199, -113.48921456463835],
             "type": "Caldera",
             "summitFeet": 4880,
             "magmaType": "Rhyolite",
-            "desc": "Wah Wah Springs is a caldera in the USA. Over 30 million years ago Wah Wah Springs ejected over 5,900 km3 of tephra, producing the second most powerful confirmed eruption on Earth."
+            "desc": "Wah Wah Springs is a caldera in the USA. Over 30 million years ago Wah Wah Springs ejected over 5,900 km3 of tephra, producing the fourth most powerful confirmed eruption on Earth."
         },
         {
             "name": "Young Island",
