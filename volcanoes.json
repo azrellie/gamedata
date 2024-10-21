@@ -964,6 +964,51 @@
             "magmaType": "Basalt",
             "desc": "Volcán Apagado, also known as Hualiaque, is located W of Hornopirén volcano and SW of Yate on the peninsula between the Gulf of Ancud and the Reloncaví estuary. The sparsely vegetated pyroclastic cone contains a well-preserved summit crater; scoria deposits have a calibrated age of about 2,500 years BP. A 6-km-wide depression open to the SW mentioned by González-Ferrán (1995), and a small lava flow passing through that breach, are not prominent on satellite imagery."
         },
+                {
+            "name": "Penguin Island",
+            "vei": 3,
+            "coordinates": [-62.10191585991386, -57.92802310300355],
+            "type": "Stratovolcano",
+            "summitFeet": 591,
+            "magmaType": "Basalt",
+            "desc": "Penguin Island, a 1.4 x 1.7 km island off the SE coast of King George Island in Antarctica's South Shetland Islands, features Deacon Peak, a basaltic scoria cone with a 350-m-wide summit crater on the SW side. A small basaltic lava plug fills the 75-m-deep crater. Petrel Crater, a 300-m-wide maar, is near the east coast. Deacon Peak formed about 300 years ago, and Petrel Crater about 100 years ago. Historical fumarolic activity reports from nearby Bridgeman Island may refer to Penguin Island."
+        },
+        {
+            "name": "Pali-Aike Volcanic Field",
+            "vei": 2,
+            "coordinates": [-52.08168273583878, -69.69777604760773],
+            "type": "Volcanic Field",
+            "summitFeet": 925,
+            "magmaType": "Basalt",
+            "desc": "The Pali-Aike volcanic field, spanning 3,000 km² across the Chile-Argentina border north of the Straits of Magellan, is about 150 km NE of Punta Arenas. This Pleistocene-to-Holocene field, the southernmost of the Patagonian basaltic plateau lavas, features lake-filled maars, basaltic scoria, spatter cones, and fresh-looking lava flows. Eruptions occurred along E-W and NW-SE fissures. Early eruptions formed maars and lava flows now visible in river valleys, while later stages created eroded spatter cones and soil-covered lava flows. The youngest cones and lava flows are in the SE, with fresh ejecta covering prehistoric artifacts."
+        },
+        {
+            "name": "Kookooligit Mountains",
+            "vei": 0,
+            "coordinates": [63.593159099021044, -170.38163440704344],
+            "type": "Shield",
+            "summitFeet": 2208,
+            "magmaType": "Basalt",
+            "desc": "The Kookooligit Mountains are a 30 x 40 km shield volcano of Pleistocene-to-Holocene age in north-central St. Lawrence Island. The basaltic shield is composed of massive columnar-jointed lava flows overlain by more than 100 small cones (20-60 m high). Most of the cones are aligned E-W along the crest of the elongated shield."
+        },
+        {
+            "name": "St. Paul Island",
+            "vei": 0,
+            "coordinates": [57.173997400991, -170.29641031133067],
+            "type": "Shield",
+            "summitFeet": 666,
+            "magmaType": "Basalt",
+            "desc": "St. Paul, the largest of the Pribilof Islands, features numerous young cinder cones and covers a 110 km² area of coalescing basaltic-to-trachybasaltic shield volcanoes. Lava flows originated from vents at Bogoslof Hill in the island's center and cinder cones at Rush Hill on the west side. Subaerial activity began 540,000 years ago, forming a basaltic lava platform, followed by monogenetic vents and two small shield volcanoes. The youngest vent, Fox Hill cinder cone, produced a lava flow about 3,200 years ago, reaching the sea at Southwest Point."
+        },
+        {
+            "name": "Imuruk Lake",
+            "vei": 1,
+            "coordinates": [65.51562196555264, -163.45447884538163],
+            "type": "Volcanic Field",
+            "summitFeet": 2001,
+            "magmaType": "Basalt",
+            "desc": "The Imuruk volcanic field on the central Seward Peninsula, north of the Bendeleben Mountains, contains about 75 small basaltic vents surrounded by extensive lava flows. The largest and most recent vent is the Lost Jim cone, a 30-m-high cinder cone near Imuruk Lake, which produced the field’s only Holocene lava flow. Erupted around 1,655 years ago, the Lost Jim flow covers 230 km², extending 35 km west and 9 km north. The next youngest flow, the late-Pleistocene Camille flow, traveled 39 km from its vent."
+        },
         {
             "name": "Huequi",
             "vei": 3,
