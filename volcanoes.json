@@ -1756,6 +1756,141 @@
             "magmaType": "Andesite",
             "desc": "Štiavnica is a caldera in Slovakia. From originally over 60 lakes called tajchy in Štiavnica Mountains, there are over 30 still existing today. Although they are now integrated in their natural environment, they were originally built as water reservoirs serving the mining industry, most of them in the 18th century."
         },
+        {
+            "name": "Saint Andrew Strait",
+            "vei": 2,
+            "coordinates": [-2.3829526720647767, 147.35118214750813],
+            "type": "Complex",
+            "summitFeet": 886,
+            "magmaType": "Rhyolite",
+            "desc": "The St. Andrew Strait volcano, located in the Admiralty Islands north of Papua New Guinea, consists of a series of overlapping Quaternary cones formed by rhyolitic lava flows and pyroclastic materials on Lou and Tuluman Islands. Volcanism is aligned on a curved arc extending through the 12-km-long Lou Island. The Tuluman Islands, 1.5 km S of Lou Island, were formed during a 1953-1957 eruption. Pam Lin and Pam Mandian Islands farther to the SE along the same arc contain fresh rhyolitic obsidian similar to that found on Tuluman." 
+        },
+        {
+            "name": "Central Bismarck Sea",
+            "vei": 0,
+            "coordinates": [-3.030479825984059, 147.77989839723503],
+            "type": "Fissure Vent",
+            "summitFeet": -4265,
+            "magmaType": "Basalt?",
+            "desc": "SOFAR signals resembling those produced at known submarine eruptions were recorded in January 1972 in the central Bismarck Sea (Johnson et al., 1981). The source of the signals was at the junction of two segments of the N margin of the South Bismarck plate. The more easterly of these segments is a transform fault, whereas the more westerly is an area of oblique active seafloor spreading. The signals were detected by a seismic station on nearby Manus Island, as well as at hydrophone stations on Wake and Midway Islands in the central Pacific." 
+        },
+        {
+            "name": "Krummel-Garbuna-Welcker",
+            "vei": 2,
+            "coordinates": [-5.443658977509543, 150.02706184684195],
+            "type": "Stratovolcano",
+            "summitFeet": 1850,
+            "magmaType": "Andesite",
+            "desc": "The basaltic-to-dacitic Krummel-Garbuna-Welcker Volcanic Complex consists of three volcanic peaks located along a 7-km N-S line above a shield-like foundation at the southern end of the Willaumez Peninsula. The central and lower peaks of the centrally located Garbuna contain a large vegetation-free area that is probably the most extensive thermal field in Papua New Guinea. A prominent lava dome and blocky lava flow in the center of thermal area have resisted destruction by thermal activity, and may be of Holocene age. Krummel volcano at the south end of the group contains a summit crater, breached to the NW. The highest peak of the group is Welcker volcano, which has fed blocky lava flows that extend to the eastern coast of the peninsula. The last major eruption from both it and Garbuna volcanoes took place about 1800 years ago. The first historical eruption took place at Garbuna in October 2005." 
+        },
+        {
+            "name": "Dakataua",
+            "vei": 6,
+            "coordinates": [-5.046002012898329, 150.10162476097065],
+            "type": "Caldera",
+            "summitFeet": 1339,
+            "magmaType": "Dacite",
+            "desc": "The 10.5 x 13.5 km Dakataua caldera anchors the northern tip of the Willaumez Peninsula of New Britain. The latest episode of caldera formation occurred as recently as about 1,150 years ago, and was followed by at least five sub-Plinian or Vulcanian eruptions. A 12-km-wide freshwater lake whose surface is only about 50 m above sea level occupies the caldera. Two vertical fault-bounded blocks form topographic highs at the western and eastern sides of the caldera. A N-S line of post-caldera cones, explosion craters, and part of an arcuate inner caldera rim form a large peninsula that nearly bisects the arcuate caldera lake. The peninsula includes the 350-m-high andesitic Mount Makalia stratovolcano, the largest of the post-caldera cones, which last erupted during the late-19th century. A major submarine debris avalanche deposit NE of the volcano may represent edifice collapse prior to caldera formation. Thermal areas occur at several locations along the central peninsula." 
+        },
+        {
+            "name": "Bam",
+            "vei": 3,
+            "coordinates": [-3.6135763996546433, 144.81988678434672],
+            "type": "Stratovolcano",
+            "summitFeet": 2247,
+            "magmaType": "Andesite",
+            "desc": "The small 2.4 x 1.6 km island of Bam is the summit of a mostly submerged volcano that is one of the more active in Papua New Guinea. Bam is the SE-most of the Schouten Islands, and lies off the coast of New Guinea, about 40 km NNE of the mouth of the Sepik River. A steep-walled summit crater that is 300 m wide and 180 m deep is the source of recent eruptions, which have kept the upper half of the cone sparsely vegetated. A NE-trending landslide scarp extends across the upper part of the andesitic volcano from the SW coast, and a large submarine debris-avalanche deposits lies to the S and SW. The younger summit cone partially buries the eastern side of the collapse scarp. A recent lava platform on the N flank supports the small island's only villages. Historical eruptions, recorded since 1872, have been restricted to small-to-moderate explosive activity from the summit crater." 
+        },
+        {
+            "name": "Tavui",
+            "vei": 5,
+            "coordinates": [-4.106835651119697, 152.21765752493616],
+            "type": "Caldera",
+            "summitFeet": 656,
+            "magmaType": "Rhyolite",
+            "desc": "The mostly submarine Tavui caldera lies off the NE tip of the Gazelle Peninsula north of Rabaul caldera. The caldera was first discovered during a bathymetric cruise in 1985. The SW wall of the roughly 10 x 12 km caldera cuts the NE end of the peninsula and extends from Tavui Point at the northern tip of the peninsula SE to Laweo Point. The 7,100-year-old Raluan Ignimbrite, initially thought to have originated from Rabaul, is now thought to have been produced by an eruption of Tavui. A basaltic scoria layer immediately underlies the rhyolitic ignimbrite, and the introduction of basaltic magma was considered to have triggered the rhyolitic eruption. The lack of a major low-velocity region detectable beneath the caldera during a seismic tomography survey suggests that it is not currently active." 
+        },
+        {
+            "name": "Rabaul",
+            "vei": 6,
+            "coordinates": [-4.258025637730644, 152.1916298403053],
+            "type": "Caldera",
+            "summitFeet": 2257,
+            "magmaType": "Dacite",
+            "desc": "The low-lying Rabaul caldera on the tip of the Gazelle Peninsula at the NE end of New Britain forms a broad sheltered harbor utilized by what was the island's largest city prior to a major eruption in 1994. The outer flanks of the asymmetrical shield volcano are formed by thick pyroclastic-flow deposits. The 8 x 14 km caldera is widely breached on the east, where its floor is flooded by Blanche Bay and was formed about 1,400 years ago. An earlier caldera-forming eruption about 7,100 years ago is thought to have originated from Tavui caldera, offshore to the north. Three small stratovolcanoes lie outside the N and NE caldera rims. Post-caldera eruptions built basaltic-to-dacitic pyroclastic cones on the caldera floor near the NE and W caldera walls. Several of these, including Vulcan cone, which was formed during a large eruption in 1878, have produced major explosive activity during historical time. A powerful explosive eruption in 1994 occurred simultaneously from Vulcan and Tavurvur volcanoes and forced the temporary abandonment of Rabaul city." 
+        },
+        {
+            "name": "Lamington",
+            "vei": 4,
+            "coordinates": [-8.935129745022763, 148.16516289590592],
+            "type": "Stratovolcano",
+            "summitFeet": 5512,
+            "magmaType": "Andesite",
+            "desc": "Lamington is an andesitic stratovolcano with a 1.3-km-wide breached summit crater containing a lava dome that rises above the coastal plain of the Papuan Peninsula of New Guinea north of the Owen Stanley Range. A summit complex of lava domes and crater remnants tops a low-angle base of volcaniclastic deposits dissected by radial valleys. A prominent broad avalanche valley extends northward from the breached crater. Ash layers from two early Holocene eruptions have been identified. In 1951 a powerful explosive eruption produced pyroclastic flows and surges that swept all sides of the volcano, killing nearly 3,000 people. The eruption concluded with growth of a 560-m-high lava dome in the summit crater." 
+        },
+        {
+            "name": "Victory",
+            "vei": 2,
+            "coordinates": [-9.20829252135267, 149.07364256961517],
+            "type": "Stratovolcano",
+            "summitFeet": 6010,
+            "magmaType": "Andesite",
+            "desc": "The dominantly andesitic Mount Victory stratovolcano, forming part of Cape Nelson on the NE coast of Papua New Guinea, is covered by rainforest. The deeply dissected Pleistocene Trafalgar volcano is immediately adjacent to the NE. The summit crater is breached to the SE, possibly due to landslides. Several lava domes are present in the summit area. Four small cones are located on the SW side, and two others occur on the NE flank. The only observed activity was a long-term late-19th to early 20th-century eruption that was frequently seen by passing ships. Pyroclastic flows have destroyed several villages and caused fatalities, and reached the coast." 
+        },
+        {
+            "name": "Sessagara Hills",
+            "vei": 3,
+            "coordinates": [-9.551402818296328, 149.1104894405788],
+            "type": "Volcanic Field",
+            "summitFeet": 1617,
+            "magmaType": "Trachyandesite",
+            "desc": "The small low-lying andesitic Sessagara Hills volcanic field is located near the mouth of the Uiaka River, south of Collingwood Bay and NE of the Goropu Mountains on the Papuan Peninsula of New Guinea. There are at least two small forest-covered cones, with a small cone and obvious crater ~5 km NE of them and the Waiowa cone ~6 km W. Besides Waiowa (also known as Goropu), Smith (1981) considered some other features in the field to be Holocene; other cones may be of Pleistocene age. The Waiowa pyroclastic cone was formed during 1943-44 by explosive eruptions through Paleozoic to Precambrian metamorphic rocks. Intermittent minor explosions beginning on 18 September 1943 preceded the first major explosion on 27 December. Additional large explosions occurred on 13 February and 23 July 1944, leveling 80 km2 of forest. Following the final activity on 31 August, the small cone included a 500-m-wide, steep-walled crater that later became densely forested and contains a small lake." 
+        },
+        {
+            "name": "Savo",
+            "vei": 3,
+            "coordinates": [-9.131832175666382, 159.81214797142638],
+            "type": "Stratovolcano",
+            "summitFeet": 1591,
+            "magmaType": "Andesite",
+            "desc": "The 6 x 7 km island of Savo consists of a forested andesitic-to-dacitic stratovolcano with a shallow, elliptical 1 x 1.5 km wide summit crater. Lava domes of historical age are located on the crater floor and its NE rim, and older domes occur on the flanks of the volcano. Pyroclastic flows and mudflows traveled down valleys from the summit crater to form debris fans along the coast. Thermal areas located in the summit crater, the south to SE flanks, and offshore include areas of steaming ground, fumaroles, small geysers, and hot springs. Spanish explorers arrived in 1568 during the first historical eruption of Savo. Pyroclastic flows during the climactic phase killed almost all inhabitants of the island, and oral traditions also note the expansion of the island on the northern side. Other eruptive episodes occurred during the mid-17th century and during the 1830s to 1840s." 
+        },
+        {
+            "name": "Suretamatai",
+            "vei": 2,
+            "coordinates": [-13.798754846140827, 167.4620438047125],
+            "type": "Complex",
+            "summitFeet": 3022,
+            "magmaType": "Andesite",
+            "desc": "Suretamatai volcano (also known as Soritimeat) forms much of Vanua Lava Island, one of the largest of Vanuatu's Banks Islands. The younger lavas overlie a number of small older stratovolcanoes that form the island. In contrast to other large volcanoes of Vanuatu, the dominantly basaltic-to-andesitic Suretamatai does not contain a youthful summit caldera. A chain of small stratovolcanoes oriented along a NNE-SSW line gives the low-angle volcano an irregular profile. The youngest cone, near the northern end of the chain, is the largest and contains a lake of variable depth within its 900-m-wide, 100-m-deep summit crater. Activity reported during the 19th century consisted of moderate explosive eruptions." 
+        },
+        {
+            "name": "Gemini-Oscostar",
+            "vei": 1,
+            "coordinates": [-20.95698996155361, 170.1299785388705],
+            "type": "Stratovolcano",
+            "summitFeet": -108,
+            "magmaType": "Picro-Basalt",
+            "desc": "The submarine Gemini-Oscostar volcanic field lies near the southern end of the Vanuatu (or New Hebrides) Volcanic Arc, ~100 km S of Aneityum Island. Water discoloration and bursts of very dark water were observed from Oscostar seamount (also known as Eastern Gemini) from a passing ship on 18 February 1996. Overflights as late as 22 February noted periodic explosions that ejected black material to about 20 m above sea level. It consists of an elongated NNE-SSW-trending ridge of submarine volcanoes with satellitic cones. Several basaltic samples and one andesitic rock dredged in 1989 were described as glassy, vesicular, and extremely fresh." 
+        },
+        {
+            "name": "Matthew Island",
+            "vei": 2,
+            "coordinates": [-22.34301602208257, 171.35577729197266],
+            "type": "Stratovolcano",
+            "summitFeet": 581,
+            "magmaType": "Andesite",
+            "desc": "Matthew Island is composed of two low andesitic-to-dacitic cones separated by a narrow isthmus. The Matthew name originates from an English mariner who sighted the island in 1788. Only the triangular eastern portion of the 0.6 x 1.2 km island was present prior to the 1940s, when construction of the larger western segment began; it consists primarily of lava flows. The western cone contains a crater that is breached to the NW and is filled by a lava flow whose terminus forms the NW coast." 
+        },
+        {
+            "name": "Taveuni",
+            "vei": 2,
+            "coordinates": [-16.84218493794207, -179.96673567735849],
+            "type": "Shield",
+            "summitFeet": 4072,
+            "magmaType": "Basalt",
+            "desc": "Taveuni, the third largest of the Fiji islands, is known as the Garden Island due to its rich volcanic soils. The massive, elongated basaltic shield volcano includes approximately 150 volcanic cones along a NE-SW rift that extends the length of the 40-km-long island. A few cones in the central part occur to the west of the axial rift zone. At least 58 eruptions have occurred since the first known human settlements around 950-750 BCE; all of these eruptions affected the southern two-thirds of the island. A period of voluminous eruptions between about 300 and 500 CE caused abandonment of the southern part the island until about 1100 CE. The latest known eruption produced a lava flow at the southern tip sometime between about 1450 and 1650 CE." 
+        },
         {   "name": "Katla",
             "vei": 5,
             "coordinates": [63.646750348797774, -19.13055688844543],
