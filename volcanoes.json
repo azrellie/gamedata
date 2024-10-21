@@ -166,6 +166,15 @@
             "desc": "A stratovolcano located in Ethiopia. This volcano primarily has effusive eruptions as that is all thats known currently."
         },
         {
+            "name": "Cheb Basin",
+            "vei": 3,
+            "coordinates": [49.96994619010634, 12.392063702059595],
+            "type": "Volcanic Field",
+            "summitFeet": 1919,
+            "magmaType": "?",
+            "desc": "Chad basin aka the the Czechia destroyer 9000"
+        },
+        {
             "name": "Erebus",
             "vei": 6,
             "coordinates": [-77.52923982198418, 167.14937536834583],
