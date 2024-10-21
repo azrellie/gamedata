@@ -1847,6 +1847,15 @@
             "desc": "The small low-lying andesitic Sessagara Hills volcanic field is located near the mouth of the Uiaka River, south of Collingwood Bay and NE of the Goropu Mountains on the Papuan Peninsula of New Guinea. There are at least two small forest-covered cones, with a small cone and obvious crater ~5 km NE of them and the Waiowa cone ~6 km W. Besides Waiowa (also known as Goropu), Smith (1981) considered some other features in the field to be Holocene; other cones may be of Pleistocene age. The Waiowa pyroclastic cone was formed during 1943-44 by explosive eruptions through Paleozoic to Precambrian metamorphic rocks. Intermittent minor explosions beginning on 18 September 1943 preceded the first major explosion on 27 December. Additional large explosions occurred on 13 February and 23 July 1944, leveling 80 km2 of forest. Following the final activity on 31 August, the small cone included a 500-m-wide, steep-walled crater that later became densely forested and contains a small lake." 
         },
         {
+            "name": "Van Horn Cauldron Complex",
+            "vei": 7,
+            "coordinates": [44.72324404876611, -114.653000294578],
+            "type": "Caldera Complex",
+            "summitFeet": 6179,
+            "magmaType": "Rhyolite",
+            "desc": "A giant caldera complex in Idaho, US. It has produced multiple caldera-forming eruptions that have formed a 34x48km Van Horn caldera." 
+        },
+        {
             "name": "Savo",
             "vei": 3,
             "coordinates": [-9.131832175666382, 159.81214797142638],
