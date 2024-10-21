@@ -2016,6 +2016,51 @@
             "magmaType": "Dacite",
             "desc": "Home Reef, a submarine volcano midway between Metis Shoal and Late Island in the central Tonga islands, was first reported active in the mid-19th century, when an ephemeral island formed. An eruption in 1984 produced a 12-km-high eruption plume, large amounts of floating pumice, and an ephemeral 500 x 1,500 m island, with cliffs 30-50 m high that enclosed a water-filled crater. In 2006 an island-forming eruption produced widespread dacitic pumice rafts that drifted as far as Australia. Another island was built during a September-October 2022 eruption." 
         },
+        {  
+            "name": "Camiguin de Babuyanes",
+            "vei": 2,
+            "coordinates": [18.829339229672833, 121.8625651268732],
+            "type": "Stratovolcano",
+            "summitFeet": 2336,
+            "magmaType": "Andesite",
+            "desc": "Forested 712-m-high Mount Camiguin occupies the SW tip of 22-km-long Camiguin Island in the Babuyan archipelago, north of Luzon Island. Following construction of an andesitic volcano during the Pliocene, the subsidiary cones of Minabul to the north and Caanoan to the east were constructed on the northern part of the island. The southern part of the island consists of three volcanic centers located along a SSE-NNW line, the andesitic Mount Camiguin stratovolcano and the young andesitic lava domes of Mt. Malabsing and Pamoctan. A phreatic eruption, possibly in part submarine, was reported from Camiguin de Babuyanes around 1857. Fumaroles are found on the SW, west, and east flanks of the volcano, and a boiling spring is located near sea level on the western flank of the volcano."
+        },
+        {  
+            "name": "Biliran",
+            "vei": 1,
+            "coordinates": [11.52067421404697, 124.534839930526],
+            "type": "Compound",
+            "summitFeet": 4268,
+            "magmaType": "Andesite",
+            "desc": "The volcanic island of Biliran, located across the narrow Biliran Strait from the northern tip of Leyte Island, contains many prominent andesitic lava domes, the highest of which is 1301 m Surio. Several Pleistocene K-Ar dates have been obtained from volcanic centers on northern Biliran Island. Fumarole fields are scattered throughout the 20 x 35 km wide island. The only known historical activity was a phreatic explosive eruption and possible debris avalanche at a thermal area in 1939."
+        },
+        {  
+            "name": "Makaturing",
+            "vei": 2,
+            "coordinates": [7.650710691235627, 124.31192629082909],
+            "type": "Stratovolcano",
+            "summitFeet": 5965,
+            "magmaType": "Basalt",
+            "desc": "Mount Makaturing is the central edifice in the Butig Mountains S of Lake Lanao in central Mindanao that includes a complex of volcanic cones and craters stretching 10 km E and 15 km WSW. Eruptions at one time attributed to Makaturing were ascribed to neighboring Ragang volcano to the east by the Catalog of Active Volcanoes of the World (Neumann van Padang, 1953), but PHIVOLCS has listed many eruptions for Makaturing. A dense cover of vegetation suggests long quiescence, but solfataric activity continues."
+        },
+        {  
+            "name": "Natib",
+            "vei": 5,
+            "coordinates": [14.716942832820985, 120.38112698201671],
+            "type": "Stratovolcano",
+            "summitFeet": 4111,
+            "magmaType": "Andesite",
+            "desc": "The massive, dominantly andesitic, Mount Natib stratovolcano, at the northern end of the Bataan Peninsula, is truncated by a 6 x 7 km caldera. The latest dated (by fission track) eruptive products are 69,000 ± 27,000 years old (Ebasco Services, 1977), but sampling was not of sufficient detail to determine the date of the most recent eruptions. Although Ruaya and Panem (1991) listed a Young Volcanics unit in a late Pleistocene to Holocene stratigraphic group, they noted that the latest eruption was estimated at 90-100,000 years ago. Five thermal areas are present in the summit region."
+        },
+        {  
+            "name": "Ijen",
+            "vei": 7,
+            "coordinates": [-8.025821790594637, 114.17993723626817],
+            "type": "Caldera",
+            "summitFeet": 9085,
+            "magmaType": "Andesite",
+            "desc": "The Ijen volcano complex at the eastern end of Java consists of a group of small stratovolcanoes constructed within the 20-km-wide Ijen (Kendeng) caldera. The north caldera wall forms a prominent arcuate ridge, but elsewhere the rim was buried by post-caldera volcanoes, including Gunung Merapi, which forms the high point of the complex. Immediately west of the Gunung Merapi stratovolcano is the historically active Kawah Ijen crater, which contains a nearly 1-km-wide, turquoise-colored, acid lake. Kawah Ijen is the site of a labor-intensive mining operation in which baskets of sulfur are hand-carried from the crater floor. Many other post-caldera cones and craters are located within the caldera or along its rim. The largest concentration of cones forms an E-W zone across the southern side of the caldera. Coffee plantations cover much of the caldera floor; nearby waterfalls and hot springs are tourist destinations."
+        },
         {
             "name": "Kao",
             "vei": 2,
