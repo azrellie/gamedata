@@ -2026,6 +2026,15 @@
             "desc": "Pagan is an uninhabited island in the Northern Mariana Islands. It is a rather active volcano in real life, as it had eruptions in 1987, 1988, 1992, 1993, 1996, 2006, 2009, 2010, 2011, 2012, and 2021."
         },
         { 
+            "name": "Questa Caldera",
+            "vei": 7,
+            "coordinates": [36.65743330446955, -105.44805784045387],
+            "type": "Caldera",
+            "summitFeet": 330,
+            "magmaType": "Rhyolite",
+            "desc": "A large, heavily eroded caldera in northern New Mexico. It was active 25 million years ago and was the source of multiple widespread tuffs in Colorado and New Mexico."
+        },
+        { 
             "name": "The Pleiades",
             "vei": 6,
             "coordinates": [-72.66993927293487, 165.50055200291223],
