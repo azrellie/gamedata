@@ -3695,7 +3695,7 @@
             "chatMessages": [
                 "Earthquakes trigger landslides in the Ural mountains...",
                 "<b><font color='rgb(125,0,0)'>Massive CO2 emissions originate from the Ural mountains...</font></b>",
-                "<b><font color='rgb(75,0,0)'>The ground violently explodes in the Ural mountains...</font></b>"
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>The ground violently explodes in the Ural mountains...</font></stroke></b>"
             ]
         },
         {
