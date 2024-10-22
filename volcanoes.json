@@ -1298,6 +1298,19 @@
             ]
         },
         {
+            "name": "Central Atlantic Magmatic Province",
+            "vei": 10,
+            "coordinates": [17.450428758791464, -37.42455891452784],
+            "type": "Large Igneous Province",
+            "summitFeet": -7874,
+            "magmaType": "Basalt",
+            "desc": "biggest LIP",
+            "chatMessages": [
+                "An extreme increase in submarine volcanic eruptions has been detected in the Atlantic Ocean...",
+                "<b><font color='rgb(75,0,0)'>Tsunamis completely destroy coastal cities...</font></b>"
+            ]
+        },
+        {
             "name": "Sierra Madre Occidental Large Igneous Province",
             "vei": 10,
             "coordinates": [26.595189607885988, -107.2743937088327],
@@ -3681,8 +3694,8 @@
             "desc": "Ushat Complex is a large igneous province in Russia. It is related to the subduction of Angara plate 400 million years ago.",
             "chatMessages": [
                 "Earthquakes trigger landslides in the Ural mountains...",
-                "Massive CO2 emissions originate from the Ural mountains...",
-                "<b><font color='rgb(125,0,0)'>The ground violently explodes in the Ural mountains...</font></b>"
+                "<b><font color='rgb(125,0,0)'>Massive CO2 emissions originate from the Ural mountains...</font></b>",
+                "<stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><b><font color='rgb(0,0,0)'>The ground violently explodes in the Ural mountains...</b></font></stroke>"
             ]
         },
         {
