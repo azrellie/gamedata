@@ -22,6 +22,15 @@
             "desc": "Payún Matrú is a shield volcano in the Reserva Provincial La Payunia of the Malargüe Department, south of the Mendoza Province in Argentina. It lies in the back-arc region of the Andean Volcanic Belt, and was formed by the subduction of the Nazca Plate beneath the South American Plate. Payún Matrú, along with the Llancanelo, Nevado and Salado Basin volcanic fields, form the Payenia province. It has been proposed as a World Heritage Site since 2011."
         },
         {
+            "name": "Tucson Mountain Caldera",
+            "vei": 7,
+            "coordinates": [32.23993838165306, -111.13512906501572],
+            "type": "Caldera",
+            "summitFeet": 4687,
+            "magmaType": "Rhyolite",
+            "desc": "A large volcanic caldera near the city of Tucson, Arizona. It has erupted 73 million years ago, producing one of Arizona's strongest eruptions during the Cretaceous period."
+        },
+        {
             "name": "Snowdon Caldera",
             "vei": 6,
             "coordinates": [53.06882467562952, -4.077165446129249],
