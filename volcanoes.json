@@ -1467,6 +1467,19 @@
             ]
         },
         {
+            "name": "Benham Rise",
+            "vei": 10,
+            "coordinates": [16.75375997273544, 124.75375844727722],
+            "type": "Large Igneous Province",
+            "summitFeet": -8202,
+            "magmaType": "Basalt",
+            "desc": "Apolaki",
+            "chatMessages": [
+                "Large tsunamis are detected on the eastern coast of Philippines...",
+                "New islands begin forming in offshore Philippines..."
+            ]
+        },
+        {
             "name": "Kerguelen Plateau",
             "vei": 10,
             "coordinates": [-52.93936184790187, 74.45159823957702],
