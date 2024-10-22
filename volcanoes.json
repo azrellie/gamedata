@@ -248,6 +248,20 @@
             ]
         },
         {
+            "name": "Kuonamka Large Igneous Province",
+            "vei": 9,
+            "coordinates": [71.4736225448339, 113.31115361940317],
+            "type": "Large Igneous Province",
+            "summitFeet": 1230,
+            "magmaType": "Basalt",
+            "desc": "siberia 1.5 ga old LIP",
+            "chatMessages": [
+                "<b><font color='rgb(255,0,0)'>The ground starts heavily deforming in Siberia...</font></b>",
+                "<b><font color='rgb(168,0,0)'>Wildfires increase in frequency in Siberia due to extreme heat...</font></b>",
+                "<b><font color='rgb(110,0,0)'>Basaltic lava flows destroy nearby villages...</font></b>"
+            ]
+        },
+        {
             "name": "Verkhovtsevo Large Igneous Province",
             "vei": 9,
             "coordinates": [47.895092796378606, 34.54184544513653],
