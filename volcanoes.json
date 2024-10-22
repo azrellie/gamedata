@@ -2670,6 +2670,15 @@
             "desc": "Gunung Merbabu is a massive forested volcano north of Merapi in central Java. Three prominent radial valleys extend from the summit toward the NW, NNE, and ESE. The most recent magmatic eruptions originated from a NNW-SSE fissure system that cut across the summit and fed the large-volume Kopeng and Kajor lava flows on the N and S flanks, respectively. Moderate explosive eruptions occurred from the summit crater in 1560 and 1797 CE."
         },
         {
+            "name": "Kerguelen Islands",
+            "vei": 6,
+            "coordinates": [-49.58382543479296, 69.52608832623521],
+            "type": "Stratovolcano",
+            "summitFeet": 6070,
+            "magmaType": "Trachyte",
+            "desc": "The Kerguelen Islands are composed primarily of Tertiary flood basalts and a complex of plutonic rocks. The trachybasaltic-to-trachytic Mount Ross stratovolcano at the S end was active during the late Pleistocene. The Rallier du Baty Peninsula on the SW tip of the island contains two youthful subglacial eruptive centers, Mont St. Allouarn and Mont Henri Rallier du Baty. An active fumarole field is related to a series of Holocene trachytic lava flows and lahars that extend beyond the icecap (Ballestracci and Nougier, 1984). Gagnevin et al. (2003) dated a trachytic ignimbrite that was considered to represent the last major eruptive event on the Kerguelen Archipelago at 26,000 ± 3000 years."
+        },
+        {
             "name": "Nila",
             "vei": 2,
             "coordinates": [-6.7349863225527695, 129.5085851437476],
