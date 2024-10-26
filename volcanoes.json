@@ -13,6 +13,15 @@
             "desc": "A stratovolcano in Washington state that is responsible for the 1980 eruption of Mount St. Helens that covered most of north Washington in ash along with other states downwind east. The entire north flank of the volcano collapsed right as the eruption begun and caused a massive landslide because of a magnitude 5.1 earthquake directly under the north flank. The eruption was determined to be a VEI 5."
         },
         {
+            "name": "Sierra Pastorias",
+            "vei": 7,
+            "coordinates": [28.3833333, -105.9500000],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolitic",
+            "desc": "A giant caldera south of the Chihuahua city, Mexico. It was formed in 2 stages. 1st stage: A large rhyolitic eruption, releasing over 200 km3 of tephra. 2nd stage: A resurgent caldera, formed in a VEI 6 eruption that blasted out 50 km3 of material. "
+        },
+        {
             "name": "Payún Matrú",
             "vei": 6,
             "coordinates": [-36.418726135433296, -69.20021300659106],
