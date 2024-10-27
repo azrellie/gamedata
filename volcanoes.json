@@ -238,8 +238,8 @@
             "desc": "A caldera volcano in Sumatara Indonesia that is the culprit for the Toba catastrophe 74000 years ago, killing off nearly everyone on the planet. With only 3,000-10,000 survivors. This eruption was believed to be of a VEI 8, but has recently been recategorized as a VEI 9 due to the logarithmic nature of the Volcanic Explosivity Index.",
             "chatMessages": [
                 "Sumatras land deforms...",
-                "Sumatras land deforms further...",
-                "Sumatras largest lake heats up..."
+                "<b><font color='rgb(125,0,0)'>Sumatras land deforms further...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Sumatras largest lake heats up...</font></stroke></b>"
             ]
         },
         {
@@ -252,8 +252,22 @@
             "desc": "Antarctic LIP",
             "chatMessages": [
                 "Antarctic research stations are picking up unusual activity in the Vestfold Hills region...",
-                "Melting glaciers cause large tsunamis to form in the Southern Ocean...",
-                "Huge ash clouds arise in the Vestfold Hills region..."
+                "<b><font color='rgb(125,0,0)'>Melting glaciers cause large tsunamis to form in the Southern Ocean...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Huge ash clouds arise in the Vestfold Hills region...</font></stroke></b>"
+            ]
+        },
+        {
+            "name": "Sargur Schist Complex",
+            "vei": 9,
+            "coordinates": [13.281572091652817, 76.12629169955781],
+            "type": "Large Igneous Province",
+            "summitFeet": 3580,
+            "magmaType": "Basalt",
+            "desc": "India VEI 9 LIP",
+            "chatMessages": [
+                "The people of southern India start reporting a strong smell of sulfur...",
+                "<b><font color='rgb(125,0,0)'>Major earthquakes cause cracks to open up in southern India...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Satellite cameras notice a large ash plume raising in southern India...</font></stroke></b>"
             ]
         },
         {
@@ -280,8 +294,8 @@
             "desc": "nonexistent country LIP",
             "chatMessages": [
                 "Geysers start forming along cracks in southern Ukraine...",
-                "Large earthquakes strike southern Ukraine...",
-                "A huge magmatic intrusion has been detected under southern Ukraine..."
+                "<b><font color='rgb(125,0,0)'>Large earthquakes strike southern Ukraine...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>A huge magmatic intrusion has been detected under southern Ukraine...</font></stroke></b>"
             ]
         },
         {
@@ -294,8 +308,8 @@
             "desc": "A large igneous province in Ecuador that erupted a billion years ago. There is very little info about this volcano.",
             "chatMessages": [
                 "Earthquake swarms are detected in western Ecuador...",
-                "Nearby cities are evacuated due to massive earthquakes and temperature increase...",
-                "Large lava fountains destroy everything in their path..."
+                "<b><font color='rgb(125,0,0)'>Nearby cities are evacuated due to massive earthquakes and temperature increase...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Large lava fountains destroy everything in their path...</font></stroke></b>"
             ]
         },
         {
@@ -3737,7 +3751,7 @@
         {
             "name": "Stillwater Igneous Complex",
             "vei": 9,
-            "coordinates": [41.40255159327933, -106.33446550368093],
+            "coordinates": [45.38506962436394, -109.90851966792928],
             "type": "Large Igneous Province",
             "summitFeet": 9104,
             "magmaType": "Basalt",
