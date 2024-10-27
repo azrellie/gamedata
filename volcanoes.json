@@ -389,13 +389,13 @@
             "desc": "La Garita is a caldera in the USA. The scale of La Garita volcanism was the second greatest of the Cenozoic Era. The resulting Fish Canyon Tuff has a volume of approximately 5,000 km3 (1,200 cubic miles), giving it a Volcanic Explosivity Index rating of 8."
         },
         {
-            "name": "Misema Caldera",
+            "name": "Blake River Megacaldera Complex",
             "vei": 8,
             "coordinates": [48.38998333086064, -79.45004126750426],
-            "type": "Caldera",
+            "type": "Caldera Complex",
             "summitFeet": 13711,
             "magmaType": "Rhyolite",
-            "desc": "Misema is a caldera in Canada. Misema Caldera is the oldest and largest caldera associated with the Blake River Megacaldera Complex and is comparable in size to Lake Toba caldera in Indonesia."
+            "desc": "A cluster of 3 huge calderas on the Ontario-Quebec border. It has produced the only confirmed supereruption on the Abitibi greenstone belt."
         },
         {
             "name": "La Pacana",
