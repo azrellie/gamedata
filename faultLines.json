@@ -8144,8 +8144,8 @@
             "visualizationColor": [32, 168, 50]
         },
         {
-            "name": "Cocos Ridge",
-            "lengthKm": 345,
+            "name": "Panama Fracture Zone",
+            "lengthKm": 1200,
             "depthKm": 33,
             "activity": 0.65,
             "type": "Transform",
