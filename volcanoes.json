@@ -1051,6 +1051,78 @@
             "desc": "Volcán Huequi is a small, glacier-free lava-dome complex in the center of the Huequi Peninsula in Ancud Bay. The basaltic-andesite to dacitic volcano consists of a complex of lava domes within an arcuate collapse depression with debris-avalanche deposits extending to the NW. Explosive eruptions were recorded during the 19th and 20th centuries, initially in 1890 and most recently in about 1920."
         },
         {
+            "name": "Seamount X",
+            "vei": 1,
+            "coordinates": [13.251803828609534, 144.01920783017172],
+            "type": "Submarine",
+            "summitFeet": -4035,
+            "magmaType": "Basalt",
+            "desc": "The summit of the volcano, referred to as Seamount X, lies 1,230 m below the ocean surface. Diffuse sites of thermal venting colonized by shrimps, crabs, and scaleworms were detected near the summit during a 2006 NOAA expedition, and thick deposits of sulfur flows originating from the hydrothermal vent were observed that were covered with thousands of squat lobsters. Basaltic rocks were recovered along with sulfur samples. The summit of the volcano is cut by an elongated caldera."
+        },
+        {
+            "name": "Forecast Seamount",
+            "vei": 0,
+            "coordinates": [13.397129648076952, 143.9199141066043],
+            "type": "Submarine",
+            "summitFeet": -4777,
+            "magmaType": "Basalt",
+            "desc": "Forecast Seamount lies about 70 km W of the southern tip of Guam and about 19 km NW of Seamount X. Hydrothermal fluid temperatures up to 200°C, one of the highest temperature vent systems known in the Mariana arc, were measured during a 2006 NOAA expedition."
+        },
+        {
+            "name": "NW Rota-1",
+            "vei": 0,
+            "coordinates": [14.604848613536346, 144.7741083257683],
+            "type": "Submarine",
+            "summitFeet": -1696,
+            "magmaType": "Basalt",
+            "desc": "NW Rota-1, a submarine volcano in the Mariana Island arc, was detected in 2003 and found to be hydrothermally active. Located SW of Esmeralda Bank, it rises to 517 m below the surface. In 2004, eruptions at Brimstone Pit on its south flank released plumes of ash, rock, and molten sulfur. The vent, 20 m wide and 12 m deep, lies near prominent lineaments crossing the summit and flanks of the seamount."
+        },
+        {
+            "name": "Esmeralda Bank",
+            "vei": 0,
+            "coordinates": [14.961497666607713, 145.2475930323481],
+            "type": "Submarine",
+            "summitFeet": -243,
+            "magmaType": "Basalt",
+            "desc": "Esmeralda Bank is a massive submarine volcano with three cones oriented N-S over about 15 km. The high points on the crater rim of the large middle edifice, with a collapse scarp open to the W, are about 75 m below the ocean surface. Frequent sulfur-rich surface bubbling and water discoloration have been observed, which have variously been attributed to eruptive events or fumarolic activity."
+        },
+        {
+            "name": "Ruby",
+            "vei": 1,
+            "coordinates": [15.600135589341205, 145.57469647343228],
+            "type": "Submarine",
+            "summitFeet": -571,
+            "magmaType": "Basalt",
+            "desc": "Ruby is a basaltic submarine volcano that rises to within about 200 m of the ocean surface near the southern end of the Mariana arc NW of Saipan. An eruption was detected in 1966 by sonar signals (Norris and Johnson, 1969). Submarine explosions were heard in 1995, accompanied by a fish kill, sulfurous odors, bubbling water, and the detection of volcanic tremor."
+        },
+        {
+            "name": "Asunción",
+            "vei": 2,
+            "coordinates": [19.69273155012356, 145.40421653615647],
+            "type": "Stratovolcano",
+            "summitFeet": 2812,
+            "magmaType": "Andesite",
+            "desc": "A single large asymmetrical stratovolcano forms 3-km-wide Asuncion Island. The steeper NE flank terminates in high sea cliffs, while the gentler SW flanks have low-angle slopes bounded by sea cliffs only a few meters high. The southern flank is cut by a large landslide scar. The S and W flanks are covered by ash deposits. An explosive eruption in 1906 produced lava flows that descended about halfway down the W and SE flanks, but several other eruption reports are of uncertain validity."
+        },
+        {
+            "name": "Maug Islands",
+            "vei": 3,
+            "coordinates": [20.022780573439558, 145.22175627597318],
+            "type": "Caldera",
+            "summitFeet": 745,
+            "magmaType": "Basalt",
+            "desc": "Three small islands up to 2.3 km long mark the rims of a 2.5-km-wide submerged caldera. The Maug Islands reach a height of 227 m, with a central lava dome rising to 20 m below the sea surface. Exposed lava flows and ash deposits suggest past activity, though no eruptions have been recorded since their discovery in 1522. A 2003 NOAA expedition found possible submarine geothermal activity."
+        },
+        {
+            "name": "Farallon de Pájaros",
+            "vei": 2,
+            "coordinates": [20.545854729738718, 144.89219604729578],
+            "type": "Stratovolcano",
+            "summitFeet": 1106,
+            "magmaType": "Andesite",
+            "desc": "The small 2-km-wide island of Farallon de Pajaros (also known as Uracas) is the northernmost and most active volcano of the Mariana Islands. Its relatively frequent eruptions dating back to the mid-19th century have caused the andesitic volcano to be referred to as the 'Lighthouse of the western Pacific.' The symmetrical, sparsely vegetated summit is the central cone within a small caldera cutting an older edifice, remnants of which are seen on the SE and southern sides near the coast. Flank fissures have fed lava flows that form platforms along the coast. Eruptions have been recorded from both summit and flank vents."
+        },
+        {
             "name": "Jaraguay Volcanic Field",
             "vei": 2,
             "coordinates": [29.330110157786727, -114.50021376093214],
