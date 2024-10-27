@@ -1320,6 +1320,19 @@
             ]
         },
         {
+            "name": "Madagascar Large Igneous Province",
+            "vei": 10,
+            "coordinates": [-19.36739341290561, 46.930726330815546],
+            "type": "Large Igneous Province",
+            "summitFeet": -656,
+            "magmaType": "Basalt",
+            "desc": "funny madagascar lip from ndt2",
+            "chatMessages": [
+                "Various vents form in the city of Mananjary...",
+                "<b><font color='rgb(44,0,0)'>The city of Belo Tsiribihina is completely red on satellite images...</font></b>"
+            ]
+        },
+        {
             "name": "Sierra Madre Occidental Large Igneous Province",
             "vei": 10,
             "coordinates": [26.595189607885988, -107.2743937088327],
