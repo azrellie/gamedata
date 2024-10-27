@@ -414,11 +414,20 @@
         {
             "name": "La Pacana",
             "vei": 8,
-            "coordinates": [-23.16702196153157, -67.41680791816795],
+            "coordinates": [-23.324951993662832, -67.51489498697698],
             "type": "Caldera",
             "summitFeet": 14800,
             "magmaType": "Rhyolite",
-            "desc": "La Pacana is a caldera in Bolivia. La Pacana is a supervolcano and is responsible for the eruption of the giant Atana ignimbrite, which reaches a volume of 2,500–3,500 cubic kilometres (600–840 cu mi) and constitutes the fifth-largest explosive eruption known."
+            "desc": "La Pacana is a caldera in Chile. La Pacana is a supervolcano and is responsible for the eruption of the giant Atana ignimbrite, which reaches a volume of 2,500–3,500 cubic kilometres (600–840 cu mi) and constitutes the fifth-largest explosive eruption known."
+        },
+        {
+            "name": "Cerro Guacha",
+            "vei": 8,
+            "coordinates": [-22.471283239189844, -67.52158310707085],
+            "type": "Caldera",
+            "summitFeet": 17220,
+            "magmaType": "Rhyolite",
+            "desc": "Cerro Guacha is a caldera in Bolivia. The volcanic system contains several large calderas, formed by highly explosive eruptions. The biggest caldera measures 60 by 40 km and was formed by a VEI-8 eruption."
         },
         {
             "name": "Taupō",
