@@ -1393,6 +1393,32 @@
             ]
         },
         {
+            "name": "Franklin Large Igneous Province",
+            "vei": 10,
+            "coordinates": [71.02535077790789, -108.92377453157363],
+            "type": "Large Igneous Province",
+            "summitFeet": -6561,
+            "magmaType": "Basalt",
+            "desc": "You were wrong about the top desc :)",
+            "chatMessages": [
+                "Glaciers around the Victoria island start melting...",
+                "<b><font color='rgb(75,0,0)'>Victoria island is seen splitting in half with vents...</font></b>"
+            ]
+        },
+        {
+            "name": "Shatsky Rise",
+            "vei": 10,
+            "coordinates": [38.70879719608876, 157.19210284219685],
+            "type": "Large Igneous Province",
+            "summitFeet": -7000,
+            "magmaType": "Basalt",
+            "desc": "third largest oceanic plateau",
+            "chatMessages": [
+                "Northern Japan experiences massive unexpected tsunami waves from the east...",
+                "<b><font color='rgb(75,0,0)'>Himawari-9 images spot massive ash plumes in the North Pacific Ocean...</font></b>"
+            ]
+        },
+        {
             "name": "Central Atlantic Magmatic Province",
             "vei": 10,
             "coordinates": [17.450428758791464, -37.42455891452784],
