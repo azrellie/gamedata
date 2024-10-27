@@ -3348,6 +3348,15 @@
             "desc": "Menengai is a huge shield volcano in Kenya. Around 8,000 years ago it produced a huge caldera forming eruption, rated as a 6 on the VEI scale."
         },
         {
+            "name": "Tilzapotla Caldera",
+            "vei": 7,
+            "coordinates": [18.426512502721486, -99.32734181111996],
+            "type": "Caldera",
+            "summitFeet": 6122,
+            "magmaType": "Rhyolite",
+            "desc": "A giant collapse caldera in the Guerrero province of Mexico. It was formed during a major VEI-7 eruption called the Tilzapotla Ignimbrite."
+        },
+        {
             "name": "Nabro",
             "vei": 6,
             "coordinates": [13.356837325375624, 41.67608429960259],
