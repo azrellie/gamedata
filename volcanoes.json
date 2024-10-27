@@ -3755,11 +3755,11 @@
             "type": "Large Igneous Province",
             "summitFeet": 9104,
             "magmaType": "Basalt",
-            "desc": "Stillwater Igneous Complex is large igneous province in Wyoming, USA. It has erupted 25,000 cubic km of volcanic material over 2 billion years ago.",
+            "desc": "Stillwater Igneous Complex is large igneous province in Montana, USA. It has erupted 25,000 cubic km of volcanic material over 2 billion years ago.",
             "chatMessages": [
-                "Earthquake swarms are detected in Southern Wyoming...",
-                "Small cracks open up in Southern Wyoming...",
-                "Massive magma intrusion is detected under Wyoming..."
+                "Earthquake swarms are detected in Southern Montana...",
+                "Small cracks open up in Southern Montana...",
+                "Massive magma intrusion is detected under Montana..."
             ]
         },
         {
