@@ -279,9 +279,9 @@
             "magmaType": "Basalt",
             "desc": "siberia 1.5 ga old LIP",
             "chatMessages": [
-                "<b><font color='rgb(255,0,0)'>The ground starts heavily deforming in Siberia...</font></b>",
-                "<b><font color='rgb(168,0,0)'>Wildfires increase in frequency in Siberia due to extreme heat...</font></b>",
-                "<b><font color='rgb(110,0,0)'>Basaltic lava flows destroy nearby villages...</font></b>"
+                "The ground starts heavily deforming in Siberia...",
+                "<b><font color='rgb(125,0,0)'>Wildfires increase in frequency in Siberia due to extreme heat...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Basaltic lava flows destroy nearby villages...</font></stroke></b>"
             ]
         },
         {
@@ -310,6 +310,20 @@
                 "Earthquake swarms are detected in western Ecuador...",
                 "<b><font color='rgb(125,0,0)'>Nearby cities are evacuated due to massive earthquakes and temperature increase...</font></b>",
                 "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Large lava fountains destroy everything in their path...</font></stroke></b>"
+            ]
+        },
+        {
+            "name": "Uruguayan Large Igneous Province",
+            "vei": 9,
+            "coordinates": [-34.27867744281773, -57.64122718752003],
+            "type": "Large Igneous Province",
+            "summitFeet": 383,
+            "magmaType": "Basalt",
+            "desc": "urguay LIP",
+            "chatMessages": [
+                "Seismometers in Uruguay are picking up unusual activity near the Rio de la Plata region...",
+                "<b><font color='rgb(125,0,0)'>Volcanic gases can be seen rising from Nueva Helvecia...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>A loud explosion sound is heard throughout Uruguay...</font></stroke></b>"
             ]
         },
         {
@@ -835,8 +849,8 @@
             "desc": "Tungurcha LIP is a large igneous province in Russia. Not much is known about this volcano, other than the fact that it erupted over 3.3 billion years ago as a low volume LIP.",
             "chatMessages": [
                 "Wildfires originate in Siberia...",
-                "Massive uplift is detected in Siberia...",
-                "The ground violently <b><font color='rgb(125,0,0)'>cracks</font></b> in Siberia..."
+                "<b><font color='rgb(125,0,0)'>Massive uplift is detected in Siberia...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>The ground violently cracks in Siberia...</font></stroke></b>"
             ]
         },
         {
@@ -3793,8 +3807,8 @@
             "desc": "Stillwater Igneous Complex is large igneous province in Montana, USA. It has erupted 25,000 cubic km of volcanic material over 2 billion years ago.",
             "chatMessages": [
                 "Earthquake swarms are detected in Southern Montana...",
-                "Small cracks open up in Southern Montana...",
-                "Massive magma intrusion is detected under Montana..."
+                "<b><font color='rgb(125,0,0)'>Small cracks open up in Southern Montana...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Massive magma intrusion is detected under Montana...</font></stroke></b>"
             ]
         },
         {
@@ -3860,8 +3874,8 @@
             "desc": "Sudan LIP lol",
             "chatMessages": [
                 "A sudden increase in seismic activity and ground deformation is observed in southwestern Sudan...",
-                "Nearby villages are evacuated due to possible volcanic activity...",
-                "<b><font color='rgb(174,42,33)'>Large cracks open up and erupt large volumes of lava...</font></b>"
+                "<b><font color='rgb(125,0,0)'>Nearby villages are evacuated due to possible volcanic activity...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Large cracks open up and erupt large volumes of lava...</font></stroke></b>"
             ]
         },
         {
@@ -3874,8 +3888,8 @@
             "desc": "Morocco LIP lol",
             "chatMessages": [
                 "Unusual fumarolic activity is detected in northern Morocco...",
-                "A large earthquake swarm is ongoing in northern Morocco...",
-                "<b><font color='rgb(48,23,0)'>Small fissures erupt in northern Morocco...</font></b>"
+                "<b><font color='rgb(125,0,0)'>A large earthquake swarm is ongoing in northern Morocco...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Small fissures erupt in northern Morocco...</font></stroke></b>"
             ]
         },
         {
@@ -4482,8 +4496,8 @@
             "desc": "Kola Alkaline Province is a large igneous province in Russia. It has an unsually small volume compared to other LIP's (15,000 km3) thus making it a VEI 9.",
             "chatMessages": [
                 "Forest fires start on the Kola Peninsula...",
-                "Massive earthquakes destroy buildings in nearby cities...",
-                "Fissures open up within the peninsula..."
+                "<b><font color='rgb(125,0,0)'>Massive earthquakes destroy buildings in nearby cities...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Fissures open up within the peninsula...</font></stroke></b>"
             ]
         },
         {
@@ -4928,8 +4942,8 @@
             "desc": "Mambilla Plateau is a volcanic plateau in Nigeria. It erupted as a flood basalt with a volume of less than 100,000 cubic km.",
             "chatMessages": [
                 "Small lava flows are reported in Eastern Nigeria...",
-                "Some villages get so hot people need to be evacuated...",
-                "Tremors are heard and felt deep below the surface..."
+                "<b><font color='rgb(125,0,0)'>Some villages get so hot people need to be evacuated...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Tremors are heard and felt deep below the surface...</font></stroke></b>"
             ]
         },
         {
@@ -4942,8 +4956,8 @@
             "desc": "Garðar LIP is a large igneous province in Greenland. It is likely the oldest VEI 9 volcano, erupting over 1.2 billion years ago.",
             "chatMessages": [
                 "The Greenland ice sheet begins melting due to temperature increase...",
-                "Giant tsunamis are being formed in the Atlantic...",
-                "Large lava fountains begin flooding the island with lava..."
+                "<b><font color='rgb(125,0,0)'>Giant tsunamis are being formed in the Atlantic...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Large lava fountains begin flooding the island with lava...</font></stroke></b>"
             ]
         },
         {
@@ -4956,8 +4970,8 @@
             "desc": "Harts Range LIP is a large igneous province in Australia. It erupted over 1.5 billion years ago as a low volume LIP.",
             "chatMessages": [
                 "The ground starts rising in central Australia...",
-                "The temperatures in central Australia reach up to 100 C°...",
-                "Large ash collumns can be seen from Alice Springs..."
+                "<b><font color='rgb(125,0,0)'>The temperatures in central Australia reach up to a hundred degrees C°...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Large ash collumns can be seen from Alice Springs...</font></stroke></b>"
             ]
         },
         {
