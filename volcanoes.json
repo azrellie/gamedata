@@ -1955,6 +1955,60 @@
             "desc": "Irazú volcano, east of Costa Rica's capital San José, covers 500 km² and features a broad summit crater with a small lake. Known for explosive eruptions, including a major event in 1963-65, it caused significant ashfall in the region. The volcano is part of the Cordillera Volcanica Central UNESCO Biosphere Reserve."
         },
         {
+            "name": "Sipirok Caldera",
+            "vei": 7,
+            "coordinates": [1.8015434363226226, 99.19957021460155],
+            "type": "Caldera",
+            "summitFeet": 3074,
+            "magmaType": "Rhyolite",
+            "desc": "A large pleistocene caldera near the Hopong and Toba calderas. The volcano is heavily eroded and it is hard to estimate the eruptive volume of past eruptions, but it is known to have produced at least 1 VEI 7 eruption."
+        },
+        {
+            "name": "Hopong Caldera",
+            "vei": 6,
+            "coordinates": [1.679800693323029, 99.2364238467072],
+            "type": "Caldera",
+            "summitFeet": 3074,
+            "magmaType": "Rhyolite?",
+            "desc": "Hopong is a caldera volcano in Indonesia, right near the older and more powerful Sipirok Caldera. The caldera is also heavily eroded, making the VEI estimation difficult, but it has produced one confirmed VEI 6 ignibmrite."
+        },
+        {
+            "name": "Singkut",
+            "vei": 6,
+            "coordinates": [3.2359505771261303, 98.5191888612863],
+            "type": "Caldera",
+            "summitFeet": 7156,
+            "magmaType": "Dacite",
+            "desc": "The Quaternary Singkut caldera is about 7 x 4 km with the S half of the rim topographically distinct. Post-caldera cones have filled much of the crater and the N rim, including Sibayak, Pintau, and Pratektekan. The 900-m-wide Sibayak crater is partially filled on the north by Pintau. A lava flow traveled through a gap in the western crater wall from the summit lava dome of Sibayak; the active geothermal field SE of the summit has abundant solfataras and fumaroles. Area residents record legends of eruptions. Neumann van Padang (1983) cited a report by Hoekstra of ash clouds emitted from the volcano in 1881. The town of Berastagi is within the caldera immediately SE of the younger cones."
+        },
+        {
+            "name": "Pasomah Caldera",
+            "vei": 7,
+            "coordinates": [-4.1815461825649205, 103.4943756316822],
+            "type": "Caldera",
+            "summitFeet": 6436,
+            "magmaType": "Rhyolite",
+            "desc": "A massive pleistocene caldera north of the Ranau lake. This volcano has produced a single VEI-7 eruption and is likely extinct."
+        },
+        {
+            "name": "Kerinci Caldera",
+            "vei": 7,
+            "coordinates": [-2.1966034273111026, 101.60543233883908],
+            "type": "Caldera",
+            "summitFeet": 2575,
+            "magmaType": "Rhyolite",
+            "desc": "The Kerinci Caldera is a large volcanic caldera that formed approximately 290 thousand years ago from the S ignimbrite VEI 7 eruption."
+        },
+        {
+            "name": "Masurai",
+            "vei": 6,
+            "coordinates": [-2.5029137065294234, 101.85793128968726],
+            "type": "Caldera",
+            "summitFeet": 9567,
+            "magmaType": "Dacite???",
+            "desc": "Gunung Masurai is a large volcanic complex with a remnant half-caldera and a chain of two summit crater lakes and a cone extending SW beyond the former caldera rim. Its youthful constructional phase suggests a late Pleistocene age (Sieh and Natawidjaja, 2000). The Masurai volcanic cluster is associated with the Sungai Penuh pull-apart basin, a feature of the Sumatra strike-slip fault, which becomes wider towards the volcanic cluster"
+        },
+        {
             "name": "Pacaya",
             "vei": 3,
             "coordinates": [14.382151113616713, -90.60149381934667],
