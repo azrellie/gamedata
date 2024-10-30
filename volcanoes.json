@@ -953,6 +953,15 @@
             "desc": "Veniaminof, on the Alaska Peninsula, is truncated by a steep-walled, 8 x 11 km, glacier-filled caldera that formed around 3,700 years ago. The caldera rim is up to 520 m high on the north, is deeply notched on the west by Cone Glacier, and is covered by an ice sheet on the south. Post-caldera vents are located along a NW-SE zone bisecting the caldera that extends 55 km from near the Bering Sea coast, across the caldera, and down the Pacific flank. Historical eruptions probably all originated from the westernmost and most prominent of two intra-caldera cones, which rises about 300 m above the surrounding icefield. The other cone is larger, and has a summit crater or caldera that may reach 2.5 km in diameter, but is more subdued and barely rises above the glacier surface."
         },
         {
+            "name": "Towada",
+            "vei": 6,
+            "coordinates": [40.46927438320311, 140.8895996351623],
+            "type": "Caldera",
+            "summitFeet": 3317,
+            "magmaType": "Andesite",
+            "desc": "The lake-filled, 11-km-wide, Towada caldera in northern Honshu formed during as many as six major explosive eruptions over a 40,000-year period ending about 13,000 years ago. Pre-caldera eruptive activity dates back about 2 million years and produced basaltic-to-dacitic lava cones. Following late-Pleistocene andesitic-to-rhyolitic caldera-forming eruptions, the basaltic Ninokura stratovolcano grew in the SSE section of the caldera. Successive dacitic-to-rhyolitic explosive eruptions from the Goshikiiwa cone led to the formation of the roughly 2-km-wide Nakanoumi caldera, whose SW and NE rims form peninsulas extending into Lake Towada. The andesitic-to-dacitic Ogurayama lava dome was built over the NE rim of Nakanoumi. The latest eruption took place in 915 CE, when eruptions from Ogurayama produced widespread ashfall and pyroclastic flows."
+        },
+        {
             "name": "Vsevidof",
             "vei": 3,
             "coordinates": [52.98244237571966, -168.47492545678978],
