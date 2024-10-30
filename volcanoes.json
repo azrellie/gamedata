@@ -2000,6 +2000,15 @@
             "desc": "The Quaternary Singkut caldera is about 7 x 4 km with the S half of the rim topographically distinct. Post-caldera cones have filled much of the crater and the N rim, including Sibayak, Pintau, and Pratektekan. The 900-m-wide Sibayak crater is partially filled on the north by Pintau. A lava flow traveled through a gap in the western crater wall from the summit lava dome of Sibayak; the active geothermal field SE of the summit has abundant solfataras and fumaroles. Area residents record legends of eruptions. Neumann van Padang (1983) cited a report by Hoekstra of ash clouds emitted from the volcano in 1881. The town of Berastagi is within the caldera immediately SE of the younger cones."
         },
         {
+            "name": "Devil Mountain Lakes",
+            "vei": 5,
+            "coordinates": [66.4057626741576, -164.4895484357638],
+            "type": "Maar",
+            "summitFeet": 137,
+            "magmaType": "Dacite????",
+            "desc": "The largest maar on Earth, Devil Mountain Lakes. It represents a crater of a large VEI-5 eruption that occured 21,000 years ago on the Espenberg Volcanic Field."
+        },
+        {
             "name": "Pasomah Caldera",
             "vei": 7,
             "coordinates": [-4.1815461825649205, 103.4943756316822],
