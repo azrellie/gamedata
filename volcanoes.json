@@ -498,6 +498,15 @@
             "desc": "Gorny Institute volcano lies at the NE end of chain of small late-Quaternary volcanoes extending NE from Kebeney volcano in the central Sredinny Range. Gorny Institute volcano was constructed near the steep-walled eastern margin of a major NE-SW-trending graben extending NE from Kebeney volcano. A line of cinder cones with the same orientation is located on the NE and SW flanks of Gorny Institute. Gorny Institute is one of the few large stratovolcanoes in the Sredinny Range that has been active throughout the Holocene. More than 20 pyroclastic horizons have been documented, and the last major eruption took place about 700 years ago."
         },
         {
+            "name": "Koh-i-Sultan",
+            "vei": 1,
+            "coordinates": [29.124009683244715, 62.81609959820736],
+            "type": "Stratovolcano",
+            "summitFeet": 7657,
+            "magmaType": "Andesite",
+            "desc": "Koh-i-Sultan is a volcano in Balochistan, Pakistan. It is part of the tectonic belt formed by the collision of the Eurasian Plate and Indian Plate: specifically, a segment influenced by the subduction of the Arabian plate beneath the Asian plate and forming a volcanic arc which includes the Bazman and Taftan volcanoes in Iran. The volcano consists of three main cones, with heavily eroded craters running west-northwest and surrounded by a number of subsidiary volcanic centres. Its summit is 2,334 metres (7,657 ft) high, and the crater associated with the Miri cone has a smaller crater inside."
+        },
+        {
             "name": "Kizimen",
             "vei": 5,
             "coordinates": [55.131372822784414, 160.31975271001463],
@@ -2027,13 +2036,13 @@
             "desc": "Mount Cameroon, one of Africa's largest volcanoes, sits near Douala, one of Cameroon's biggest cities. The view of the volcano is stunning, and if you look at a satellite image of Cameroon, you will surely notice it on the west coast of the country."
         },
         {
-            "name": "Jan Mayen",
+            "name": "Beerenberg",
             "vei": 4,
             "coordinates": [71.08050039915567, -8.15698216489675],
             "type": "Stratovolcano",
-            "summitFeet": 7208,
+            "summitFeet": 7470,
             "magmaType": "Basalt",
-            "desc": "Jan Mayen is a rather isolated island in the Norwegian sea. On top of the island, a massive volcano with the same name sits. There are no permanent residents on the island."
+            "desc": "Jan Mayen is a rather isolated island in the Norwegian sea. On top of the island, a massive volcano with NOT the same name sits."
         },
         {
             "name": "Bouvet",
