@@ -2511,6 +2511,15 @@
             "desc": "A huge caldera in the Indian Peak-Caliente Caldera Complex of Nevada and Utah. It is the source of extremely voluminous Lund Tuff." 
         },
         {
+            "name": "Nohi Rhyolite Caldera Complex",
+            "vei": 8,
+            "coordinates": [35.89169203195697, 137.0827378857205],
+            "type": "Caldera Complex",
+            "summitFeet": 10470,
+            "magmaType": "Rhyolite",
+            "desc": "A rhyolitic caldera complex of Cretaceous age in central Japan. It was the source of multiple VEI-7 and VEI-6 eruptions, with one eruption even reaching VEI-8." 
+        },
+        {
             "name": "Heise Volcanic Field",
             "vei": 8,
             "coordinates": [43.82913984916752, -112.12034146794412],
