@@ -927,7 +927,7 @@
         },
         {
             "name": "Sanbesan",
-            "vei": 4,
+            "vei": 6,
             "coordinates": [35.140955101923176, 132.62194937790684],
             "type": "Stratovolcano",
             "summitFeet": 3694,
@@ -1329,6 +1329,69 @@
             "summitFeet": 5066,
             "magmaType": "Rhyolite",
             "desc": "Billy Mitchell is a caldera in Papua New Guinea. The last two major eruptions were in 1580 AD ± 20 years and about 1030 AD. They were among the largest Holocene eruptions in Papua New Guinea."
+        },
+        {
+            "name": "Teragi Cauldron",
+            "vei": 7,
+            "coordinates": [35.455005969718144, 134.48600828565148],
+            "type": "Caldera",
+            "summitFeet": 4298,
+            "magmaType": "Rhyolite",
+            "desc": "A large 3 million year old caldera in western Honshu. It is in a pretty unique location for a VEI-7, because this region usually contains andesitic stratovolcanoes, and not supervolcanic calderas."
+        },
+        {
+            "name": "Silent Canyon Caldera Complex",
+            "vei": 7,
+            "coordinates": [36.87959565112275, -116.70004470142557],
+            "type": "Caldera Complex",
+            "summitFeet": 3187,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in Nevada. It is considered to be a part of the same volcanic system as Timber Mountain Caldera Complex."
+        },
+        {
+            "name": "Tōnohetsuri Caldera",
+            "vei": 7,
+            "coordinates": [37.24275645988694, 139.97300841040095],
+            "type": "Caldera",
+            "summitFeet": 5066,
+            "magmaType": "Rhyolite",
+            "desc": "A caldera volcano in central Honshu. It was active during pleistocene and produced many caldera forming eruptions."
+        },
+        {
+            "name": "Ata Caldera",
+            "vei": 7,
+            "coordinates": [31.37877922393226, 130.6714019707659],
+            "type": "Caldera",
+            "summitFeet": 3031,
+            "magmaType": "Rhyolite",
+            "desc": "The submerged 15 x 25 km Ata caldera under Kagoshima Bay is one of several large calderas in southern Kyushu and the source of major pyroclastic flows associated with its formation more than 40,000 years ago. The National Catalogue of the Active Volcanoes of Japan (JMA, 2013) included features of the Ibusuki field as part of the Ata post-caldera system. That area consists of numerous central cones and maars, the 4.5-km-wide Ikeda caldera, and Kaimondake stratovolcano. The symmetrical andesitic Kaimondake is the most prominent feature, and is capped by a lava dome. Ibusuki has been very active during the Holocene, forming the Ikeda caldera about 4,600 years ago, numerous maars and lava domes. Kaimondake formed during the last 4,000 years, from which all eruptive activity has occurred after about 2,650 years ago. Its last eruption took place in the 9th century. While listed as features of the Ata caldera, JMA (2013) simultaneously listed Kaimondake and the combination of Ikeda and Yamagawa as distinct volcanoes."
+        },
+        {
+            "name": "Tangkuban Parahu",
+            "vei": 6,
+            "coordinates": [-6.759261882644028, 107.61026394430753],
+            "type": "Caldera",
+            "summitFeet": 6837,
+            "magmaType": "Andesite",
+            "desc": "Gunung Tangkuban Parahu is a broad stratovolcano overlooking Indonesia's former capital city of Bandung. The volcano was constructed within the 6 x 8 km Pleistocene Sunda caldera, which formed about 190,000 years ago. The volcano's low profile is the subject of legends referring to the mountain of the upturned boat. The Sunda caldera rim forms a prominent ridge on the western side; elsewhere the rim is largely buried by deposits of the current volcano. The dominantly small phreatic eruptions recorded since the 19th century have originated from several nested craters within an elliptical 1 x 1.5 km summit depression."
+        },
+        {
+            "name": "Kujūsan",
+            "vei": 6,
+            "coordinates": [33.107603527321075, 131.29231769409404],
+            "type": "Stratovolcano",
+            "summitFeet": 5876,
+            "magmaType": "Dacite",
+            "desc": "Kujusan is a complex of stratovolcanoes and lava domes lying NE of Aso caldera in north-central Kyushu. The group consists of 16 andesitic lava domes, five andesitic stratovolcanoes, and one basaltic cone. Activity dates back about 150,000 years. Six major andesitic-to-dacitic tephra deposits, many associated with the growth of lava domes, have been recorded during the Holocene. Eruptive activity has migrated systematically eastward during the past 5000 years. The latest magmatic activity occurred about 1600 years ago, when Kurodake lava dome at the E end of the complex was formed. The first reports of historical eruptions were in the 17th and 18th centuries, when phreatic or hydrothermal activity occurred. There are also many hot springs and hydrothermal fields. A fumarole on Hosho lava dome was the site of a sulfur mine for at least 500 years. Two geothermal power plants are in operation at Kuju."
+        },
+        {
+            "name": "Reporoa",
+            "vei": 7,
+            "coordinates": [-38.42895302524796, 176.33822890509586],
+            "type": "Caldera",
+            "summitFeet": 1942,
+            "magmaType": "Rhyolite",
+            "desc": "The 10 x 15 km Reporoa caldera, occupying the Reporoa-Broadlands basin, lies near the W margin of the Taupo volcanic zone SSW of the Okataina volcanic center. The caldera formed about 230,000 years ago during the eruption of the voluminous ~100 km3 Kaingaroa Ignimbrite. Large slump scarps cut the N caldera rim; the S rim is buried by sediments. The Deer Hill rhyolitic lava dome was erupted after the caldera's S rim collapse; two other rhyolitic domes, Kairuru and Pukekahu, were emplaced within the caldera along a possible ring fault. The active Reporoa hydrothermal field lies within the caldera, and the Waiotapu and Broadlands (Ohaki) hydrothermal fields lie N and S of the poorly defined caldera margin. Eruptions within the caldera have not occurred since the late Pleistocene, but large hydrothermal explosions occurred at the Waiotapu thermal area immediately to the N at the time of the Kaharoa eruption of neighboring Tarawera volcano about 770 years ago."
         },
         {
             "name": "Meager",
