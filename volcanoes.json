@@ -2385,6 +2385,33 @@
             "desc": "A submarine volcano along the Tofua volcanic arc ~45 km NW of Vava'u Island was first observed in September 2001, ~35 km S of Fonualei and 60 km NE of Late volcano. The site of the eruption is at an approximate bathymetric depth of 300 m. T-phase waves were recorded on 27-28 September 2001, and on the 27th local fishermen observed an ash-rich eruption column that rose above the ocean surface. No eruptive activity was reported after the 28th, but water discoloration was documented the following month. In early November rafts and strandings of dacitic pumice were reported along the coasts of Kadavu and Viti Levu in Fiji. The depth of the summit of the submarine cone following the eruption was determined to be 40 m during a 2007 survey; the crater of the 2001 eruption was open to the E." 
         },
         {
+            "name": "Cup & Saucer Volcanic Field",
+            "vei": 6,
+            "coordinates": [38.307135040032065, -122.24669793974203],
+            "type": "Volcanic Field",
+            "summitFeet": 495,
+            "magmaType": "Dacite",
+            "desc": "A large, inactive volcanic field in California. It consists of 2 calderas and various lava flows." 
+        },
+        {
+            "name": "Little Walker Caldera",
+            "vei": 6,
+            "coordinates": [38.32508337222383, -119.4317212170996],
+            "type": "Caldera",
+            "summitFeet": 11673,
+            "magmaType": "Andesite",
+            "desc": "An 11 km wide caldera in California that has produced a large VEI-6 eruption 9 million years ago." 
+        },
+        {
+            "name": "Saint Helena",
+            "vei": 6,
+            "coordinates": [38.677845261508956, -122.62433660349724],
+            "type": "Caldera",
+            "summitFeet": 4342,
+            "magmaType": "Dacite???",
+            "desc": "An ancient caldera in California near the town of Kellogg. It has produced at least one large volume eruption during its lifetime." 
+        },
+        {
             "name": "Tofua",
             "vei": 5,
             "coordinates": [-19.74744559100293, -175.06586306915707],
