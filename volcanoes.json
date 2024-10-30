@@ -40,6 +40,15 @@
             "desc": "A large volcanic caldera near the city of Tucson, Arizona. It has erupted 73 million years ago, producing one of Arizona's strongest eruptions during the Cretaceous period."
         },
         {
+            "name": "Bentuggezh K’enulgheli",
+            "vei": 3,
+            "coordinates": [60.485500089130305, -152.74758904299813],
+            "type": "Stratovolcano",
+            "summitFeet": 10197,
+            "magmaType": "Andesitic Basaltic",
+            "desc": "Redoubt is a very famous stratovolcano in the Lake Clark National Park, It is the most active volcano in the upper Cook Inlet and it was constructed about 890 thousand years ago. It is also ranked 4th on the 2018 hazardous volcanoes list."
+        },
+        {
             "name": "Snowdon Caldera",
             "vei": 6,
             "coordinates": [53.06882467562952, -4.077165446129249],
