@@ -94,6 +94,15 @@
             "desc": "A caldera in Mount Baker Volcanic Field, Washington state that sits really close to the border of Canada. Kulshan has the largest glacier cover of any of the cascade volcanoes and sits only 28 miles from Abbotsford in Canada."
         },
         {
+            "name": "Bükk Foreland Volcanic Area",
+            "vei": 7,
+            "coordinates": [47.796368440873835, 20.43326456205919],
+            "type": "Caldera/Volcanic Field",
+            "summitFeet": 3146,
+            "magmaType": "Rhyolite",
+            "desc": "A large volcanic area in northern Hungary that used to be active due to a tectonic plate subduction in Europe. During its lifetime, it has produced several ignimbritic calderas, with one of them potentially producing a VEI 7 eruption."
+        },
+        {
             "name": "Spurr",
             "vei": 4,
             "coordinates": [61.299619994243315, -152.25129633802393],
