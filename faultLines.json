@@ -11373,7 +11373,7 @@
             "name": "Central African Shear Zone",
             "lengthKm": 4000,
             "depthKm": 190,
-            "activity": 0.1,
+            "activity": 0.25,
             "type": "Strike Slip",
             "points": [
                 [4.056199221802569, 9.187395291458722],
