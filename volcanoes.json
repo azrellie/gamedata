@@ -2339,6 +2339,15 @@
             "magmaType": "Basalt",
             "desc": "Henry's Fork Caldera is a caldera in USA. The Henry's Fork caldera is in an area called Island Park, known for its beautiful forests, large springs, clear streams, waterfalls, lakes, ponds, marshes, wildlife, and fishing."
         },
+        {  
+            "name": "Brusilovka Caldera",
+            "vei": 8,
+            "coordinates": [44.056290309150896, 135.3067571597201],
+            "type": "Caldera",
+            "summitFeet": 2645,
+            "magmaType": "Rhyodacite",
+            "desc": "A large volcanic structure in the Sikhote-Alin volcanic belt. It represents the remnant of a caldera that was formed by an ancient subduction zone and produced a massive VEI-8 eruption."
+        },
         {
             "name": "Krakatoa",
             "vei": 6,
