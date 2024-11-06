@@ -1376,6 +1376,15 @@
             "desc": "The submerged 15 x 25 km Ata caldera under Kagoshima Bay is one of several large calderas in southern Kyushu and the source of major pyroclastic flows associated with its formation more than 40,000 years ago. The National Catalogue of the Active Volcanoes of Japan (JMA, 2013) included features of the Ibusuki field as part of the Ata post-caldera system. That area consists of numerous central cones and maars, the 4.5-km-wide Ikeda caldera, and Kaimondake stratovolcano. The symmetrical andesitic Kaimondake is the most prominent feature, and is capped by a lava dome. Ibusuki has been very active during the Holocene, forming the Ikeda caldera about 4,600 years ago, numerous maars and lava domes. Kaimondake formed during the last 4,000 years, from which all eruptive activity has occurred after about 2,650 years ago. Its last eruption took place in the 9th century. While listed as features of the Ata caldera, JMA (2013) simultaneously listed Kaimondake and the combination of Ikeda and Yamagawa as distinct volcanoes."
         },
         {
+            "name": "Todra Volcanic Field",
+            "vei": 6,
+            "coordinates": [17.677420081623012, 8.499625619775445],
+            "type": "Volcanic Field",
+            "summitFeet": 5840,
+            "magmaType": "Basalt Trachyte",
+            "desc": "The Todra Volcanic Field covers about 1,000 km2 in the Tuareg shield in the southern Aïr region of Niger. Activity began with the eruption of about 30 trachytic and phonolitic volcanoes through Precambrian basement rocks. This was followed by the formation of about 130 basaltic cones that typically produced valley-filling lava flows. A series of NW-SE faults control cone locations. The date of the latest eruption is not known, but may have been as recent as a few centuries ago."
+        },
+        {
             "name": "Tangkuban Parahu",
             "vei": 6,
             "coordinates": [-6.759261882644028, 107.61026394430753],
