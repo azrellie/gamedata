@@ -1106,6 +1106,15 @@
             "desc": "St. Paul, the largest of the Pribilof Islands, features numerous young cinder cones and covers a 110 km² area of coalescing basaltic-to-trachybasaltic shield volcanoes. Lava flows originated from vents at Bogoslof Hill in the island's center and cinder cones at Rush Hill on the west side. Subaerial activity began 540,000 years ago, forming a basaltic lava platform, followed by monogenetic vents and two small shield volcanoes. The youngest vent, Fox Hill cinder cone, produced a lava flow about 3,200 years ago, reaching the sea at Southwest Point."
         },
         {
+            "name": "Douglas Strait Caldera",
+            "vei": 6,
+            "coordinates": [-59.4363044756039, -27.28074206764962],
+            "type": "Caldera",
+            "summitFeet": -600,
+            "magmaType": "Dacite?",
+            "desc": "A large elliptical caldera, centered in the Douglas Strait between Southern Thule and Cook Island. The estimated ejecta volume of the caldera forming eruption is 9-12 km3."
+        },
+        {
             "name": "Imuruk Lake",
             "vei": 1,
             "coordinates": [65.51562196555264, -163.45447884538163],
