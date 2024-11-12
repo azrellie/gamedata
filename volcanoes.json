@@ -4076,6 +4076,19 @@
             ]
         },
         {
+            "name": "Viluy Traps",
+            "vei": 10,
+            "coordinates": [67.3488432309723, 139.73848903531973],
+            "type": "Large Igneous Province",
+            "summitFeet": 7904,
+            "magmaType": "Basalt",
+            "desc": "siberia lip 2.0",
+            "chatMessages": [
+                "Large magnitude earthquakes have increased in frequency in eastern Siberia...",
+                "Gigantic lava fountains originate from Chersky Range..."
+            ]
+        },
+        {
             "name": "Circum-Superior Belt",
             "vei": 10,
             "coordinates": [47.95945267993154, -87.20083826898065],
