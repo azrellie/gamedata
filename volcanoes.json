@@ -4050,6 +4050,30 @@
             ]
         },
         {
+            "name": "Tuamotu Archipelago Large Igneous Province",
+            "vei": 10,
+            "coordinates": [-16.346945008482265, -144.43425147053327],
+            "type": "Large Igneous Province",
+            "summitFeet": 328,
+            "magmaType": "Basalt",
+            "desc": "lip in the middle of nowhere",
+            "chatMessages": [
+                "Extreme uplift causes a new landmass to form on the Tuamotu Archipelago...",
+                "Large volumes of lava begin erupting on the newly formed land..."
+        },
+        {
+            "name": "Nazca Ridge Large Igneous Province",
+            "vei": 10,
+            "coordinates": [-16.18514847275692, -77.47264039550969],
+            "type": "Large Igneous Province",
+            "summitFeet": -13000,
+            "magmaType": "Basalt",
+            "desc": "lip in the middle of nowhere",
+            "chatMessages": [
+                "Weird seismic activity is detected on the Nazca Aseismic Ridge...",
+                "The ridge begins spreading in half..."
+        },
+        {
             "name": "Circum-Superior Belt",
             "vei": 10,
             "coordinates": [47.95945267993154, -87.20083826898065],
