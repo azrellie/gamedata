@@ -3726,6 +3726,15 @@
             "desc": "The Vulsini volcanic complex in central Italy covers about 2,200 km2 at the northern end of the Roman Magmatic Province. Following lava extrusion and explosive eruptions that constructed the main complex, the 16 km lake-filled Bolsena caldera on the east and the 8 x 11 km Latera caldera on the west were formed during major Pleistocene eruptions at about 0.3 and 0.16 million years ago, respectively. Five major Plinian fall deposits were erupted from vents at or near Latera caldera during the late Pleistocene."
         },
         {
+            "name": "Sabatini Volcanic Complex",
+            "vei": 7,
+            "coordinates": [42.12451890924433, 12.233025558743327],
+            "type": "Caldera",
+            "summitFeet": 520,
+            "magmaType": "Rhyolite?",
+            "desc": "The Sabatini Volcanic Complex has no clearly delineated volcanic structure, but is a distribution of volcanic vents (Conticelli et al., 1997). The Sacrofano center in the eastern part of the complex and the Bacciano center in the west were active from 0.5 to 0.09 Ma (De Rita et al., 1983). Other smaller volcanic systems are Morlupo, Vigna di Valle, Trevignano, and Baccano (Conticelli et al., 1997). The Sacrofano and Bacciano centers dominate the five phases of the complex's eruptive history. The first two phases involved intense explosive activity at Sacrofano and Molupa (0.6-0.4 Ma), resulting in tuffs, ashes, and pyroclastic flows during the pre-Sacrofano Caldera stage. During the third phase, hydro-magmatic eruptions formed the Sacrofano Caldera and minor lava flows occurred in the post-caldera stage. In the western sector, a stratovolcano and the Bracciano Caldera developed, along with fissure eruptions that produced flood lavas greater than 100 km3, air-fall tuffs, and surge deposits. Activity at small eruptive vents on the rims of the collapsed Bracciano and Sacrofano Calderas dominated the fourth phase, resulting in pyroclastics at Bracciano along with cinder cones and lava flows at Sacrofano. Hydro-magmatic activity localized between the two calderas, which produced tuff rings, cones, and maars, dominated the final phase (Conticelli et al., 1997)."
+        },
+        {
             "name": "Maninjau",
             "vei": 7,
             "coordinates": [-0.315876408474245, 100.18266616642448],
