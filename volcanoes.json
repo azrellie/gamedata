@@ -2260,6 +2260,15 @@
             "desc": "Lamington is an andesitic stratovolcano with a 1.3-km-wide breached summit crater containing a lava dome that rises above the coastal plain of the Papuan Peninsula of New Guinea north of the Owen Stanley Range. A summit complex of lava domes and crater remnants tops a low-angle base of volcaniclastic deposits dissected by radial valleys. A prominent broad avalanche valley extends northward from the breached crater. Ash layers from two early Holocene eruptions have been identified. In 1951 a powerful explosive eruption produced pyroclastic flows and surges that swept all sides of the volcano, killing nearly 3,000 people. The eruption concluded with growth of a 560-m-high lava dome in the summit crater." 
         },
         {
+            "name": "Timofeevska Caldera",
+            "vei": 7,
+            "coordinates": [66.90567205766976, 171.7165142478387],
+            "type": "Caldera",
+            "summitFeet": 3603,
+            "magmaType": "???",
+            "desc": "A massive 12 km caldera in the Russian Okhotsk-Chukota Volcanic Belt. It is very likely to be the only volcano in the belt that have produced a VEI-7 eruption or above." 
+        },
+        {
             "name": "Victory",
             "vei": 2,
             "coordinates": [-9.20829252135267, 149.07364256961517],
