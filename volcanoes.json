@@ -1501,10 +1501,145 @@
             "name": "Pastos Grandes",
             "vei": 8,
             "coordinates": [-21.690663136298543, -67.7717984191384],
-            "type": "Caldera    ",
+            "type": "Caldera",
             "summitFeet": 19035,
             "magmaType": "Rhyolite",
             "desc": "Pastos Grandes is a caldera in Bolivia. Pastos Grandes was volcanically active for a long time, more than many other Altiplano-Puna volcanic complex centres."
+        },
+        {
+            "name": "Bárcena",
+            "vei": 3,
+            "coordinates": [19.308483742462315, -110.8070856013817],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 1089,
+            "magmaType": "Trachyte",
+            "desc": "Volcán Bárcena, formed by eruptions during 1952-53, is the most prominent feature of Isla San Benedicto, the NE-most of the Revillagigedo Islands, 350 km south of the tip of Baja California. San Benedicto island, elongated in a NE-SW direction, contains a series of Pleistocene trachytic lava domes at the north end. The southern end of the 4.5-km-long island is formed by Bárcena and Montículo Cinerítico, a smaller tephra cone that preceded and was largely overtopped by Bárcena. Montículo Cinerítico may also have been constructed during the past few hundred years and formed the high point of the island prior to the formation of Bárcena. Growth of the 300-m-high Bárcena tephra cone beginning in August 1952 was accompanied by strong explosive eruptions and pyroclastic flows. The eruption concluded the following year with the emplacement of two small lava domes in the crater and extrusion of a prominent coastal lava delta at the SE base of the cone."
+        },
+        {
+            "name": "Black Butte Crater Lava Field",
+            "vei": 0,
+            "coordinates": [43.18330193118067, -114.35242240979224],
+            "type": "Shield",
+            "summitFeet": 4849,
+            "magmaType": "Basalt",
+            "desc": "The Black Butte Crater lava field (formerly Shoshone lava field) is the westernmost of the young lava fields of the Eastern Snake River Plain. It lies north of Twin Falls, Idaho, and created an L-shaped lava flow 2-5 km wide that extends 60 km S and then west. A single radiocarbon age of 10,130 ± 350 years was obtained for lava flows here (Kuntz et al., 1986). Black Butte Crater caps a lava shield at the NE end of the flow field. The vent area contains a complex lava lake that forms a six-part flower-petal like depression with steep walls up to 30 m high that covers an area of 2 km2. A lava tube and channel system extending 5 km SE of the crater displays both roofed and collapsed portions. The Big Wood and Little Wood rivers follow the northern and southern margins of the distal part of the lava flow, respectively. The voluminous flow diverted the river channels so that they now join 40 km W of their former confluence."
+        },
+        {
+            "name": "Bora-Bericha-Tullu Moye",
+            "vei": 1,
+            "coordinates": [8.211397927604091, 39.081194776543654],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 7694,
+            "magmaType": "Rhyolite",
+            "desc": "The Bora-Bericha-Tullu Moye (BBTM) volcanic complex includes three main silicic edifices and at least 11 smaller cones within the Main Ethiopian Rift. Tullu Moye is a youthful trachytic-to-rhyolitic pumice cone with a 700-m-wide summit crater. A large silicic lava flow at Giano was erupted about two centuries ago from a regional fissure. Flank fissures have produced silicic lava flows as recently as about 1900 CE. Many large lava flows can be seen N of the Tulle Moye cone, extending for about 20 km in an arc between Gedamsa and the Bericha cone to the SE shore of Koka Lake. The silicic Bora and Bericha pumice cones are SE of Koka Lake. Bora has a 1.5-km-wide summit crater; the more conical Bericha is capped by a small summit crater and has a 1-km-wide crater on its S flank. Small silicic pyroclastic cones are found on the E flanks of both. All volcanic products in this area are considered to be Holocene, and there is ongoing fumarolic activity"
+        },
+        {
+            "name": "Coatapeque Caldera",
+            "vei": 7,
+            "coordinates": [13.866436198629387, -89.54449856352467],
+            "type": "Caldera",
+            "summitFeet": 2448,
+            "magmaType": "Rhyolite",
+            "desc": "The 7 x 10 km Coatepeque caldera, its eastern side filled by a caldera lake, was formed by collapse of a group of stratovolcanoes immediately E of Santa Ana volcano. The height of the caldera rim increases on its W side, where it partially truncates Santa Ana. The caldera was formed during a series of major rhyolitic explosive eruptions between ~72,000 and 51,000 years ago. Post-caldera eruptions included the formation of basaltic cinder cones and lava flows near the western margin of the caldera and the extrusion of a half-dozen rhyodacitic lava domes along a NE-SW line near the caldera lake margins. The highest of the domes forms the wooded island of Isla de Cabra, or Cerro Grande. The age of the domes is not known precisely, but the youngest dome, Cerro Pacho, was estimated to have formed less than 10,000 years ago. Hot springs occur near the lake margins, but no verified historical eruptions have occurred."
+        },
+        {
+            "name": "Cosigüina",
+            "vei": 6,
+            "coordinates": [12.982775996139067, -87.56706093686748],
+            "type": "Caldera",
+            "summitFeet": 2861,
+            "magmaType": "Andesite",
+            "desc": "Cosigüina (also spelled Cosegüina) is a low basaltic-to-andesitic composite volcano that is isolated from other eruptive centers in the Nicaraguan volcanic chain. The stratovolcano forms a large peninsula extending into the Gulf of Fonseca at the western tip of the country. It has a pronounced somma rim on the northern side; a young summit cone rises 300 m above the northern somma rim and buries the rim on other sides. The younger cone is truncated by a large elliptical prehistorical summit caldera, 2 x 2.4 km in diameter and 500 m deep, with a lake at its bottom. Lava flows predominate in the caldera walls, although lahar and pyroclastic-flow deposits surround the volcano. A brief but powerful explosive eruption in 1835 is Nicaragua's largest during historical time. Ash fell as far away as México, Costa Rica, and Jamaica, and pyroclastic flows reached the Gulf of Fonseca."
+        },
+        {
+            "name": "Dabbahu",
+            "vei": 3,
+            "coordinates": [12.594990841167114, 40.4799840433891],
+            "type": "Stratovolcano",
+            "summitFeet": 4596,
+            "magmaType": "Basalt",
+            "desc": "Dabbahu (also known as Boina, Boyna, or Moina) is a Pleistocene-to-Holocene volcanic massif forming an axial range of the Afar depression SSW of the Alayta massif. Late-stage pantelleritic obsidian flows, lava domes, and pumice cones form the summit and upper flanks. The volcano rises above the Teru Plain and was built over a volumetrically dominant base of basaltic-to-trachyandesitic lava flows of a shield volcano. Late-stage basaltic fissure eruptions also occurred at the NW base of the volcano. Abundant fumaroles are located along the crest of the volcano and extend NE towards Alayta. The first historical eruption took place from a fissure vent on the NE flank in September 2005, producing ashfall deposits and a small pumice dome. More than 6000 people were evacuated from neighboring villages."
+        },
+        {
+            "name": "Heiðarsporðar",
+            "vei": 2,
+            "coordinates": [65.58231403226861, -16.81038760741568],
+            "type": "Fissure Vent",
+            "summitFeet": 1608,
+            "magmaType": "Basalt",
+            "desc": "The Heiðarsporðar volcanic system in the Northern Volcanic Zone is about 22 km long, consisting of a fissure swarm and a central volcano. It is embryonic, starting to develop in the marginal area of two adjacent fissure areas, Krafla and Fremrinámar, producing large-volume eruptions. No geothermal activity is present. Magma composition ranges from olivine-tholeiite through tholeiitic basalt and basaltic andesite to dacite. Characteristic activity consists of effusive basaltic eruptions and small predominantly effusive silicic eruptions. It has shown rather low activity in the Holocene but has produced substantial basaltic lava flows. Two eruptive periods have occurred in Holocene time separated by over 8,000 years. The last eruption took place about 2,200 years ago, producing a lava flow covering about 220 km2 and extending 60 km from source."
+        },
+        {
+            "name": "Hierro",
+            "vei": 2,
+            "coordinates": [27.752009529925278, -18.01423205997243],
+            "type": "Shield",
+            "summitFeet": 4921,
+            "magmaType": "Trachybasalt",
+            "desc": "The triangular island of Hierro is the SW-most and least studied of the Canary Islands. The massive shield volcano is truncated by a large NW-facing escarpment formed as a result of gravitational collapse of El Golfo volcano about 130,000 years ago. The steep-sided scarp towers above a low lava platform bordering 12-km-wide El Golfo Bay, and three other large submarine landslide deposits occur to the SW and SE. Three prominent rifts oriented NW, NE, and S form prominent topographic ridges. The subaerial portion of the volcano consists of flat-lying Quaternary basaltic and trachybasaltic lava flows and tuffs capped by numerous young cinder cones and lava flows. Holocene cones and flows are found both on the outer flanks and in the El Golfo depression. Hierro contains the greatest concentration of young vents in the Canary Islands. Uncertainty surrounds the report of an eruption in 1793. A submarine eruption took place about 2 km SSW off the southern point of the island during 2011-12."
+        },
+        {
+            "name": "Jordan Craters",
+            "vei": 2,
+            "coordinates": [43.14728730543767, -117.45981669237739],
+            "type": "Volcanic Field",
+            "summitFeet": 4833,
+            "magmaType": "Basalt",
+            "desc": "Jordan Craters volcanic field consists of well-preserved basaltic lava flows and scoria cones that are the youngest and northernmost of a group of three Quaternary lava fields covering an area of 250 km2 in SE Oregon. The Pleistocene Clarks Butte shield volcano and Rocky Butte (Lava Butte) lava fields lie to the south, along the trend of regional Basin and Range faulting. Jordan Craters lie on the Owyhee-Oregon plateau at the SE end of a series of widely scattered young volcanic fields extending SE from Bend, Oregon. Coffeepot Crater at the NW end of the field was the source, about 3,200 years ago or later, of one of Oregon's youngest lava flows. The flows covered 75 km2 with 1.6 km3 of olivine-basalt pahoehoe and dammed local drainages, forming the two small Upper and Lower Cow Lakes at the SE end of the lava field. Jordan Craters is renowned for its excellent exposures of a wide variety of youthful lava-flow features and has similarities to Holocene basaltic flows of Idaho's Snake River Plain to the east."
+        },
+        {
+            "name": "Marsili",
+            "vei": 6,
+            "coordinates": [39.283250958730676, 14.398217217005378],
+            "type": "Complex",
+            "summitFeet": -2556,
+            "magmaType": "Dacite?",
+            "desc": "The Marsili seamount is a 50-km-long volcanic ridge in the southern Tyrrhenian Sea within a back-arc basin about 75-85 km NW of the Aeolian arc volcanoes. Near-source tephra layers obtained from a core sample were determined by Iezzi et al. (2013) to be approximately 3,000 and 5,000 years old. Accretion of the ridge is thought to have begun around 1 Ma. Recent data also indicate that there is ongoing hydrothermal activity and shallow volcano-tectonic seismicity."
+        },
+        {
+            "name": "Mílos",
+            "vei": 1,
+            "coordinates": [36.70654628848179, 24.44220625016708],
+            "type": "Stratovolcano",
+            "summitFeet": 2464,
+            "magmaType": "Rhyolite",
+            "desc": "Mílos and adjacent small islands have grown from submarine and subaerial volcanism that initially was dominantly andesitic and basaltic, but ended with predominately rhyolitic eruptions. The oldest volcanic rocks are Pliocene submarine rhyolitic pyroclastic-flow deposits overlying basement metamorphic and sedimentary rocks. The latest activity during the late Pleistocene was concentrated in the eastern half of the low, U-shaped Mílos Island, forming lava domes and phreatic explosion craters, and on Antimílos Island to the NW, where a composite volcano was constructed. The youngest magmatic eruptions took place about 90,000 years ago, but phreatic explosions, commonly producing overlapping craters rarely more than 1 km in diameter, continued from late-Pleistocene to Recent times. A lahar deposit in SE Mílos, east of Fyriplaka tuff ring, buried walls of a Roman harbor town and overlies a coarse ash layer, and was considered to originate from a small phreatic explosion through basement rocks."
+        },
+        {
+            "name": "Nyamulagira",
+            "vei": 3,
+            "coordinates": [-1.4092254305883811, 29.20165673262862],
+            "type": "Shield",
+            "summitFeet": 10033,
+            "magmaType": "Phono-Tephrite",
+            "desc": "Africa's most active volcano, Nyamulagira (also known as Nyamuragira), is a massive high-potassium basaltic shield about 25 km N of Lake Kivu and 13 km NNW of the steep-sided Nyiragongo volcano. The summit is truncated by a small 2 x 2.3 km caldera that has walls up to about 100 m high. Documented eruptions have occurred within the summit caldera, as well as from the numerous flank fissures and cinder cones. A lava lake in the summit crater, active since at least 1921, drained in 1938, at the time of a major flank eruption. Recent lava flows extend down the flanks more than 30 km from the summit as far as Lake Kivu; extensive lava flows from this volcano have covered 1,500 km2 of the western branch of the East African Rift."
+        },
+        {
+            "name": "Paka",
+            "vei": 5,
+            "coordinates": [0.9198082174811999, 36.19178617020373],
+            "type": "Shield",
+            "summitFeet": 5568,
+            "magmaType": "Trachyte",
+            "desc": "The dominantly Pleistocene Paka shield volcano in the Gregory Rift contains a small 1.5-km-wide summit caldera. Eruption of large volumes of trachytic pyroclastic rocks around the end of the Pleistocene and the beginning of the Holocene formed a NW-trending ridge of pyroclastic cones across the summit region; collapse of this area formed the summit caldera and associated craters. A second large crater SE of the caldera is 0.5 x 1 km wide and contains a pumice cone. The summit caldera is narrowly breached on the N side, which has funneled post-caldera lava flows in this direction. The three youngest post-caldera pyroclastic cones on the NE flank may be only a few hundred years old. A series of viscous trachytic lava flows were erupted from vents on the lower flanks. Young fissure-fed basalts were also erupted to the S, between Paka and Korosi volcanoes. Surficial geothermal activity is widespread at Paka, both within the summit caldera and on extensive portions of the N flank."
+        },
+        {
+            "name": "Harrat Rahat",
+            "vei": 3,
+            "coordinates": [23.080077483688655, 39.779925827837154],
+            "type": "Shield",
+            "summitFeet": 5722,
+            "magmaType": "Basalt",
+            "desc": "Harrat Rahat, Saudi Arabia's largest lava field, covers 20,000 km2 and extends for 300 km S of Madinah (Medina). Four coalescing lava fields erupted from offset NNW-trending vent systems comprise the field, which has an average width of 60 km. Lava flows extend as far as 100 km W of the axis of the field. Basaltic scoria cones dominate, but the volcanic field has also produced silicic trachy-basaltic to trachytic rocks. Small shield volcanoes and lava domes with associated pyroclastic flow and surge deposits are also present. Activity has migrated to the north over time, resulting in eruptions near Madinah. The best-known eruption took place in 1256 CE, when a 0.5 km3 lava flow erupted from six aligned scoria cones and traveled 23 km to within 4 km of Madinah."
+        },
+        {
+            "name": "Olkaria",
+            "vei": 6,
+            "coordinates": [-0.9045821359830208, 36.294183857001855],
+            "type": "Caldera",
+            "summitFeet": 7986,
+            "magmaType": "Rhyolite",
+            "desc": "The Olkaria volcanic complex, located immediately S of Lake Naivasha and W of Longonot volcano, comprises up to 80 individual alkali rhyolite centers. A thick, geochemically diverse basal complex is overlain by a dominantly silicic lava-dome and lava-flow complex constructed within a largely obscured 11 x 7.5-km-wide caldera that formed about 20,000 years ago following the eruption of welded alkali rhyolite ignimbrites. The youngest known eruption originated from the Ololbutot fissure on the SW side of the complex and produced a 5 km3 lava flow and a pumice flow that has a radiocarbon age of about 180 years. Fumarolic activity occurs at the Njorowa Gorge, and at the Orengingnai and Olkaria (Orgaria) pumice cones. Olkaria is the site of a large 50-80 km3 high-temperature geothermal field."
         },
         {
             "name": "Siberian Traps",
@@ -4675,7 +4810,7 @@
         },
         {
             "name": "Emuruangogolak",
-            "vei": 0,
+            "vei": 4,
             "coordinates": [1.4998712239800749, 36.331501978148495],
             "type": "Shield",
             "summitFeet": 4216,
