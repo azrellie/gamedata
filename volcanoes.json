@@ -2049,6 +2049,87 @@
             "desc": "Wolf is a shield volcano in the Galapagos. The volcano was named after Theodor Wolf, a German geologist who studied the Galápagos Islands in the 19th century."
         },
         {
+            "name": "Acatlán Volcanic Field",
+            "vei": 7,
+            "coordinates": [20.450119523184096, -103.57031129639776],
+            "type": "Caldera",
+            "summitFeet": 6529,
+            "magmaType": "Rhyolite",
+            "desc": "The Acatlán volcanic field, located SW of La Primavera caldera, is a group of andesitic cones, rhyolitic lava domes, and lava flows associated with a caldera system. The Acatlán Ignimbrite is a compositionally zoned rhyolitic-to-andesitic tuff that covers an area of about 150 km2. The ignimbrite overlies andesitic breccias dated at 0.65 million years. Following eruption of the ignimbrite, a series of rhyolitic and dacitic lava domes and andesitic cinder cones and lava flows were erupted throughout the Acatlán volcanic field."
+        },
+        {
+            "name": "Sierra la Primavera",
+            "vei": 6,
+            "coordinates": [20.640778541866993, -103.56233115715773],
+            "type": "Caldera",
+            "summitFeet": 7448,
+            "magmaType": "Rhyolite",
+            "desc": "The Sierra la Primavera volcanic complex is located immediately west of México's second-largest city, Guadalajara. Following the eruption of rhyolitic lava flows and domes beginning about 120,000 years before present (BP), an 11-km-wide caldera was formed as a result of the eruption of the 20 km3 Tala Tuff about 95,000 BP. La Primavera caldera subsequently filled with water, forming a lake, through which several lava domes were emplaced. The eruption of a series of domes along the margin of the caldera about 95,000 years ago was followed about 75,000 years ago by the eruption of a younger series of ring domes. Uplift and sedimentation filled the lake, and a final series of lava domes was erupted along the southern margin of the caldera beginning about 60,000 BP, with the youngest dome dated at about 30,000 BP. Steam vents and hot springs currently are active throughout the volcanic complex."
+        },
+        {
+            "name": "Nevsehir-Acigöl Volcanic Complex",
+            "vei": 6,
+            "coordinates": [38.538259881562794, 34.62057833146741],
+            "type": "Complex",
+            "summitFeet": 5522,
+            "magmaType": "Rhyolite",
+            "desc": "The Nevsehir-Acigöl Volcanic Complex is located in the Cappadocia region of central Turkey largely in the area between the towns of Acigöl and Nevsehir. A hypothesized 7 x 8 km late-Pleistocene caldera (Acigöl, or Kocadag) is part of a partially buried larger caldera and contains a group of maars, lava domes, basaltic lava flows, and pyroclastic cones. As defined by Uslusar et al. (2021), this complex includes 24 lava domes (andesitic to rhyolitic), 10 scoria cones (basaltic to andesitic), six maars (basaltic trachyandesitic and rhyolitic), two tuff rings (basaltic), and another 28 undifferentiated features; the youngest dome and maar ages are about 20 ka (U-Th/He). Three groups of obsidian lava flows have been dated; pre-collapse flows between about 190,000 and 180,000 years before present (BP), 75,000 years BP lava domes (such as Taskesik Tepe on the east), and lava domes on the west about 20,000 to 15,000 years old. Thirteen tephra layers deposited between about 11,000 and 4,300 years ago were found in sediment cores in the late Pleistocene Eski Acigöl maar (Kuzucuoglu et al., 1998), but their source is uncertain. An ash layer near the Kocatepe dome was reported by Pasquare (1968) to overlie artifacts of Roman-Cappadocian age, but no detailed work is known."
+        },
+        {
+            "name": "Alid",
+            "vei": 5,
+            "coordinates": [14.8800990981638, 39.92001559844588],
+            "type": "Stratovolcano",
+            "summitFeet": 2966,
+            "magmaType": "Rhyolite",
+            "desc": "Alid is an isolated, dissected volcano in the central Danakil depression. Elongated in an E-W direction perpendicular to the orientation of the Alid graben, it consists of a structural dome of uplifted sedimentary rocks rising 700 m above the graben floor, which was produced by intrusion of a silicic magma body. The dome is capped by steep-sided basaltic-to-rhyolitic lava flows. Late-stage eruptions during the late Pleistocene ejected rhyolitic pumice. A 2 x 3 km graben cuts the top of the dome, and the crater that produced the Plinian eruption occupies the western third of the summit depression. Vast lava fields of probable Holocene age originating from fissure vents bank up against the flanks to the NW and SE. Small cones and craters that were the source of the flows are localized along NNW-trending fissures. Fumarolic activity continues from broad areas on the northern summit and flank."
+        },
+        {
+            "name": "Apaneca Range",
+            "vei": 6,
+            "coordinates": [13.87193227386686, -89.7420914983425],
+            "type": "Stratovolcano",
+            "summitFeet": 6654,
+            "magmaType": "Basalt",
+            "desc": "The Apaneca Range (also known as the Cuyanausul Range) consists of a group of basaltic-to-andesitic Pleistocene and Holocene stratovolcanoes in western El Salvador between the Santa Ana complex and the Guatemala border. The Pleistocene dacitic-rhyolitic Concepción de Ataco caldera (5 x 3.5 km) lies at the W end of the complex, along with post-caldera late-Pleistocene to Holocene andesitic-dacitic lava domes. The post-caldera cones of Cerro el Aguila (the highest peak of the complex) and Cerro los Naranjos at the E end of the chain were mapped as Holocene by Weber and Weisemann (1978). Young craters on the basaltic Cerro Laguna Verde stratovolcano may also have been active during the Holocene. Numerous fumarole fields are located on the N flank of the range, and the Ahuachapán geothermal field has been producing since 1975. Several small hydrothermal explosions have occurred in historical time, including one in October 1990 at the Agua Shuca thermal area in which 26 people were killed."
+        },
+        {
+            "name": "Apoyo",
+            "vei": 6,
+            "coordinates": [11.925527411136786, -86.03245312456318],
+            "type": "Caldera",
+            "summitFeet": 1969,
+            "magmaType": "Dacite",
+            "desc": "The scenic 7-km-wide, lake-filled Apoyo caldera is a large silicic volcanic center immediately SE of Masaya caldera. The surface of Laguna de Apoyo lies only 78 m above sea level; the steep caldera walls rise about 100 m to the eastern rim and up to 500 m to the western rim. An early shield volcano constructed of basaltic-to-andesitic lava flows and small rhyodacitic lava domes collapsed following two major dacitic explosive eruptions. The caldera-forming eruptions have been radiocarbon dated between about 21,000-25,000 years before present. Post-caldera ring-fracture eruptions of uncertain age produced lava flows below the scalloped caldera rim. The slightly arcuate, N-S-trending La Joya fracture system that cuts the eastern flank of the caldera only 2 km east of the caldera rim is a younger regional fissure system structurally unrelated to Apoyo caldera."
+        },
+        {
+            "name": "Apoyeque",
+            "vei": 6,
+            "coordinates": [12.244954772727477, -86.34085728815332],
+            "type": "Caldera",
+            "summitFeet": 1699,
+            "magmaType": "Dacite",
+            "desc": "The Apoyeque volcanic complex occupies the broad Chiltepe Peninsula, which extends into south-central Lake Managua. The peninsula is part of the Chiltepe pyroclastic shield volcano, one of three large ignimbrite shields on the Nicaraguan volcanic front. A 2.8-km wide, 400-m-deep, lake-filled caldera whose floor lies near sea level truncates the low Apoyeque edifice, which rises only about 500 m above the lake shore. The caldera was the source of a thick deposit of dacitic pumice that covers the surrounding area. The 2.5 x 3 km lake-filled Xiloá (Jiloá) maar is located immediately SE of Apoyeque. The Talpetatl lava dome was constructed between Laguna Xiloá and Lake Managua. Pumiceous pyroclastic flows from Laguna Xiloá were erupted about 6,100 years ago and overlie deposits of comparable age from the Masaya Plinian eruption."
+        },
+        {
+            "name": "Ayarza",
+            "vei": 5,
+            "coordinates": [14.419613135802258, -90.12626650157566],
+            "type": "Caldera",
+            "summitFeet": 4623,
+            "magmaType": "Trachyte?",
+            "desc": "Ayarza is a double caldera that lies about 40 km NE of the active Guatemalan volcanic front. The 5 x 7 km wide figure-8-shaped caldera is filled by the scenic Laguna de Ayarza, which is about 4 km wide in the western caldera and 2 km wide in the eastern caldera. Both calderas, whose steep walls rise nearly 600 m above the lake surface, were formed within several thousand years of each other during major rhyolitic explosive eruptions in the late Pleistocene. The older eastern caldera was associated with eruption of the Mixta pumice fall and ashflow, which were radiocarbon dated at about 27,000 ± 1600 years before present (BP). The larger western caldera was formed during eruption of the Pinos Altos airfall pumice and Tapalapa ashflows radiocarbon dated at 23,100 ± 500 years BP. Formation of the double caldera appears to be the last volcanic activity at Ayarza; bathymetry of the lake floor does not show evidence for post-caldera eruptions."
+        },
+        {
+            "name": "Barva",
+            "vei": 6,
+            "coordinates": [10.134930328081463, -84.10107362776097],
+            "type": "Complex",
+            "summitFeet": 9534,
+            "magmaType": "Andesite",
+            "desc": "One of three massive volcanoes close to the capital city of San José, Volcán Barva (Barba) is a complex volcano with multiple peaks and flank vents. Three peaks visible from the Central Valley give it the common local name of Las Tres Marías. The voluminous andesitic-to-dacitic Tiribí Tuff, exposed in the Central Valley, was erupted about 322,000 years ago. The summit area is dominated by a 2 x 3 km crater open to the ESE. One of the cones on the upper N flank contains a crater lake. Cones are also found on the S flanks, along with lava flows. The Los Angeles flow, one of the most recent, descends nearly to the city of Heredia. A large Plinian eruption occurred during the early Holocene. Eruptions were reported in 1760 or 1766, 1776? (also a mudflow), and 1867, but later visits to the summit did not provide evidence for recent activity."
+        },
+        {
             "name": "Piton des Neiges",
             "vei": 6,
             "coordinates": [-21.142487556452846, 55.45814062052044],
