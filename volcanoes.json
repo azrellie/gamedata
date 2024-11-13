@@ -390,7 +390,7 @@
             "desc": "A rather small looking caldera in Italy near Vesuvius, that sits right in the middle of Naples. This volcano is an extremely high threat due to it being directly in the middle of a major city, which a likely chance of an eruption in the future, and is considered a supervolcano, meaning there is a chance for a super eruption to occur right in the middle of a major city."
         },
         {
-            "name": "Long Valley",
+            "name": "Long Valley Caldera",
             "vei": 7,
             "coordinates": [37.664664230355, -118.78804937818482],
             "type": "Caldera",
@@ -2274,6 +2274,69 @@
             "desc": "The broad Durango volcanic field covers 2,100 km2 at the NW corner of the Meseta Central near the eastern edge of the Sierra Madre Occidental of north-central México. The expansive undissected lava plain lies within the Mexican Basin and Range province and is NE of the city of Durango. The field includes about 100 Quaternary basanitic cinder and lava cones as well as several xenolith localities. La Breña-El Jagüey maar complex consists of two intersecting maars, the largest of which (La Breña) contains a series of nested cinder cones. The maar complex is one of the youngest eruptive centers and was considered by Aranda-Gómez et al. (1992) to be only a few thousand years old."
         },
         {
+            "name": "Karkar",
+            "vei": 6,
+            "coordinates": [-4.647138621657615, 145.97421782527113],
+            "type": "Stratovolcano",
+            "summitFeet": 6033,
+            "magmaType": "Andesite",
+            "desc": "Karkar is a 19 x 25 km forest-covered island that is truncated by two nested summit calderas. The 5.5 km outer caldera was formed during one or more eruptions, the last of which occurred 9,000 years ago. The steep-walled 300-m-deep, 3.2 km diameter, inner caldera was formed sometime between 1,500 and 800 years ago. Cones are present on the N and S flanks of this basaltic-to-andesitic volcano; a linear array of small cones extends from the northern rim of the outer caldera nearly to the coast. Recorded eruptions date back to 1643 from Bagiai, a pyroclastic cone constructed within the inner caldera, the floor of which is covered by young, mostly unvegetated andesitic lava flows."
+        },
+        {
+            "name": "Kharimkotan",
+            "vei": 5,
+            "coordinates": [49.11896768694081, 154.5186608087196],
+            "type": "Stratovolcano",
+            "summitFeet": 3757,
+            "magmaType": "Andesite",
+            "desc": "The 8 x 12 km island of Kharimkotan (also spelled Harimkotan) in the northern Kuriles consists of a stratovolcano cut by two breached depressions on the east and NW sides. These horseshoe-shaped craters were formed by slope failure, which produced debris-avalanche deposits that form large broad peninsulas on the east and NW coasts. Evidence of additional slope failures followed by plinian eruptions are found in sea cliffs of the island. Historical explosive eruptions have occurred since the early 18th century. A central cone, Severgin, was largely destroyed during the 1933 eruption, one of the largest in the Kuril Islands during historical time. Impact of a debris avalanche into the sea from the collapse of Severgin produced a tsunami that swept the island's coast and reached Onekotan and Paramushir Islands, killing two people. A large lava dome emplaced during the 1933 eruption now fills the head of the eastern crater."
+        },
+        {
+            "name": "Cerro del León",
+            "vei": 5,
+            "coordinates": [-22.1431326236795, -68.10745844665145],
+            "type": "Stratovolcano",
+            "summitFeet": 18878,
+            "magmaType": "Andesite",
+            "desc": "Cerro del León is an andesitic stratovolcano 40 km SE of the San Pedro-San Pablo volcanoes. It is flanked by two massive dacitic lava domes, 2.6 km3 Chillahuita to the SE and 26 km3 Chao to the NW, in the saddle between Cerro del Leon and Paniri volcanoes. González-Ferrán (1995) considered León to be of Pleistocene-Holocene age. The massive Chao lava dome and flow is the world's largest of its type. The 14.5-km-long dacitic lava flow has distal margins that are 350-400 m high and dramatic 30-m-high flow ridges on its surface. The age of the flows was considered to be post-glacial (Guest 1981, pers. comm.), but Argon-Argon dates indicate only that it is less than 100,000 years old (de Silva and Francis, 1991), and based on comparison with nearby dated flows, it was considered to be of Pleistocene age (de Silva, 2007 pers. comm.). The eruption of less than 1 km3 of dacitic pyroclastic flows preceded the initial lava extrusion, which formed the 22 km3 compound main flow. Eruption of a small amount of rhyolitic airfall and growth of a pumice cone was followed by effusion of the final 3 km3 of lava."
+        },
+        {
+            "name": "Nemo Peak",
+            "vei": 7,
+            "coordinates": [49.56879603613957, 154.82647319693154],
+            "type": "Caldera",
+            "summitFeet": 3340,
+            "magmaType": "Andesite",
+            "desc": "Nemo Peak volcano at the northern end of Onekotan Island in the northern Kuriles is truncated by two nested calderas of preglacial age, the largest of which is 10 km in diameter and extends to the northern coast. A third 5-km-wide caldera formed about 25,000 years ago by collapse of an interglacial cone that was constructed over the glaciated surfaces of the earlier calderas. The 1018-m-high central cone of Nemo Peak is composed of two coalescing andesitic cones that were constructed at the SW side of the youngest caldera and formed in four stages beginning in the early Holocene about 9500 years ago. Construction of the central cone has left the crescent-shaped Chernoe Lake at the NE end of the youngest caldera; lava flows from Nemo Peak form the broad SW shoreline of the lake. The final activity built a lava dome that completely overtops a 350-m-wide crater and has a 150-m-wide crater at its summit. Historical eruptions of Nemo Peak date back to the early-18th century."
+        },
+        {
+            "name": "Rishirizan",
+            "vei": 5,
+            "coordinates": [45.1762061243063, 141.23622036089634],
+            "type": "Startovolcano",
+            "summitFeet": 5646,
+            "magmaType": "Andesite",
+            "desc": "Rishirizan is a highly dissected andesitic stratovolcano that forms a 20-km-wide island west of the northern tip of Hokkaido. Extensive erosion has produced an extremely rugged topography, with a dramatic sharp-topped, summit flanked by steep-sided radial ridges. A stratovolcano and flank lava domes were constructed beginning less than 200,000 years ago. After about 37,000 years ago only flank vents were active. Late-stage eruptions took place from scoria cones and maars along a 15-km-long NW-SE trend that extends to the SE coast. Flank eruptions were dominantly basaltic, but also included andesitic and rhyolitic activity. Extensive lava flows during the late Pleistocene form much of the northern and western coasts and extend offshore. The latest eruptions took place a few thousand years ago."
+        },
+        {
+            "name": "Soufrière Guadeloupe",
+            "vei": 5,
+            "coordinates": [16.044064816972984, -61.66466640115845],
+            "type": "Startovolcano",
+            "summitFeet": 4813,
+            "magmaType": "Andesite",
+            "desc": "La Soufrière de la Guadeloupe volcano occupies the southern end of Basse-Terre, the western half of the island of Guadeloupe. Construction of the Grand Découverte volcano about 200,000 years ago was followed a Plinian eruption and caldera formation about 100,000 years later, and then by construction of the Carmichaël volcano within the caldera. Two episodes of edifice collapse and associated large debris avalanches formed the Carmichaël and Amic craters about 11,500 and 3,100 years ago, respectively. The present volcano subsequently grew within the Amic crater. The summit consists of a flat-topped lava dome, and several other domes occur on the southern flanks. Six phreatic explosive eruptions since 1690 opened radial fractures across the summit lava dome. The phreatic eruptions in 1976-77 caused severe economic disruption when Basse-Terre, the island's capital city immediately below the volcano, was evacuated."
+        },
+        {
+            "name": "Danau Waibelen",
+            "vei": 4,
+            "coordinates": [-8.17957881971545, 122.78682731911734],
+            "type": "Maar",
+            "summitFeet": 393,
+            "magmaType": "Andesite?",
+            "desc": "A relatively unknown volcano in Indonesia that has produced a highly explosive eruption 450 BCE according to locals."
+        },
+        {
             "name": "Crooked River Caldera",
             "vei": 7,
             "coordinates": [44.29990381625502, -120.90037729096537],
@@ -2365,7 +2428,7 @@
         },
         {
             "name": "Pacaya",
-            "vei": 3,
+            "vei": 7,
             "coordinates": [14.382151113616713, -90.60149381934667],
             "type": "Complex",
             "summitFeet": 8428,
@@ -2614,7 +2677,7 @@
             "desc": "A large volcanic structure in the Sikhote-Alin volcanic belt. It represents the remnant of a caldera that was formed by an ancient subduction zone and produced a massive VEI-8 eruption."
         },
         {
-            "name": "Krakatoa",
+            "name": "Krakatau",
             "vei": 6,
             "coordinates": [-6.1497044228515545, 105.44605798105464],
             "type": "Caldera",
