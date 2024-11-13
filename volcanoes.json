@@ -1546,6 +1546,19 @@
             ]
         },
         {
+            "name": "Mackenzie Large Igneous Province",
+            "vei": 10,
+            "coordinates": [59.244264968126515, -98.27694497544576],
+            "type": "Large Igneous Province",
+            "summitFeet": 512,
+            "magmaType": "Basalt",
+            "desc": "last vei 9+ for ndt",
+            "chatMessages": [
+                "Small fissures can be seen erupting near the Hudson Bay...",
+                "<b><font color='rgb(75,0,0)'>An extremely large lava flood is ongoing in northern Canada...</font></b>"
+            ]
+        },
+        {
             "name": "Shatsky Rise",
             "vei": 10,
             "coordinates": [38.70879719608876, 157.19210284219685],
