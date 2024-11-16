@@ -4245,11 +4245,38 @@
         {
             "name": "Aguas Calientes",
             "vei": 7,
-            "coordinates": [-23.363250128256997, -67.6830148473285],
+            "coordinates": [-24.251428105472186, -66.5029700743336],
             "type": "Caldera",
             "summitFeet": 14675,
             "magmaType": "Dacite",
             "desc": "Aguas Calientes is a caldera in Argentina. Post-caldera activity included hydrothermal–geothermal activity and may have migrated westward to the neighbouring Quevar volcanic centre. Subsequent to the caldera formation, the caldera floor was uplifted for 800–1,000 metres (2,600–3,300 ft). Geothermal activity still occurs at the Incachule field."
+        },
+        {
+            "name": "Los Frailes Caldera",
+            "vei": 8,
+            "coordinates": [-19.56508503693933, -66.18778013380042],
+            "type": "Caldera",
+            "summitFeet": 13420,
+            "magmaType": "Rhyolite",
+            "desc": "The largest caldera of the Los Frailes ignimbrite plateau. It has been formed by multiple large eruptions, the largest of which likely had a VEI of 8."
+        },
+        {
+            "name": "Wheelwright Caldera",
+            "vei": 7,
+            "coordinates": [-26.539984933746716, -68.71765448788565],
+            "type": "Caldera",
+            "summitFeet": 13256,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in the Central Andean Volcanic Zone. It is the likely source of Wheelwright Ignimbrite (6.6 - 5.5 Ma)."
+        },
+        {
+            "name": "Unnamed",
+            "vei": 6,
+            "coordinates": [-21.142971886560638, -175.7347358851593],
+            "type": "Caldera",
+            "summitFeet": -1000,
+            "magmaType": "Andesite",
+            "desc": "An unnamed volcanic caldera west of the Tongatapu island. The volume of the caldera forming eruption is estimated to be between 30 and 50 km3."
         },
         {
             "name": "Agung",
