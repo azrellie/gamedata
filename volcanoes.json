@@ -3928,6 +3928,15 @@
             "desc": "The Eldvörp–Svartsengi volcanic system comprises a broad area of postglacial basaltic crater rows and small shield volcanoes."
         },
         {
+            "name": "Paletará Caldera",
+            "vei": 7,
+            "coordinates": [2.244263112158406, -76.49587730967171],
+            "type": "Caldera",
+            "summitFeet": 260,
+            "magmaType": "Rhyolite",
+            "desc": "A large 15 x 13 km caldera in Colombia. It is a part of the Puracé volcanic chain, and is the largest discovered caldera in Colombia."
+        },
+        {
             "name": "Fueguino",
             "vei": 2,
             "coordinates": [-54.9618927840529, -70.26183213611331],
