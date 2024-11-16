@@ -139,7 +139,7 @@
             "desc": "A stratovolcano in Washington state that is adjacent and sits further east to St. Helens. Currently has only produced low explosivity eruptions in the past 8000 years."
         },
         {
-            "name": "Yellowstone",
+            "name": "Yellowstone Plateau Volcanic Field",
             "vei": 8,
             "coordinates": [44.36880150435362, -110.72187055142369],
             "type": "Caldera",
@@ -3746,7 +3746,97 @@
             "summitFeet": 15322,
             "magmaType": "Rhyolite",
             "desc": "Cerro Blanco is a caldera in Argentina. Cerro Blanco received attention from scientists after satellite images in the early 21st century observed deflation of the caldera."
-        },    
+        },
+        {  
+            "name": "Vico-Cimino Complex",
+            "vei": 6,
+            "coordinates": [42.333373972057274, 12.176323678954393],
+            "type": "Stratovolcano",
+            "summitFeet": 3455,
+            "magmaType": "Dacite?",
+            "desc": "The Vico volcano is classified as part of the Roman Magmatic Province; however, the Cimino volcano that Vico partially overlies technically belongs to the Tuscan Magmatic Province, based on geochemical affinity (Peccerillo, 2005). The Monte Cimino trachytic lava dome complex was active from 1.35-0.94 Ma (Peccerillo, 2005). The PT Ignimbrite was erupted about 1.3 million years ago. The adjacent Vico central volcano and caldera was active during three periods from 0.4 to 0.15 Ma (Sollevanti, 1983; Peccerillo, 2005). Period 1 was dominated by pyroclastics and minor lava flows, Period 2 involved the emplacement of intermediate to felsic lavas that constructed the main cone. The post-caldera activity of Period 3 produced mafic lavas, scoria, and phreatomagamtic products. Vico also has a few post-caldera monogenetic centers, the largest of which is the Monte Venere cone inside the caldera (Peccerillo, 2005). Four ignimbrite-producing eruptions related to caldera formation took place from about 0.25-0.144 million years ago."
+        },
+        {  
+            "name": "Yoteizan",
+            "vei": 5,
+            "coordinates": [42.82783394044477, 140.806682470788],
+            "type": "Stratovolcano",
+            "summitFeet": 6194,
+            "magmaType": "Andesite",
+            "desc": "Yoteizan is a symmetrical andesitic-to-dacitic stratovolcano with a Fuji-like profile the forms a prominent landmark NW of Toya caldera. Its summit is truncated by a 700-m-wide crater that is cut on its NW rim by overlapping smaller craters. Deep radial gullies cut the flanks. The latest eruption from the main edifice took place about 5000-6000 years ago. Hangetsu-ko (Half Moon Lake), a tuff cone on the lower NW flank, was estimated from stratigraphic evidence to have erupted about 3000 years ago."
+        },
+        {  
+            "name": "Washibetsu",
+            "vei": 6,
+            "coordinates": [42.43562326718057, 141.00577893398366],
+            "type": "Stratovolcano",
+            "summitFeet": 2989,
+            "magmaType": "Unknown",
+            "desc": "Washibetsu-dake volcano, an andesitic stratovolcano SE of Usu volcano, was active about 0.5 million years ago."
+        },
+        {  
+            "name": "Zitácuaro-Valle de Bravo",
+            "vei": 5,
+            "coordinates": [19.399878465897388, -100.25004871562338],
+            "type": "Volcanic Field",
+            "summitFeet": 11483,
+            "magmaType": "Dacite",
+            "desc": "The Zitácuaro-Valle de Bravo volcanic field in the central part of the Trans-Mexican Volcanic Belt consists of a broad region of shield volcanoes, lava domes, and cinder cones surrounding the city of Heroica de Zitácuaro. The Zitácuaro volcanic complex itself, located SE of the city, was constructed within the 30-km-wide Las Tres Chicas caldera of Miocene age, which later underwent three post-caldera episodes of intra-caldera lava dome resurgence and included the intrusion of dacitic central lava domes, the emplacement of pyroclastic flows, and the eruption of andesitic lava flows. The youngest dated activity at the complex produced La Dieta airfall deposit about 31,000 years ago, and persistent local seismicity continues at Zitácuaro. The Valle de Bravo area to the south contains dominantly andesitic lava domes and flows, many of which were erupted along regional faults. The youngest flows were erupted at the bottom of a fault-controlled canyon; the most recent of these, west of the Valle de Bravo lake, has been Ar-Ar dated at about 5,200 ± 2,300 years, and morphology suggests a Holocene age for other cones."
+        },
+        {  
+            "name": "Zheltovsky",
+            "vei": 5,
+            "coordinates": [51.57983931584139, 157.3286852524231],
+            "type": "Stratovolcano",
+            "summitFeet": 6319,
+            "magmaType": "Basalt",
+            "desc": "Zheltovsky volcano was constructed during the last 8000 years within a 4 x 5 km caldera truncating an earlier Pleistocene edifice. A late-Holocene explosive eruption formed a 1.6-km-wide summit crater that was subsequently largely filled by four lava domes, the latest of which forms the present summit. Several of the lava domes were emplaced along the buried SE rim of the summit crater. More than ten cinder cones and lava domes were constructed on the flanks, particularly on the NW side. Only a few eruptions are known in historical time. The largest, in 1923, produced explosive activity and a lava flow down the SE flank that also partly flowed into the summit crater."
+        },
+        {  
+            "name": "Zenikame",
+            "vei": 6,
+            "coordinates": [41.705720331903755, 140.8139390404117],
+            "type": "Caldera",
+            "summitFeet": -98,
+            "magmaType": "Dacite?",
+            "desc": "A 2-km-wide shallow submarine caldera just off the SW tip of Hokkaido, SE of Hakodate City reaches to within 30 m of the ocean surface. It was the source of the Zenikame-Menagawa (Z-M) tephra about 33,000-45,000 years ago."
+        },
+        {  
+            "name": "Mendeleev",
+            "vei": 6,
+            "coordinates": [43.97090474189245, 145.73670076763148],
+            "type": "Stratovolcano",
+            "summitFeet": 2894,
+            "magmaType": "Andesite",
+            "desc": "Mendeleev, also known as Raususan, is a low compound stratovolcano located in the southern part of Kunashir Island. The dominantly andesitic-dacitic volcano is cut by two nested calderas, the larger 6-7 km in diameter and the smaller 3-3.5 km. A central cone that formed inside the younger caldera was breached to the west by a large debris avalanche about 4200 years ago. A lava dome that grew inside the avalanche scarp forms the 888 m high point of the volcano. Additional lava domes in the northern part of the older caldera are considered to represent flank activity of the younger caldera. The only unambiguous historical eruption was a small phreatic explosion in 1880. Four solfatara fields lie at the eastern and northern flanks of the central cone, and a geothermal field is located outside the caldera along the eastern coast."
+        },
+        {  
+            "name": "Naruko",
+            "vei": 6,
+            "coordinates": [38.729053558036135, 140.73366409923636],
+            "type": "Caldera",
+            "summitFeet": 1540,
+            "magmaType": "Rhyolite",
+            "desc": "Naruko is a poorly defined, 5.5 x 7 km caldera NW of the city of Sendai. Formed during eruptions about 73,000 and 45,000 years ago, it contains a cluster of four dacitic lava domes of Holocene age surrounding the 400-m-wide lake-filled Katanuma crater. The highest of the low, but steep-sided lava domes, Ogadake, lies SE of the lake and reaches only 470 m above sea level. Ogadake and Kurumigadake domes are capped by conglomerates and mudstones uplifted during dome growth. The only recorded eruption in occurred in 837 CE. Water vapor and sulfur-dioxide gas emission occurs from Shurado crater on Toyagamori lava dome west of the lake and from the bottom of the crater lake, which is one of the most acidic in Japan, with a pH of 1.6. Solfataras are found on the western shore of Katanuma, and sulfur is mined from sediments on the lake floor."
+        },
+        {  
+            "name": "Ugashik-Peulik",
+            "vei": 6,
+            "coordinates": [57.716984550708496, -156.38484013045107],
+            "type": "Stratovolcano",
+            "summitFeet": 4836,
+            "magmaType": "Andesite",
+            "desc": "The Ugashik-Peulik volcanic complex lies south of Becharof Lake and east of Upper Ugashik Lake. Late-Pleistocene caldera formation was followed by the emplacement of at least five Holocene lava domes within the 4.5-km-wide caldera. Most of the caldera walls consist of basement sandstones of Jurassic age. Following caldera formation the small, 3 km3 Peulik stratovolcano grew 2.5 km to the N. Lava flows from Peulik cover the caldera rim to the south and extend to Becharof Lake, 6 km N. A small lava dome on the E flank of Peulik was the source of a small block-and-ash flow. The summit of Peulik contains a 1.5-km-wide crater breached to the west that is partially filled by a lava dome. Debris-avalanche deposits cover a 75 km2 area to the NW. A single documented historical eruption took place from Peulik in 1814."
+        },
+        {  
+            "name": "Kumano Caldera",
+            "vei": 8,
+            "coordinates": [33.62469240199957, 135.75872251858092],
+            "type": "Caldera",
+            "summitFeet": 6281,
+            "magmaType": "Rhyolite",
+            "desc": "A huge volcanic caldera in southern Kii Peninsula, Japan. It was formed 13 million years ago during an active phase of volcanism in Japan, which caused the formation of several VEI-8 calderas."
+        },
         {
             "name": "Toussidé",
             "vei": 7,
