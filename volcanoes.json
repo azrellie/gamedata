@@ -944,6 +944,15 @@
             "desc": "Sanbesan stratovolcano, near the northern coast of SW Honshu, has a summit cut by a small caldera about 1 km in diameter. The highest point on the dacitic-to-andesitic volcano is O-Sanbe, at the northern end of the complex. There have been several large explosive eruptions during the Pleistocene and one strong Holocene eruption from the Taiheizan lava dome about 3,700 years ago. This eruption was accompanied by pyroclastic flows that swept down the NE-to-SE flanks and traveled 9 km down the Hayamizu River to the SW. Younger, undated eruptions have also occurred."
         },
         {
+            "name": "Yatsuga-take",
+            "vei": 6,
+            "coordinates": [35.97042191344572, 138.36930609288663],
+            "type": "Stratovolcano",
+            "summitFeet": 9511,
+            "magmaType": "Basalt",
+            "desc": "The older Yatsugatake volcano was active about 1 million years ago and the younger was active about 0.2 million years ago. This complex of N-S-trending stratovolcanoes extends for about 10 km and is also known as Minami Yatsugatake 'Southern Eight Peaks'"
+        },
+        {
             "name": "Tanaga",
             "vei": 0,
             "coordinates": [51.88383502083203, -178.14138903944257],
@@ -1514,6 +1523,78 @@
             "summitFeet": 1089,
             "magmaType": "Trachyte",
             "desc": "Volcán Bárcena, formed by eruptions during 1952-53, is the most prominent feature of Isla San Benedicto, the NE-most of the Revillagigedo Islands, 350 km south of the tip of Baja California. San Benedicto island, elongated in a NE-SW direction, contains a series of Pleistocene trachytic lava domes at the north end. The southern end of the 4.5-km-long island is formed by Bárcena and Montículo Cinerítico, a smaller tephra cone that preceded and was largely overtopped by Bárcena. Montículo Cinerítico may also have been constructed during the past few hundred years and formed the high point of the island prior to the formation of Bárcena. Growth of the 300-m-high Bárcena tephra cone beginning in August 1952 was accompanied by strong explosive eruptions and pyroclastic flows. The eruption concluded the following year with the emplacement of two small lava domes in the crater and extrusion of a prominent coastal lava delta at the SE base of the cone."
+        },
+        {
+            "name": "Rausudake",
+            "vei": 4,
+            "coordinates": [44.075761672235394, 145.12223920297663],
+            "type": "Stratovolcano",
+            "summitFeet": 5446,
+            "magmaType": "Andesite",
+            "desc": "Rausudake is an andesitic-to-dacitic stratovolcano with summit lava domes on the Shiretoko Peninsula in NE Hokkaido. The 1660-m-high volcano is located along a ridge 5 km SW of Shiretoko-Iozan volcano, the NE-most Holocene volcano in Hokkaido. Young lava flows descend the NW flank and broad areas along the SE flank, and an older lava flow traveled about 9 km W, reaching the coast of the Sea of Okhotsk along a broad front. Eruptions produced pumiceous tephras with associated pyroclastic flows about 2200, 1400, and 800 years ago. Recent work has documented a pyroclastic-flow deposit that overlies the 1739 tephra from Tarumai volcano in SW Hokkaido. Stratigraphic relationships place this eruption, the most recent known from Rausudake, between about 1750 and 1850 CE."
+        },
+        {
+            "name": "Shiretoko-Iozan",
+            "vei": 2,
+            "coordinates": [44.13332172993894, 145.16112828423752],
+            "type": "Stratovolcano",
+            "summitFeet": 5125,
+            "magmaType": "Andesite",
+            "desc": "Shiretoko-Iozan, one of many Japanese sulfur mountains, is noted for the extrusion of molten sulfur during eruptions in 1889 and 1936. Located at the NE tip of Hokkaido on the Shiretoko Peninsula, the andesitic volcano contains two large craters at the summit that are breached to the NW. The southern crater contains a small flat-topped lava dome. The main cone, Nakadake, was constructed NW of the headwalls of the two breached craters. Historical eruptions have originated from the southernmost of three explosion craters along a NNE-SSW line on the NW flank of the main cone."
+        },
+        {
+            "name": "Iwakisan",
+            "vei": 3,
+            "coordinates": [40.65616160808303, 140.30308766308346],
+            "type": "Stratovolcano",
+            "summitFeet": 5331,
+            "magmaType": "Andesite",
+            "desc": "Iwakisan volcano, symmetrical on all but its western flanks, has been called the Fujisan of the Tsugaru district. The 2-km-wide summit crater is filled by a lava dome flanked by six explosion craters. Three lava domes are found on the western and southern flanks of the andesitic volcano, the NW-most active volcano in Honshu. Historical eruptions have been reported here since 1600 CE and have consisted primarily of small-to-moderate phreatic explosions."
+        },
+        {
+            "name": "Iwatesan",
+            "vei": 5,
+            "coordinates": [39.85121223465473, 141.0015749126405],
+            "type": "Volcanic Complex",
+            "summitFeet": 6686,
+            "magmaType": "Basalt",
+            "desc": "Viewed from the east, Iwatesan volcano has a symmetrical profile that invites comparison with Fuji, but on the west an older cone is visible containing an oval-shaped, 1.8 x 3 km caldera. After the growth of Nishi-Iwate volcano beginning about 700,000 years ago, activity migrated eastward to form Higashi-Iwate volcano. Iwate has collapsed seven times during the past 230,000 years, most recently between 739 and 1615 CE. The dominantly basaltic summit cone of Higashi-Iwate volcano, Yakushidake, is truncated by a 500-m-wide crater. It rises well above and buries the eastern rim of the caldera, which is breached by a narrow gorge on the NW. A central cone containing a 500-m-wide crater partially filled by a lake is located in the center of the oval-shaped caldera. A young lava flow from Yakushidake descended into the caldera, and a fresh-looking lava flow from the 1732 eruption traveled down the NE flank."
+        },
+        {
+            "name": "Gassan",
+            "vei": 4,
+            "coordinates": [38.548995713638654, 140.02703950468634],
+            "type": "Stratovolcano",
+            "summitFeet": 6509,
+            "magmaType": "Andesite",
+            "desc": "Gassan is a massive andesitic-to-dacitic stratovolcano south of Chokai volcano that was active about 900,000-300,000 years ago (Nakano et al., 2001-). It was constructed with a large Pleistocene caldera."
+        },
+        {
+            "name": "Kurikomayama",
+            "vei": 2,
+            "coordinates": [38.960877216985224, 140.78812301490268],
+            "type": "Stratovolcano",
+            "summitFeet": 5338,
+            "magmaType": "Andesite",
+            "desc": "The summit of Kurikomayama volcano is cut by a 4-km-wide caldera breached to the north that is partially filled by the Tsurugi-dake central cone, once mined for sulfur. The complex andesitic-to-dacitic stratovolcano was constructed over a relatively high basement of welded and unwelded Tertiary dacitic tuffs and sedimentary rocks and thus has a smaller volume than its height suggests."
+        },
+        {
+            "name": "Shikotsu",
+            "vei": 7,
+            "coordinates": [42.75540486214834, 141.3263959021887],
+            "type": "Caldera",
+            "summitFeet": 4331,
+            "magmaType": "Basalt",
+            "desc": "The 13 x 15 km Shikotsu caldera, largely filled by the waters of Lake Shikotsu, was formed during one of Hokkaido's largest Quaternary eruptions about 31-34,000 years ago. The small andesitic Tarumaesan stratovolcano was then constructed on its SE rim and has been frequently active in historical time. Pyroclastic-flow deposits from Tarumaesan extend nearly to the Pacific coast. Two other Holocene post-caldera volcanoes, Fuppushidake (adjacent to Tarumaesan) and Eniwadake (on the opposite side of the caldera), occur on a line trending NW from Tarumaesan, and were constructed just inside the caldera rim."
+        },
+        {
+            "name": "Nantaisan",
+            "vei": 5,
+            "coordinates": [36.76555118827667, 139.4907171393452],
+            "type": "Stratovolcano",
+            "summitFeet": 8156,
+            "magmaType": "Andesite",
+            "desc": "Nantaisan stratovolcano rises above the north shore of Lake Chuzenji in Nikko National Park, and forms a backdrop to the temple complex there. Lava flows from the early stage of edifice construction dammed the Daiyo River, forming Lake Chuzenji; the Kegon waterfall plunges over this barrier. Nantaisan has an asymmetrical profile when viewed from the west as a result of late-stage collapse on the north side. Two major late-stage eruptions ejected large amounts of scoria, followed by the emission of pyroclastic flows."
         },
         {
             "name": "Black Butte Crater Lava Field",
@@ -3379,6 +3460,15 @@
             "desc": "Gunung Merbabu is a massive forested volcano north of Merapi in central Java. Three prominent radial valleys extend from the summit toward the NW, NNE, and ESE. The most recent magmatic eruptions originated from a NNW-SSE fissure system that cut across the summit and fed the large-volume Kopeng and Kajor lava flows on the N and S flanks, respectively. Moderate explosive eruptions occurred from the summit crater in 1560 and 1797 CE."
         },
         {
+            "name": "Nakanoshima",
+            "vei": 1,
+            "coordinates": [29.85888588927475, 129.86018399623072],
+            "type": "Stratovolcano",
+            "summitFeet": 3212,
+            "magmaType": "Andesite",
+            "desc": "The 9 x 5 km island of Nakanoshima is surrounded by coral reefs. A flat plateau separates the older dissected Sakiwaridake volcano on the south from the active andesitic cone of Ontake, which forms the northern half of the island. Ontake contains a summit crater that is filled with water during the rainy season. Sulfur deposits were mined at a SE-flank solfatara until 1944. Only very minor activity has been reported in historical time. A small mud eruption took place in 1914 at the summit crater, and 'smoking' increased in 1949."
+        },
+        {
             "name": "Kerguelen Islands",
             "vei": 6,
             "coordinates": [-49.58382543479296, 69.52608832623521],
@@ -3523,6 +3613,15 @@
             "desc": "Tokachidake volcano consists of a group of dominantly andesitic stratovolcanoes and lava domes arranged on a NE-SW line above a plateau of welded Pleistocene tuffs in central Hokkaido. Numerous explosion craters and cinder cones are located on the upper flanks of the small stratovolcanoes, with the youngest Holocene centers located at the NW end of the chain. Frequent historical eruptions, consisting mostly of mild-to-moderate phreatic explosions, have been recorded since the mid-19th century. Two larger eruptions occurred in 1926 and 1962. Partial cone collapse of the western flank during the 1926 eruption produced a disastrous debris avalanche and mudflow."
         },
         {
+            "name": "Taisetsuzan",
+            "vei": 7,
+            "coordinates": [43.70105008718986, 142.84634351940812],
+            "type": "Volcanic Group",
+            "summitFeet": 7516,
+            "magmaType": "Andesite",
+            "desc": "The Taisetsuzan volcano group lies at the northern end of the Taisetsu-Tokachi graben in central Hokkaido. It consists of a complex of stratovolcanoes and lava domes associated with a 2-km-wide caldera. The eight satellitic volcanoes are aligned along a ring fracture that is centered over the eastern rim of the caldera. Asahidake, the highest peak of the complex, was constructed 3 km SW of the center of the caldera. Other stratovolcanoes are located along a NE-SW line cutting through the caldera that trends toward the Tokachi volcano complex to the SW. In contrast to the Tokachi group, no historical eruptions are known, although the latest phreatic eruption took place sometime after 1739 CE. Fumarolic areas are located on Asahidake, where at one time sulfur was mined, and in the caldera."
+        },
+        {
             "name": "Kurose Hole",
             "vei": 6,
             "coordinates": [33.39905198715868, 139.6803582327145],
@@ -3530,6 +3629,24 @@
             "summitFeet": -374,
             "magmaType": "Dacite",
             "desc": "Kurose Hole, between Mikura and Hachijo-jima islands, is a nearly circular 5-7 km wide submarine caldera with a 600-760 m deep floor. The high point of the caldera rim rises to about 100 m of the ocean surface. Large amounts of dacitic pumice have been recovered from dredges along the inner caldera wall. The age of its most recent eruption is not known."
+        },
+        {
+            "name": "Hiuchigatake",
+            "vei": 6,
+            "coordinates": [36.955619651871295, 139.28538798047097],
+            "type": "Stratovolcano",
+            "summitFeet": 7730,
+            "magmaType": "Andesite",
+            "desc": "Hiuchigatake volcano lies in Nikko National Park and erupted the 8 km3 Hiuchigatake-Nanairi tephra and pyroclastic flow deposit about 170,00-160,000 years ago. Two lava domes at the southern end of the summit overlook Ozenuma lake, a popular hiking destination in the national park. The southern of the two domes, Akanagure, produced a series of viscous lava flows about 3500 years ago that extend to the S and W flanks."
+        },
+        {
+            "name": "Iizuna",
+            "vei": 6,
+            "coordinates": [36.740007830505476, 138.13351524133805],
+            "type": "Stratovolcano",
+            "summitFeet": 6289,
+            "magmaType": "Andesite",
+            "desc": "Mount Iizuna (飯縄山, Iizuna-yama), also written as 飯綱山 (Iizuna-yama), is a stratovolcano located ten kilometers north-northwest of the heart of Nagano, Nagano Prefecture, Japan. The mountain straddles the city of Nagano and Iizuna town in Kamiminochi District, Nagano. Together with Mount Reisenji (霊仙寺山, Resenji-yama) 1875.0 m, Mount Menō (瑪瑙山, Menō-yama) 1748 m, and others, it forms the Iizuna range. It has an elevation of 1,917 metres."
         },
         {
             "name": "Zaōsan",
