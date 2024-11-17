@@ -5660,6 +5660,15 @@
             "desc": "Rotorua Caldera is a caldera in New Zealand. The caldera was formed in a single event paired major eruption, lasting only weeks, that is now dated to 240,000 ± 11,000 years ago. It ejected more than 340 cubic kilometres (82 cu mi) of rhyolitic Mamaku ignimbrite giving it a Volcanic Explosivity Index of 7."
         },
         {
+            "name": "Okataina Caldera",
+            "vei": 7,
+            "coordinates": [-38.166552738755115, 176.50053518000257],
+            "type": "Caldera",
+            "summitFeet": 3645,
+            "magmaType": "Rhyolite",
+            "desc": "The massive, dominantly rhyolitic Okataina Volcanic Centre (OVC) is surrounded by extensive ignimbrite and pyroclastic sheets produced during multiple caldera-forming eruptions. Numerous lava domes and craters erupted from two subparallel NE-SW-trending vent lineations form the Haroharo and Tarawera volcanic complexes."
+        },
+        {
             "name": "Sumisu-tō",
             "vei": 6,
             "coordinates": [31.44625626285685, 140.04427425558336],
