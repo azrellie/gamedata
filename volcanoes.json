@@ -2094,6 +2094,24 @@
             "desc": "Capelinhos is a stratovolcano in the Azores. The volcano is a landmark on Faial; its ruined lighthouse and Visitors Center (which lies along the cliff from the volcano) is a tourist destination."
         },
         {
+            "name": "Kolumbo",
+            "vei": 6,
+            "coordinates": [36.52288238518262, 25.486383021910093],
+            "type": "Caldera",
+            "summitFeet": -30,
+            "magmaType": "Dacite",
+            "desc": "Kolumbo is an active submarine volcano in the Aegean Sea in Greece, about 8 km northeast of Cape Kolumbo, Santorini island. The largest of a line of about twenty submarine volcanic cones extending to the northeast from Santorini, it is about 3 km in diameter with a crater 1.5 km across. It was first noticed by humans when it breached the sea surface in 1649-50. The Smithsonian Institution's Global Volcanism Program treats it as part of the Santorini volcano, though at least one source maintains that it is a separate magmatic system."
+        },
+        {
+            "name": "Mono-Inyo Craters",
+            "vei": 4,
+            "coordinates": [37.91248729008508, -119.03103652254669],
+            "type": "Volcanic Field",
+            "summitFeet": 9173,
+            "magmaType": "Rhyolite",
+            "desc": "The Mono-Inyo Craters chain, on the eastern side of the Sierra Nevada between Mono Lake and Long Valley caldera, form a sickle-shaped, 25-km-long group of 35 dominantly rhyolitic lava domes, lava flows, and tephra rings. The partially overlapping dike-fed domes of the Mono Craters at the north end were erupted near the margin of a pull-apart basin. Explosive eruptions began more than 50,000 years ago from now-buried vents, but almost all of the exposed domes and flows are of Holocene age. Activity propagated both north and south from the center of the chain during the late Holocene. The latest eruptions occurred nearly contemporaneously about 600 years ago from the Panum Crater area at the northern end of the Mono Craters and from the Inyo Craters to the south, producing a series of tephra rings and obsidian lava domes and flows accompanied by deposition of locally extensive tephra layers and the formation of several phreatic explosion craters at the southern end of the Inyo Craters. The latest eruptions at Inyo Craters about 600 years ago produced explosive eruptions accompanied by formation of the South Deadman, Obsidian Flow, and Glass Creek rhyolitic lava domes and lava flows. The Inyo Crater Lakes are small phreatic craters that formed during this eruption on the south flank of the Pleistocene Deer Mountain rhyolite dome of the Long Valley caldera."
+        },
+        {
             "name": "La Palma",
             "vei": 3,
             "coordinates": [28.575003971258365, -17.837753518335784],
