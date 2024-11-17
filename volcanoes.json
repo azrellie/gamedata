@@ -4504,6 +4504,15 @@
             "desc": "The Dunedin Volcano is an extensively eroded multi-vent shield volcano that was active between 16 and 10 million years ago. It originally extended from the modern city of Dunedin, New Zealand to Aramoana about 25 km away. Extensive erosion has occurred over the last 10 million years and Otago Harbour now fills the oldest parts of the volcano. The remnants of the volcano form the hills around Otago Harbour (including Mount Cargill, Flagstaff, Saddle Hill, Signal Hill, and Otago Peninsula)."
         },
         {
+            "name": "Banks Peninsula",
+            "vei": 6,
+            "coordinates": [-43.74733935156912, 172.86808458360545],
+            "type": "Shield",
+            "summitFeet": 3015,
+            "magmaType": "Basalt",
+            "desc": "The Banks Peninsula Volcano is an extinct volcanic complex to the east of Christchurch on New Zealand's South Island. While the volcano is highly eroded it still forms the majority of Banks Peninsula with a highest point of 919 m (3,015 ft). It is a composite of two main eruptive centres one originating at Lyttelton Harbour, the other at Akaroa Harbour. The eruptions were predominantly basaltic, with associated andesite and trachytes, with minor rhyolite. The volcanic activity occurred in the Late Miocene and possibly extended into the Early Pliocene. There are four volcanic groups, all of which are within the Māui Supergroup. The Christchurch earthquakes led to rumors of a possible eruption, however, there is no known magma chamber beneath the volcano and there has not been any sign of volcanic activity in the last 5 million years."
+        },
+        {
             "name": "Darwin",
             "vei": 2,
             "coordinates": [-0.19551676561074952, -91.28300172660728],
