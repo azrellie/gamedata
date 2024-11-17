@@ -2570,6 +2570,15 @@
             "desc": "The St. Andrew Strait volcano, located in the Admiralty Islands north of Papua New Guinea, consists of a series of overlapping Quaternary cones formed by rhyolitic lava flows and pyroclastic materials on Lou and Tuluman Islands. Volcanism is aligned on a curved arc extending through the 12-km-long Lou Island. The Tuluman Islands, 1.5 km S of Lou Island, were formed during a 1953-1957 eruption. Pam Lin and Pam Mandian Islands farther to the SE along the same arc contain fresh rhyolitic obsidian similar to that found on Tuluman." 
         },
         {
+            "name": "Mount Pleasant Caldera",
+            "vei": 7,
+            "coordinates": [45.48308562611288, -66.75214419267925],
+            "type": "Caldera",
+            "summitFeet": 814,
+            "magmaType": "Rhyolite",
+            "desc": "A giant, heavily eroded caldera in New Brunswick, Canada. It was formed during the Acadian orogeny along with multiple other large volcanoes. Mount Pleasant Caldera has produced a large number of highly explosive eruptions, which is supported by Rhyolitic lava and large ignimbrite deposits." 
+        },
+        {
             "name": "Central Bismarck Sea",
             "vei": 0,
             "coordinates": [-3.030479825984059, 147.77989839723503],
