@@ -3604,6 +3604,42 @@
             "desc": "Mashu is a 6-km-wide Holocene caldera that truncates a stratovolcano constructed on the ESE rim of the large Kussharo caldera. The steep-walled caldera, filled by Lake Mashu, is one of the scenic highlights of Hokkaido. Following caldera collapse about 7,000 years ago, a small andesitic stratovolcano, Kamuinupuri, was formed beginning about 4,000 years ago, creating a reentrant into the SE side of the deep caldera lake. A large explosive eruption about 1,000 years ago, the latest dated eruption, created a 1.2 x 1.5 km crater at the summit of Kamuinupuri. The small island of Kamuishu in the center of Lake Mashu represents the tip of a mostly submerged dacitic lava dome."
         },
         {
+            "name": "Hokkaido-Komagatake",
+            "vei": 5,
+            "coordinates": [42.063384609598074, 140.67718498622182],
+            "type": "Stratovolcano",
+            "summitFeet": 3711,
+            "magmaType": "Andesite",
+            "desc": "Much of the truncated Hokkaido-Komagatake andesitic volcano on the Oshima Peninsula of southern Hokkaido is Pleistocene in age. The sharp-topped summit lies at the western side of a large breached crater that formed as a result of edifice collapse in 1640 CE. Hummocky debris avalanche material occurs at the base of the volcano on three sides. Two late-Pleistocene and two Holocene Plinian eruptions occurred prior to the first historical eruption in 1640, which began a period of more frequent explosive activity. The 1640 eruption, one of the largest in Japan during historical time, deposited ash as far away as central Honshu and produced a debris avalanche that reached the sea. The resulting tsunami caused 700 fatalities. Three Plinian eruptions have occurred since 1640; in 1694, 1856, and 1929."
+        },
+        {
+            "name": "Komochi-Onoko",
+            "vei": 5,
+            "coordinates": [36.591938471453226, 138.9978206235206],
+            "type": "Volcanic Group",
+            "summitFeet": 4252,
+            "magmaType": "Andesite",
+            "desc": "The Komochi-Onoko volcano group NW of Maebashi City consists of the andesitic Komochi-yama stratovolcano and lava dome on the east and andesitic Onoko-yama stratovolcano on the west. Komochi-yama was active from about 0.9-0.2 million years and Onoko-yama from about 1.3-1.2 million years (Nakano et al., 2001-)."
+        },
+        {
+            "name": "Kurohime",
+            "vei": 4,
+            "coordinates": [36.81361152303605, 138.12700421491652],
+            "type": "Stratovolcano",
+            "summitFeet": 6736,
+            "magmaType": "Andesite",
+            "desc": "Kurohime is a stratovolcano and associated lava domes south of Myoko volcano that were active from about 250,000 to 50,000 years ago (Nakano et al., 2001-)."
+        },
+        {
+            "name": "Kuchinoerabujima",
+            "vei": 5,
+            "coordinates": [30.449025467390182, 130.21938268476538],
+            "type": "Volcanic Group",
+            "summitFeet": 2156,
+            "magmaType": "Andesite",
+            "desc": "A group of young stratovolcanoes forms the eastern end of the irregularly shaped island of Kuchinoerabujima in the northern Ryukyu Islands, 15 km W of Yakushima. The Furudake, Shindake, and Noikeyama cones were erupted from south to north, respectively, forming a composite cone with multiple craters. All historical eruptions have occurred from Shindake, although a lava flow from the S flank of Furudake that reached the coast has a very fresh morphology. Frequent explosive eruptions have taken place from Shindake since 1840; the largest of these was in December 1933. Several villages on the 4 x 12 km island are located within a few kilometers of the active crater and have suffered damage from eruptions."
+        },
+        {
             "name": "Tokachidake",
             "vei": 3,
             "coordinates": [43.42395144365806, 142.69239361542472],
