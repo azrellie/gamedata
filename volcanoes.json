@@ -3298,6 +3298,33 @@
             "desc": "The Zavaritzki volcano on Simushir Island in the central Kuril Islands contains three nested calderas 10, 8, and 3 km in diameter. The steep-walled youngest caldera was formed during the Holocene and includes several young cones and lava domes near the margins of Biryuzovoe Lake. The current lake surface is at ~40 m elevation with the bottom ~30 m below sea level, but lacustrine sediments overlying pumice deposits indicate that the surface of an earlier caldera lake lay at 200 m above sea level. A small 500-m-diameter scoria cone, sketched by Gorshkov (1958, CAVW) that reportedly grew between 1916 and 1931, formed a peninsula extending into the lake from the NE caldera wall. Explosive eruptions in 1957 removed the cone and filled much of the NW part of the lake, including emplacement of a 350-m-wide, 40-m-high dome."
         },
         {
+            "name": "Pino Hachado Volcanic Complex",
+            "vei": 7,
+            "coordinates": [-38.67936192166292, -70.81507365818207],
+            "type": "Caldera",
+            "summitFeet": 6617,
+            "magmaType": "Rhyolite",
+            "desc": "The Pino Hachado caldera in the Nequén Andes of Argentina was constructed along one of the branches of the major regional Liquine-Ofqui fault system. The 12-km-wide caldera is 150 m deep. Following the eruption of dacitic and rhyolitic ignimbrites, post-caldera trachyandesitic lava flows were erupted. Radiometric dates of about 1.6 and 1.2 million years were obtained on post-caldera rocks."
+        },
+        {
+            "name": "Koh-i-Sultan",
+            "vei": 6,
+            "coordinates": [29.12886899359966, 62.81837006529262],
+            "type": "Stratovolcano",
+            "summitFeet": 7657,
+            "magmaType": "Dacite",
+            "desc": "Koh-i-Sultan is a volcano in Balochistan, Pakistan. It is part of the tectonic belt formed by the collision of the Eurasian Plate and Indian Plate: specifically, a segment influenced by the subduction of the Arabian plate beneath the Asian plate and forming a volcanic arc which includes the Bazman and Taftan volcanoes in Iran. The volcano consists of three main cones, with heavily eroded craters running west-northwest and surrounded by a number of subsidiary volcanic centres. Its summit is 2,334 metres (7,657 ft) high, and the crater associated with the Miri cone has a smaller crater inside."
+        },
+        {
+            "name": "Tambor Grande",
+            "vei": 7,
+            "coordinates": [10.963795013575814, -84.07501778653982],
+            "type": "Caldera",
+            "summitFeet": 2126,
+            "magmaType": "Rhyolite?",
+            "desc": "The eroded Tambor Grande caldera is one of several areas of Quaternary volcanic rocks along the Atlantic coastal plain at the SE tip of Nicaragua shown on the geologic map of Nicaragua (INETER, 1995). The two largest areas are located WNW of the coastal city of San Juan del Norte near the headwaters of the Río Chiripa and WSW of San Juan del Norte, north of the Río San Juan. Tambor Grande has an easily recognized central caldera and radially eroded flanks. It lies within an area of dense rain forest with some 3000 mm annual precipitation. Several small cones lie south of Rama, near the Escondido River. Considering their well preserved morphology and the heavy rainfall in the Caribbean lowlands of Nicaragua, these structures can be considered to be Pleistocene in age (Incer 2005, pers. comm.). Quaternary basaltic volcanoes are also located along the Atlantic coastal plain across the border in Costa Rica."
+        },
+        {
             "name": "Bulusan",
             "vei": 6,
             "coordinates": [12.77061063131952, 124.04962451854341],
