@@ -3307,15 +3307,6 @@
             "desc": "Koh-i-Sultan is a volcano in Balochistan, Pakistan. It is part of the tectonic belt formed by the collision of the Eurasian Plate and Indian Plate: specifically, a segment influenced by the subduction of the Arabian plate beneath the Asian plate and forming a volcanic arc which includes the Bazman and Taftan volcanoes in Iran. The volcano consists of three main cones, with heavily eroded craters running west-northwest and surrounded by a number of subsidiary volcanic centres. Its summit is 2,334 metres (7,657 ft) high, and the crater associated with the Miri cone has a smaller crater inside."
         },
         {
-            "name": "Tambor Grande",
-            "vei": 7,
-            "coordinates": [10.963795013575814, -84.07501778653982],
-            "type": "Caldera",
-            "summitFeet": 2126,
-            "magmaType": "Rhyolite?",
-            "desc": "The eroded Tambor Grande caldera is one of several areas of Quaternary volcanic rocks along the Atlantic coastal plain at the SE tip of Nicaragua shown on the geologic map of Nicaragua (INETER, 1995). The two largest areas are located WNW of the coastal city of San Juan del Norte near the headwaters of the Río Chiripa and WSW of San Juan del Norte, north of the Río San Juan. Tambor Grande has an easily recognized central caldera and radially eroded flanks. It lies within an area of dense rain forest with some 3000 mm annual precipitation. Several small cones lie south of Rama, near the Escondido River. Considering their well preserved morphology and the heavy rainfall in the Caribbean lowlands of Nicaragua, these structures can be considered to be Pleistocene in age (Incer 2005, pers. comm.). Quaternary basaltic volcanoes are also located along the Atlantic coastal plain across the border in Costa Rica."
-        },
-        {
             "name": "Bulusan",
             "vei": 6,
             "coordinates": [12.77061063131952, 124.04962451854341],
