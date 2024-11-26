@@ -2920,6 +2920,60 @@
             "desc": "A submarine volcano along the Tofua volcanic arc ~45 km NW of Vava'u Island was first observed in September 2001, ~35 km S of Fonualei and 60 km NE of Late volcano. The site of the eruption is at an approximate bathymetric depth of 300 m. T-phase waves were recorded on 27-28 September 2001, and on the 27th local fishermen observed an ash-rich eruption column that rose above the ocean surface. No eruptive activity was reported after the 28th, but water discoloration was documented the following month. In early November rafts and strandings of dacitic pumice were reported along the coasts of Kadavu and Viti Levu in Fiji. The depth of the summit of the submarine cone following the eruption was determined to be 40 m during a 2007 survey; the crater of the 2001 eruption was open to the E." 
         },
         {
+            "name": "Tambor Grande",
+            "vei": 5,
+            "coordinates": [10.963795013575814, -84.07501778653982],
+            "type": "Caldera",
+            "summitFeet": 2126,
+            "magmaType": "Unknown",
+            "desc": "The eroded Tambor Grande caldera is one of several areas of Quaternary volcanic rocks along the Atlantic coastal plain at the SE tip of Nicaragua shown on the geologic map of Nicaragua (INETER, 1995). The two largest areas are located WNW of the coastal city of San Juan del Norte near the headwaters of the Río Chiripa and WSW of San Juan del Norte, north of the Río San Juan. Tambor Grande has an easily recognized central caldera and radially eroded flanks. It lies within an area of dense rain forest with some 3000 mm annual precipitation. Several small cones lie south of Rama, near the Escondido River. Considering their well preserved morphology and the heavy rainfall in the Caribbean lowlands of Nicaragua, these structures can be considered to be Pleistocene in age (Incer 2005, pers. comm.). Quaternary basaltic volcanoes are also located along the Atlantic coastal plain across the border in Costa Rica."
+        },
+        {
+            "name": "Elbrus Volcanic Center",
+            "vei": 7,
+            "coordinates": [43.34913458287948, 42.44641938432843],
+            "type": "Caldera",
+            "summitFeet": 18510,
+            "magmaType": "Dacite",
+            "desc": "Elbrus, the highest peak of the Caucasus Mountains of SW Russia, is a large glaciated stratovolcano with twin summits. The summit area has two distinct peaks, with a 250-m-wide crater on the eastern cone, separated by a low saddle from the western peak. Eruptive products cover 260 km2; its longest lava flow traveled 24 km down the NNE flank. The most recent lava flows are fresh-looking, and the latest eruptions took place during the Holocene (CAVW). Weak solfataric activity has been reported near the summit, and hot springs are present on the flanks."
+        },
+        {
+            "name": "Kazbek",
+            "vei": 6,
+            "coordinates": [42.69643844924694, 44.51512054603323],
+            "type": "Caldera",
+            "summitFeet": 16568,
+            "magmaType": "Dacite",
+            "desc": "The glacier-covered Kazbek stratovolcano in the Caucasus Mountains of Georgia, just south of the border with Russia, has produced long lava flows down flank valleys. The summit cone and the latest lava flows are of post-glacial age, and the latest andesitic-dacitic lava flow was radiocarbon dated at about 6,000 years ago. Gushchenko (1979) listed an 800-700 BCE eruption."
+        },
+        {
+            "name": "Aragats",
+            "vei": 5,
+            "coordinates": [40.52309840134736, 44.19464032095403],
+            "type": "Stratovolcano",
+            "summitFeet": 13435,
+            "magmaType": "Andesite",
+            "desc": "Aragats is a large andesitic-to-dacitic stratovolcano in NW Armenia about 40 km NW of the capital city of Yerevan. The main edifice is dissected by glaciers and is of Pliocene-to-Pleistocene age. Satellitic cones and fissures are located on all sides of the volcano and were the source of large lava flows that descended its lower flanks. Several of these were considered to be of Holocene age, but later Potassium-Argon dating indicated mid- to late-Pleistocene ages. The youngest lower-flank flows have not been precisely dated, but are constrained as occurring between the end of the late-Pleistocene and 3000 BCE (Kharakanian et al., 2003). A 13-km-long, WSW-ENE-trending line of craters and pyroclastic cones cuts across the northern crater rim and is the source of young lava flows and lahars; the latter were considered to be characteristic of Holocene summit eruptions."
+        },
+        {
+            "name": "Syunik Volcanic Highland",
+            "vei": 5,
+            "coordinates": [39.41076366335987, 46.130781567245215],
+            "type": "Volcanic Field",
+            "summitFeet": 9842,
+            "magmaType": "Basalt",
+            "desc": "A large volcanic field in Armenia that produced various volcanic fissures and calderas. Some of the eruptions on this volcanic field might have reached a VEI of 5."
+        },
+        {
+            "name": "Ishkhanasar Caldera",
+            "vei": 6,
+            "coordinates": [39.58293730246782, 46.2339347250298],
+            "type": "Caldera",
+            "summitFeet": 11643,
+            "magmaType": "Rhyolite?",
+            "desc": "Ishkhanasar is a large 7 x 8 km eroded caldera in Armenia and Azerbaijan. An eruption with an estimated VEI of 6 or 7 has formed this caldera, but it is more likely to be formed by a high end VEI 6 eruption."
+        },
+        {
             "name": "Cup & Saucer Volcanic Field",
             "vei": 6,
             "coordinates": [38.307135040032065, -122.24669793974203],
