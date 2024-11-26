@@ -3037,6 +3037,51 @@
             "desc": "Monowai, also known as Orion seamount, is a basaltic stratovolcano that rises from a depth of about 1,500 to within 100 m of the ocean surface about halfway between the Kermadec and Tonga island groups, at the southern end of the Tonga Ridge. Small cones occur on the N and W flanks, and an 8.5 x 11 km submarine caldera with a depth of more than 1,500 m lies to the NNE. Numerous eruptions have been identified using submarine acoustic signals since it was first recognized as a volcano in 1977. A shoal that had been reported in 1944 may have been a pumice raft or water disturbance due to degassing. Surface observations have included water discoloration, vigorous gas bubbling, and areas of upwelling water, sometimes accompanied by rumbling noises. It was named for one of the New Zealand Navy bathymetric survey ships that documented its morphology." 
         },
         {
+            "name": "Goderdzi Volcanic Formation",
+            "vei": 7,
+            "coordinates": [41.39811061101395, 43.20236031705229],
+            "type": "Caldera",
+            "summitFeet": 9721,
+            "magmaType": "Rhyolite",
+            "desc": "A large resurgent caldera on the Georgia-Türkiye border that is presumed to be the source of the voluminous Mtkvari ignimbrites." 
+        },
+        {
+            "name": "Kuhha-ye-Sabalan",
+            "vei": 6,
+            "coordinates": [38.274191086297705, 47.83502467204119],
+            "type": "Stratovolcano",
+            "summitFeet": 15696,
+            "magmaType": "Andesite",
+            "desc": "Sabalan volcano (Kuhha-ye-Sabalan) lies in NW Iran, about 90 km W of the Caspian Sea and west of the city of Ardabil. The andesitic volcano is the highest point in NW Iran. Seven glaciers descend from the summit, and rock glaciers are also present. Potassium-Argon dates ranged from 5.6 to 1.4 million years ago (Innocenti et al., 1982), though Karakhanian et al. (2002) indicated that activity continued into the Holocene. In their research review, Ghalamghash et al. (2019) concluded that the most recent activity was less than 149 ka, but not Holocene." 
+        },
+        {
+            "name": "Taftan",
+            "vei": 6,
+            "coordinates": [28.599789589266923, 61.13246693055092],
+            "type": "Stratovolcano",
+            "summitFeet": 12927,
+            "magmaType": "Andesite",
+            "desc": "Taftan is a strongly eroded andesitic stratovolcano with two prominent summits. The volcano was constructed along the Makran-Chagai Arc in SE Iran. The higher SE summit cone has been the source of lava flows, as well as of highly active, sulfur-encrusted fumaroles. In January 1902 the volcano was reported to be smoking heavily for several days, with occasional strong night-time glow. A lava flow was reported in 1993, but may have been a mistaken observation of a molten sulfur flow. Despite these reports there is no clear evidence for Holocene activity. The youngest date obtained by Pang et al. (2014), using U-Pb on a zircon, was about 800 ka. Biabangard and Moradian (2008) obtained K-Ar dates around 700 ka." 
+        },
+        {
+            "name": "Kırka-Phrigian Caldera",
+            "vei": 7,
+            "coordinates": [39.16699355568166, 30.320920174011597],
+            "type": "Caldera",
+            "summitFeet": 2564,
+            "magmaType": "Rhyolite",
+            "desc": "A massive 24 x 15 km caldera in Türkiye that was formed during a series of large explosive eruptions that produced widespread ignimbrites and ash deposits." 
+        },
+        {
+            "name": "Varta Caldera",
+            "vei": 6,
+            "coordinates": [39.31902023575525, 41.39754883535472],
+            "type": "Caldera",
+            "summitFeet": 4430,
+            "magmaType": "Dacite",
+            "desc": "A collapse caldera in eastern Türkiye, located on the East Anatolian Fault. It has formed from a single explosive eruption ejecting >=40 km3 of tephra." 
+        },
+        {
             "name": "Havre Seamount",
             "vei": 1,
             "coordinates": [-31.080734331938046, -179.03327513109411],
