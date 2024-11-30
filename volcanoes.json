@@ -2633,6 +2633,105 @@
             "desc": "The mostly submarine Tavui caldera lies off the NE tip of the Gazelle Peninsula north of Rabaul caldera. The caldera was first discovered during a bathymetric cruise in 1985. The SW wall of the roughly 10 x 12 km caldera cuts the NE end of the peninsula and extends from Tavui Point at the northern tip of the peninsula SE to Laweo Point. The 7,100-year-old Raluan Ignimbrite, initially thought to have originated from Rabaul, is now thought to have been produced by an eruption of Tavui. A basaltic scoria layer immediately underlies the rhyolitic ignimbrite, and the introduction of basaltic magma was considered to have triggered the rhyolitic eruption. The lack of a major low-velocity region detectable beneath the caldera during a seismic tomography survey suggests that it is not currently active." 
         },
         {
+            "name": "Ardoukôba",
+            "vei": 1,
+            "coordinates": [11.610452406918942, 42.475744388996425],
+            "type": "Fissure Vent",
+            "summitFeet": 978,
+            "magmaType": "Basalt",
+            "desc": "The Ardoukôba (Asal) Rift in Djibouti, trending NW from the Red Sea, contains a broad area of youthful fissure vents between Lake Asal and the Ghoubbat al Kharab gulf. It is subaerially exposed over 12 km between these two bodies of water and contains numerous basaltic cinder and spatter cones. The silicic centers of Eger Alayta and Asa Aleyta, on the N and S sides, are remnants of a Pleistocene silicic center that has been disrupted and spread apart. Magma-water interaction has produced tuff cones, some of which form islands or are breached by the sea. The most recent lava flows are younger than lake sediments deposited 5,300 years ago. These lavas were thought to have been erupted during the past 3,000 years (Delibrias et al., 1975). The fissure erupted in 1978, producing a small cinder cone and lava flows that covered part of the rift floor near the Red Sea." 
+        },
+        {
+            "name": "Bliznetsy",
+            "vei": 1,
+            "coordinates": [57.34998839718011, 161.3699785400134],
+            "type": "Lava Cone",
+            "summitFeet": 869,
+            "magmaType": "Andesite",
+            "desc": "The Bliznetsy (Twins) lava flows occupy a low-lying area east of the Sredinny Range and north of the Eastern Volcanic Zone volcanoes. The young flows lie south of the Ozernaya River about 80 km north of historically active Sheveluch volcano. Effusion of about 0.5 km3 of lava flows about 3000 years ago was preceded by weak phreatomagmatic eruptions." 
+        },
+        {
+            "name": "Bogoslof",
+            "vei": 3,
+            "coordinates": [53.93275142993246, -168.03822645936214],
+            "type": "Stratovolcano",
+            "summitFeet": 492,
+            "magmaType": "Trachyandesite",
+            "desc": "Bogoslof is the emergent summit of a submarine volcano that lies 40 km N of the main Aleutian arc. It rises 1,500 m above the Bering Sea floor. Repeated construction and destruction of lava domes at different locations during historical time has greatly modified the appearance of this Jack-in-the-Box volcano and has introduced a confusing nomenclature applied during frequent visits by exploring expeditions. The present triangular-shaped, 0.75 x 2 km island consists of remnants of lava domes emplaced from 1796 to 1992. Castle Rock (Old Bogoslof) is a steep-sided pinnacle that is a remnant of a spine from the 1796 eruption. The small Fire Island (New Bogoslof), about 600 m NW of Bogoslof Island, is a remnant of a lava dome formed in 1883." 
+        },
+        {
+            "name": "Bolshoi Semyachik",
+            "vei": 6,
+            "coordinates": [54.30890365125587, 159.97314968566766],
+            "type": "Stratovolcano",
+            "summitFeet": 5643,
+            "magmaType": "Basalt",
+            "desc": "The Bolshoi Semiachik volcanic complex was constructed within a 10-km-wide caldera whose rim is exposed only on the west. The caldera occupies a large 20 x 30 km late-Pleistocene volcano-tectonic depression near the Pacific Coast of eastern Kamchatka. Post-caldera volcanism includes resurgent doming and the construction of numerous stratovolcanoes and lava domes, several of which have been active during the Holocene. Zubchatka (Bolshoi Semiachik), Zapadny Barany, Vostochny Barany, Zentralny Semiachik, Popkov, Plosky, and Burlyashchy volcanoes are the largest of the volcanic complex. The youngest volcanism and intense modern hydrothermal activity, which is among the most vigorous of Kamchatka, is located outside the caldera to the SE." 
+        },
+        {
+            "name": "Bolshoi-Kekuknaysky",
+            "vei": 3,
+            "coordinates": [56.482999973365736, 157.91698926880474],
+            "type": "Shield",
+            "summitFeet": 4596,
+            "magmaType": "Basalt",
+            "desc": "Bolshoi (Bolshoy) and Kekuknaysky are two large, partially overlapping basaltic shield volcanoes located NW and NNW, respectively, of Uksichan volcano. The massive Pleistocene shield volcanoes were constructed west of the axis of the Sredinny Range. Hawaiian-type calderas are located at the summits, and their flanks have numerous youthful cinder cones. The summit caldera of Bolshoi is breached by four radial valleys, whereas the 6-km-wide caldera of Kekuknaysky (also known as Leningradets volcano) is breached to the north. Young cinder cones and lava flows are particularly abundant on the NE flank of Kekuknaysky. Kekuk crater on the lower N flank erupted about 7,200 years ago." 
+        },
+        {
+            "name": "Tiatia",
+            "vei": 4,
+            "coordinates": [44.353828884944875, 146.25186169180714],
+            "type": "Stratovolcano",
+            "summitFeet": 5978,
+            "magmaType": "Basalt",
+            "desc": "The symmetrical Tiatia, also known as Chachadake, is on the SE side of northern Kunashir Island in the southern Kuriles. The active cone rises above the rim of a filled 2.1 x 2.4 km summit caldera with erosionally furrowed flanks. The central cone, mostly formed by basaltic to basaltic-andesite Strombolian eruptions, rises 400 m above the floor of the caldera and contains a 400 x 250 m wide crater with two explosion vents separated by a linear septum. Fresh lava flows cover much of the SW caldera floor and have overflowed the rim, extending to the foot of the older edifice, which formed during the late Pleistocene or early Holocene. A 500-m-wide crater about 2 km down the SE flank from the caldera rim is surrounded by an unvegetated area of volcanic deposits. The first recorded eruption was in 1812, and a major explosive eruption with lava flows in 1973 originated from vents on the central cone." 
+        },
+        {
+            "name": "Chiginagak",
+            "vei": 2,
+            "coordinates": [57.13349953909092, -156.9868946857876],
+            "type": "Stratovolcano",
+            "summitFeet": 7287,
+            "magmaType": "Andesite",
+            "desc": "The symmetrical, calc-alkaline Chiginagak stratovolcano located about 15 km NW of Chiginagak Bay contains a small summit crater, which is breached to the south, and one or more summit lava domes. Satellitic lava domes occur high on the NW and SE flanks of the glacier-mantled volcano. An unglaciated lava flow and an overlying pyroclastic-flow deposit extending east from the summit are the most recent products of Chiginagak. They most likely originated from a lava dome at 1687 m on the SE flank, 1 km from the summit of the volcano, which has variably been estimated to be from 2075 to 2221 m high. Brief ash eruptions were reported in July 1971 and August 1998. Fumarolic activity occurs at 1600 m elevation on the NE flank of the volcano, and two areas of hot-spring travertine deposition are located at the NW base of the volcano near Volcano Creek." 
+        },
+        {
+            "name": "Chikurachki",
+            "vei": 4,
+            "coordinates": [50.32191953091097, 155.46200662905505],
+            "type": "Stratovolcano",
+            "summitFeet": 5843,
+            "magmaType": "Basalt",
+            "desc": "Chikurachki, the highest volcano on Paramushir Island in the northern Kuriles, is a relatively small cone constructed on a high Pleistocene edifice. Oxidized basaltic-to-andesitic scoria deposits covering the upper part of the young cone give it a distinctive red color. Frequent basaltic Plinian eruptions have occurred during the Holocene. Lava flows have reached the sea and formed capes on the NW coast; several young lava flows are also present on the E flank beneath a scoria deposit. The Tatarinov group of six volcanic centers is located immediately to the south, and the Lomonosov cinder cone group, the source of an early Holocene lava flow that reached the saddle between it and Fuss Peak to the west, lies at the southern end of the N-S-trending Chikurachki-Tatarinov complex. In contrast to the frequently active Chikurachki, the Tatarinov centers are extensively modified by erosion and have a more complex structure. Tephrochronology gives evidence of an eruption around 1690 CE from Tatarinov, although its southern cone contains a sulfur-encrusted crater with fumaroles that were active along the margin of a crater lake until 1959." 
+        },
+        {
+            "name": "Chirippusan",
+            "vei": 2,
+            "coordinates": [45.37701687267772, 147.9125029778839],
+            "type": "Stratovolcano",
+            "summitFeet": 5207,
+            "magmaType": "Basalt",
+            "desc": "Chirippusan (also simply Chirip) volcano is on the Chirip Peninsula, jutting NW-ward into the Sea of Okhotsk from central Iturup Island. It is constructed of twin overlapping Holocene stratovolcanoes, Kitachirippusan on the north and Minamichirippu (also called Bogdan Khmelnitskii) on the south overlie a pre-glacial volcano, rising above a 1100-m-high saddle to 1561 and 1587 m, respectively. Lava flows from both edifices are truncated by a large, 4-km-wide depression on the west side of the peninsula. Basaltic rocks dominate at both volcanoes over basaltic-andesite and andesitic products. Kitachirippusan has a shallow summit crater, partially filled by a small lake, that has fed lava flows down all sides; satellitic cones are located on the northern flank. Lava flows from Minamichirippusan reach the coast on both the east and west sides. Only two 19th-century eruptions are known in historical time, the last occurring in 1860 from a vent SE of the summit of Minamichirippusan." 
+        },
+        {
+            "name": "Chirpoi",
+            "vei": 6,
+            "coordinates": [46.53201584400319, 150.87068114848952],
+            "type": "Caldera",
+            "summitFeet": 2434,
+            "magmaType": "Andesite",
+            "desc": "Chirpoi, a small island lying between the larger islands of Simushir and Urup, contains a half dozen volcanic edifices constructed within an 8-9 km wide, partially submerged caldera. The southern rim of the caldera is exposed on nearby Brat Chirpoev Island. The symmetrical Cherny volcano, which forms the central cone of the island, erupted twice during the 18th and 19th centuries. The youngest volcano, Snow, originated between 1770 and 1810. It is composed almost entirely of lava flows, many of which have reached the sea on the southern coast. No recorded eruptions are known from Brat Chirpoev, but its youthful morphology suggests recent Strombolian activity." 
+        },
+        {
+            "name": "Cleveland",
+            "vei": 3,
+            "coordinates": [52.82179814203778, -169.94707608648986],
+            "type": "Stratovolcano",
+            "summitFeet": 5676,
+            "magmaType": "Andesite",
+            "desc": "The beautifully symmetrical Mount Cleveland stratovolcano is situated at the western end of the uninhabited Chuginadak Island. It lies SE across Carlisle Pass strait from Carlisle volcano and NE across Chuginadak Pass strait from Herbert volcano. Joined to the rest of Chuginadak Island by a low isthmus, Cleveland is the highest of the Islands of the Four Mountains group and is one of the most active of the Aleutian Islands. The native name, Chuginadak, refers to the Aleut goddess of fire, who was thought to reside on the volcano. Numerous large lava flows descend the steep-sided flanks. It is possible that some 18th-to-19th century eruptions attributed to Carlisle should be ascribed to Cleveland (Miller et al., 1998). In 1944 it produced the only known fatality from an Aleutian eruption. Recent eruptions have been characterized by short-lived explosive ash emissions, at times accompanied by lava fountaining and lava flows down the flanks." 
+        },
+        {
             "name": "Rabaul",
             "vei": 6,
             "coordinates": [-4.258025637730644, 152.1916298403053],
@@ -4739,7 +4838,7 @@
         },
         {
             "name": "Uzon",
-            "vei": 6,
+            "vei": 7,
             "coordinates": [54.51086850817863, 159.91564139327346],
             "type": "Caldera",
             "summitFeet": 5305,
