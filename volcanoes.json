@@ -2436,6 +2436,168 @@
             "desc": "The Crooked River caldera is a large and ancient volcano that straddles three central Oregon counties. The diameter of the caldera is about 41 by 27 kilometres (25 mi × 17 mi) and is notable for the welded tuff present at Gray Butte, Smith Rock, Powell Buttes, Grizzly Mountain and Barnes Butte. The volcano is considered extinct and last erupted about 29.5 Ma."
         },
         {
+            "name": "Dana",
+            "vei": 5,
+            "coordinates": [55.640987862837754, -161.2140000023917],
+            "type": "Stratovolcano",
+            "summitFeet": 4442,
+            "magmaType": "Andesite",
+            "desc": "Mount Dana is a small calc-alkaline volcano NE of Canoe Bay inlet at the head of Pavlof Bay consisting of an apron of volcaniclastic debris surrounding a central dome complex. The high point is located at the north rim of a 1.5 x 2 km crater, whose SW rim exposes Mesozoic sedimentary rocks. Andesitic lava domes occur on the west crater rim and as a small mound east of Knutson Lake inside the crater. Dana is the source of a mid-Holocene block-and-ash flow that reached the sea at Canoe Bay. No historical eruptions are known, but a 200-m-wide tufa mound and several cold springs are located on the SW flank."
+        },
+        {
+            "name": "Descabezado Grande",
+            "vei": 3,
+            "coordinates": [-35.585641227633396, -70.75154392130906],
+            "type": "Stratovolcano",
+            "summitFeet": 12969,
+            "magmaType": "Andesite",
+            "desc": "Volcán Descabezado Grande is a late-Pleistocene to Holocene andesitic-to-rhyodacitic stratovolcano with a 1.4-km-wide ice-filled summit crater. It lies at the center of a 20 x 30 km volcanic complex, 7 km N of the Cerro Azul stratovolcano. A lateral crater, which formed on the upper NNE flank in 1932 shortly after the end of the major 1932 eruption from nearby Quizapu cone on the N flank of Cerro Azul, was the site of the only recorded eruption. The Holocene Alto de las Mulas fissure on the lower NW flank produced young rhyodacitic lava flows. Numerous small late-Pleistocene to Holocene volcanic centers are located N of the volcano. The northernmost of these, Lengua de Vulcano (or Mondaca), produced a very youthful rhyodacitic lava flow that dammed the Río Lentué."
+        },
+        {
+            "name": "Doña Juana",
+            "vei": 4,
+            "coordinates": [1.5000168840647992, -76.93598458699368],
+            "type": "Stratovolcano",
+            "summitFeet": 13573,
+            "magmaType": "Andesite",
+            "desc": "The forested Doña Juana stratovolcano contains two calderas, breached to the NE and SW. The summit of the andesitic-dacitic volcano is comprised of a series of post-caldera lava domes. The older caldera, open to the NE, formed during the mid-Holocene, accompanied by voluminous pyroclastic flows. The younger caldera contains the active central cone. The only historical activity took place during a long-term eruption from 1897-1906, when growth of a summit lava dome was accompanied by major pyroclastic flows."
+        },
+        {
+            "name": "Dubbi",
+            "vei": 3,
+            "coordinates": [13.578582829076167, 41.80904291160146],
+            "type": "Stratovolcano",
+            "summitFeet": 5331,
+            "magmaType": "Basalt",
+            "desc": "Dubbi, located east of the Erta Ale Range and south of the crystalline basement rocks of the Danakil Alps, is a large volcanic massif that rises above the western shore of the Red Sea. About 20 small cinder cones are located at the summit, and extensive basaltic lava fields to the north and NE, known as the Edd lava field, cover an area of 2700 km2 and reach the Red Sea coast. The two most-recent eruptive centers are fissure systems that extend NW-SE and NNE-SSW. The former produced lava flows that reached the Red Sea in 1400 CE. The second created 19 small craters at the summit in 1861. Ash fell more than 300 km from the volcano. Two villages were destroyed and more than 100 people were killed during Africa's largest eruption in historical time. Lava flows from the 1861 eruption traveled as far as 22 km and reached the coast."
+        },
+        {
+            "name": "Elovsky",
+            "vei": 4,
+            "coordinates": [57.54697275768025, 160.52521809228477],
+            "type": "Shield",
+            "summitFeet": 4531,
+            "magmaType": "Basalt",
+            "desc": "This cluster of overlapping small basaltic shield volcanoes is located east of the crest of the Sredinny Range, NE of Shishel and SE of Alngey volcanoes. The largest edifice is the Elovsky shield, and the smaller Ozernovsky lies immediately to the SE. The massive early Holocene Ozernovsky lava flow, located immediately NE of Elovsky, traveled to the ESE down a glacially dissected valley. The flow is post-glacial in age, but older than roughly 7,000-year-old tephra layers from Khangar volcano. The massive flow dammed tributary valleys, creating several lakes near the headwaters of the Levaya and Pravaya Ozeraya rivers and forming a lava field covering an area of 100 km2."
+        },
+        {
+            "name": "Erta Ale",
+            "vei": 0,
+            "coordinates": [13.606664556340164, 40.66150884926417],
+            "type": "Shield",
+            "summitFeet": 1919,
+            "magmaType": "Basalt",
+            "desc": "The Erta Ale basaltic shield volcano in Ethiopia has a 50-km-wide edifice that rises more than 600 m from below sea level in the Danakil depression. The volcano includes a 0.7 x 1.6 km summit crater hosting steep-sided pit craters. Another larger 1.8 x 3.1 km wide depression elongated parallel to the trend of the Erta Ale range is located SE of the summit and is bounded by curvilinear fault scarps on the SE side. Basaltic lava flows from these fissures have poured into the caldera and locally overflowed its rim. The summit caldera usually also holds at least one long-term lava lake that has been active since at least 1967, and possibly since 1906. Recent fissure eruptions have occurred on the N flank."
+        },
+        {
+            "name": "Fourpeaked",
+            "vei": 2,
+            "coordinates": [58.76986903348485, -153.67157188591702],
+            "type": "Stratovolcano",
+            "summitFeet": 6906,
+            "magmaType": "Andesite",
+            "desc": "Poorly known Fourpeaked volcano in NE Katmai National Park consists of isolated outcrops surrounded by the Fourpeaked Glacier, which descends eastward almost to the Shelikof Strait. The orientation of andesitic lava flows and extensive hydrothermal alteration of rocks near the present summit suggest that it probably marks the vent area. Eruptive activity during the Holocene had not been confirmed prior to the first historical eruption in September 2006. A N-trending fissure extending 1 km from the summit produced minor ashfall."
+        },
+        {
+            "name": "Hayes",
+            "vei": 5,
+            "coordinates": [61.640158991177856, -152.41101665149696],
+            "type": "Stratovolcano",
+            "summitFeet": 9954,
+            "magmaType": "Dacite",
+            "desc": "Hayes volcano, located in a remote and rugged part of the Alaska Range NW of Anchorage and N of Mount Gerdine, was not discovered until 1975. It was named after nearby Hayes Glacier and consists of scattered remnants of a largely snow-and-ice covered volcano that has been destroyed by catastrophic eruptions. The most widespread Holocene eruptions in the Cook Inlet area originated from Hayes between about 3800 and 3400 years ago and produced six regional tephra layers with an average volume of 2.4 km3. The latest known eruption took place about 1000 years ago."
+        },
+        {
+            "name": "Kaba",
+            "vei": 2,
+            "coordinates": [-3.5208656778401144, 102.61557772976504],
+            "type": "Stratovolcano",
+            "summitFeet": 6365,
+            "magmaType": "Andesite",
+            "desc": "Kaba, a twin volcano with Mount Hitam, has an elongated summit crater complex dominated by three large historically active craters trending ENE from the summit to the upper NE flank. The SW-most crater of Gunung Kaba, named Hidup (or Lama), is the largest. Most historical eruptions have affected only the summit area. They mostly originated from the central summit craters, although the upper-NE flank crater Kawah Vogelsang also produced explosions during the 19th and 20th centuries."
+        },
+        {
+            "name": "Kaguyak",
+            "vei": 5,
+            "coordinates": [58.61353680137865, -154.0582260960712],
+            "type": "Caldera",
+            "summitFeet": 2956,
+            "magmaType": "Dacite",
+            "desc": "The 2.5-km-wide Kaguyak caldera in the NE part of Katmai National Park is filled by a lake more than 180 m deep whose surface lies 550 m below the caldera rim. The volcano rises directly from lowland areas near sea level south of the Big River. Initially considered to be a typical stratovolcano truncated by a caldera, the pre-caldera edifice has been shown to consist of nine contiguous late-Pleistocene lava dome clusters, most of which lie east of the present caldera. A large post-caldera lava dome extends into the lake on the SW side and another dome forms a small island in the center of the lake. The caldera is unglaciated, and distal tephras from the caldera-forming eruption have been radiocarbon dated at about 5,800 years before present. Voluminous dacitic pyroclastic-flow deposits surround the caldera and reached Shelikof Strait to the SE."
+        },
+        {
+            "name": "Kama'ehuakanaloa",
+            "vei": 0,
+            "coordinates": [18.917131713744038, -155.25964922176746],
+            "type": "Caldera",
+            "summitFeet": -3199,
+            "magmaType": "Basalt",
+            "desc": "The Kama’ehuakanaloa seamount, previously known as Lōʻihi, lies about 35 km off the SE coast of the island of Hawaii. This youngest volcano of the Hawaiian chain has an elongated morphology dominated by two curving rift zones extending north and south of the summit. The summit region contains a caldera about 3 x 4 km and exhibits numerous lava cones, the highest of which is about 975 m below the ocean surface. The summit platform also includes two well-defined pit craters, sediment-free glassy lava, and low-temperature hydrothermal venting. An arcuate chain of small cones on the western edge of the summit extends north and south of the pit craters and merges into the crests prominent rift zones. Seismicity indicates a magmatic system distinct from that of Kīlauea. During 1996 a new pit crater formed at the summit, and lava flows were erupted. Continued volcanism is expected to eventually build a new island; time estimates for the summit to reach the ocean surface range from roughly 10,000 to 100,000 years."
+        },
+        {
+            "name": "Kanaga",
+            "vei": 4,
+            "coordinates": [51.92374432790498, -177.16365649093206],
+            "type": "Stratovolcano",
+            "summitFeet": 4128,
+            "magmaType": "Andesite",
+            "desc": "Symmetrical Kanaga stratovolcano is situated within the Kanaton caldera at the northern tip of Kanaga Island. The caldera rim forms a 760-m-high arcuate ridge south and east of Kanaga; a lake occupies part of the SE caldera floor. The volume of subaerial dacitic tuff is smaller than would typically be associated with caldera collapse, and deposits of a massive submarine debris avalanche associated with edifice collapse extend nearly 30 km to the NNW. Several fresh lava flows from historical or late prehistorical time descend the flanks of Kanaga, in some cases to the sea. Historical eruptions, most of which are poorly documented, have been recorded since 1763. Kanaga is also noted petrologically for ultramafic inclusions within an outcrop of alkaline basalt SW of the volcano. Fumarolic activity occurs in a circular, 200-m-wide, 60-m-deep summit crater and produces vapor plumes sometimes seen on clear days from Adak, 50 km to the east."
+        },
+        {
+            "name": "Kikhpinych",
+            "vei": 4,
+            "coordinates": [54.48876939008621, 160.25271661120593],
+            "type": "Stratovolcano",
+            "summitFeet": 4970,
+            "magmaType": "Basalt",
+            "desc": "Kikhpinych, the youngest stratovolcano of the Eastern Volcanic Zone of Kamchatka, contains three summits constructed along a roughly E-W line above the eroded Pleistocene Pik volcano, NE of the Uzon caldera. Growth of the modern volcano began during the mid-Holocene about 4,800 years ago with construction of the Zapadny cone. After a long quiescence, the younger Savich cone was built about 1,400 years ago, which included strong explosive activity that destroyed part of the Zapadny and Pik cones. Numerous young lava flows mantle the flanks of Savich; it was last active about 400 years ago, when the Krab lava dome grew on its E flank. Numerous thermal fields are found throughout the complex, including two geysers (now the site of vigorous fumaroles) that were active in the summit crater of Stary Kikhpinych prior to burial by a rockfall avalanche that occurred sometime between September 1981 and July 1982."
+        },
+        {
+            "name": "Kostakan",
+            "vei": 3,
+            "coordinates": [53.83301913994231, 158.05207414730776],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 3773,
+            "magmaType": "Basalt",
+            "desc": "A group of basaltic cinder cones lies south of Bakening volcano, west of the Srednaya Avacha (Middle Avacha) river valley. They are part of a broad zone of regional late Pleistocene to Holocene basaltic volcanism west of the Eastern volcanic zone of Kamchatka that extends from the Kostakan Lake area to the south. Several of the cinder cones are breached by lava flows, some of which extend into the Srednaya Avacha valley. The highest-elevation vent, Zmeya crater, was constructed within a landslide scarp. An unnamed maar is located about 2 km S of Kostakan Lake. Eruptions have occurred during two time periods, between about 11,000 to 7,000 years ago and between about 1,200 and 600 years ago."
+        },
+        {
+            "name": "Manda Hararo",
+            "vei": 2,
+            "coordinates": [12.171003874895394, 40.81440160147997],
+            "type": "Shield",
+            "summitFeet": 1969,
+            "magmaType": "Basalt",
+            "desc": "As the southernmost axial range of western Afar, the Manda Hararo complex is located in the Kalo plain, SSE of Dabbahu volcano. The massive 105-km-long and 20-30 km wide complex represents an uplifted segment of a mid-ocean ridge spreading center. A small basaltic shield volcano is located at the N end of the complex, S of which is an area of abundant fissure-fed lava flows. Two basaltic shield volcanoes, the larger of which is Unda Hararo, occupy the center of the complex. The dominant Gumatmali-Gablaytu fissure system lies to the S. Voluminous fluid lava flows issued from these NNW-trending fissures, and solidified lava lakes occupy two large craters. The small Gablaytu shield volcano forms the SE-most end of the complex. Lava flows from Gablaytu and from Manda overlie 8,000-year-old sediments. Hot springs and fumaroles occur around Daorre lake. The first historical eruptions produced fissure-fed lava flows in 2007 and 2009."
+        },
+        {
+            "name": "Manda-Inakir",
+            "vei": 2,
+            "coordinates": [12.379972137790062, 42.20084529499048],
+            "type": "Fissure Vent",
+            "summitFeet": 1969,
+            "magmaType": "Basalt",
+            "desc": "Manda-Inakir consists of a series of NW-trending fissure vents and pyroclastic cones along the Ethiopia-Djibouti border. The elongated complex represents an uplifted mid-ocean ridge spreading center now exposed above sea level. An elongated dome of basement rocks is cut by two axial rifts, the northern of which was active during historical time. Basaltic cinder cones along the rift's marginal faults have produced lava flows on the flanks of the structural dome, yielding a shield-like morphology. An eruption in 1928 or 1929 at the SE end near the town of Korili (in Djibouti) produced the Kammourta cinder cone and a lava flow."
+        },
+        {
+            "name": "Milna",
+            "vei": 3,
+            "coordinates": [46.814790983747336, 151.7866184665843],
+            "type": "Stratovolcano",
+            "summitFeet": 4934,
+            "magmaType": "Andesite",
+            "desc": "Milna (or Mil'na) is the southernmost volcano on Simushir Island in the central Kuriles, and includes the Goriaschaia Sopka lava dome on the NW flank. The outer flanks of the steep-sided 1500-m-high volcano are dissected by deep gullies. A 3-km-wide caldera breached widely to the SE was formed during the Pleistocene and became a center of glaciation. A small central cone capped by an andesitic lava dome was constructed within the caldera during postglacial time and forms the highest point on Simushir Island. Lava flows from the cone descend 4-5 km to the sea. Goriaschaia Sopka, previously identified as a distinct volcano, is a historically active andesitic lava dome that grew just beyond what appears to be a NE-SW erosional scarp along the NW flank. Numerous fresh lava flows with prominent marginal levees extend from the dome, with some reaching the sea. It may have formed as recently as the late-19th century; dominantly mild-to-moderate explosive eruptions have occurred since 1842."
+        },
+        {
+            "name": "Uratman Caldera",
+            "vei": 6,
+            "coordinates": [47.13776588730174, 152.2328739681906],
+            "type": "Caldera",
+            "summitFeet": 2224,
+            "magmaType": "Andesite",
+            "desc": "The northernmost of volcanoes on Simushir Island, Uratman consists of an impressive 7.5-km-wide Pleistocene caldera that forms the NE tip of the island. Caldera walls rise 450 m above a 250-m-deep caldera bay. A narrow gap in the northern caldera rim provides sea-water access into the half-moon-shaped Brouton Bay, which fills the NW half of the caldera. A central somma cone, andesitic Uratman, has grown during the Holocene in the SE part of the caldera. Two cinder cones are located along the N flank of Uratman, and a lava dome was formed on its NW flank along Brouton Bay. No historical eruptions are known."
+        },
+        {
             "name": "San Miguel",
             "vei": 3,
             "coordinates": [13.431985974828997, -88.27084573791859],
