@@ -2975,6 +2975,105 @@
             "desc": "The submarine Gemini-Oscostar volcanic field lies near the southern end of the Vanuatu (or New Hebrides) Volcanic Arc, ~100 km S of Aneityum Island. Water discoloration and bursts of very dark water were observed from Oscostar seamount (also known as Eastern Gemini) from a passing ship on 18 February 1996. Overflights as late as 22 February noted periodic explosions that ejected black material to about 20 m above sea level. It consists of an elongated NNE-SSW-trending ridge of submarine volcanoes with satellitic cones. Several basaltic samples and one andesitic rock dredged in 1989 were described as glassy, vesicular, and extremely fresh." 
         },
         {
+            "name": "Lanzarote",
+            "vei": 3,
+            "coordinates": [29.0389794271769, -13.729290642010572],
+            "type": "Fissure Vent",
+            "summitFeet": 2198,
+            "magmaType": "Basalt",
+            "desc": "The 60-km-long island of Lanzarote at the NE end of the Canary Islands contains the largest concentration of youthful volcanism in the Canaries. Pleistocene-and-Holocene cinder cones and lava flows erupted along NE-SW fissures are found throughout the low-altitude arid island and on smaller islands to the north. The largest historical eruption of the Canary Islands took place during 1730-36, when long-term eruptions from a fissure formed the Montañas del Fuego and produced voluminous lava flows that covered about 200 km2. The lava flows reached the western coast along a broad, 20-km-wide front. The villages of Maretas and Santa Catalina were destroyed, along with the most fertile valleys and estates on the island. An eruption during 1824 produced a much smaller lava flow that reached the SW coast." 
+        },
+        {
+            "name": "Little Sitkin",
+            "vei": 1,
+            "coordinates": [51.947492760931254, 178.52001837847942],
+            "type": "Stratovolcano",
+            "summitFeet": 3852,
+            "magmaType": "Andesite",
+            "desc": "Diamond-shaped Little Sitkin Island is bounded by steep cliffs on the east, north, and NE sides. Little Sitkin volcano contains two nested calderas. The older, nearly circular Pleistocene caldera is 4.8 km wide, may have once contained a caldera lake, and was partially filled by a younger cone formed mostly of andesitic and dacitic lava flows. The elliptical younger caldera is 2.7 x 4 km wide; it lies within the eastern part of the older caldera and shares its eastern and southern rim. The younger caldera partially destroyed the lava cone within the first caldera and is of possible early Holocene age. Young-looking dacitic lava flows, erupted in 1828 (Kay, in Wood and Kienle 1990), issued from the central cone within the younger caldera and from a vent on the west flank outside the older caldera. Fumarolic areas are found near the western coast, along the NW margin of the older caldera, and from the summit crater down the southern flank for a 1 km distance." 
+        },
+        {
+            "name": "Ljósufjöll",
+            "vei": 3,
+            "coordinates": [64.90255344868169, -22.486392167675803],
+            "type": "Fissure Vent",
+            "summitFeet": 3488,
+            "magmaType": "Basalt",
+            "desc": "The Ljósufjöll volcanic system at the eastern end of the Snaefellsnes Peninsula is composed of a group of alkali olivine basaltic cinder cones and lava flows along short fissures on a roughly 90-km-long WNW-ESE line. The volcanic field is about 20 km wide at the eastern end and narrows to about 10 km on the west. It contains the largest outcrops of silicic rhyolitic and trachytic rocks in the Snaefellsnes volcanic zone, erupted during the mid- to late Pleistocene. Youthful-looking cinder cones and lava flows with morphologically pristine surfaces suggest numerous Holocene eruptions. The latest eruption post-dated the settlement of Iceland, and took place about 1,000 years ago." 
+        },
+        {
+            "name": "Lolobau",
+            "vei": 6,
+            "coordinates": [-4.917427860986015, 151.17299854732042],
+            "type": "Caldera",
+            "summitFeet": 2881,
+            "magmaType": "Dacite",
+            "desc": "Lolobau volcano has grown over the W rim of a 6-km-wide caldera which formed about 12,000 years ago. The 8 x 13 km island is located just off the coast of eastern New Britain. A small lake occupies the SW part of the caldera. A small lava dome (Hulu) caps Mount Lolobau, which has a 0.8 x 1.1 km summit crater breached to the NE. Flank cones are found along the coast of the largely submerged volcano. Several vents within the caldera, on the E flank of the main edifice, have been active during historical time. The latest eruptions took place during the early 20th century." 
+        },
+        {
+            "name": "Suswa",
+            "vei": 6,
+            "coordinates": [-1.1506776864445345, 36.3542638301856],
+            "type": "Caldera",
+            "summitFeet": 7730,
+            "magmaType": "Phonolite",
+            "desc": "The southernmost caldera of the Kenya rift, Suswa contains a prominent lava cone on the south side of its 8 x 12 km caldera. Suswa lies south of Longonot volcano and about 50 km WNW of the capital city of Nairobi. Construction of an early shield volcano was followed by eruption of voluminous Pleistocene pumice and lava flows that accompanied incremental formation of the caldera. The 2356-m summit of the phonolitic-to-trachytic volcano is formed by the post-caldera lava cone of Ol Doinyo Onyoke (The Red Mountain, also known as Ol Doinyo Nyukie) on the south side of the caldera. Its large elongated summit crater is truncated on the north by a ring graben. This unusual 5-km-wide circular graben at the center of the older caldera isolates a tilted island block of caldera-floor lava flows. The latest eruptions have originated from satellitic vents that issued lava flows which remain unvegetated and may be only a century or so old." 
+        },
+        {
+            "name": "Moua Pihaa",
+            "vei": 0,
+            "coordinates": [-18.325010167483093, -148.52497854585445],
+            "type": "Stratovolcano",
+            "summitFeet": -1024,
+            "magmaType": "Trachybasalt",
+            "desc": "Moua Pihaa is a massive, steep-sided submarine volcano that rises to within 160 m of the ocean surface SW of Mehetia Island. It is the largest of a group of seamounts along the Society Island hot spot chain near Mehetia and Tahiti Islands and rises 3,500 m above the seafloor. It displayed seismicity in 1969 and 1970 considered to have been related to submarine eruptions." 
+        },
+        {
+            "name": "Oddnýjarhnjúkur-Langjökull",
+            "vei": 2,
+            "coordinates": [64.84997913015812, -19.700184203227092],
+            "type": "Fissure Vent",
+            "summitFeet": 3609,
+            "magmaType": "Basalt",
+            "desc": "The Oddnýjarhnjúkur-Langjökull system includes the Hveravellir central volcano at the northern end of this active volcanic zone that extends NE from the Reykjanes Peninsula. Hveravellir occupies the NE half of the massive Langjökull icecap, east of the Pleistocene Erikskökull table mountain. A summit caldera lies beneath the ice. The Kjalhraun shield volcano east of Langjökull produced about 11 km3 of lava around 7,800 years ago. Several small shield volcanoes have been constructed along flank fissure zones, producing postglacial lava flows on the N, W, and E sides of Langjökull. One of the most prominent of these is a small shield volcano at the site of the massive Hallmundahraun lava flow, which covers about 240 km2 and was erupted about 950 CE. The Geysir thermal area lies in the Haukadalur basin, near the southern end of the fissure system. The classic Icelandic shield volcano Skjaldbreidur is also within the southern part of this system, between Thorsjökull glacier and Thingvallavatn lake; the broad, low-angle volcano produced more than 13 km3 of basaltic lava flows during the early Holocene." 
+        },
+        {
+            "name": "Ofu-Olosega",
+            "vei": 2,
+            "coordinates": [-14.175014528612335, -169.6180950183072],
+            "type": "Shield",
+            "summitFeet": 2096,
+            "magmaType": "Basalt",
+            "desc": "The two triangle-shaped islands of Ofu and Olosega in eastern Samoa, with a combined length of 6 km, are separated by a narrow strait. The islands are formed by two eroded, coalescing basaltic shield volcanoes whose slopes dip to the east and west. Steep cliffs up to 600-m high truncate the northern and southern sides of the islands. The narrow, steep-sided ridge forming the eastern tip of Ofu Island consists of a dike complex. The shield volcano on Ofu is cut on the north by the A'ofa caldera; bathymetry suggests that a caldera may also exist on the Sili shield volcano of Olosega. The Nu'utele tuff cone, forming a small crescent-shaped island immediately off the west end of Ofu Island, is Holocene in age. A submarine eruption took place in 1866 at the opposite end of the two islands, 3 km SE of Olosega, along the ridge connecting Olosega with Ta'u Island." 
+        },
+        {
+            "name": "Pavlof",
+            "vei": 4,
+            "coordinates": [55.418280488389705, -161.89292564222376],
+            "type": "Stratovolcano",
+            "summitFeet": 8179,
+            "magmaType": "Andesite",
+            "desc": "The most active volcano of the Aleutian arc, Pavlof is a Holocene stratovolcano that was constructed along a line of vents extending NE from the Emmons Lake caldera. Pavlof and Pavlof Sister to the NE form a dramatic pair of symmetrical, glacier-covered stratovolcanoes that overlook Pavlof and Volcano bays. Little Pavlof is a smaller cone on the SW flank of Pavlof volcano, near the rim of Emmons Lake caldera. Unlike Pavlof Sister, eruptions have frequently been reported from Pavlof, typically Strombolian to Vulcanian explosive eruptions from the summit vents and occasional lava flows. The active vents lie near the summit on the north and east sides. The largest recorded eruption took place in 1911, at the end of a 5-year-long eruptive episode, when a fissure opened on the N flank, ejecting large blocks and issuing lava flows." 
+        },
+        {
+            "name": "Seguam",
+            "vei": 5,
+            "coordinates": [52.31319394589033, -172.51312379107898],
+            "type": "Stratovolcano",
+            "summitFeet": 3458,
+            "magmaType": "Dacite",
+            "desc": "The 11.5 x 24 km island of Seguam, between Amlia and Amukta Islands in the central Aleutians, contains two calderas with Holocene post-caldera cones. Growth of the basaltic-to-rhyolitic Wilcox volcano on the east side of the island during the late Pleistocene was followed by edifice collapse and an associated ignimbrite eruption about 9,000 years ago, leaving a caldera open to the west, inside which a rhyolitic cone was constructed. The 3 x 4 km westernmost caldera has a central scoria cone, Pyre Peak, which rises above the caldera rim and is the source of most of the reported eruptions. A very young basaltic field surrounds Pyre Peak, and lava flows partially fill the caldera and reach the southern coast. Older Holocene lava flows were erupted from vents within the eastern caldera, and a monogenetic Holocene cone forms Moundhill volcano on the eastern tip of the island." 
+        },
+        {
+            "name": "Serua",
+            "vei": 4,
+            "coordinates": [-6.311995592875942, 130.01690197544443],
+            "type": "Stratovolcano",
+            "summitFeet": 1995,
+            "magmaType": "Andesite",
+            "desc": "The 2 x 4 km island of Serua is the emergent summit of a volcano rising 3,600 m above the Banda Sea floor. A truncated central cone surrounded by an old crater wall is capped by the Gunung Wuarlapna lava dome. This andesitic volcano, also known as Legatala, lies near the center of the Banda arc and has had many eruptions recorded since the 17th century." 
+        },
+        {
             "name": "Matthew Island",
             "vei": 2,
             "coordinates": [-22.34301602208257, 171.35577729197266],
