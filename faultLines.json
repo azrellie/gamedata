@@ -11692,10 +11692,10 @@
         },
         {
             "name": "Central African Shear System",
-            "lengthKm": 4200,
+            "lengthKm": 4400,
             "depthKm": 190,
             "activity": 0.25,
-            "type": "Strike Slip",
+            "type": "Reverse",
             "points": [
                 [1.0401750828178185, 7.322280426038441],
                 [1.3738826522407226, 7.630993877672438],
