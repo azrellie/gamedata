@@ -4486,13 +4486,13 @@
             "desc": "A huge volcanic caldera in southern Kii Peninsula, Japan. It was formed 13 million years ago during an active phase of volcanism in Japan, which caused the formation of several VEI-8 calderas."
         },
         {
-            "name": "Toussidé",
+            "name": "Yirrigue Caldera",
             "vei": 7,
-            "coordinates": [21.04105755916579, 16.465801203178874],
-            "type": "Stratovolcano",
+            "coordinates": [21.048784962848124, 16.55434433875907],
+            "type": "Caldera",
             "summitFeet": 5226,
             "magmaType": "Rhyolite",
-            "desc": "Tarso Toussidé is a stratovolcano in Chad. Toussidé is among the youngest volcanoes in Tibesti, and may have erupted in historical time."
+            "desc": "A large caldera 14 kilometers in diameter. It is directly related to the Tarso Toussidé volcano that lies to the west."
         },
         {
             "name": "Fisher",
@@ -4918,7 +4918,7 @@
             "desc": "A large caldera in the Central Andean Volcanic Zone. It is the likely source of Wheelwright Ignimbrite (6.6 - 5.5 Ma)."
         },
         {
-            "name": "Unnamed",
+            "name": "Unnamed Volcano W of Tongatapu, Tonga",
             "vei": 6,
             "coordinates": [-21.142971886560638, -175.7347358851593],
             "type": "Caldera",
@@ -6246,7 +6246,7 @@
         },
         {
             "name": "Jom-Bolok Volcanic Field",
-            "vei": 4,
+            "vei": 5,
             "coordinates": [52.704221814728655, 99.0001139496517],
             "type": "Volcanic Field",
             "summitFeet": 6814,
@@ -6415,6 +6415,213 @@
             "summitFeet": 4973,
             "magmaType": "Basalt",
             "desc": "Raton-Clayton Volcanic Field is a volcanic field in the USA. One of the lava flows from this volcano has reached Oklahoma."
+        },
+        {
+            "name": "Northern Éfaté",
+            "vei": 7,
+            "coordinates": [-17.34747785411562, 168.6508978874145],
+            "type": "Caldera",
+            "summitFeet": -2400,
+            "magmaType": "Rhyolite",
+            "desc": "A major submarine caldera off the northern coast of the Éfaté island. It has been formed on a part of the Vanuatu Subduction Zone that is more active volcanically than the rest of the boundary."
+        },
+        {
+            "name": "Awu",
+            "vei": 5,
+            "coordinates": [3.682925806316591, 125.45336025628349],
+            "type": "Stratovolcano",
+            "summitFeet": 4324,
+            "magmaType": "Andesite",
+            "desc": "The massive Gunung Awu stratovolcano occupies the northern end of Great Sangihe Island, the largest of the Sangihe arc. Deep valleys that form passageways for lahars dissect the flanks of the volcano, which was constructed within a 4.5-km-wide caldera. Powerful explosive eruptions in 1711, 1812, 1856, 1892, and 1966 produced devastating pyroclastic flows and lahars that caused more than 8000 cumulative fatalities. Awu contained a summit crater lake that was 1 km wide and 172 m deep in 1922, but was largely ejected during the 1966 eruption."
+        },
+        {
+            "name": "Unnamed Volcano NE of Mount Apo, Philippines",
+            "vei": 5,
+            "coordinates": [7.035099731192314, 125.33038678917487],
+            "type": "Caldera",
+            "summitFeet": 8202,
+            "magmaType": "Dacite",
+            "desc": "A large 5.2 x 3.5 km breached caldera to the northeast of the pleistocene Apo volcano. It has been estimated that the caldera was formed from a highly explosive VEI 5 eruption of dacitic composition."
+        },
+        {
+            "name": "Karangetang",
+            "vei": 3,
+            "coordinates": [2.7814622425066564, 125.40676961346826],
+            "type": "Stratovolcano",
+            "summitFeet": 5896,
+            "magmaType": "Andesite",
+            "desc": "Karangetang (Api Siau) volcano lies at the northern end of the island of Siau, about 125 km NNE of the NE-most point of Sulawesi. The stratovolcano contains five summit craters along a N-S line. It is one of Indonesia's most active volcanoes, with more than 40 eruptions recorded since 1675 and many additional small eruptions that were not documented (Neumann van Padang, 1951). Twentieth-century eruptions have included frequent explosive activity sometimes accompanied by pyroclastic flows and lahars. Lava dome growth has occurred in the summit craters; collapse of lava flow fronts have produced pyroclastic flows."
+        },
+        {
+            "name": "Banua Wuhu",
+            "vei": 3,
+            "coordinates": [3.1376720348579012, 125.49057196713412],
+            "type": "Complex",
+            "summitFeet": -16,
+            "magmaType": "Andesite",
+            "desc": "The Banua Wuhu volcano in the Sangihe Islands rises more than 400 m from the ocean floor to form a shoal less than 5 m below sea level. Several ephemeral islands were constructed during the 19th and 20th centuries. An island 90 m high was formed in 1835, but had eroded to only a few rocks by 1848. A new island formed in 1889 was 50 m high in 1894. Five new craters were formed during an eruption that built a new island in 1904. Another new island that formed in 1919 had disappeared by 1935."
+        },
+        {
+            "name": "Tinakula",
+            "vei": 3,
+            "coordinates": [-10.384037397522363, 165.8002080455755],
+            "type": "Stratovolcano",
+            "summitFeet": 2612,
+            "magmaType": "Andesite",
+            "desc": "The small 3.5-km-wide island of Tinakula is the exposed summit of a massive stratovolcano at the NW end of the Santa Cruz islands. It has a breached summit crater that extends from the summit to below sea level. Landslides enlarged this scarp in 1965, creating an embayment on the NW coast. The Mendana cone is located on the SE side. The dominantly andesitic volcano has frequently been observed in eruption since the era of Spanish exploration began in 1595. In about 1840, an explosive eruption apparently produced pyroclastic flows that swept all sides of the island, killing its inhabitants. Recorded eruptions have frequently originated from a cone constructed within the large breached crater. These have left the upper flanks and the steep apron of lava flows and volcaniclastic debris within the breach unvegetated."
+        },
+        {
+            "name": "Yasur",
+            "vei": 5,
+            "coordinates": [-19.52678568361871, 169.4460133399436],
+            "type": "Stratovolcano",
+            "summitFeet": 1184,
+            "magmaType": "Andesite",
+            "desc": "Yasur has exhibited essentially continuous Strombolian and Vulcanian activity at least since Captain Cook observed ash eruptions in 1774. This style of activity may have continued for the past 800 years. Located at the SE tip of Tanna Island in Vanuatu, this pyroclastic cone has a nearly circular, 400-m-wide summit crater. The active cone is largely contained within the small Yenkahe caldera, and is the youngest of a group of Holocene volcanic centers constructed over the down-dropped NE flank of the Pleistocene Tukosmeru volcano. The Yenkahe horst is located within the Siwi ring fracture, a 4-km-wide open feature associated with eruption of the andesitic Siwi pyroclastic sequence. Active tectonism along the Yenkahe horst accompanying eruptions has raised Port Resolution harbor more than 20 m during the past century."
+        },
+        {
+            "name": "Traitor's Head",
+            "vei": 0,
+            "coordinates": [-18.759952359676962, 169.22148840844463],
+            "type": "Stratovolcano",
+            "summitFeet": 2680,
+            "magmaType": "Basalt",
+            "desc": "The Traitor's Head peninsula north of Cook Bay on eastern Erromango Island is comprised of three Holocene volcanic cones that are the youngest on the 50-km-long island. Mounts Rantop, Nagat, and Oulenou are small basaltic-to-andesitic stratovolcanoes with well-preserved morphologies. Rantop is the largest, but Oulenou is the most youthful looking, with an unbreached crater. A low plateau to the NW is underlain by ash deposits distributed by southeasterly trade winds. The volcanoes initially formed an offshore island that was joined to the mainland by uplift after volcanism ceased. A submarine vent offshore between the tip of the peninsula and Goat Island, 5 km to the NE, erupted in 1881, the only recorded activity of the Erromango volcanoes."
+        },
+        {
+            "name": "Zubair Group",
+            "vei": 2,
+            "coordinates": [15.055347888736659, 42.17839026354312],
+            "type": "Shield",
+            "summitFeet": 627,
+            "magmaType": "Basalt",
+            "desc": "The 5-km-long Jebel Zubair Island is the largest of a group of small islands and submerged shoals that rise from a shallow platform in the Red Sea rift. The platform and eruptive vents forming the islands and shoals are oriented NNW-SSE, parallel to the rift. An early explosive phase was followed by a brief period of marine erosion, then by renewed explosive activity accompanied by the extrusion of basaltic pahoehoe lava flows. This latest phase of activity occurred on the morphologically youngest islands of Zubair, Centre Peak, Saba, and Haycock. Historical explosive activity was reported from Saddle Island in the 19th century. Spatter cones and pyroclastic cones were erupted along fissures that form the low spine of Zubair Island. Eruptions that began in late 2011 built two new islands, increasing the total number in the group to 12."
+        },
+        {
+            "name": "Linosa",
+            "vei": 3,
+            "coordinates": [35.86543508794228, 12.867640695245113],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 640,
+            "magmaType": "Basalt",
+            "desc": "Linosa Island, in the Straight of Sicily graben system midway between Sicily and Tunisia, is the subaerial exposure of a large submarine volcano. The island contains several monogenetic hydrovolcanic eruptive centers, both effusive and Strombolian, as well cinder cones and lava flows dated to 1.06-0.53 Ma (Peccerillo, 2005). During this time, there were three main episodes of volcanism. The first phase developed hydromagmatic scoria cones and tuff rings of mafic composition. The second phase involved both effusive and explosive hydromagmatic activity, producing scoria and lava flows. The third phase produced basaltic lava flows, scoria deposits, and some hydromagmatic deposits, during which time the largest cones on the island formed (Peccerillo, 2005). Within each eruptive phase, hydromagmatic activity decreased with time, as lava flows helped reduce the islands erodability and limited the contact between craters and seawater (Guest et al., 2003)."
+        },
+        {
+            "name": "Vulture",
+            "vei": 6,
+            "coordinates": [40.919070158060116, 15.600629947983657],
+            "type": "Caldera",
+            "summitFeet": 4364,
+            "magmaType": "Basalt",
+            "desc": "The isolated Monte Vulture is a stratovolcano with a summit caldera and a few cones that erupted lavas and pyroclastics covering 150 km2. Petrologically and geochemically distinct, it is classified as its own magmatic province: the Lucanian Magmatic Province, in the Apulian Region (Peccerillo, 2005). The most recent volcanic activity formed two intra-caldera maars and involved explosive eruptions of carbonate-rich tuff, with the Lago Piccolo di Monticchio maar dated at 0.141 Ma (Peccerillo, 2005; Villa and Buettner, 2009). Capaldi et al. (1985) reported the youngest dated products from Vulture as 0.42 million years old. Peccerillo (2005) give an age range of 0.8-0.13 Ma for Vulture volcanics."
+        },
+        {
+            "name": "Roccamonfina",
+            "vei": 6,
+            "coordinates": [41.29838031401673, 13.969708106302587],
+            "type": "Caldera",
+            "summitFeet": 3497,
+            "magmaType": "Rhyolite",
+            "desc": "Roccamonfina is a large Pleistocene stratovolcano with numerous post-caldera cones within the summit caldera and on the flanks. The eruptive history consists of three main phases. The first stage built the main cone via lava flows and pyroclastics. The second stage is defined by large explosive eruptions, tuff deposits, and caldera collapse. The third stage formed the lava flows, domes, and scoria cones that exist on the volcanic edifice today. A report of a historical eruption in 269 BCE (a flame shot up and burned for three days near Cales (Stothers and Rampino, 1983)) is considered uncertain by Scandone and Principe (1986), who noted that the youngest products have been dated at 0.30 million years. Later work (Rouchon et al., 2008) dated summit caldera lava domes at 170-150,000 years ago. Peccerillo (2005) gives an age range of 0.58-0.1 Ma for Roccamonfina activity."
+        },
+        {
+            "name": "Ibu",
+            "vei": 2,
+            "coordinates": [1.4944849042700448, 127.63500235341954],
+            "type": "Stratovolcano",
+            "summitFeet": 4347,
+            "magmaType": "Andesite",
+            "desc": "The truncated summit of Gunung Ibu stratovolcano along the NW coast of Halmahera Island has large nested summit craters. The inner crater, 1 km wide and 400 m deep, has contained several small crater lakes. The 1.2-km-wide outer crater is breached on the N, creating a steep-walled valley. A large cone grew ENE of the summit, and a smaller one to the WSW has fed a lava flow down the W flank. A group of maars is located below the N and W flanks. The first observed and recorded eruption was a small explosion from the summit crater in 1911. Eruptive activity began again in December 1998, producing a lava dome that eventually covered much of the floor of the inner summit crater along with ongoing explosive ash emissions."
+        },
+        {
+            "name": "Kie Matubu",
+            "vei": 3,
+            "coordinates": [0.6629651084126831, 127.40253340325391],
+            "type": "Stratovolcano",
+            "summitFeet": 5620,
+            "magmaType": "Andesite",
+            "desc": "The conical Kie Matubu volcano on the south end of Tidore Island is the highest peak of the North Maluku island chain west of Halmahera. Faral et al. (2022) identified deposits from two eruptions within the past 3,000 years."
+        },
+        {
+            "name": "Dempo",
+            "vei": 3,
+            "coordinates": [-4.016103034948179, 103.12346929999026],
+            "type": "Stratovolcano",
+            "summitFeet": 10308,
+            "magmaType": "Andesite",
+            "desc": "Dempo is a stratovolcano that rises above the Pasumah Plain of SE Sumatra. The andesitic complex has two main peaks, Gunung Dempo and Gunung Marapi, constructed near the SE rim of a 3-km-wide amphitheater open to the north. The high point of the older Gunung Dempo crater rim is slightly lower, and lies at the SE end of the summit complex. The taller Marapi cone was constructed within the older crater. Remnants of seven craters are found at or near the summit, with volcanism migrating WNW over time. The active 750 x 1,100 m active crater cuts the NW side of the Marapi cone and contains a 400-m-wide lake at the far NW end. Eruptions recorded since 1817 have been small-to-moderate explosions that produced local ashfall."
+        },
+        {
+            "name": "Suoh",
+            "vei": 4,
+            "coordinates": [-5.233673958495444, 104.27391732795205],
+            "type": "Caldera",
+            "summitFeet": 3281,
+            "magmaType": "Unknown",
+            "desc": "The 8 x 16 km Suoh (or Suwoh) depression appears to have a dominantly tectonic origin, but contains a smaller complex of overlapping calderas oriented NNE-SSW. Historically active maars and silicic domes lie along the margins of the depression, which falls along the Great Sumatran Fault that extends the length of the island. Numerous hot springs occur along faults within the depression, which contains the Pematang Bata fumarole field. Large phreatic explosions (0.2 km2 tephra) occurred at the time of a major tectonic earthquake in 1933. Very minor hydrothermal explosions produced two 5-m-wide craters at the time of a February 1994 earthquake."
+        },
+        {
+            "name": "Seulawah Agam",
+            "vei": 2,
+            "coordinates": [5.447556439706224, 95.65433649581442],
+            "type": "Stratovolcano",
+            "summitFeet": 5938,
+            "magmaType": "Andesite",
+            "desc": "Seulawah Agam at the NW tip of Sumatra is an extensively forested volcano of Pleistocene-Holocene age constructed within the large Pleistocene Lam Teuba caldera. A smaller 8 x 6 km caldera lies within Lam Teuba caldera. The summit contains a forested, 400-m-wide crater. The active van Heutsz crater, located at 650 m on the NNE flank of Suelawah Agam, is one of several areas containing active fumarole fields. Sapper (1927) and the Catalog of Active Volcanoes of the World (CAVW) reported an explosive eruption in the early 16th century, and the CAVW also listed an eruption from the van Heutsz crater in 1839. Rock et al. (1982) found no evidence for historical eruptions. However the Volcanological Survey of Indonesia noted that although no historical eruptions have occurred from the main cone, the reported NNE-flank explosive activity may have been hydrothermal and not have involved new magmatic activity."
+        },
+        {
+            "name": "Lam Teuba Caldera",
+            "vei": 7,
+            "coordinates": [5.479567784145753, 95.58916132382161],
+            "type": "Caldera",
+            "summitFeet": 1181,
+            "magmaType": "Dacite",
+            "desc": "A large volcanic depression over 12 km in diameter that contains a resurgent caldera 8 x 6 km in diameter. It has been the site of many explosive dacitic eruptions during the pleistocene."
+        },
+        {
+            "name": "El Valle de Antón Caldera",
+            "vei": 6,
+            "coordinates": [8.60889238849919, -80.12637404573739],
+            "type": "Caldera",
+            "summitFeet": 3888,
+            "magmaType": "Dacite",
+            "desc": "El Valle volcano, 80 km SW of Panama City, is a broad stratovolcano cut by a large compound Pleistocene caldera. The 6-km-wide El Valle de Antón caldera was formed about 56,000 years ago in association with eruption of the dacitic El Hato pyroclastic flows. The caldera has steep, 200-300 m high walls overlooking a flat floor underlain by deposits of a former caldera lake and currently occupied by the town of El Valle. A dacitic lava dome complex (Cerro Pajita, Cerro Gaital, and Cerro Caracoral) was constructed along an E-W lineament within the caldera. Major phreatomagmatic Plinian eruptions produced when magma interacted with caldera-lake water as recently as about 34,600 years ago generated pyroclastic flows that reached the Pacific coast, 25 km S. The most recent dated activity was phreatic eruptions about 13,000 years ago, and activity may have continued into the Holocene (IRHE, 1987). Geothermal exploration has taken place to evaluate the energy potential of the caldera."
+        },
+        {
+            "name": "Soufrière St. Vincent",
+            "vei": 4,
+            "coordinates": [13.338696691711911, -61.17793338163704],
+            "type": "Stratovolcano",
+            "summitFeet": 4003,
+            "magmaType": "Andesite",
+            "desc": "Soufrière St. Vincent is the northernmost and youngest volcano on St. Vincent Island. The NE rim of the 1.6-km wide summit crater is cut by a crater formed in 1812. The crater itself lies on the SW margin of a larger 2.2-km-wide caldera, which is breached widely to the SW as a result of slope failure. Frequent explosive eruptions after about 4,300 years ago produced pyroclastic deposits of the Yellow Tephra Formation, which cover much of the island. The first historical eruption took place in 1718; it and the 1812 eruption produced major explosions. Much of the northern end of the island was devastated by a major eruption in 1902 that coincided with the catastrophic Mont Pelée eruption on Martinique. A lava dome was emplaced in the summit crater in 1971 during a strictly effusive eruption, forming an island within a lake that filled the crater. A series of explosive eruptions in 1979 destroyed the 1971 dome and ejected the lake; a new dome was then built."
+        },
+        {
+            "name": "Qualibou",
+            "vei": 6,
+            "coordinates": [13.838399658112928, -61.046390183821686],
+            "type": "Caldera",
+            "summitFeet": 2549,
+            "magmaType": "Andesite",
+            "desc": "The Qualibou caldera on the SW side of St. Lucia provides the setting for the Pitons, two steep-sided pre-caldera lava domes that form one of the scenic highlights of the West Indies. The 3.5 x 5 km caldera formed about 32-39,000 years ago in conjunction with the eruption of the Choiseul Tuff. A larger depression has been interpreted to have formed by edifice collapse, and bathymetry has identified large submarine debris-avalanche deposits off the west coast of the island. This depression and associated volcanic vents and geothermal areas is also known as the Soufrière volcanic centre. Numerous resurgent post-caldera lava domes fill the caldera floor. The latest dated magmatic eruptions took place about 20,000 years ago, but younger undated lava domes and explosion craters are present. The only known Holocene eruptive activity was a minor phreatic eruption in the Sulfur Springs geothermal area in 1766 CE that ejected a thin ash layer over a wide area. A volcanic earthquake swarm centered 6 km ESE of the caldera occurred in 1990."
+        },
+        {
+            "name": "Potrillo Volcanic Field",
+            "vei": 3,
+            "coordinates": [31.892949224900594, -107.74371940551877],
+            "type": "Volcanic Field",
+            "summitFeet": 5561,
+            "magmaType": "Basalt",
+            "desc": "The Potrillo volcanic field, in southern New Mexico along the western margin of the Rio Grande Rift, contains more than 150 cinder cones and five maars. Features include Kilbourne Hole, a small shield volcano, and Potrillo maar, which straddles the US-Mexico border. The field was active from 2.65 to 0.8 million years ago (Hoffer, in Wood and Kienle 1990)."
+        },
+        {
+            "name": "Carrizozo",
+            "vei": 5,
+            "coordinates": [33.79715643029575, -105.94368254417861],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 5679,
+            "magmaType": "Basalt",
+            "desc": "The massive Carrizozo lava flow, which traveled 75 km down the Tularosa Basin of south-central New Mexico, is one of Earth's longest known Holocene lava flows. The youthful-looking flow originated from a broad low basaltic shield on the floor of the Tularosa Basin, east of the Rio Grande Rift, topped by Little Black Peak, a small cinder cone. The 4.2 km3 tube-fed pahoehoe flow covered 330 km2 and has a width that ranges from 1 km in the central neck region to 5 km in the proximal and distal portions. The flow was inferred to have been emplaced during a single long-duration eruption estimated to have lasted 2-3 decades. A surface exposure age of about 5200 BP was obtained for the Carrizozo lava flow, the second youngest in New Mexico. An older lava flow traveled 16 km S and 11 km E from Broken Back crater."
         }
     ]
 }
