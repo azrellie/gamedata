@@ -11692,7 +11692,7 @@
         },
         {
             "name": "Central African Shear System",
-            "lengthKm": 4800,
+            "lengthKm": 5000,
             "depthKm": 190,
             "activity": 0.25,
             "type": "Reverse",
