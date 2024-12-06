@@ -2707,7 +2707,7 @@
         },
         {
             "name": "Bouvet",
-            "vei": 0,
+            "vei": 5,
             "coordinates": [-54.42170775127812, 3.357629834534485],
             "type": "Shield",
             "summitFeet": 2431,
@@ -5602,7 +5602,7 @@
         },
         {
             "name": "Aniakchak",
-            "vei": 6,
+            "vei": 7,
             "coordinates": [56.90517680242451, -158.1451293451421],
             "type": "Caldera",
             "summitFeet": 4400,
@@ -6622,6 +6622,141 @@
             "summitFeet": 5679,
             "magmaType": "Basalt",
             "desc": "The massive Carrizozo lava flow, which traveled 75 km down the Tularosa Basin of south-central New Mexico, is one of Earth's longest known Holocene lava flows. The youthful-looking flow originated from a broad low basaltic shield on the floor of the Tularosa Basin, east of the Rio Grande Rift, topped by Little Black Peak, a small cinder cone. The 4.2 km3 tube-fed pahoehoe flow covered 330 km2 and has a width that ranges from 1 km in the central neck region to 5 km in the proximal and distal portions. The flow was inferred to have been emplaced during a single long-duration eruption estimated to have lasted 2-3 decades. A surface exposure age of about 5200 BP was obtained for the Carrizozo lava flow, the second youngest in New Mexico. An older lava flow traveled 16 km S and 11 km E from Broken Back crater."
-        }
+        },
+        {
+            "name": "Niuatahi",
+            "vei": 7,
+            "coordinates": [-15.361590129966027, -174.00317784294194],
+            "type": "Caldera",
+            "summitFeet": -4167,
+            "magmaType": "Dacite",
+            "desc": "Niuatahi is a nearly circular caldera ~15 km in diameter, with a floor at a depth of about 2 km (Arculus, 2012); it had been preliminarily called Volcano O. A young cone (Motu Tahi) in the SE sector rises 730 m above the floor to a summit depth of 1,270 m. The volcano is in the rear arc of the Tonga-Kermadec Arc System, ~40 km W of the chain of edifices that define the volcanic front, and 25 km E of the central ridge of the Northeast Lau Spreading Center. The composition of the cone and surrounding floor is predominantly dacite. Towing with sea floor cameras over the cone and various parts of the caldera in 2012 resulted in the discovery of at least three sources of hydrothermal particle venting on the cone's summit and adjacent to the inner caldera walls. The Tonga Ministry of Lands, Environment, Climate Change and Natural Resources named the volcano Niuatahi, which means 'sea' in Tongan, with the small cone of Motutahi meaning island in the sea."
+        },
+        {
+            "name": "Tutuila",
+            "vei": 3,
+            "coordinates": [-14.290467898623593, -170.71435373092524],
+            "type": "Tuff Cone",
+            "summitFeet": 2142,
+            "magmaType": "Basalt",
+            "desc": "The elongated, extensively eroded Tutuila Island in the center of the Samoan Islands consists of five Pliocene-to-Pleistocene volcanoes constructed along two or three rifts trending SSW-NNE. The Pago basaltic-to-andesitic shield volcano in the center of the 32-km-long island is truncated by an eroded, 9-km-wide caldera that encloses Pago Pago harbor on its west. The caldera is now partially filled by cinder cones and trachytic lava domes. ENE-trending dike complexes are prominently exposed on Pago volcano. Following a lengthy period of erosion, submergence, and the construction of a barrier reef, the Leone Volcanics were erupted during the Holocene along a 5-km-long N-S-trending fissure over a broad area at the southernmost part of the island (Stearns, 1944), forming a group of initially submarine tuff cones and subsequent subaerial cinder cones that produced fresh-looking pahoehoe lava flows. An ash layer overlying a cultural deposit in the SW part of the island was radiocarbon dated at about 440 ± 200 CE (Addison et al., 2006)."
+        },
+        {
+            "name": "Savai'i",
+            "vei": 2,
+            "coordinates": [-13.66285463331808, -172.4331687414326],
+            "type": "Shield",
+            "summitFeet": 6096,
+            "magmaType": "Basalt",
+            "desc": "Savai'i, the largest and highest of the Samoan islands, consists of a massive basaltic shield volcano constructed along a WNW-ESE-trending rift zone that splits into two rifts on the east side of the 75-km-long, oval-shaped island. Pliocene and Pleistocene shield formation was followed by stream and marine erosion, partial submergence, and growth of coral reefs. Late-stage Pleistocene and Holocene eruptions produced voluminous lava flows that partially buried fringing reefs. Numerous cinder cones and lava cones dot the broad crest of Savai'i, which has a low-angle, dome-like profile and reaches an elevation of 1858 m. Additional cones occur on the north-central flank, and a large number are found in the south-central part of the island. Three eruptions, including two in the 20th century, occurred in historical time, and produced voluminous lava flows that reached the northern coast along broad fronts up to about 15 km wide, destroying several villages and overtopping fringing reefs."
+        },
+        {
+            "name": "Laguna Caldera",
+            "vei": 7,
+            "coordinates": [14.431602079861888, 121.27494857633863],
+            "type": "Caldera",
+            "summitFeet": 2438,
+            "magmaType": "Rhyolite",
+            "desc": "The elliptical 12 x 24 km Laguna Caldera SE of Manila forms the middle of the three large basins of Laguna de Bay, the largest lake on Luzon Island. Pre-caldera Pleistocene volcanism formed basaltic to basaltic-andesitic volcanoes, including Mount Sembrano on the Jalajala peninsula E of the current caldera. That peninsula is the E rim of the caldera, and hosts the Jalajala solfataric field on the S flank of Mount Sembrano. Elongated Talim Island forms the SW rim of the caldera. The caldera may have formed during at least two major explosive eruptions about 1 million and 27,000-29,000 years ago."
+        },
+        {
+            "name": "Gedemsa",
+            "vei": 6,
+            "coordinates": [8.36562079064878, 39.170651834106756],
+            "type": "Caldera",
+            "summitFeet": 6263,
+            "magmaType": "Rhyolite",
+            "desc": "The Gedemsa caldera covers 7 x 9 km along the Main Ethiopian Rift E of Lake Koka and SW of Wonji Sugar Estate Farm. The steep-sided edifice has walls 100-200 m high whose upper part consists primarily of rhyolitic lava flows, formed by the eruption of a series of trachytic ignimbrites, It is also cut by many NNE-SSW-trending regional faults, particularly on the E side. Late-Pleistocene to Holocene volcanics form a chain of rhyolitic lava flows and pumice deposits, known as Ittisa, that rises above the floor of the caldera. A large 1-km-wide crater is located at the eastern part of the chain. A Holocene lava dome or flow is found on the SW flank. Small basaltic spatter cones have formed inside the caldera rim. Weak fumarolic activity was reported at two locations."
+        },
+        {
+            "name": "Kone",
+            "vei": 6,
+            "coordinates": [8.808526184456916, 39.69113771695117],
+            "type": "Caldera",
+            "summitFeet": 4528,
+            "magmaType": "Rhyolite",
+            "desc": "The Kone volcanic complex (also known as Gariboldi) is composed of a series of silicic calderas and young basaltic cinder cones and lava flows about 30 km SW of Fentale volcano in the Main Ethiopian Rift. As many as eight silicic calderas are accompanied by ignimbrite outflow sheets. Kone, the youngest caldera, is an elliptical 5 x 7.5 km structure trending E-W and oriented perpendicular to the rift. The rim rises about 100 m above the caldera floor; the eastern rim overlaps with a smaller elliptical caldera. Regional fissures trending roughly N-S cut across the caldera and its flanks. The youngest basalts were erupted during the first half of the 19th century from vents along a hinge line between the smaller eastern caldera (Korke) and the larger western one. A dark lava flow from a cone near the center of the southern caldera (Birenti), extended 12 km SW, where the caldera rim had been eroded, and surrounded older cones."
+        },
+        {
+            "name": "Adwa",
+            "vei": 6,
+            "coordinates": [10.063138731628896, 40.830166616770256],
+            "type": "Stratovolcano",
+            "summitFeet": 5479,
+            "magmaType": "Rhyolite",
+            "desc": "Adwa (also known as Aabida, Amoissa, or Dabita), is a broad stratovolcano in the southern Afar area immediately east of the younger vegetated Ayelu volcano. It has a roughly 3 x 4 km caldera that originated following eruption of voluminous ignimbrites, with a trachytic dome extruded in the eastern part of the caldera. Scoria cones are located on the floor of the caldera and on its NW and SW flanks. Extensive young basaltic lava flows cover the flanks and overlap a sedimentary plain to the SE. Many fumaroles occur within the caldera. Satellitic pyroclastic cones and lava domes were considered to be only a few hundred years old (Mohr 1980, pers. comm.). Dark lava flows originating from cones about 4 km from the caldera rim on the SW flank cover more than 50 km2."
+        },
+        {
+            "name": "Yangudi",
+            "vei": 5,
+            "coordinates": [10.587599107771455, 41.037622457824874],
+            "type": "Complex",
+            "summitFeet": 4537,
+            "magmaType": "Rhyolite",
+            "desc": "Yangudi volcano, lying in the Addado graben of the northern Main Ethiopian Rift, is a complex rhyolitic stratovolcano with an elliptical summit caldera. A trachytic lava flow originating in the caldera covers part of the southern flank of Yangudi, also known as Angudi, Jangudi, or Langudi. Rhyolitic obsidian domes on the NW flank are surrounded by younger basaltic lava flows. Very recent scoria cones and lava flows are located south of Yangudi along the eastern graben faults."
+        },
+        {
+            "name": "Kyejo",
+            "vei": 2,
+            "coordinates": [-9.226979341514463, 33.79330092665778],
+            "type": "Stratovolcano",
+            "summitFeet": 7139,
+            "magmaType": "Trachyte",
+            "desc": "Late-stage activity of the Kyejo (Kieyo) trachytic stratovolcano, NW of Lake Malawi (Lake Nyassa), consisted of the formation of numerous maars and cinder cones. This stratovolcano is elongated in a NW-SE direction and has been active since the mid-Pleistocene. Maars, some of which contain lakes, surround the area, and young basaltic cinder cones and lava flows cover an extensive area to the south. The latest eruption around 1800 CE took place from two tephritic cones, Sarabwe and Fiteko, that were constructed along a NW-trending fissure. The eruption produced lava flows that traveled 8 km and overran several villages."
+        },
+        {
+            "name": "Wurlali",
+            "vei": 5,
+            "coordinates": [-7.127830199960897, 128.67194689765086],
+            "type": "Stratovolcano",
+            "summitFeet": 2848,
+            "magmaType": "Andesite",
+            "desc": "The andesitic Wurlali stratovolcano, also known as Damar, was constructed at the northern end of a 5-km-wide caldera on the eastern side of Damar Island in the Banda Sea. Fumarolic activity occurs in the twin summit craters and on the SE flanks, producing exploitable sulfur deposits. An explosive eruption was observed in 1892 CE."
+        },
+        {
+            "name": "Ambang",
+            "vei": 1,
+            "coordinates": [0.7499810805986579, 124.42002041242856],
+            "type": "Complex",
+            "summitFeet": 5889,
+            "magmaType": "Andesite",
+            "desc": "The andesitic Wurlali stratovolcano, also known as Damar, was constructed at the northern end of a 5-km-wide caldera on the eastern side of Damar Island in the Banda Sea. Fumarolic activity occurs in the twin summit craters and on the SE flanks, producing exploitable sulfur deposits. An explosive eruption was observed in 1892 CE."
+        },
+        {
+            "name": "Kiska",
+            "vei": 3,
+            "coordinates": [52.09872925587769, 177.60050213579333],
+            "type": "Stratovolcano",
+            "summitFeet": 4003,
+            "magmaType": "Andesite",
+            "desc": "Conical Kiska volcano is the westernmost historically active volcano of the 2500-km-long Aleutian arc. The volcano lies at the northern tip of the elongated Kiska Island, across a low isthmus containing East Kiska and West Kiska lakes. A 400-m-wide elliptical crater, breached to the north, caps the 1220-m-high stratovolcano. The volcano is surrounded on three sides by sea cliffs up to 450 m high and overlies an older volcanic center exposed to the south. A massive submarine debris-avalanche deposit extends 40 km to the NNW. The southern part of the NE-SW-trending island, the westernmost of the Rat Island group, has been glaciated, but all lava flows post-date the last major glaciation. Young, steep-sided blocky lava flows, primarily on the N and SW flanks, have originated from vents at locations ranging from the summit to near sea level. A flank cinder cone and associated lava flows were erupted in 1962 at Sirius Point on the northern coast. The island contains one of the best harbors in the Aleutian Islands, but is uninhabited."
+        },
+        {
+            "name": "Semisopochnoi",
+            "vei": 7,
+            "coordinates": [51.94548766811578, 179.55065547185274],
+            "type": "Stratovolcano",
+            "summitFeet": 4006,
+            "magmaType": "Basalt",
+            "desc": "Semisopochnoi, the largest subaerial volcano of the western Aleutians, is 20 km wide at sea level and contains an 8-km-wide caldera. It formed as a result of collapse of a low-angle, dominantly basaltic volcano following the eruption of a large volume of dacitic pumice. The high point of the island is Anvil Peak, a double-peaked late-Pleistocene cone that forms much of the island's northern part. The three-peaked Mount Cerberus (renamed Mount Young in 2023) was constructed within the caldera during the Holocene. Each of the peaks contains a summit crater; lava flows on the N flank appear younger than those on the south side. Other post-caldera volcanoes include the symmetrical Sugarloaf Peak SSE of the caldera and Lakeshore Cone, a small cinder cone at the edge of Fenner Lake in the NE part of the caldera. Most documented eruptions have originated from Young, although Coats (1950) considered that both Sugarloaf and Lakeshore Cone could have been recently active."
+        },
+        {
+            "name": "Davidof",
+            "vei": 5,
+            "coordinates": [51.9686889328413, 178.3302361457937],
+            "type": "Stratovolcano",
+            "summitFeet": 1076,
+            "magmaType": "Unknown",
+            "desc": "A cluster of small islands between Segula and Little Sitkin in the western Aleutians, the largest of which is Davidof, are remnants of a stratovolcano that collapsed during the late Tertiary, forming a 2.7-km-wide caldera. The islands include Khvostof, Pyramid, Lopy, and Davidof; the latter three form the eastern rim of the mostly submarine caldera, sometimes referred to as the Aleutian Krakatau. The islands were constructed above a roughly 100-m-deep submarine platform extending NW to Segula Island; the floor of the caldera lies 80 m below sea level. The islands are vegetated, but lava flows are recognizable, and Smith et al. (1978) suggested a possible Holocene age."
+        },
+        {
+            "name": "Yunaska",
+            "vei": 6,
+            "coordinates": [52.63998724515213, -170.64131359345552],
+            "type": "Shield",
+            "summitFeet": 1804,
+            "magmaType": "Andesite",
+            "desc": "The elongated 9 x 23 km Yunaska in the Islands of the Four Mountains group of the Aleutian Islands is comprised of two distinct volcanic centers. The older western center consists of the eroded remnants of four overlapping stratovolcanoes that form a linear, NNE-trending ridge. Cinder cones and fissure-fed lava flows extend from the western end of the complex. The younger eastern complex consists of a shield volcano capped by two nested calderas. The 3.5-km-wide Coats caldera is located within an older 10 x 13 km caldera and contains cinder cones and a lava field. Two areas of youthful lava flows extend down the flank through a gap in the SW caldera rim and cover the upper N flank of the caldera. Vents are found on the flanks of the caldera within a kilometer of its rim. A post-caldera cone is capped by a small summit crater. The eastern center is presumably the source of eruptions recorded since the early 1800s. "
+        },
     ]
 }
