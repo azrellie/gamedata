@@ -915,7 +915,7 @@
             "lengthKm": 4520,
             "depthKm": 120,
             "activity": 1,
-            "type": "Oceanic-Oceanic Convergent Boundary",
+            "type": "Oceanic Convergent Boundary",
             "points": [
                 [-6.963182986274281, 149.1301421954982],
                 [-6.971843982485437, 149.30762178278025],
@@ -1357,7 +1357,7 @@
             "lengthKm": 965,
             "depthKm": 300,
             "activity": 0.9,
-            "type": "Oceanic-Oceanic Convergent Boundary",
+            "type": "Oceanic Convergent Boundary",
             "points": [
                 [-54.25202446277119, -34.46890320773491],
                 [-54.47195446373171, -33.42586010712098],
@@ -7085,7 +7085,7 @@
             "lengthKm": 1100,
             "depthKm": 10,
             "activity": 0.2,
-            "type": "Oceanic-Oceanic Convergent Boundary",
+            "type": "Oceanic Convergent Boundary",
             "points": [
                 [-1.5370342917250381, 142.3237292602193],
                 [-1.3169117098089873, 142.68876169316215],
@@ -7827,7 +7827,7 @@
             "lengthKm": 3715,
             "depthKm": 20,
             "activity": 0.1,
-            "type": "Oceanic-Oceanic Convergent Boundary",
+            "type": "Oceanic Convergent Boundary",
             "points": [
                 [-31.452382462592258, 88.19009438964652],
                 [-31.0766960239349, 89.13390822241273],
