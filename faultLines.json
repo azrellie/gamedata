@@ -1620,7 +1620,7 @@
         {
             "name": "Lesser Antilles Subduction Zone",
             "lengthKm": 2455,
-            "depthKm": 300,
+            "depthKm": 690,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -8618,7 +8618,7 @@
             "lengthKm": 4800,
             "depthKm": 14,
             "activity": 0.25,
-            "type": "Rift",
+            "type": "Transform",
             "points": [
                 [73.72911198668665, -114.0896365556523],
                 [74.34502519315437, -103.30855557398567],
