@@ -899,6 +899,15 @@
             "desc": "Oshima-Oshima, a 10 km2 island about 105 km W offshore from the SW tip of Hokkaido, is the emergent summit of two coalescing basaltic-to-andesitic stratovolcanoes. Higashiyama, at the east end of the island, is cut by a 2-km-wide caldera covered on its west side by Nishiyama volcano. The western cone failed during an eruption in 1741 CE, producing a mostly submarine debris avalanche that traveled 16 km and leaving a scarp open to the north. A tsunami associated with the collapse swept the coasts of Hokkaido, western Honshu, and Korea, and caused nearly 1,500 fatalities. The 1741 eruption concluded with the construction of a basaltic pyroclastic cone at the head of the amphitheater. No eruptions have occurred since the late-18th century."
         },
         {
+            "name": "Methana",
+            "vei": 3,
+            "coordinates": [37.603740033455345, 23.366049501033352],
+            "type": "Lava Domes",
+            "summitFeet": 1247,
+            "magmaType": "Basalt",
+            "desc": "Athens destroyer 9000"
+        },
+        {
             "name": "Rasshua",
             "vei": 3,
             "coordinates": [47.77016910520495, 153.01999867914733],
