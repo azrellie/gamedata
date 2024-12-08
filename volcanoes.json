@@ -1740,6 +1740,19 @@
             ]
         },
         {
+            "name": "Lublin–Baltic Mississippian Igneous Province",
+            "vei": 10,
+            "coordinates": [53.141006986054116, 21.39537927202396],
+            "type": "Large Igneous Province",
+            "summitFeet": -5500,
+            "magmaType": "Basalt",
+            "desc": "???? Actually real polish LIP which might be the brother of TESZ/Variscan????",
+            "chatMessages": [
+                "Vents are seen forming and spewing basaltic lava near the Kaliningrad Oblast...",
+                "<b><font color='rgb(75,0,0)'>Cities near Lublin are completely flooded with lava...</font></b>"
+            ]
+        },
+        {
             "name": "Franklin Large Igneous Province",
             "vei": 10,
             "coordinates": [71.02535077790789, -108.92377453157363],
