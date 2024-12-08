@@ -148,6 +148,15 @@
             "desc": "A supervolcano in Wyoming that is very well known for its 3 super eruptions in the last 2.1 million years and Old Faithful geyser. Old Faithful erupts on a daily basis and is often very predictable of its next eruptions."
         },
         {
+            "name": "Osuzuyama volcano-plutonic complex",
+            "vei": 8,
+            "coordinates": [32.29926489003998, 131.4266041404721],
+            "type": "Caldera",
+            "summitFeet": 4610,
+            "magmaType": "Rhyolite",
+            "desc": "Mount Osuzu is a mountain on the Japanese island of Kyushu. Part of an ancient volcanic formation known as the Osuzuyama volcano-plutonic complex, the mountain experienced a massive eruption in ~15.1 Ma."
+        },
+        {
             "name": "Kīlauea",
             "vei": 4,
             "coordinates": [19.406920810396706, -155.283369002341],
@@ -4104,12 +4113,30 @@
         },
         {
             "name": "Hotakadake",
-            "vei": 7,
+            "vei": 8,
             "coordinates": [36.30008630886134, 137.64983888486356],
             "type": "Caldera",
             "summitFeet": 10466,
             "magmaType": "Rhyolite",
             "desc": "Hodakadake, the highest of a rugged group of peaks in the scenic Northern Alps National Park, lies within the Hodaka Graben, the source of two major explosive eruptions about 1.75 million years ago. The eruption of the caldera-forming Nyukawa Pyroclastic Flow Deposit about 1.76 million years ago (Kimura and Nagahashi, 2007) was followed by the Ebisutoge-Fukuda Tephra, with an estimated volume of 380-490 km3 (Kataoka et al., 2001)."
+        },
+        {
+            "name": "Kakuto",
+            "vei": 8,
+            "coordinates": [32.041969517580974, 130.76699727684672],
+            "type": "Caldera",
+            "summitFeet": 2620,
+            "magmaType": "Rhyolite",
+            "desc": "Kakuto is a large figure-eight shaped caldera north of Kirishima that consists of the overlapping Kakuto and Kobayashi calderas, formed about 0.4-0.5 and 0.3 Ma, respectively (Nakano et al., 2001-). Major explosive eruptions have occurred around 110,000, 65,000 and 12,000 years ago (Newhall and Dzurisin, 1988)."
+        },
+        {
+            "name": "Yabakei",
+            "vei": 8,
+            "coordinates": [33.16894927923806, 131.22100618026158],
+            "type": "Caldera",
+            "summitFeet": 2625,
+            "magmaType": "Dacite",
+            "desc": "The largely buried Yabakei caldera (also known as the Shishimuta caldera), a member of the Hohi Volcanic Zone, was the source of two major Pleistocene explosive eruptions producing the dacitic Yabakei (0.1 Ma) and Imaichi (0.9 Ma) pyroclastic flows (Hayashida et al., 1996; Kamata, 1989). The Yabakei pyroclastics take the form of densely welded tuffs, originally more than 110 km3 in total volume, and crop out over an area of about 480 km2 (Kamata, 1989). The 8-km-diameter funnel-shaped caldera is filled with breccia and shows no evidence of resurgent volcanic activity after these two caldera eruptions. However, post-caldera monogenetic activity appears to have continued for about 600,000 years after the caldera activity (Kamata, 1989). "
         },
         {
             "name": "Tokachi-Mitsumata",
