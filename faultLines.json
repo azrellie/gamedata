@@ -13159,7 +13159,7 @@
         {
             "name": "Grenville Front Tectonic Zone",
             "lengthKm": 5130,
-            "depthKm": 30,
+            "depthKm": 60,
             "activity": 0.1,
             "type": "Thrust Oblique",
             "points": [
