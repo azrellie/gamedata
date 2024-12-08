@@ -786,6 +786,15 @@
             "desc": "Puyehue-Cordón Caulle is a complex volcano in Chile. The volcanic complex has shaped the local landscape and produced a huge variety of volcanic landforms and products over the last 300,000 years."
         },
         {
+            "name": "Asosan",
+            "vei": 8,
+            "coordinates": [32.88483259939064, 131.0850098128463],
+            "type": "Caldera",
+            "summitFeet": 5223,
+            "magmaType": "Andesite",
+            "desc": "The 24-km-wide Asosan caldera was formed during four major explosive eruptions from 300,000 to 90,000 years ago. These produced voluminous pyroclastic flows that covered much of Kyushu. The last of these, the Aso-4 eruption, produced more than 600 km3 of airfall tephra and pyroclastic-flow deposits. A group of 17 central cones was constructed in the middle of the caldera, one of which, Nakadake, is one of Japan's most active volcanoes. It was the location of Japan's first documented historical eruption in 553 CE. The Nakadake complex has remained active throughout the Holocene."
+        },
+        {
             "name": "Kikai",
             "vei": 7,
             "coordinates": [30.791719777149893, 130.30783192685274],
