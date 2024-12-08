@@ -1430,6 +1430,42 @@
             "desc": "Gunung Tangkuban Parahu is a broad stratovolcano overlooking Indonesia's former capital city of Bandung. The volcano was constructed within the 6 x 8 km Pleistocene Sunda caldera, which formed about 190,000 years ago. The volcano's low profile is the subject of legends referring to the mountain of the upturned boat. The Sunda caldera rim forms a prominent ridge on the western side; elsewhere the rim is largely buried by deposits of the current volcano. The dominantly small phreatic eruptions recorded since the 19th century have originated from several nested craters within an elliptical 1 x 1.5 km summit depression."
         },
         {
+            "name": "Sande Caldera",
+            "vei": 6,
+            "coordinates": [60.013275565918775, 10.962065445001649],
+            "type": "Caldera",
+            "summitFeet": 2600,
+            "magmaType": "Larvikite",
+            "desc": "Ancient Caldera formed by the Oslo Rift near the river of Eikeren, visible on google earth."
+        },
+        {
+            "name": "Nittedal Caldera",
+            "vei": 7,
+            "coordinates": [60.01546623233432, 10.90962044106961],
+            "type": "Caldera",
+            "summitFeet": 2605,
+            "magmaType": "Rhyolite Basaltic",
+            "desc": "Another ancient oslo caldera also formed by the Oslo Rift, formed in the Nittedal Municipality."
+        },
+        {
+            "name": "Andebu Caldera",
+            "vei": 7,
+            "coordinates": [59.309336983809985, 10.20076467436442],
+            "type": "Caldera",
+            "summitFeet": 2504,
+            "magmaType": "Rhyolite",
+            "desc": "Ancient Oslo Rift Caldera number 3"
+        },
+        {
+            "name": "Bǽrum caldera",
+            "vei": 6,
+            "coordinates": [59.97198877144505, 10.537053825269902],
+            "type": "Caldera",
+            "summitFeet": 2500,
+            "magmaType": "Basalt",
+            "desc": "Ancient Oslo Rift Caldera number 4"
+        },
+        {
             "name": "Kujūsan",
             "vei": 6,
             "coordinates": [33.107603527321075, 131.29231769409404],
