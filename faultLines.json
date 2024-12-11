@@ -3590,7 +3590,7 @@
             "lengthKm": 3270,
             "depthKm": 45,
             "activity": 0.25,
-            "type": "Thrust",
+            "type": "Subduction Zone",
             "points": [
                 [41.27984382191613, 88.68251326548008],
                 [41.210550036246204, 92.7217306580056],
@@ -8537,7 +8537,7 @@
             "lengthKm": 1830,
             "depthKm": 40,
             "activity": 0.1,
-            "type": "Thrust",
+            "type": "Continental Convergent Boundary",
             "points": [
                 [-74.56943185983373, 68.35269141712793],
                 [-75.33315788032536, 69.86946964941045],
@@ -11172,7 +11172,7 @@
             "lengthKm": 4185,
             "depthKm": 25,
             "activity": 0.1,
-            "type": "Thrust",
+            "type": "Continental Convergent Boundary",
             "points": [
                 [42.681304751511085, -104.079785998661],
                 [45.08228346305593, -103.67295562560126],
