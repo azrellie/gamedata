@@ -1215,7 +1215,7 @@
         },
         {
             "name": "Maug Islands",
-            "vei": 3,
+            "vei": 5,
             "coordinates": [20.022780573439558, 145.22175627597318],
             "type": "Caldera",
             "summitFeet": 745,
