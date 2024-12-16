@@ -3,7 +3,7 @@
         {
             "name": "Peru-Chile Subduction Zone",
             "lengthKm": 5900,
-            "depthKm": 700,
+            "depthKm": 775,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -110,7 +110,7 @@
         {
             "name": "Middle America Subduction Zone",
             "lengthKm": 3000,
-            "depthKm": 230,
+            "depthKm": 450,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
