@@ -2423,7 +2423,7 @@
         },
         {
             "name": "Kanlaon",
-            "vei": 2,
+            "vei": 3,
             "coordinates": [10.411245619563033, 123.13208759757845],
             "type": "Stratovolcano",
             "summitFeet": 7946,
