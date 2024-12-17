@@ -3211,6 +3211,33 @@
             "magmaType": "Rhyodacite",
             "desc": "A large volcanic structure in the Sikhote-Alin volcanic belt. It represents the remnant of a caldera that was formed by an ancient subduction zone and produced a massive VEI-8 eruption."
         },
+        {  
+            "name": "Mentolat",
+            "vei": 5,
+            "coordinates": [-44.693773330108776, -73.07732341889476],
+            "type": "Stratovolcano",
+            "summitFeet": 5446,
+            "magmaType": "Andesite",
+            "desc": "Volcán Mentolat is an ice-filled 6-km-wide caldera in the central part of Magdalena Island across the Puyuhuapi strait from Puerto Cisnes. An eruption about 7000 years ago produced a pumice and scoria layer that extends to the SE. A young-looking andesitic lava flow on the W side of the volcano may be its most recent product. Historical reports by Serrano describe an eruption at the beginning of the 18th century that could refer to this lava flow."
+        },
+        {  
+            "name": "Melimoyu",
+            "vei": 6,
+            "coordinates": [-44.0737219006757, -72.86873285764837],
+            "type": "Stratovolcano",
+            "summitFeet": 7874,
+            "magmaType": "Andesite",
+            "desc": "Melimoyu is a stratovolcano with an 8-km-wide, largely buried caldera located ~40 km NW of the town of Puyuhuapi. The ice-filled caldera is drained by a glacier through a notch in the NE caldera rim. The basaltic-andesite volcano is elongated 10 km in an E-W direction and has several cinder cones. A 1-km-wide crater is located at its summit, and two late-Holocene tephra layers have been documented."
+        },
+        {  
+            "name": "Yanteles",
+            "vei": 4,
+            "coordinates": [-43.46822320947434, -72.78193808309379],
+            "type": "Stratovolcano",
+            "summitFeet": 5873,
+            "magmaType": "Andesite",
+            "desc": "Little-known glacier-covered Yanteles volcano in southern Chile is at the corner of a volcanic massif located 60 km S of the city of Chaiten, with higher eroded peaks about 5 km E and along a ridge extending 10 km SW. Several Holocene tephra layers have been attributed to this volcano. There were reports of an eruption at the time of the 20 February 1835 Chile earthquake, and Sapper (1917) stated that previously unseen black areas were observed there after the 1835 earthquake, but the nature of this activity is not clear."
+        },
         {
             "name": "Krakatau",
             "vei": 6,
