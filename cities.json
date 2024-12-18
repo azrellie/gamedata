@@ -4256,6 +4256,15 @@
             "population": 81562,
             "hdi": 0.78,
             "coordinates": [25.467434831101734, -80.47777856036019]
+        },
+        {
+            "name": "Ponta Delgada",
+            "state": "Açores",
+            "stateAbbrev": "",
+            "country": "Portugal",
+            "population": 67287,
+            "hdi": 0.814,
+            "coordinates": [25.467434831101734, -80.47777856036019]
         }
     ]
 }
