@@ -1678,6 +1678,42 @@
             "desc": "The 7 x 10 km Coatepeque caldera, its eastern side filled by a caldera lake, was formed by collapse of a group of stratovolcanoes immediately E of Santa Ana volcano. The height of the caldera rim increases on its W side, where it partially truncates Santa Ana. The caldera was formed during a series of major rhyolitic explosive eruptions between ~72,000 and 51,000 years ago. Post-caldera eruptions included the formation of basaltic cinder cones and lava flows near the western margin of the caldera and the extrusion of a half-dozen rhyodacitic lava domes along a NE-SW line near the caldera lake margins. The highest of the domes forms the wooded island of Isla de Cabra, or Cerro Grande. The age of the domes is not known precisely, but the youngest dome, Cerro Pacho, was estimated to have formed less than 10,000 years ago. Hot springs occur near the lake margins, but no verified historical eruptions have occurred."
         },
         {
+            "name": "Abra Granada",
+            "vei": 6,
+            "coordinates": [-22.554727699440726, -66.54082183964337],
+            "type": "Volcanic Complex",
+            "summitFeet": 18700,
+            "magmaType": "Dacite",
+            "desc": "Abra Granada is a volcanic complex in the Puna de Atacama in Bolivia. It is located approximately 45 kilometres (28 mi) north of Pirquitas and is composed from a lava dome, lavas and dacitic ignimbrites centering on Cerro Granada and are dated 9.8-7.8 Ma. Deposits erupted 7.9-5.0 mya by this volcano overlie the older Granada ignimbrite. Individual volcanic centres are known as Cerro Caucani, Cerro Granada and Cerro Solterío. The Pirquitas mine is part of the volcanic complex."
+        },
+        {
+            "name": "El Metate",
+            "vei": 5,
+            "coordinates": [19.537635846844164, -101.9920910504119],
+            "type": "Shield",
+            "summitFeet": 8000,
+            "magmaType": "Andesite",
+            "desc": "El Metate is a shield volcano in Mexico. It had a single VEI 5 eruption in 1250 AD."
+        },
+        {
+            "name": "Tangkoko-Duasudara",
+            "vei": 5,
+            "coordinates": [1.492858033132054, 125.17004339237103],
+            "type": "Stratovolcano",
+            "summitFeet": 4377,
+            "magmaType": "Andesite",
+            "desc": "The eastern peninsula at the far NE end of Sulawesi near the city of Bitung is occupied by a volcanic complex consisting of two major edifices within a nature reserve. To the north is Tangkoko (also known as Tongkoko), with a large caldera (~3 x 1.5 km) elongated towards the SE from the highest rim point; the rim at the opposite end is more than 400 m lower. Eruptions occurred from the summit crater in the 17th century and in 1801, when the caldera also reportedly contained a cone surrounded by a lake. About 1.5 km down the outer E flank is the Batuangus (or Batu Angus) lava dome, formed in 1801, along with an adjacent vent (Baru Batuangus) that has been the source of all subsequent eruptions. The higher twin-peaked Duasudara (also Dua Suadara) stratovolcano is about 4.5 km SW of the Tangkoko summit. A NE-facing open crater appears to have a hummocky debris flow that reaches the base of the Tangkoko edifice"
+        },
+        {
+            "name": "Ontakesan",
+            "vei": 6,
+            "coordinates": [35.89290891126205, 137.46960560430858],
+            "type": "Complex",
+            "summitFeet": 10062,
+            "magmaType": "Andesite",
+            "desc": "Ontake is a complex volcano in Japan. It is constructed within a largely buried 4 x 5 km caldera and occupies the southern end of the Norikura volcanic zone, which extends northward to Yakedake volcano."
+        },
+        {
             "name": "Cosigüina",
             "vei": 6,
             "coordinates": [12.982775996139067, -87.56706093686748],
