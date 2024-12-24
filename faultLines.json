@@ -8193,7 +8193,7 @@
             "lengthKm": 3715,
             "depthKm": 20,
             "activity": 0.1,
-            "type": "Oceanic Convergent Boundary",
+            "type": "Rift",
             "points": [
                 [-31.452382462592258, 88.19009438964652],
                 [-31.0766960239349, 89.13390822241273],
@@ -13961,7 +13961,7 @@
             "lengthKm": 9000,
             "depthKm": 650,
             "activity": 0.75,
-            "type": "Subduction Zone",
+            "type": "Thrust",
             "points": [
                 [8.758942612507573, -60.150736815588004],
                 [8.802372882737433, -63.226908503535086],
