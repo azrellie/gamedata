@@ -470,7 +470,7 @@
             "visualizationColor": [0, 255, 255]
         },
         {
-            "name": "Japan Trench Subduction Zone",
+            "name": "Japan Trench",
             "lengthKm": 800,
             "depthKm": 250,
             "activity": 1,
@@ -498,7 +498,7 @@
             "visualizationColor": [255, 255, 255]
         },
         {
-            "name": "Izu-Ogasawara Trench Subduction Zone",
+            "name": "Izu-Ogasawara Trench",
             "lengthKm": 1100,
             "depthKm": 400,
             "activity": 1,
@@ -662,7 +662,7 @@
             "visualizationColor": [255, 154, 0]
         },
         {
-            "name": "Yap Trench Subduction Zone",
+            "name": "Yap Trench",
             "lengthKm": 602,
             "depthKm": 130,
             "activity": 0.7,
@@ -686,7 +686,7 @@
             "visualizationColor": [214, 76, 125]
         },
         {
-            "name": "Philippine Trench Subduction Zone",
+            "name": "Philippine Trench",
             "lengthKm": 1320,
             "depthKm": 560,
             "activity": 1,
@@ -739,7 +739,7 @@
             "visualizationColor": [255, 170, 255]
         },
         {
-            "name": "Manila Trench Subduction Zone",
+            "name": "Manila Trench",
             "lengthKm": 990,
             "depthKm": 180,
             "activity": 0.85,
@@ -978,7 +978,7 @@
             "visualizationColor": [85, 0, 127]
         },
         {
-            "name": "Hjort Trench Subduction Zone",
+            "name": "Hjort Trench",
             "lengthKm": 472,
             "depthKm": 20,
             "activity": 0.7,
@@ -1032,7 +1032,7 @@
             "visualizationColor": [244, 169, 66]
         },
         {
-            "name": "Puysegur Trench Subduction Zone",
+            "name": "Puysegur Trench",
             "lengthKm": 452,
             "depthKm": 100,
             "activity": 0.75,
@@ -3483,7 +3483,7 @@
             "visualizationColor": [213, 252, 255]
         },
         {
-            "name": "Cayman Trough Subduction Zone",
+            "name": "Cayman Trough",
             "lengthKm": 1470,
             "depthKm": 7.6,
             "activity": 0.1,
@@ -5676,7 +5676,7 @@
             "visualizationColor": [116, 0, 158]
         },
         {
-            "name": "Okinawa Trough Rift",
+            "name": "Okinawa Trough",
             "lengthKm": 1190,
             "depthKm": 30,
             "activity": 0.8,
@@ -7114,7 +7114,7 @@
             "visualizationColor": [255, 0, 239]
         },
         {
-            "name": "Moresby Trough Fault",
+            "name": "Moresby Trough",
             "lengthKm": 1070,
             "depthKm": 18,
             "activity": 0.4,
@@ -7199,7 +7199,7 @@
             "visualizationColor": [146, 41, 226]
         },
         {
-            "name": "West Melanesian Trench Fault",
+            "name": "West Melanesian Trench",
             "lengthKm": 1100,
             "depthKm": 10,
             "activity": 0.2,
@@ -7710,7 +7710,7 @@
             "visualizationColor": [28, 209, 131]
         },
         {
-            "name": "North-West Borneo Trough Subduction Zone",
+            "name": "North-West Borneo Trough",
             "lengthKm": 1150,
             "depthKm": 16,
             "activity": 0.1,
@@ -8057,7 +8057,7 @@
             "visualizationColor": [6, 122, 18]
         },
         {
-            "name": "Diamantina Trench Subduction Zone",
+            "name": "Diamantina Trench",
             "lengthKm": 3715,
             "depthKm": 20,
             "activity": 0.1,
@@ -8372,6 +8372,76 @@
                 [43.06750678580311, -116.80173499879544]
             ],
             "visualizationColor": [0, 131, 206]
+        },
+        {
+            "name": "Maya Block Rift",
+            "lengthKm": 2060,
+            "depthKm": 10,
+            "activity": 0.1,
+            "type": "Rift",
+            "points": [
+                [18.71592215202605, -95.24430337869528],
+                [21.733293980210746, -95.7743545051633],
+                [21.760109222299025, -95.22005270264195],
+                [22.71615086973715, -95.21278357495576],
+                [22.71828129450403, -94.82708188697129],
+                [23.303939760389003, -94.82708188676061],
+                [23.288030016306013, -94.36169930174324],
+                [23.55506056404087, -94.28432800847465],
+                [23.539181004166327, -93.82818378971166],
+                [23.752864478214615, -93.70808506583204],
+                [23.73700890060871, -93.43324373603457],
+                [24.269746117272096, -93.28658470249401],
+                [24.173611287823036, -92.43540906905474],
+                [24.414641114604187, -92.35341859409846],
+                [24.30839180783766, -91.80373597326476],
+                [26.165094965660032, -91.02962042905406],
+                [26.113260442614582, -90.72244483474566],
+                [26.309073847411764, -90.58155979327151],
+                [26.11948180043983, -90.0953909206434],
+                [26.543820383318586, -89.92679075751452],
+                [26.34426453706076, -89.42329990005022],
+                [26.481819335969497, -89.34477381135969],
+                [26.341159905986416, -89.02143107503532],
+                [26.448738433214274, -88.95214334972015],
+                [26.153033288756973, -88.34981710058236],
+                [26.471858048945734, -87.99644967106987],
+                [26.04908959373892, -87.04231569704298],
+                [25.777992914398045, -87.07464996043036],
+                [25.566710443713188, -86.7085797963038],
+                [25.846604930287004, -86.51688375626516],
+                [25.410812071625074, -85.64852386512543],
+                [25.17764293527205, -85.76448295117535],
+                [24.790515683574874, -85.15062188259779]
+            ],
+            "visualizationColor": [213, 31, 226]
+        },
+        {
+            "name": "Tibesti Lineament",
+            "lengthKm": 6235,
+            "depthKm": 400,
+            "activity": 0.1,
+            "type": "Thrust",
+            "points": [
+                [33.260431704622825, -5.638776831869439],
+                [30.96014389957062, -1.4330188147869223],
+                [28.891734848922024, 1.892081564496467],
+                [26.39857096396079, 5.266564520039332],
+                [25.389721654349398, 6.986821626906965],
+                [23.44502079385735, 10.362308112738441],
+                [21.88769579586256, 12.864824124046372],
+                [19.623974229636367, 17.12492091496415],
+                [17.322355829145366, 21.204603915600078],
+                [15.086148023687475, 25.130796698096333],
+                [13.314648248996892, 28.22693273918008],
+                [13.008634582066174, 28.570301184705418],
+                [11.470314257231184, 30.52189320946731],
+                [9.163261240465502, 33.277655563319435],
+                [5.942492865183701, 36.7611008991576],
+                [1.9594036838223845, 40.560703962978444],
+                [0.1603377799704773, 42.28402113964035]
+            ],
+            "visualizationColor": [255, 0, 0]
         },
         {
             "name": "Motagua Fault",
@@ -12239,7 +12309,7 @@
             "visualizationColor": [223, 126, 226]
         },
         {
-            "name": "Seram Trough Fault",
+            "name": "Seram Trough",
             "lengthKm": 1100,
             "depthKm": 450,
             "activity": 1,
@@ -12760,7 +12830,7 @@
             "visualizationColor": [0, 179, 255]
         },
         {
-            "name": "Rocky Mountain Trench Fault",
+            "name": "Rocky Mountain Trench",
             "lengthKm": 1600,
             "depthKm": 15,
             "activity": 0.75,
@@ -13575,7 +13645,7 @@
             "visualizationColor": [171, 129, 206]
         },
         {
-            "name": "Sulu Trench Subduction Zone",
+            "name": "Sulu Trench",
             "lengthKm": 935,
             "depthKm": 150,
             "activity": 0.8,
