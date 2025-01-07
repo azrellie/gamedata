@@ -9814,7 +9814,7 @@
             "visualizationColor": [9, 0, 255]
         },
         {
-            "name": "Main Central Thrust",
+            "name": "Main Frontal Thrust",
             "lengthKm": 2900,
             "depthKm": 250,
             "activity": 0.75,
