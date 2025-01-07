@@ -2143,12 +2143,12 @@
             "desc": "Santorini caldera is a large, mostly submerged caldera, located in the southern Aegean Sea, 120 kilometers north of Crete in Greece. Visible above water is the circular Santorini island group, consisting of Santorini (classic Greek Thera), the main island, Therasia and Aspronisi at the periphery, and the Kameni islands at the center. It has been designated a Decade Volcano. The huge Minoan eruption of Santorini in the 17th century BC may have inspired the legend of Atlantis. It was rated 7 in the Smithsonian Global Volcanism Program's Volcanic Explosivity Index."
         },
         {
-            "name": "Teide",
-            "vei": 6,
-            "coordinates": [28.272329639902104, -16.64244571326994],
-            "type": "Stratovolcano",
+            "name": "Las Cañadas Caldera",
+            "vei": 7,
+            "coordinates": [28.261440055298845, -16.603147416238436],
+            "type": "Caldera",
             "summitFeet": 12188,
-            "magmaType": "Basalt",
+            "magmaType": "Tephri-Phonolite",
             "desc": "Teide, or Mount Teide is a volcano on Tenerife in the Canary Islands, Spain. Its summit is the highest point in Spain and the highest point above sea level in the islands of the Atlantic. If measured from the ocean floor, its height of 7,500 m (24,600 ft) makes Teide the third-highest volcano in the world, and is described by UNESCO and NASA as Earth's third-tallest volcanic structure. Teide's elevation above sea level makes Tenerife the tenth highest island in the world."
         },
         {
@@ -4787,13 +4787,13 @@
             "desc": "Adatarayama is a stratovolcano in Japan. Historical eruptions have been restricted to the 1.2-km-wide, 350-m-deep Numonotaira crater."
         },
         {
-            "name": "Atakor Flood Basalt",
-            "vei": 8,
-            "coordinates": [23.2527919, 5.7675628],
-            "type": "Large Igneous Province",
+            "name": "Atakor Volcanic Field",
+            "vei": 4,
+            "coordinates": [22.883524570821695, 5.893611770193999],
+            "type": "Volcanic Field",
             "summitFeet": 9573,
             "magmaType": "Basalt",
-            "desc": "Atakor Flood Basalt is a large igneous province in Algeria. It erupted about 2,000 km3 of tholeiitic basalts about 30-32 million years ago."
+            "desc": "The massive Atakor volcanic field is the largest in the Hoggar (or Ahaggar) volcanic province of southern Algeria and covers an area of 2,150 km2. Quaternary basaltic (mostly basanitic) scoria cones and lava flows lie near older trachytic and phonolitic lava domes and volcanic necks that form some of the most dramatic scenery of northern Africa. The latest stage of activity began around 1.95 million years and continued almost to the present. Lava flows cover Holocene lake sediments dated at about 10,000 BP and alluvial terraces in which Neolithic artifacts have been found. Historical pottery has been found within lava flows in the Tahifet area, and oral traditions of the Tuareg people suggest that eruptions were witnessed. Sporadic fumaroles and persistent small-scale seismicity has been noted during historical time."
         },
         {
             "name": "Strechovy",
@@ -5938,13 +5938,13 @@
             "desc": "Alney-Chashakondzha is a stratovolcano in Russia. Alney is one of the few large stratovolcanoes in the Sredinny Range known to have been active throughout the Holocene, with more than 30 documented pyroclastic deposits. The last intense eruption took place about 350 years ago."
         },
         {
-            "name": "Gran Canaria Shield Basalt",
-            "vei": 8,
+            "name": "Gran Canaria",
+            "vei": 6,
             "coordinates": [27.964311593483224, -15.581884087272094],
-            "type": "Large Igneous Province",
-            "summitFeet": 6417,
-            "magmaType": "Basalt",
-            "desc": "Gran Canaria is a large igneous province in Canary Islands, Spain. It had a total of 3 eruptive periods: During the first one, over 1,000 cubic km of volcanic material was released. The second one was 10 times smaller with only 100 cubic km of material erupted. The third cycle is still ongoing, and the last eruptions could have occured over 2000 years ago."
+            "type": "Caldera",
+            "summitFeet": 6398,
+            "magmaType": "Trachybasalt",
+            "desc": "The largely Miocene-to-Pliocene island of Gran Canaria in the middle of the Canary archipelago has been strongly eroded into steep-walled radial gorges called barrancos. Three major volcanic structures form the circular 60-km-wide island, which has been modified by caldera collapse, gravitational edifice failure, and extensive erosion. Middle Quaternary scoria cones and lava flows are found in the northern and eastern parts of the massive shield volcano, which is cut by a major NW-SE-trending rift zone that extends across the island and fed flows primarily to the NE. Very young basaltic cones and lava flows of Holocene age are situated within a NW-trending zone from Berrazales to Bandama and at Las Isletas, a peninsula on the NE coast. One cinder cone was radiocarbon dated at about 3000 years before present, and other cones and flows may be less than 1000 years old."
         },
         {
             "name": "Wudalianchi",
@@ -6438,13 +6438,13 @@
             "desc": "South Caucasus Basalt Province is a large igneous province in the Caucausus region. It is the smallest and youngest Continental Flood Basalt in the world."
         },
         {
-            "name": "Chilcotin Group",
+            "name": "Clisbako Caldera Complex",
             "vei": 8,
-            "coordinates": [51.848175129854, -123.2528583791899],
-            "type": "Large Igneous Province",
-            "summitFeet": 5223,
-            "magmaType": "Basalt",
-            "desc": "Chilcotin Group is a large igneous province in Canada. Eruptions were most vigorous 6-10 million years ago and 2-3 million years ago, when most of the basalt was released. Less extensive eruptions continued 0.01 to 1.6 million years ago."
+            "coordinates": [52.76841976544902, -123.98299136221495],
+            "type": "Caldera Complex",
+            "summitFeet": 2500,
+            "magmaType": "Rhyolite",
+            "desc": "The Clisbako Caldera Complex (also called the Cheslatta Caldera Complex) is a large dissected caldera complex in the Chilcotin Group and Anahim Volcanic Belt in central British Columbia, Canada. It has a diameter of 60 km (37 mi) and is composed mainly of Eocene felsic and mafic volcanic rocks. Rocks within the caldera range in composition from basalt to rhyolite."
         },
         {  
             "name": "Lake Turkana South Island",
