@@ -5048,6 +5048,15 @@
             "desc": "Pairique Volcanic Complex is a volcanic complex in Argentina. Pairique formed during the late Miocene between 8 and 6.7 million years ago, when volcanism reactivated on the Argentine side of the Puna. Later dates imply volcanic activity between 11.5 and 10.3 million years ago. Pairique is part of the Altiplano-Puna volcanic complex, although the volcanic eruptions of Pairique were less extensive than these from many other APVC volcanoes. Pairique is often considered to be the oldest caldera of the APVC."
         },
         {
+            "name": "Flowers River Caldera Complex",
+            "vei": 8,
+            "coordinates": [55.45158020306252, -61.56666960291705],
+            "type": "Caldera Complex",
+            "summitFeet": 4300,
+            "magmaType": "Rhyolite?",
+            "desc": "A massive caldera complex in northern Newfoundland and Labrador, Canada. It consists of large amount of pyroclastic flow deposits and several calderas that were presumably formed in highly explosive eruptions."
+        },
+        {
             "name": "Aguas Calientes",
             "vei": 7,
             "coordinates": [-24.251428105472186, -66.5029700743336],
