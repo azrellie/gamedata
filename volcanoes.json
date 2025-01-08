@@ -6862,6 +6862,24 @@
             "desc": "Yangudi volcano, lying in the Addado graben of the northern Main Ethiopian Rift, is a complex rhyolitic stratovolcano with an elliptical summit caldera. A trachytic lava flow originating in the caldera covers part of the southern flank of Yangudi, also known as Angudi, Jangudi, or Langudi. Rhyolitic obsidian domes on the NW flank are surrounded by younger basaltic lava flows. Very recent scoria cones and lava flows are located south of Yangudi along the eastern graben faults."
         },
         {
+            "name": "Normétal Caldera",
+            "vei": 6,
+            "coordinates": [49.11514269964168, -79.39019312649202],
+            "type": "Caldera",
+            "summitFeet": 1200,
+            "magmaType": "Basalt?",
+            "desc": "The Normetal caldera is an Archean volcano in the Abitibi-Témiscamingue region of western Quebec, Canada. It is one of seven Archean calderas forming an alignment along the Ontario–Quebec border, all of which are within the Abitibi greenstone belt. It is bounded on the north by the 2735-million-year-old Gemini caldera and on the south by the 2730-million-year-old Hunter Mine caldera. The Normetal caldera has an age of 2725 million years, having formed by collapse of a broad subaqueous shield volcano."
+        },
+        {
+            "name": "Selbaie Caldera",
+            "vei": 7,
+            "coordinates": [49.85456640932003, -78.90229066782948],
+            "type": "Caldera",
+            "summitFeet": 1200,
+            "magmaType": "Rhyolite",
+            "desc": "The Selbaie caldera is an Archean volcano in the Abitibi-Témiscamingue region of western Quebec, Canada. It is the northernmost of seven Archean calderas forming an alignment along the Ontario–Quebec border, all of which are within the Abitibi greenstone belt. It has an age of 2728 million years and is bounded on the south by the 2735-million-year-old Gemini caldera. Selbaie is a rare example of an Archean caldera that evolved from volcanism in subaqueous to subaerial environments. It contains a 1,200 m (3,900 ft) thick intracaldera sequence of debris flows, pumiceous tuff and densely welded ignimbrite. A central intrusion, known as the Brouillan tonalite, may be the remains of a resurgent dome. The southwestern flank of this intrusion contains locally massive sulfide, epithermal veins and regionally extensive and temporally early exhalite."
+        },
+        {
             "name": "Kyejo",
             "vei": 2,
             "coordinates": [-9.226979341514463, 33.79330092665778],
