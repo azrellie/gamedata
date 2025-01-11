@@ -3229,6 +3229,15 @@
             "magmaType": "Rhyolite",
             "desc": "Altenberg-Teplice Caldera is in a very odd location for a volcano, especially a strong one. The caldera was formed over 350 million years ago from a VEI 7 eruption."
         },
+        {
+            "name": "Viðey Caldera",
+            "vei": 7,
+            "coordinates": [64.20805877176541, -21.886166738212637],
+            "type": "Caldera",
+            "summitFeet": -564,
+            "magmaType": "Unknown, Rhyolite?",
+            "desc": "A massive caldera centered near the Viðey island in Iceland. It was formed around 2 million years ago, presumably from 1 large eruption that collapsed the volcano underwater."
+        },
         {  
             "name": "Henry's Fork Caldera",
             "vei": 7,
