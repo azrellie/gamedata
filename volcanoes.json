@@ -6483,13 +6483,31 @@
             "desc": "Ch'uga-ryong is a shield volcano in the DPRK. An area of extensive basaltic lava flows occupies a graben, the NNE-SSW-trending Ch'uga-ryong rift, that cuts diagonally across the demilitarized zone between North and South Korea."
         },
         {
-            "name": "South Caucasus Basalt Province",
-            "vei": 8,
-            "coordinates": [41.12494746163948, 44.76710621358649],
-            "type": "Large Igneous Province",
-            "summitFeet": 7200,
+            "name": "Pico do Cabugi",
+            "vei": 2,
+            "coordinates": [-5.70597761834251, -36.32143586119248],
+            "type": "Stratovolcano",
+            "summitFeet": 1940,
             "magmaType": "Basalt",
-            "desc": "South Caucasus Basalt Province is a large igneous province in the Caucausus region. It is the smallest and youngest Continental Flood Basalt in the world."
+            "desc": "The Pico do Cabugi, also known as the Serra do Cabuji or Serrote da Itaretama, is the only extinct volcano in Brazil which preserves its original form. It is 590 meters high and is located in the Cabugi Ecological State Park in the municipality of Angicos in the state of Rio Grande do Norte."
+        },
+        {
+            "name": "Trindade",
+            "vei": 4,
+            "coordinates": [-20.522491156287824, -29.300352703032644],
+            "type": "Stratovolcano",
+            "summitFeet": 1969,
+            "magmaType": "Foidite",
+            "desc": "The small island of Trindade lies more than halfway between Brazil and the Mid-Atlantic Ridge at the eastern end of the Vitória-Trindade Ridge, an E-W-trending chain of submarine volcanoes and guyots extending about 1,100 km from the continental shelf off the Brazilian coast. It is a dissected volcanic island with numerous phonolitic lava domes and steep-sided volcanic plugs. The youngest volcanism, at Vulcao de Paredao on the SE tip of the island, constructed a pyroclastic cone with lava flows (Almeida, 1961). Remnants of the crater of the cinder cone are still preserved. Lava flows traveled from the cone to the N, where they form an irregular shoreline and offshore islands. Smaller centers of the latest volcanic stage are found in the Morro Vermelho area in the south-central part of the island."
+        },
+        {
+            "name": "Guarapava-Tamarana-Sarusas Volcanic System",
+            "vei": 8,
+            "coordinates": [-24.230180027900236, -50.53256938589951],
+            "type": "Unknown",
+            "summitFeet": 1500,
+            "magmaType": "Rhyolite",
+            "desc": "A massive volcanic system that is reponsible for one of the largest explosive volcanic eruptions ever known. It is the product of the Paraná-Etendeka Large Igneous Province"
         },
         {
             "name": "Clisbako Caldera Complex",
@@ -6521,6 +6539,20 @@
                 "Small lava flows are reported in Eastern Nigeria...",
                 "<b><font color='rgb(125,0,0)'>Some villages get so hot people need to be evacuated...</font></b>",
                 "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Tremors are heard and felt deep below the surface...</font></stroke></b>"
+            ]
+        },
+        {   
+            "name": "Lesser Caucasus Large Igneous Province",
+            "vei": 9,
+            "coordinates": [42.02933810623563, 45.54722242989667],
+            "type": "Large Igneous Province",
+            "summitFeet": 2100,
+            "magmaType": "Basalt",
+            "desc": "cauc",
+            "chatMessages": [
+                "The snow caps of the Caucasus Mountains begin melting due to a major temperature increase in the area...",
+                "<b><font color='rgb(125,0,0)'>Major hydrothermal explosions are recorded in the Lesser Caucasus...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Large cracks open up and start erupting a massive amount of basaltic lava...</font></stroke></b>"
             ]
         },
         {
