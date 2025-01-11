@@ -5039,6 +5039,42 @@
             "desc": "A huge caldera in Argentinian Patagonia. With an estimated volume of 1,000 km3, it is the direct result of the Chon-Aike Large Igneous Province."
         },
         {
+            "name": "Acoculco",
+            "vei": 7,
+            "coordinates": [19.96437003608853, -98.1909134502929],
+            "type": "Caldera",
+            "summitFeet": 9908,
+            "magmaType": "Rhyolite",
+            "desc": "The Acoculco volcanic complex lies in the NE part of the Mexican Volcanic Belt, where it intersects the Sierra Madre Oriental volcanic province. The Acoculco caldera complex is located about 80 km WNW of the better known Los Humeros caldera. Three major pyroclastic flows were erupted during the late Pliocene and Pleistocene, associated with two circular depressions 28 x 34 and 16 x 21 km in diameter, respectively. The large rhyolitic Cerros las Tetillas lava dome was emplaced during the early Pleistocene. The latest activity consisted of the extrusion of basaltic lava flows during the late Pleistocene. Thermal areas are located within the caldera complex and on its eastern flanks, and the caldera has been considered as a potential area for geothermal development."
+        },
+        {
+            "name": "Água de Pau",
+            "vei": 6,
+            "coordinates": [37.76410623275204, -25.472907105284268],
+            "type": "Stratovolcano",
+            "summitFeet": 3107,
+            "magmaType": "Trachyte",
+            "desc": "The Agua de Pau stratovolcano in central Sao Miguel Island contains an outer 4 x 7 km caldera formed about 30,000-45,000 years ago and an inner 2.5 x 3 km caldera that was created about 15,000 years ago. The younger caldera is partially filled by the Lagoa do Fogo caldera lake. Several post-caldera lava domes were emplaced on the northern and western flanks, but activity in the caldera did not resume until about 5000 years ago. The 3 km3 Fogo-A plinian pumice fall deposit was emplaced at this time. Numerous flank cinder cones mark radial and concentric fissures, some of which have been active during historical time. The latest trachytic explosive eruption took place during 1563. Prominent hot springs are located on the NW flank."
+        },
+        {
+            "name": "Aguilera",
+            "vei": 5,
+            "coordinates": [-50.331432758371456, -73.75162076673668],
+            "type": "Stratovolcano",
+            "summitFeet": 8353,
+            "magmaType": "Dacite",
+            "desc": "Aguilera, located west of Lake Argentina and NE of Peel Fjiord, is part of the Austral Volcanic Zone (AVZ) in the southernmost Chilean Andes. Geochemical evidence indicated that the dacitic volcano was the source of a major late Holocene tephra layer that was erupted around 3,200 years ago (Stern, 2008)."
+        },
+        {
+            "name": "Akutan",
+            "vei": 5,
+            "coordinates": [54.14475174307388, -165.97713123576705],
+            "type": "Stratovolcano",
+            "summitFeet": 4275,
+            "magmaType": "Basalt",
+            "desc": "Akutan contains a 2-km-wide caldera with a large cinder cone in the NE part of the caldera that has been the source of frequent explosive eruptions and occasional lava effusion that covers the caldera floor. An older, largely buried caldera was formed during the late Pleistocene or early Holocene. Two volcanic centers are located on the NW flank. Lava Peak is of Pleistocene age, and a cinder cone lower on the flank produced a lava flow in 1852 that extended the shoreline of the island and forms Lava Point. The 60-365 m deep younger caldera was formed during a major explosive eruption about 1,600 years ago and contains at least three lakes. A lava flow in 1978 traveled through a narrow breach in the north caldera rim almost to the coast. Fumaroles occur at the base of the caldera cinder cone, and hot springs are located NE of the caldera at the head of Hot Springs Bay valley and along the shores of Hot Springs Bay."
+        },
+        {
             "name": "Pairique Volcanic Complex",
             "vei": 5,
             "coordinates": [-23.02860760543714, -66.8230450112452],
