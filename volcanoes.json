@@ -1945,14 +1945,14 @@
         {
             "name": "Chon Aike Large Igneous Province",
             "vei": 10,
-            "coordinates": [-65.81889408909063, -62.727982953007114],
+            "coordinates": [-47.86510510767679, -70.29570160711255],
             "type": "Large Igneous Province",
             "summitFeet": 4921,
             "magmaType": "Rhyolite",
             "desc": "Chone Aike LIP is a large igneous province in Patagonia and Antarctica. It has erupted from 170 to 140 million years ago.",
             "chatMessages": [
-                "Giant earthquakes cause Antarctic glaciers to collapse...",
-                "Small ash clouds are rising from the Antarctic Peninsula..."
+                "Giant earthquakes cause massive cracks to form in the Argentinian Patagonia...",
+                "Small ash clouds are seen rising from the Argentinian Patagonia..."
             ]
         },
         {
@@ -3237,6 +3237,141 @@
             "summitFeet": -564,
             "magmaType": "Unknown, Rhyolite?",
             "desc": "A massive caldera centered near the Viðey island in Iceland. It was formed around 2 million years ago, presumably from 1 large eruption that collapsed the volcano underwater."
+        },
+        {
+            "name": "Whakamaru Caldera",
+            "vei": 8,
+            "coordinates": [-38.52434173349912, 176.0568812033097],
+            "type": "Caldera",
+            "summitFeet": 2441,
+            "magmaType": "Rhyolite",
+            "desc": "Whakamaru Caldera was created in a massive supereruption 335,000 years ago and is approximately 30 by 40 km (19 by 25 mi) in size and is located in the North Island of New Zealand. It now contains active geothermal areas as well as the later Maroa Caldera."
+        },
+        {
+            "name": "Calabozos",
+            "vei": 7,
+            "coordinates": [-35.52622106564499, -70.48440749107311],
+            "type": "Caldera",
+            "summitFeet": 11509,
+            "magmaType": "Dacite",
+            "desc": "The composite late-Pleistocene Calabozos caldera (14 x 26 km) produced major rhyodacitic-to-dacitic ashflow sheets of ~200-500 km3 each, collectively referred to as the Loma Seca Tuff, at 800,000, 300,000, and 150,000 years ago. Eruptive activity has continued into the Holocene, forming the 20-25 km3 and the four clustered vents of Descabezado Chico near the western caldera rim. The late-Holocene 2.5 km3 Escorias dacitic lava flow from Descabezado Chico traveled more than 30 km S. Several hot-spring clusters are present along the margin of the central resurgent uplift within the caldera."
+        },
+        {
+            "name": "Volcán Tatio",
+            "vei": 7,
+            "coordinates": [-22.417833551968116, -68.0185699075734],
+            "type": "Caldera",
+            "summitFeet": 17434,
+            "magmaType": "Rhyolite?",
+            "desc": "A stratovolcano in northern Chile that could have produced a VEI 7 eruption 1.9 Mya."
+        },
+        {
+            "name": "Nevado Chachani",
+            "vei": 6,
+            "coordinates": [-16.19359284400099, -71.53201945331699],
+            "type": "Stratovolcano",
+            "summitFeet": 19872,
+            "magmaType": "Andesite",
+            "desc": "The andesitic-dacitic Nevado de Chachani volcanic complex, located immediately north of Arequipa, consists of a 320 km2 group of Pleistocene lava domes, a stratovolcano complex, and a flank shield volcano. The central Nevado Chachani complex contains multiple vents along an arcuate line, including a well-defined summit crater at the western end. Two early Pleistocene ignimbrites were erupted from now-buried vents of older edifices. Thin lava flows from Chachani volcano overlie glacial moraines. Pleistocene lava domes form the northern end of the complex. The 8-km-wide, late Pleistocene to possibly Holocene lava shield of Pampa de Palacio on the SW side produced a well-preserved lava flow field that represents the youngest products of the complex."
+        },
+        {
+            "name": "Chalupas",
+            "vei": 6,
+            "coordinates": [-0.7988661893284669, -78.31551827291439],
+            "type": "Caldera",
+            "summitFeet": 15787,
+            "magmaType": "Rhyolite",
+            "desc": "The 18-km-wide Pleistocene Chalupas caldera is the source of the about 90 km3 Chalupas ignimbrite, the largest known in the northern Andes during the Quaternary (Beate, 1989). The Pleistocene Quilindana stratovolcano is located within the caldera. The youngest intracaldera lava flow are unaffected by glaciation."
+        },
+        {
+            "name": "Nevados de Chillán",
+            "vei": 6,
+            "coordinates": [-36.87509539578095, -71.37206488397597],
+            "type": "Stratovolcano",
+            "summitFeet": 10433,
+            "magmaType": "Andesite",
+            "desc": "The compound volcano of Nevados de Chillán is one of the most active of the Central Andes. Three late-Pleistocene to Holocene stratovolcanoes were constructed along a NNW-SSE line within three nested Pleistocene calderas, which produced ignimbrite sheets extending more than 100 km into the Central Depression of Chile. The dominantly andesitic Cerro Blanco (Volcán Nevado) stratovolcano is located at the NW end of the massif. Volcán Viejo (Volcán Chillán), which was the main active vent during the 17th-19th centuries, occupies the SE end. The Volcán Nuevo lava-dome complex formed during 1906-1945 on the NW flank of Viejo. The Volcán Arrau dome complex was then constructed on the SE side of Volcán Nuevo between 1973 and 1986, and eventually exceeded its height. Smaller domes or cones are present in the 5-km valley between the two major edifices."
+        },
+        {
+            "name": "Nevados del Tolima",
+            "vei": 6,
+            "coordinates": [4.658406407663561, -75.33121665567077],
+            "type": "Stratovolcano",
+            "summitFeet": 17110,
+            "magmaType": "Andesite",
+            "desc": "The steep-sided, glacier-covered Nevado del Tolima volcano contrasts with the broad profile of Nevado del Ruiz to the north. The andesitic-dacitic younger Tolima formed during the past 40,000 years, rising above and largely obscuring a 3-km-wide late-Pleistocene caldera. The summit consists of a cluster of late-Pleistocene to Holocene lava domes associated with thick block-lava flows on the N and E flanks, and extensive pyroclastic-flow deposits. The summit contains a funnel-shaped crater 200-300 m deep. Holocene activity has included explosive eruptions ranging in size from moderate to Plinian, and the last major eruption took place about 3,600 years ago. Lava dome growth has produced block-and-ash flows that traveled primarily to the NE and SE. Minor explosive eruptions have been recorded in the 19th and 20th centuries."
+        },
+        {
+            "name": "Nevado del Ruiz",
+            "vei": 5,
+            "coordinates": [4.892252650183746, -75.31935792862241],
+            "type": "Stratovolcano",
+            "summitFeet": 17320,
+            "magmaType": "Andesite",
+            "desc": "Nevado del Ruiz is a broad, glacier-covered volcano in central Colombia that covers more than 200 km2. Three major edifices, composed of andesitic and dacitic lavas and andesitic pyroclastics, have been constructed since the beginning of the Pleistocene. The modern cone consists of a broad cluster of lava domes built within the caldera of an older edifice. The 1-km-wide, 240-m-deep Arenas crater occupies the summit. The prominent La Olleta pyroclastic cone located on the SW flank may also have been active in historical time. Steep headwalls of massive landslides cut the flanks. Melting of its summit icecap during historical eruptions, which date back to the 16th century, has resulted in devastating lahars, including one in 1985 that was South America's deadliest eruption."
+        },
+        {
+            "name": "Pucarilla-Cerro Tipillas Volcanic Complex",
+            "vei": 6,
+            "coordinates": [-26.197221608539817, -66.53823022318684],
+            "type": "Caldera",
+            "summitFeet": 17320,
+            "magmaType": "Andesite",
+            "desc": "One of the oldest volcanic structures of the Central Volcanic Zone, PCTVC has produced multiple large eruptions during its lifetime. The largest of the eruptions has erupted and estimated 20 km3 of tephra."
+        },
+        {
+            "name": "Wildcat Mountain Caldera",
+            "vei": 6,
+            "coordinates": [45.31232481998011, -122.02281435515079],
+            "type": "Caldera",
+            "summitFeet": 4480,
+            "magmaType": "Rhyolite",
+            "desc": "A large, ancient caldera in Oregon. It is filled with more than 90 km3 of rhyolitic ignimbrites and could have produced eruptions similar in size to the Crater Lake caldera collapse."
+        },
+        {
+            "name": "Yakutinskaya Caldera Complex",
+            "vei": 7,
+            "coordinates": [44.27725657205442, 135.4953338063278],
+            "type": "Caldera Complex",
+            "summitFeet": 1320,
+            "magmaType": "Rhyolite",
+            "desc": "A part of the old Sikhote-Alin Volcanic Belt, Yakutinskaya CC is one of the most explosive volcanic structures of the belt, with the estimated volume of ignimbrites being 400 km3."
+        },
+        {
+            "name": "Pine Canyon Caldera Complex",
+            "vei": 8,
+            "coordinates": [29.280445350719067, -103.24098846278896],
+            "type": "Caldera Complex",
+            "summitFeet": 4462,
+            "magmaType": "Rhyolite",
+            "desc": "The Pine Canyon Caldera Complex is a 6–7 km (3.7–4.3 mi) caldera complex located in the southern part of the Chisos Mountains in the South Rim Formation in Big Bend National Park of Texas. It is a type of collapsed caldera called a downsag caldera, meaning it lacks surficial faulting. It was formed by several rhyolitic eruptions caused by crustal stretching during the Ouachita orogeny about 32 million years ago. The high magnetic waves present in the northern part of the caldera are believed to be from a broad intrusion, which indicates a partial crustal boundary of the Ouachita orogeny. This feature represents the largest intrusion, (24–38 km (15–24 mi), 1–4 km (0.62–2.49 mi) thick, 700–3,000 km3 (170–720 cu mi) in volume) in an area where laccoliths are ubiquitous. This intrusion may represent a long-lived magma chamber (1 m.y.) that was replenished by smaller batches of magma of varying viscosities."
+        },
+        {
+            "name": "Caetano Caldera",
+            "vei": 8,
+            "coordinates": [40.22737419252976, -116.95989316065862],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A massive caldera in northern Nevada that was formed during the Mid-Tertiary Ignimbrite Flare-up. It is comparable in size to the Yellowstone caldera and produced the 1,100 km3 Caetano Tuff."
+        },
+        {
+            "name": "Stillwater Caldera Complex",
+            "vei": 8,
+            "coordinates": [39.0665113622502, -118.15457679246563],
+            "type": "Caldera Complex",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "The Stillwater Caldera Complex represents one of the largest eruptions in Nevada during the Mid-Tertiary Ignimbrite Flare-up, with an estimated tephra volume of 3,000 to 5,000 km3."
+        },
+        {
+            "name": "Caldera La Peligrosa",
+            "vei": 6,
+            "coordinates": [-47.304427823233965, -71.59832186602871],
+            "type": "Caldera",
+            "summitFeet": 1000,
+            "magmaType": "Rhyolite",
+            "desc": "A caldera in the Argentinian Patagonia that was the result of the Chon Aike Large Igneous Province."
         },
         {  
             "name": "Henry's Fork Caldera",
