@@ -4040,6 +4040,15 @@
             "desc": "The Arjuno and Welirang volcanoes anchor the SE and NW ends, respectively, of a 6-km-long line of volcanic cones and craters. The complex overlies most of the Gunung Ringgit edifice, whose summit is about 3 km NE from the main ridge. Pyroclastic cones are located on the north flank of Gunung Welirang and along an E-W line cutting across the southern side of Gunung Arjuno that extends to the lower SE flank. Fumarolic areas with sulfur deposition occur at several locations on Welirang."
         },
         {
+            "name": "Black Peak",
+            "vei": 6,
+            "coordinates": [56.562543391627095, -158.79510592842055],
+            "type": "Stratovolcano",
+            "summitFeet": 3386,
+            "magmaType": "Andesite",
+            "desc": "The highly eroded stratovolcano and lava dome complex of Black Peak was constructed within an ice-free mid-Holocene caldera with two small caldera lakes on the N and E sides. The pre-caldera volcano consists of andesitic-dacitic lava domes, lava flows, and volcaniclastic rocks that were constructed over a basement of Pliocene volcanogenic sediments. Ash-flow tuffs and block-and-ash-flow deposits from the more than 10 km3 caldera-forming eruption, which occurred less than about 4000 years ago, fill the Ash Creek and Bluff Creek valleys to the west and north to depths of as much as 100 m. Most of the 3.5-km-wide caldera floor is occupied by a complex of nested dacitic lava domes and associated lava flows centered in the southern part of the caldera."
+        },
+        {
             "name": "Atka Volcanic Complex",
             "vei": 3,
             "coordinates": [52.29934202245924, -174.12434931518195],
