@@ -3545,13 +3545,49 @@
             "desc": "Cofre de Perote is a massive Quaternary andesitic-dacitic volcano at the NNE end of the Trans-Mexican Volcanic Belt."
         },
         {
+            "name": "McMullen Caldera",
+            "vei": 8,
+            "coordinates": [43.46108096078132, -112.83158576147251],
+            "type": "Caldera",
+            "summitFeet": 2500,
+            "magmaType": "Rhyolite",
+            "desc": "A massive caldera in the Yellowstone hotspot that produced the 1,700 km3 McMullen Supereruption."
+        },
+        {
             "name": "Picabo Volcanic Field",
             "vei": 8,
-            "coordinates": [43.29977855511431, -113.048535645836],
+            "coordinates": [43.34134760743372, -113.01286016451225],
             "type": "Caldera",
             "summitFeet": 2500,
             "magmaType": "Rhyolite",
             "desc": "A massive caldera in the Yellowstone hotspot that produced the Arbon Valley Tuffs (VEI-8) 10 million years ago."
+        },
+        {
+            "name": "Grey's Landing Caldera",
+            "vei": 8,
+            "coordinates": [43.554499971663056, -112.58252863337657],
+            "type": "Caldera",
+            "summitFeet": 2500,
+            "magmaType": "Rhyolite",
+            "desc": "The largest explosive eruption of Yellowstone Hotspot, over 2,800 km3 of tephra, has been produced by this giant caldera near Idaho Falls."
+        },
+        {
+            "name": "Island Park Caldera",
+            "vei": 8,
+            "coordinates": [44.349348481362405, -111.10733961488737],
+            "type": "Caldera",
+            "summitFeet": 2500,
+            "magmaType": "Rhyolite",
+            "desc": "The second strongest explosive eruption of Yellowstone, the Huckleberry Ridge Tuff, formed this massive caldera in the Yellowstone State Park. It is considered to be no longer active due to the hotspot moving east."
+        },
+        {
+            "name": "Twin Falls Volcanic Field",
+            "vei": 8,
+            "coordinates": [43.085125775014184, -114.00712279936657],
+            "type": "Caldera",
+            "summitFeet": 2500,
+            "magmaType": "Rhyolite",
+            "desc": "A large volcanic field in the Yellowstone hotspot. It has produced a massive caldera-forming eruption about 12 million years ago."
         },
         {
             "name": "Khari Khari Caldera",
