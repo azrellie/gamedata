@@ -87,10 +87,10 @@
         {
             "name": "Kulshan Caldera",
             "vei": 7,
-            "coordinates": [48.77668839068164, -121.81441320396915],
-            "type": "Stratovolcano",
+            "coordinates": [48.94076947123866, -121.51694566646692],
+            "type": "Caldera",
             "summitFeet": 10786,
-            "magmaType": "Andesite",
+            "magmaType": "Rhyodacite",
             "desc": "A caldera in Mount Baker Volcanic Field, Washington state that sits really close to the border of Canada. Kulshan has the largest glacier cover of any of the cascade volcanoes and sits only 28 miles from Abbotsford in Canada."
         },
         {
@@ -5316,6 +5316,87 @@
             "summitFeet": 7375,
             "magmaType": "Andesite",
             "desc": "Bamus is a stratovolcano in Papua New Guinea. Young pyroclastic-flow deposits are found on the volcano's flanks, and villagers describe an eruption that took place during the late 19th century."
+        },
+        {
+            "name": "Cerro Nicholson",
+            "vei": 6,
+            "coordinates": [-16.261475717290992, -71.75407807556599],
+            "type": "Scoria Cone",
+            "summitFeet": 8284,
+            "magmaType": "Basaltic Andesite",
+            "desc": "Cerro Nicholson is a scoria cone in Peru. It is constructed on top of the 1.65 mya Arequipa Airport Ignimbrite and is well preserved with a summit crater. It is located west-southwest of Chachani volcano and was emplaced 77,400 ± 18,400 years ago."
+        },
+        {
+            "name": "Pululahua",
+            "vei": 6,
+            "coordinates": [0.04931485691246633, -78.49587202952614],
+            "type": "Caldera",
+            "summitFeet": 11024,
+            "magmaType": "Dacite",
+            "desc": "Pululahua is a relatively low, forested volcano about 15 km N of Quito. The 5-km-wide summit caldera is narrowly breached to the west and partially filled by a group of dacitic lava domes. Pre-caldera lava domes of different ages are found outside the caldera to the E, SE, and S. Four post-caldera domes rise up to 450 m above the caldera floor. Large explosive eruptions producing pyroclastic flows took place during the late Pleistocene and Holocene. Caldera formation took place during a series of eruptions lasting 150-200 years beginning about 2,650 radiocarbon years ago. The latest dated eruption occurred from the post-caldera lava domes about 1,670 years ago and produced lava flows and pyroclastic flows."
+        },
+        {
+            "name": "Auquihato",
+            "vei": 0,
+            "coordinates": [-15.074292925447857, -73.19066970990163],
+            "type": "Cinder Cone",
+            "summitFeet": 16340,
+            "magmaType": "Basalt",
+            "desc": "The stratovolcano developed during the Pleistocene and Holocene. The noticeable lava flow is of Holocene age but no radiometric dating is available and no historical eruptions are known. The Geophysical Institute of Peru began to monitor the geodesy of the system in 2019 and it is considered a low-hazard volcano."
+        },
+        {
+            "name": "Quimsachata",
+            "vei": 3,
+            "coordinates": [-14.130909850330918, -71.36303632288373],
+            "type": "Lava Dome",
+            "summitFeet": 12625,
+            "magmaType": "Rhyolite",
+            "desc": "The Quimsachata volcano group consists of two late Pleistocene and Holocene monogenetic volcanoes at the foot of the Cordillera Oriental, in an isolated area far east of the main volcanic front. Kimsachata is a high-potassium andesitic scoria cone surrounded by a compound lava shield that was erupted in flat terrain along the Vilcanota River about 11,500 years ago. Oroscocha is a rhyolitic lava dome with a short, thick lava flow erupted from a N-S-trending fissure about 6,400 years ago."
+        },
+        {
+            "name": "Andagua Volcanic Field",
+            "vei": 2,
+            "coordinates": [-15.481277225224432, -72.3496046613953],
+            "type": "Volcanic Field",
+            "summitFeet": 13545,
+            "magmaType": "Basalt",
+            "desc": "The Andagua volcanic field (also known as Andahua) is a volcanic field in southern Peru which includes a number of cinder cones, lava domes and lava flows which have filled the Andagua Valley (which is also known as Valley of the Volcanoes for this reason). The volcanic field is part of a larger volcanic province that clusters around the Colca River and is mostly of Pleistocene age, although the Andagua sector also features volcanic cones with historical activity, with the last eruption about 370 years ago. Eruptions were mostly effusive, generating lava flows, cones and small eruption columns. Future eruptions are possible, and there is ongoing fumarolic activity. Volcanic activity in the field has flooded the Andahua valley with lava flows, damming local watersheds in the Laguna de Chachas, Laguna Mamacocha and Laguna Pumajallo lakes and burying the course of the Andagua River. The Andahua valley segment of the larger volcanic province was declared a geopark in 2015."
+        },
+        {
+            "name": "Paipa-Iza Volcanic Complex",
+            "vei": 4,
+            "coordinates": [5.609096918266716, -72.9952498297676],
+            "type": "Volcanic Field",
+            "summitFeet": 9090,
+            "magmaType": "Rhyolite",
+            "desc": "The Paipa–Iza volcanic complex is a volcanic field of Late Pliocene to Early Pleistocene age on the Altiplano Cundiboyacense in the Eastern Ranges of the Colombian Andes. It is the northernmost volcanic complex of the Andean Volcanic Belt with Fueguino in Tierra del Fuego, Chile, at the opposite end of the Andean mountain belt."
+        },
+        {
+            "name": "Baker",
+            "vei": 3,
+            "coordinates": [48.781843213935126, -121.82841348607501],
+            "type": "Stratovolcano",
+            "summitFeet": 10778,
+            "magmaType": "Andesite",
+            "desc": "Mount Baker, the northernmost of Washington's volcanoes, is a glacier-clad andesitic stratovolcano constructed above the E flank of the eroded mid-Pleistocene Black Buttes volcano and SW of the early Pleistocene 4.5 x 8 km rhyodacitic Kulshan caldera. With the exception of the Schreibers Meadow cinder cone on the SE flank, which formed about 9,800 years ago, Holocene volcanism has been confined to the central conduit. A major eruption about 6,500 years ago, it's largest eruptive event during the Holocene, was accompanied by a collapse that sent lahars down the Nooksack drainage. Early settlers in the Puget Sound region as far away as Victoria, British Columbia, observed 19th-century activity, all of which consisted of relatively minor phreatic eruptions. Sherman Crater, the historically active crater immediately south of the summit, has been the site of increased steam emission since 1975. The Nooksack Indian Tribe referred to the volcano as Kweq Smaenit, the White Mountain. The Lummi Nation knew Mount Baker as Koma Kulshan."
+        },
+        {
+            "name": "Azufral",
+            "vei": 6,
+            "coordinates": [1.1044253629561331, -77.7125021605986],
+            "type": "Stratovolcano",
+            "summitFeet": 13353,
+            "magmaType": "Dacite",
+            "desc": "Azufral stratovolcano in southern Colombia, also known as Azufral de Túquerres, is truncated by a 2.5 x 3 km caldera containing a Holocene rhyodacitic lava-dome complex. A crescent-shaped lake, Laguna Verde, occupies the NW side of the caldera. Nearly a dozen lava domes are present, the latest of which were formed about 3600 years ago and have active fumaroles. Azufral rocks are more silicic than those of nearby Colombian volcanoes; an apron of rhyodacitic pyroclastic-flow deposits rings the volcano. The last known eruption took place about 1000 years ago."
+        },
+        {
+            "name": "Ramadas Volcanic Centre",
+            "vei": 6,
+            "coordinates": [-24.13539544003666, -66.3484126583507],
+            "type": "Caldera",
+            "summitFeet": 12500,
+            "magmaType": "Rhyodacite?",
+            "desc": "Ramadas Volcanic Centre is a volcano in northeastern Argentina. It is the source of a widespread explosive eruption deposit in northeastern Argentina, the Corte Blanco Tuff which was erupted 8.73 ± 0.25 million years ago. Perlite occurs at the volcanic centre and is actively mined."
         },
         {
             "name": "Carrán-Los Venados",
