@@ -193,6 +193,60 @@
             "desc": "A stratovolcano in Washington state that is a rather short volcano compared to Rainier due to it being on a high ridge. As of 2018, Glacier Peak is considered as 1 of 18 most dangerous volcanoes in the US."
         },
         {
+            "name": "Coranzulí",
+            "vei": 7,
+            "coordinates": [-23.021270224806084, -66.31972824986623],
+            "type": "Caldera",
+            "summitFeet": 12352,
+            "magmaType": "Rhyodacite",
+            "desc": "Coranzulí is a Miocene caldera in northern Argentina's Jujuy Province. Part of the Argentine Andes' volcanic segment, it is considered a member of the Central Volcanic Zone (CVZ). At the heart of the CVZ lies the Altiplano-Puna volcanic complex, a group of volcanoes of which Coranzulí is a part: the complex has produced large ignimbrite sheets with a combined volume approaching 15,000 cubic kilometres (3,600 cu mi)."
+        },
+        {
+            "name": "Cerro Panizos",
+            "vei": 7,
+            "coordinates": [-22.18014705860811, -66.69518597620977],
+            "type": "Caldera",
+            "summitFeet": 18180,
+            "magmaType": "Rhyolite",
+            "desc": "Cerro Panizos is a late Miocene-age shield-shaped volcano spanning the Potosi Department of Bolivia and the Jujuy Province of Argentina. It features two calderas (depressions formed by the collapse of a volcano) and a group of lava domes. It is part of the Altiplano-Puna volcanic complex (APVC), a group of calderas and associated ignimbrites (a form of volcanic rock) that erupted during the past ten million years. Cerro Panizos is part of the Central Volcanic Zone (CVZ), a volcanic arc that extends from Peru to Chile which was formed mostly by subduction of the Nazca Plate beneath South America."
+        },
+        {
+            "name": "Laguna Amarga",
+            "vei": 7,
+            "coordinates": [-27.537834669668296, -68.36942600115361],
+            "type": "Caldera",
+            "summitFeet": 16452,
+            "magmaType": "Rhyolite",
+            "desc": "Laguna Amarga is part of the southern Central Volcanic Zone and one among several Miocene-Pliocene-Pleistocene volcanic centres of this volcanic region. The formation of magma chambers and thus of large volcanic systems has apparently been influenced by tectonic changes. The Laguna Amarga caldera is associated with the Cordillera Claudio Gay faults together with the Laguna Escondida and Wheelwright calderas, all of which are between 6.5 and 4 mya old. Laguna Amarga and Laguna Verde are sometimes associated with the Vallecito ignimbrite instead. The formation of the Laguna Amarga volcanic centre was probably influenced by orogenic changes in the Andes which triggered the formation of fractures in the crust."
+        },
+        {
+            "name": "Caldera del Atuel",
+            "vei": 7,
+            "coordinates": [-34.663105381594455, -70.02968130398854],
+            "type": "Caldera",
+            "summitFeet": 17024,
+            "magmaType": "Rhyolite",
+            "desc": "Caldera del Atuel is a caldera in Argentina. It is the source of the Rio Atuel and has dimensions of 30 by 45 kilometres (19 mi × 28 mi). Cerro Sosneado is a volcano (best volume estimate 244.2 cubic kilometres (58.6 cu mi)) located outside of the Atuel caldera, Volcan Overo (best volume estimate 89 cubic kilometres (21 cu mi)) and Las Lágrimas complex are located within the caldera. Holocene activity may have formed the cinder cones on the northeastern side of the caldera. After the 2010 Maule earthquake, the caldera was one of the volcanic centres that underwent subsidence, along with secondary earthquake activity."
+        },
+        {
+            "name": "Domuyo",
+            "vei": 7,
+            "coordinates": [-36.600497476388554, -70.4096704978018],
+            "type": "Caldera",
+            "summitFeet": 15427,
+            "magmaType": "Dacite",
+            "desc": "The Domuyo Volcano is a stratovolcano located in the Argentine province of Neuquén. With a height of 4,702 m (15,427 ft), it is the highest mountain in Patagonia and is sometimes called the Roof of Patagonia (El Techo de la Patagonia in Spanish)."
+        },
+        {
+            "name": "Porco",
+            "vei": 6,
+            "coordinates": [-19.810559062228734, -65.97178290761737],
+            "type": "Caldera",
+            "summitFeet": 16030,
+            "magmaType": "Dacite",
+            "desc": "Porco caldera is a caldera in Bolivia which contains a major deposit of lead, silver, tin, and zinc ore. This caldera was formed by a volcanic eruption 12 million years ago in the Bolivian Cordillera Oriental. Subsequent to the caldera collapse, volcanic intrusions occurred as many as 3 million years after the caldera formation."
+        },
+        {
             "name": "Hunga Tonga-Hunga Ha'apai",
             "vei": 6,
             "coordinates": [-20.543965427394934, -175.3925422395425],
