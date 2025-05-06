@@ -257,7 +257,7 @@
         },
         {
             "name": "Fentale",
-            "vei": 0,
+            "vei": 6,
             "coordinates": [8.983631311738952, 39.9043255105911],
             "type": "Stratovolcano",
             "summitFeet": 6585,
