@@ -3492,7 +3492,7 @@
         },
         {  
             "name": "Glen Coe",
-            "vei": 8,
+            "vei": 6,
             "coordinates": [56.68242290543748, -5.101660449671116],
             "type": "Caldera",
             "summitFeet": 1620,
