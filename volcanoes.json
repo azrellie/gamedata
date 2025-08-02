@@ -7346,6 +7346,15 @@
             "summitFeet": 1804,
             "magmaType": "Andesite",
             "desc": "The elongated 9 x 23 km Yunaska in the Islands of the Four Mountains group of the Aleutian Islands is comprised of two distinct volcanic centers. The older western center consists of the eroded remnants of four overlapping stratovolcanoes that form a linear, NNE-trending ridge. Cinder cones and fissure-fed lava flows extend from the western end of the complex. The younger eastern complex consists of a shield volcano capped by two nested calderas. The 3.5-km-wide Coats caldera is located within an older 10 x 13 km caldera and contains cinder cones and a lava field. Two areas of youthful lava flows extend down the flank through a gap in the SW caldera rim and cover the upper N flank of the caldera. Vents are found on the flanks of the caldera within a kilometer of its rim. A post-caldera cone is capped by a small summit crater. The eastern center is presumably the source of eruptions recorded since the early 1800s. "
+        },
+        {
+            "name": "Apolaki",
+            "vei": 8,
+            "coordinates": [16.679112812064215, 124.37084022502066],
+            "type": "Caldera",
+            "summitFeet": -8200,
+            "magmaType": "Rhyolite",
+            "desc": "The Apolaki Caldera is a volcanic caldera with a diameter of 150 kilometers (93 mi), making it the world's largest caldera. It is located within the Benham Rise (Philippine Rise) and was discovered in 2019 by Jenny Anne Barretto, a Filipino marine geophysicist and her team. The name "Apolaki" means "giant lord" in Filipino, and is also the name of the god of sun and war in some pantheons in Philippine mythology and the indigenous Philippine folk religions.[1][2] The volcano has been inactive for millions of years."
         }
     ]
 }
