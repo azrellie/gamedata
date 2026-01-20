@@ -1945,19 +1945,6 @@
             ]
         },
         {
-            "name": "Central Atlantic Magmatic Province",
-            "vei": 10,
-            "coordinates": [17.450428758791464, -37.42455891452784],
-            "type": "Large Igneous Province",
-            "summitFeet": -7874,
-            "magmaType": "Basalt",
-            "desc": "biggest LIP",
-            "chatMessages": [
-                "An extreme increase in submarine volcanic eruptions has been detected in the Atlantic Ocean...",
-                "<b><font color='rgb(75,0,0)'>Tsunamis completely destroy coastal cities...</font></b>"
-            ]
-        },
-        {
             "name": "Madagascar Large Igneous Province",
             "vei": 10,
             "coordinates": [-19.36739341290561, 46.930726330815546],
@@ -6871,17 +6858,12 @@
         },
         {   
             "name": "Lesser Caucasus Large Igneous Province",
-            "vei": 9,
+            "vei": 8,
             "coordinates": [42.02933810623563, 45.54722242989667],
             "type": "Large Igneous Province",
             "summitFeet": 2100,
             "magmaType": "Basalt",
-            "desc": "cauc",
-            "chatMessages": [
-                "The snow caps of the Caucasus Mountains begin melting due to a major temperature increase in the area...",
-                "<b><font color='rgb(125,0,0)'>Major hydrothermal explosions are recorded in the Lesser Caucasus...</font></b>",
-                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Large cracks open up and start erupting a massive amount of basaltic lava...</font></stroke></b>"
-            ]
+            "desc": "cauc"
         },
         {
             "name": "Garðar Large Igneous Province",
