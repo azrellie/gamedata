@@ -6858,12 +6858,17 @@
         },
         {   
             "name": "Lesser Caucasus Large Igneous Province",
-            "vei": 8,
+            "vei": 9,
             "coordinates": [42.02933810623563, 45.54722242989667],
             "type": "Large Igneous Province",
             "summitFeet": 2100,
             "magmaType": "Basalt",
-            "desc": "cauc"
+            "desc": "cauc",
+            "chatMessages": [
+                "Small lava flows are reported in Eastern Nigeria...",
+                "<b><font color='rgb(125,0,0)'>Some villages get so hot people need to be evacuated...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Tremors are heard and felt deep below the surface...</font></stroke></b>"
+            ]
         },
         {
             "name": "Garðar Large Igneous Province",
