@@ -6966,6 +6966,24 @@
             "desc": "Wurzen Caldera is a 30x25 km caldera in Germany. The climactic Wurzen ignimbrite contains different fiamme of fine-grained mafic, fine-grained rhyolitic (71.8 to 76.6 wt% SiO2), porphyritic (trachy-) dacitic (64.5 to 67.6 wt% SiO2), and coarse porphyritic rhyodacitic composition (64.7 to 74.3 wt% SiO2), which point to a permanent interplay between rejuvenation, differentiation, and cooling in the Wurzen magma body."
         },
         {
+            "name": "Rochlitz Caldera",
+            "vei": 8,
+            "coordinates": [51.039085808890064, 13.245462404294102],
+            "type": "Caldera",
+            "summitFeet": 323,
+            "magmaType": "Rhyodacite",
+            "desc": "A caldera in Germany that erupted around 300 million years ago. The eruption has released more than 1,000 km3 of tephra."
+        },
+        {
+            "name": "Altmark-Wendland Caldera",
+            "vei": 7,
+            "coordinates": [53.08249840717801, 11.165256254952912],
+            "type": "Caldera",
+            "summitFeet": 45,
+            "magmaType": "Rhyodacite",
+            "desc": "An ancient volcano in Germany that is responsible for a massive eruption 296 million years ago."
+        },
+        {
             "name": "Raton-Clayton Volcanic Field",
             "vei": 3,
             "coordinates": [37.11539388867238, -103.57020632429922],
