@@ -49,6 +49,69 @@
             "desc": "Redoubt is a very famous stratovolcano in the Lake Clark National Park, It is the most active volcano in the upper Cook Inlet and it was constructed about 890 thousand years ago. It is also ranked 4th on the 2018 hazardous volcanoes list."
         },
         {
+            "name": "Ramat Yotam Caldera",
+            "vei": 5,
+            "coordinates": [29.550710316328686, 34.89987284217433],
+            "type": "Caldera",
+            "summitFeet": 2927,
+            "magmaType": "Unknown",
+            "desc": "The Ramat Yotam Caldera is a Proterozoic volcano located about 2 km (1.2 mi) west of Eilat in southernmost Israel. It formed 548 million years ago at the southern end of the Ramat Yotam graben."
+        },
+        {
+            "name": "Harrat Ash Shaam",
+            "vei": 3,
+            "coordinates": [29.550710316328686, 34.89987284217433],
+            "type": "Volcanic Field",
+            "summitFeet": 3609,
+            "magmaType": "Basalt",
+            "desc": "The massive Harrat Ash Shaam volcanic province, which extends from Syria through Jordan and into northern Saudi Arabia, contains many smaller volcanic fields. Activity began during the Miocene; a younger eruptive stage, at the SE end of the field, occurred during the late Pleistocene and Holocene (Brown et al., 1984). Al Harrah, a large basaltic volcanic field in northwestern Saudi Arabia, covers an area of 15,200 km2 and forms the southern third of the harrat across a 210-km-long, roughly 75-km-wide area. Other fields include the Jabal ad Druze, Es Safa, Golan Heights, and the Kra Lava Field where radiocarbon dating indicated an eruption at 2,670 BCE ± 200 years. Although a boiling lava lake eruption has been in the volcanological literature since 1925, a translation of the original source of that report by Wetzstein (1860) clearly shows that he was describing solidified crater floor surface features and lava flows."
+        },
+        {
+            "name": "Kaukab",
+            "vei": 2,
+            "coordinates": [36.536533609963186, 40.860180582573705],
+            "type": "Cone",
+            "summitFeet": 1693,
+            "magmaType": "Basalt",
+            "desc": "Kaukab is a basaltic cone about 1 km in diameter with a large breached and eroded crater; additional smaller cones are located 2 km N and 500 m S. It was described as Holocene by Malki (in IAVCEI, 1973), but very little work has been done in this area, and no definitive age has been determined. Lease and Abdel-Rahman (2008) include this as part of the Plio-Quaternary Euphrates Volcanic Field, noting that piles of lava flows at the Kaukab locality are about 10 m thick at the centre, diminishing to 3 m in thickness at the edge of the plateau."
+        },
+        {
+            "name": "Bazman",
+            "vei": 3,
+            "coordinates": [28.070454426745428, 60.00905208514113],
+            "type": "Stratovolcano",
+            "summitFeet": 1693,
+            "magmaType": "Andesite",
+            "desc": "Bazman is a dominantly andesitic stratovolcano in SE Iran with a 500-m-wide summit crater. Satellitic lava cones have been the source of olivine basalt lava flows, and a steep cone on the N flank produced a lava flow that traveled to the N before diverging to the NW and NE. Only minor fumarolic activity has been reported. The youngest dates obtained by Ghalamghash et al. (2019), using Uranium-series (238U-230Th) disequilibrium in zircons for dacitic to andesitic lava near the summit, obtained a date for an eruption phase about 41,000 years before present."
+        },
+        {
+            "name": "Qal'eh Hasan Ali",
+            "vei": 4,
+            "coordinates": [29.538568166565298, 57.277425535020484],
+            "type": "Volcanic Field",
+            "summitFeet": 7500,
+            "magmaType": "Basanite",
+            "desc": "A volcanic field in Iran that consists of 14 maars, the largest of which is 1.2 kilometers wide and 300 meters deep."
+        },
+        {
+            "name": "Loman Volcano Group",
+            "vei": 0,
+            "coordinates": [33.32996720628992, 67.84989171848967],
+            "type": "Lava Domes",
+            "summitFeet": 14957,
+            "magmaType": "Unknown, Dacite?",
+            "desc": "Four Quaternary lava domes in Afghanistan."
+        },
+        {
+            "name": "Vakak Group",
+            "vei": 6,
+            "coordinates": [34.22993613282819, 67.93546587715093],
+            "type": "Volcanic Field",
+            "summitFeet": 14957,
+            "magmaType": "Unknown, Dacite?",
+            "desc": "The Vakak Group (also spelled Wakak) consists of 18 dacitic and trachytic volcanoes located WSW of Kabul. It is the northernmost of a group of small volcanic fields in the Ghanzi region and consists of endogenous lava domes, one of which occupies an old caldera. The age of the volcanoes is not known precisely; they were tentatively considered to be of Pleistocene age (Lapparent et al., 1965) and were listed as Recent by Bordet (International Association of Volcanology and Chemistry of the Earth's Interior, 1973)."
+        },
+        {
             "name": "Snowdon Caldera",
             "vei": 6,
             "coordinates": [53.06882467562952, -4.077165446129249],
