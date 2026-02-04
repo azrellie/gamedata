@@ -40,7 +40,7 @@
             "desc": "A large volcanic caldera near the city of Tucson, Arizona. It has erupted 73 million years ago, producing one of Arizona's strongest eruptions during the Cretaceous period."
         },
         {
-            "name": "Bentuggezh K’enulgheli",
+            "name": "Redoubt",
             "vei": 3,
             "coordinates": [60.485500089130305, -152.74758904299813],
             "type": "Stratovolcano",
@@ -1374,6 +1374,150 @@
             "summitFeet": 8045,
             "magmaType": "Andesite",
             "desc": "The glacier-covered basaltic-to-andesitic Volcán Michinmahuida, located west of Lago Reñihue, has a saddle-shaped summit with an elongated 3-km-wide caldera. The massive edifice is elongated in a NE-SW direction, and a youthful eruptive center is located on the ENE side of the complex. A major explosive eruption at the beginning of the Holocene produced the Amarillo Ignimbrite that may have created the now ice-filled summit caldera, and Holocene tephra deposits from summit and flank vents have been identified. An eruption was reported in 1742, and Charles Darwin observed activity in 1834. The latest known eruption, February-March 1835, produced a lava flow from a flank crater and lahars that reached the coast at Punta Chana."
+        },
+        {
+            "name": "São Vicente",
+            "vei": 5,
+            "coordinates": [16.86633663425578, -24.922594145583478],
+            "type": "Stratovolcano",
+            "summitFeet": 2379,
+            "magmaType": "Basalt",
+            "desc": "The 15 x 25 km island of Sao Vicente contains mafic lavas covering prominent peninsulas on the eastern and NE sides (Mitchell-Thome, 1976). The largest indentation on this island with an irregular shoreline is formed by a caldera on the NW coast that is breached by the sea and forms the setting for the port of Mindelo, the island's largest village. No Holocene material has been dated, and as of 2015 scientists in Cape Verde consider it's last activity to have been in the Pleistocene."
+        },
+        {
+            "name": "Brava",
+            "vei": 4,
+            "coordinates": [14.851146792777815, -24.70423649492986],
+            "type": "Stratovolcano",
+            "summitFeet": 2379,
+            "magmaType": "Phonolite",
+            "desc": "Brava (Portuguese: [ˈbɾavɐ]; lit. 'Brave') is a potentially active stratovolcano in the Cape Verde archipelago, located in the east central Atlantic Ocean about 18 km (11 mi) west of the active volcano Pico do Fogo. It is the smallest inhabited island of Cape Verde, but geologically it is notable for its abundance of phonolitic volcanic rocks, its complex tectonic setting, and its unusual association with carbonatite volcanism."
+        },
+        {
+            "name": "Ngaoundere Plateau",
+            "vei": 3,
+            "coordinates": [7.249752323281965, 13.670037215956969],
+            "type": "Volcanic Field",
+            "summitFeet": 4035,
+            "magmaType": "Trachybasalt",
+            "desc": "The Ngaoundere volcanic field is located within a larger late-Miocene region of plateau basalts, plug domes and a single large basanitic-to-trachytic stratovolcano, Nganha. Quaternary volcanism is situated east of Ngaoundere and Wakwa, and consists of scoria cones and lava flows, maars, and tuff cones. A single Potassium-Argon date of 0.9 million years ago has been obtained from a lava flow east of Wakwa, although some volcanoes are possibly of Holocene age (Vincent 1992, pers. comm.). The most recent eruptive activity originated from a chain of cinder cones aligned in a WNW-ESE direction."
+        },
+        {
+            "name": "Manengouba",
+            "vei": 6,
+            "coordinates": [5.033771501043255, 9.825570950893953],
+            "type": "Caldera",
+            "summitFeet": 7910,
+            "magmaType": "Basalt",
+            "desc": "The Manengouba volcanic complex is located across the Tombel Graben from Mount Cameroon. Growth of the initial Manengouba shield volcano during the early Pleistocene was followed by growth of the Eboga stratovolcano. The subsequent Elengoum extrusive complex consists of trachytic pyroclastic flows and trachyandesitic to trachytic lava domes, and magma withdrawal associated with these eruptions was linked to formation of the 4-km-wide Eboga caldera. Renewed eruptions within the caldera and on its flanks produced about one hundred pyroclastic cones and three maars during the latest stage of activity at Manengouba that were dated between about 0.45 and 0.11 Ma."
+        },
+        {
+            "name": "Tchabal Nganha",
+            "vei": 4,
+            "coordinates": [7.35332981981458, 14.009887253490717],
+            "type": "Stratovolcano",
+            "summitFeet": 6322,
+            "magmaType": "Basalt",
+            "desc": "Tchabal Nganha is a stratovolcano on the Ngaoundere Plateau, a highland area in the Adamawa Region of Cameroon."
+        },
+        {
+            "name": "Northern Tibet Volcanic Field",
+            "vei": 6,
+            "coordinates": [35.84277723753291, 91.69347728271774],
+            "type": "Volcanic Field",
+            "summitFeet": 17717,
+            "magmaType": "Phonolite",
+            "desc": "Northern Tibet VF is a volcanic field in China. The volcanic field lies in the Quiangtang plateau, in northern Tibet and the Kunlun mountains. The high altitude, bad terrain and weather make geologic investigations in the region difficult. The volcanic field partly covers the Kangtuo formation."
+        },
+        {
+            "name": "Khuisiin Naiman Nuur",
+            "vei": 4,
+            "coordinates": [46.54012897638803, 101.87553253239994],
+            "type": "Volcanic Field",
+            "summitFeet": 8307,
+            "magmaType": "Basalt",
+            "desc": "A cone, designated here as Khoid Naiman Nuur (North Eight Lakes), is located in the upper reaches of a river valley ~25 km SW from the Orkhan (or Tsutgalan) waterfall, just N of the Khuisiin Naiman Nuur (Eight Lakes of the Navel) area. Lava flows extend from the cone ~3.5 km S towards the lakes and ~15 km NW then NE down the valley towards the waterfall. Ivanov et al. (2015) noted that the cone and flows were probably Holocene based on their field observations."
+        },
+        {
+            "name": "Balagan-Tas",
+            "vei": 3,
+            "coordinates": [65.9594669247791, 145.8922607888817],
+            "type": "Pyroclastic Cone",
+            "summitFeet": 3258,
+            "magmaType": "Basalt",
+            "desc": "Balagan-Tas is a cinder cone constructed along a fault on the SW flank of the Momskiy Mountains in the NE part of Russia's Sakha Republic. A poorly preserved crater fed subalkaline basaltic lava flows that covered an area of 4-5 km2. A Potassium-Argon date of 300,000 years was obtained"
+        },
+        {
+            "name": "Taryatu-Chulu Volcanic Field",
+            "vei": 2,
+            "coordinates": [48.12053798682691, 99.93241854683279],
+            "type": "Volcanic Field",
+            "summitFeet": 7631,
+            "magmaType": "Trachybasalt",
+            "desc": "The Taryatu-Chulutu volcanic field lies in north-central Mongolia about 250 km W of Ulaanbaatar. This area, also known as the Hangayn or Tariat volcanic field, is located in a broad region of Miocene-to-Holocene basaltic lavas in the Baikal Rift System SSW of Lake Baikal. Lava flows of four Miocene-to-Holocene age groups form terraces along the Chulutu (Chuloot) River; Pleistocene basalts form the 40-60 m terrace of the Taryatu basin. Six Holocene cinder cones, including Horgo and Dzan Tologai, are concentrated along the Sumein and Gichgeniyn river valleys at the western end of the volcanic field. The 180-m-wide crater of Horgo is breached to the south, in the direction of an associated lava flow. The Holocene cones produced thin, freshly preserved lava flows remarkable for their large numbers of ultramafic xenoliths. The lava flow from Horgo was radiocarbon dated at about 4,930 years ago and dammed the Chulutu River, forming Lake Terkhin-Tsagan-Nur."
+        },
+        {
+            "name": "Tengchong",
+            "vei": 2,
+            "coordinates": [25.234036148157962, 98.50337534285713],
+            "type": "Volcanic Field",
+            "summitFeet": 9400,
+            "magmaType": "Basalt",
+            "desc": "The Tengchong volcanic field, located in southern China near the border with Burma (Myanmar), was active during five periods ranging from the early Pliocene to the Holocene. Three main stages produced Pliocene to mid-Pleistocene basaltic rocks, mid- to late-Pleistocene silicic pyroclastic rocks, and Holocene basaltic andesites. The youngest volcanism in the 600 km2 field occurred in two stages during the early and late Holocene. Volcanic cones at the northern end of the field are sparsely vegetated and have clearly visible lava flows. Three basaltic andesite centers, Dayinshshan, Maanshan, and possibly Heikongshan, are of Holocene age. An unconfirmed explosive eruption took place in 1609 CE, and there are unconfirmed reports of eruptions during the Qing Dynasty (1644-1911 CE). The area includes active geothermal fields, the largest and highest temperature of which is the Rehai geothermal field, where more than 20 hydrothermal eruptions have occurred since 1993."
+        },
+        {
+            "name": "Jingpohu",
+            "vei": 1,
+            "coordinates": [44.078703271276524, 128.82956421701746],
+            "type": "Volcanic Field",
+            "summitFeet": 3281,
+            "magmaType": "Trachybasalt",
+            "desc": "Jingpohu is a Pliocene-to-Holocene volcanic field in the Jingpo Lake area of Heilongjiang Province, NE China. The lake formed when lava flows blocked the Mudan River (Mudanjiang). The NE-striking Dunhua-Mishan fault controls the location of many vents. One alkali basaltic lava flow traveled 100 km down a canyon NW of the lake. Many Holocene trachybasaltic or basantic cones and lava flows lie on plateaus along the Mudan River, which also contain basanitic and tephriphonolitic rocks. Mantle xenoliths are common. A period of major activity about 5,500-5,200 years ago produced extensive lava flows that covered an area of about 500 km2."
+        },
+        {
+            "name": "Honggeertu",
+            "vei": 2,
+            "coordinates": [41.589753143291034, 113.11096607295919],
+            "type": "Volcanic Field",
+            "summitFeet": 5266,
+            "magmaType": "Basalt",
+            "desc": "The Honggeertu volcanic field is located in Nei Mongol Province, NW of Beijing. The basaltic volcanic field consists of a group of six cinder cones extending along an arc for about 10 km that were considered to be of Holocene age by IAVCEI (1973). Liu (1998, p.c.), however, considered the existence of Holocene volcanism at this location to be uncertain."
+        },
+        {
+            "name": "Arxan-Chaihe Volcanic Field",
+            "vei": 3,
+            "coordinates": [47.50672182691866, 120.86674845212112],
+            "type": "Volcanic Field",
+            "summitFeet": 5502,
+            "magmaType": "Basalt",
+            "desc": "The Arxan-Chaihe Volcanic Field, in the central Da Hinggan Mountains of Inner Mongolia in NE China, contains at least 27 volcanic features. The youngest cones, including Yanshan and Gaoshan, produced basaltic lava flows that blocked drainages of the Halahale River and created six lava-dammed lakes. Radiocarbon dates from scoria deposits document eruptions about 2,000-1,900 years ago. The area has been designated as a National Geopark."
+        },
+        {
+            "name": "Hainan Volcanic Field",
+            "vei": 3,
+            "coordinates": [19.903660843791133, 110.22959662402513],
+            "type": "Volcanic Field",
+            "summitFeet": 643,
+            "magmaType": "Basalt",
+            "desc": "The Hainan volcanic field consists of Quaternary lava flows that extend over about 4,100 km2 of northern Hainan Island (also known as Qiong). This field, along with the Leizhou Bandao volcanic field across the Qiongzhou strait to the north on the Leizhou (Liuchow) Peninsula, forms the larger Leiqiong volcanic field (also called the Qionglei volcano group). As many as 58 cones and craters are still evident, primarily near the city of Hainan on the north-central coast of the island. Eruptions were reported in the Lingao and Chengmai areas in the 19th and 20th centuries. Leihuling and Maanshan, two of the best preserved volcanic cones, are oriented along an E-W fracture and are part of a cluster of about 30 cones in the Shishan and Yongzing regions. The Haikou Volcanic Cluster, part of the Leiqiong World Geopark, around the town of Shishan 15 km SE of Hainan city, includes 40 volcanic features."
+        },
+        {
+            "name": "Keluo Group",
+            "vei": 2,
+            "coordinates": [49.36973917988107, 125.91906028807968],
+            "type": "Volcanic Field",
+            "summitFeet": 2198,
+            "magmaType": "Trachybasalt",
+            "desc": "The Keluo volcanic field in NE China is located near the Russian border, S of the Heilongjiang (Black Dragon) River. Like its better known neighbor to the S, the Wudalianchi volcanic field, it contains many high-potassium basaltic cinder cones. Nanshan cone, located at the southern end of the field N of the Keluo River, may be of historical age, based on its youthful appearance, and Gushan may also be Holocene. Other cones to the NE are of Pleistocene to Tertiary. Cinder cones are located at the intersections of regional NE- and NW-trending lineaments, and were erupted through basement volcanic and sedimentary rocks of Jurassic-Cretaceous age, granitic rocks, and pre-Permian metasediments. There are unconfirmed reports of observed activity."
+        },
+        {
+            "name": "Leizhou Bandao",
+            "vei": 2,
+            "coordinates": [20.779814740518642, 110.1700747522811],
+            "type": "Volcanic Field",
+            "summitFeet": 850,
+            "magmaType": "Basalt",
+            "desc": "The Leizhou Bandao volcanic field is an area of extensive Quaternary lava flows and basaltic cones on the Leizhou (Liuchow) Peninsula in SE China, across the Qiongzhou strait N of Hainan Island. The field is the northern portion of the Qionglei volcano group (also known as the Leiqiong volcanic field), a 7300 km2 basaltic-to-basanitic plateau that covers the southern Leizhou (Liuchow) Peninsula and extends across a broad area of northern Hainan. Volcanism on the peninsula was controlled by E-W extension related to the opening of the South China Sea Basin. Yingfengling and Tianyang are Pleistocene stratovolcanoes that contain large amounts of mantle xenoliths. Many cones are found in the southern portion of the peninsula, and another similar area lies at the the northern end, W of Zhanjiang City. No Holocene features have been identified in either of the volcanic areas on the Leizhou Peninsula."
         },
         {
             "name": "Mocho-Choshuenco",
@@ -4518,7 +4662,7 @@
         },
         {
             "name": "Hotakadake",
-            "vei": 8,
+            "vei": 7,
             "coordinates": [36.30008630886134, 137.64983888486356],
             "type": "Caldera",
             "summitFeet": 10466,
@@ -4527,7 +4671,7 @@
         },
         {
             "name": "Kakuto",
-            "vei": 8,
+            "vei": 7,
             "coordinates": [32.041969517580974, 130.76699727684672],
             "type": "Caldera",
             "summitFeet": 2620,
