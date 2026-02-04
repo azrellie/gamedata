@@ -2494,6 +2494,33 @@
             "desc": "Damavand is a stratovolcano in Iran. Damavand is a significant mountain in Persian mythology. It is the symbol of Iranian resistance against despotism and foreign rule in Persian poetry and literature."
         },
         {
+            "name": "Embagai",
+            "vei": 6,
+            "coordinates": [-2.9096802979561347, 35.827840195466905],
+            "type": "Caldera",
+            "summitFeet": 10564,
+            "magmaType": "Dacite",
+            "desc": "A large caldera in Tanzania north of Ngorongoro. It was formed during a high end VEI 6 eruption."
+        },
+        {
+            "name": "Olmoti",
+            "vei": 6,
+            "coordinates": [-3.010918389524562, 35.65220683842227],
+            "type": "Caldera",
+            "summitFeet": 10167,
+            "magmaType": "Dacite",
+            "desc": "A large caldera in Tanzania immediately north of Ngorongoro. It is located in an area known for high end eruptions along with the Ngorongoro caldera to the south and Embagai to the north."
+        },
+        {
+            "name": "Didolli",
+            "vei": 5,
+            "coordinates": [12.688762856151646, 41.60518385681729],
+            "type": "Caldera",
+            "summitFeet": 3907,
+            "magmaType": "Dacite",
+            "desc": "Included in Dubbi line of volcanoes which decrease in age northward (Mohr et al. 1976). Didolli is next volcano south of Omya which is dated at 0.5 million years ago"
+        },
+        {
             "name": "Turkey Creek Caldera",
             "vei": 7,
             "coordinates": [31.84385018172838, -109.28171136931351],
