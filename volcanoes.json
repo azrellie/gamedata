@@ -3725,6 +3725,15 @@
             "desc": "A massive caldera in northern Nevada that was formed during the Mid-Tertiary Ignimbrite Flare-up. It is comparable in size to the Yellowstone caldera and produced the 1,100 km3 Caetano Tuff."
         },
         {
+            "name": "Monotony Valley Caldera",
+            "vei": 8,
+            "coordinates": [38.129539883526235, -116.0545046540482],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A massive caldera in Nevada that was formed during the Mid-Tertiary Ignimbrite Flare-up. It is suspected to be comparable in size or larger than the Fish Canyon Tuff of La Garita Caldera (>5000 km3)"
+        },
+        {
             "name": "Stillwater Caldera Complex",
             "vei": 8,
             "coordinates": [39.0665113622502, -118.15457679246563],
