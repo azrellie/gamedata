@@ -49,6 +49,15 @@
             "desc": "Redoubt is a very famous stratovolcano in the Lake Clark National Park, It is the most active volcano in the upper Cook Inlet and it was constructed about 890 thousand years ago. It is also ranked 4th on the 2018 hazardous volcanoes list."
         },
         {
+            "name": "Ischia",
+            "vei": 6,
+            "coordinates": [40.72193769221827, 13.902259119705585],
+            "type": "Complex",
+            "summitFeet": 2589,
+            "magmaType": "Trachyte",
+            "desc": "The Ischia volcanic complex forms a rectangular, 6 x 9 km island immediately SW of the Campi Flegrei area at the western side of the Bay of Naples. The eruption of the trachytic Green Tuff ignimbrite about 56,000 years ago was followed by caldera formation. The high point on the island, Monte Epomeo, is a volcanic horst composed of the Green Tuff ignimbrite deposit that was submerged after its eruption and then uplifted. Volcanism on the island has been significantly affected by tectonism that formed a series of horsts and grabens; at least 800 m of uplift has formed as a result of resurgent doming during past 33,000 years. Many small monogenetic volcanoes were formed around the uplifted block. Volcanism during the Holocene produced a series of pumiceous tephras, tuff rings, lava domes, and lava flows, and a major collapse of Mount Epomeo produced a large submarine debris-avalanche deposit. The latest eruption, in 1302 CE, produced a spatter cone and the Arso lava flow, which reached the NE coast."
+        },
+        {
             "name": "Ramat Yotam Caldera",
             "vei": 5,
             "coordinates": [29.550710316328686, 34.89987284217433],
@@ -2555,6 +2564,78 @@
             "summitFeet": 7448,
             "magmaType": "Rhyolite",
             "desc": "The Sierra la Primavera volcanic complex is located immediately west of México's second-largest city, Guadalajara. Following the eruption of rhyolitic lava flows and domes beginning about 120,000 years before present (BP), an 11-km-wide caldera was formed as a result of the eruption of the 20 km3 Tala Tuff about 95,000 BP. La Primavera caldera subsequently filled with water, forming a lake, through which several lava domes were emplaced. The eruption of a series of domes along the margin of the caldera about 95,000 years ago was followed about 75,000 years ago by the eruption of a younger series of ring domes. Uplift and sedimentation filled the lake, and a final series of lava domes was erupted along the southern margin of the caldera beginning about 60,000 BP, with the youngest dome dated at about 30,000 BP. Steam vents and hot springs currently are active throughout the volcanic complex."
+        },
+        {
+            "name": "Witori",
+            "vei": 6,
+            "coordinates": [-5.5798589055860335, 150.51742216856695],
+            "type": "Caldera",
+            "summitFeet": 2375,
+            "magmaType": "Dacite",
+            "desc": "The active Pago cone has grown within the Witori caldera (5.5 x 7.5 km) on the northern coast of central New Britain contains the active Pago cone. The gently sloping outer caldera flanks consist primarily of dacitic pyroclastic-flow and airfall deposits produced during a series of five major explosive eruptions from about 5,600 to 1,200 years ago, many of which may have been associated with caldera formation. Pago cone may have formed less than 350 years ago; it has grown to a height above the caldera rim, and a series of ten dacitic lava flows from it covers much of the caldera floor. The youngest of these was erupted during 2002-2003 from vents extending from the summit nearly to the NW caldera wall. The Buru caldera cuts the SW flank."
+        },
+        {
+            "name": "Chinameca",
+            "vei": 7,
+            "coordinates": [13.477752128230835, -88.31917035832478],
+            "type": "Stratovolcano",
+            "summitFeet": 4265,
+            "magmaType": "Andesite",
+            "desc": "The small Chinameca stratovolcano (also known as El Pacayal) lies across a low saddle abotu 7 km NW of the large San Miguel volcano. A 2-km-wide, steep-sided caldera, Laguna Seca el Pacayal, truncates the summit, whose flanks are covered with coffee plantations. The Holocene cone of Cerro el Limbo on the W flank rises above the level of the caldera rim, and a Holocene lava flow extends from a NNW-flank vent into the lowlands to the N beyond the town of Chinameca (Weber and Weisemann, 1978). A group of fumarole fields on the N flank surrounds the city of Chinameca, and the volcano has been the site of a geothermal exploration program."
+        },
+        {
+            "name": "Pauzhetka Caldera",
+            "vei": 7,
+            "coordinates": [51.47518872437004, 156.94160699033165],
+            "type": "Caldera",
+            "summitFeet": 3412,
+            "magmaType": "Rhyolite",
+            "desc": "This large caldera was associated with eruption of the voluminous rhyolitic Golygin ignimbrite during the late Pleistocene, about 443,000 years ago."
+        },
+        {
+            "name": "Semilir",
+            "vei": 7,
+            "coordinates": [-7.726277836360162, 110.39435637895389],
+            "type": "Caldera",
+            "summitFeet": 9600,
+            "magmaType": "Dacite",
+            "desc": "An ancient volcano in Java, Indonesia, responsible for the Semilir and Nglanngran formations. The largest eruption was assigned a VEI of 7."
+        },
+        {
+            "name": "Krasheninnikov",
+            "vei": 6,
+            "coordinates": [54.61027289045513, 160.27274091735705],
+            "type": "Caldera",
+            "summitFeet": 5958,
+            "magmaType": "Basalt",
+            "desc": "The late Pleistocene to Holocene Krasheninnikov volcano is comprised of two overlapping stratovolcanoes within a 9 x 10 km Pleistocene caldera. Young lava flows from summit and flank vents descend both into the caldera and down its outer flanks, and older flows that covered much of the SE caldera rim extended downslope at least 7 km. Tephra deposits from the caldera-forming eruption directly overlie a 39,000 years before present (BP) tephra thought to be associated with the formation of Uzon caldera (Florenskii, 1988). The intra-caldera stratovolcanoes are situated along a NE-SW-trending fissure that has also produced zones of Holocene cinder cones extending 15-20 km beyond the caldera. Construction of the southern edifice began about 11,000 years BP and lasted for about 4,500 years; it has a summit crater about 800-900 m wide. The northern edifice was constructed during a cycle of similar length that began about 6,500 years ago; it has a summit crater about 1.5 km wide, within which is low cone with an 800-m-wide crater containing another small cone. An eruptive cycle during about 600-400 years BP (1350-1550 CE) produced the Pauk lava cone in the crater of the northern cone and the Yuzhny lava flow on SW flank outside the caldera, followed by the Molodoy flow from the upper SW flank"
+        },
+        {
+            "name": "Karymsky",
+            "vei": 6,
+            "coordinates": [54.049534194101554, 159.44137982858246],
+            "type": "Stratovolcano",
+            "summitFeet": 4965,
+            "magmaType": "Andesite",
+            "desc": "Karymsky, the most active volcano of Kamchatka's eastern volcanic zone, is a symmetrical stratovolcano constructed within a 5-km-wide caldera that formed during the early Holocene. The caldera cuts the south side of the Pleistocene Dvor volcano and is located outside the north margin of the large mid-Pleistocene Polovinka caldera, which contains the smaller Akademia Nauk and Odnoboky calderas. Most seismicity preceding Karymsky eruptions originated beneath Akademia Nauk caldera, located immediately south. The caldera enclosing Karymsky formed about 7600-7700 radiocarbon years ago; construction of the stratovolcano began about 2000 years later. The latest eruptive period began about 500 years ago, following a 2300-year quiescence. Much of the cone is mantled by lava flows less than 200 years old. Historical eruptions have been vulcanian or vulcanian-strombolian with moderate explosive activity and occasional lava flows from the summit crater."
+        },
+        {
+            "name": "Healy",
+            "vei": 6,
+            "coordinates": [-35.00596466031161, 178.97500987644767],
+            "type": "Stratovolcano",
+            "summitFeet": -3215,
+            "magmaType": "Dacite",
+            "desc": "Healy submarine volcano lies along the South Kermadec Ridge and consists of an elongated edifice with a 3 x 4 km wide caldera at the NE end whose rim reaches to 1,150 m below sea level. A smaller caldera lies to the SW, and a cone, Cotton volcano, rises to 980 below sea level at the SW end of the 15-km-long complex. The flat-lying floor of the larger NE caldera lies 250-400 m below the caldera rim. Rhyodacitic pumice deposits mantle the caldera floor and walls, as well as the flanks. Active hydrothermal venting has been observed on the lower part of the southern caldera wall. The roughly 590-year-old sea-rafted Loisels Pumice deposit found in many Holocene beach sequences of North Island, New Zealand, and as far away as the Chatham Islands, 650 km east of New Zealand, is chemically and texturally similar to pumices from Healy caldera."
+        },
+        {
+            "name": "Batur",
+            "vei": 6,
+            "coordinates": [-8.236400127574273, 115.37815050592461],
+            "type": "Caldera",
+            "summitFeet": 5614,
+            "magmaType": "Andesite",
+            "desc": "The historically active Batur is located at the center of two concentric calderas NW of Agung volcano. The outer 10 x 13.5 km caldera was formed during eruption of the Bali (or Ubud) Ignimbrite about 29,300 years ago and now contains a caldera lake on its SE side, opposite the Gunung Abang cone, the topographic high of the complex. The inner 6.4 x 9.4 km caldera was formed about 20,150 years ago during eruption of the Gunungkawi Ignimbrite. The SE wall of the inner caldera lies beneath Lake Batur; Batur cone has been constructed within the inner caldera to a height above the outer caldera rim. The Batur stratovolcano has produced vents over much of the inner caldera, but a NE-SW fissure system has localized the Batur I, II, and III craters along the summit ridge. Recorded eruptions have been characterized by mild-to-moderate explosive activity sometimes accompanied by lava emission. Basaltic lava flows from both summit and flank vents have reached the caldera floor and the shores of Lake Batur in historical time."
         },
         {
             "name": "Nevsehir-Acigöl Volcanic Complex",
