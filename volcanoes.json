@@ -2074,6 +2074,42 @@
             "desc": "Harrat Rahat, Saudi Arabia's largest lava field, covers 20,000 km2 and extends for 300 km S of Madinah (Medina). Four coalescing lava fields erupted from offset NNW-trending vent systems comprise the field, which has an average width of 60 km. Lava flows extend as far as 100 km W of the axis of the field. Basaltic scoria cones dominate, but the volcanic field has also produced silicic trachy-basaltic to trachytic rocks. Small shield volcanoes and lava domes with associated pyroclastic flow and surge deposits are also present. Activity has migrated to the north over time, resulting in eruptions near Madinah. The best-known eruption took place in 1256 CE, when a 0.5 km3 lava flow erupted from six aligned scoria cones and traveled 23 km to within 4 km of Madinah."
         },
         {
+            "name": "Jorquera",
+            "vei": 7,
+            "coordinates": [-27.732228505810465, -69.71035203018414],
+            "type": "Caldera",
+            "summitFeet": 2643,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera 70 kilometers southeast of Copiapo, Chile. It measures 9 kilometers in diameter and lays very close to the much large Carrizalillo caldera."
+        },
+        {
+            "name": "Skukum Caldera",
+            "vei": 7,
+            "coordinates": [60.17415901876772, -135.22351720914094],
+            "type": "Caldera",
+            "summitFeet": 7815,
+            "magmaType": "Andesite",
+            "desc": "The Mount Skukum Volcanic Complex is an early Eocene caldera complex, located 43 km west of Carcross and 32 km northeast of Mount Porsild in the Yukon Territory, Canada. The complex composes the Skukum Group. It is a northeast-trending complex of subaerial volcanic and volcaniclastic rocks covering 140 km2."
+        },
+        {
+            "name": "Jabal Salma Caldera Complex",
+            "vei": 7,
+            "coordinates": [27.123945349682337, 42.274805072901735],
+            "type": "Caldera",
+            "summitFeet": 5090,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in Saudi Arabia that formed during several massive collapses and emplaced several hundred cubic kilometers of rhyolitic material."
+        },
+        {
+            "name": "El Salvador",
+            "vei": 7,
+            "coordinates": [-26.288666879718573, -69.55041725332092],
+            "type": "Caldera",
+            "summitFeet": 1233,
+            "magmaType": "Rhyolite",
+            "desc": "The El Salvador caldera is a massive volcano in northern Chile. It formed north of a series of large calderas that were active during the Paleocene."
+        },
+        {
             "name": "Olkaria",
             "vei": 6,
             "coordinates": [-0.9045821359830208, 36.294183857001855],
