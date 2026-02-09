@@ -2378,7 +2378,7 @@
         {
             "name": "Southwest Laurentia Large Igneous Province",
             "vei": 10,
-            "coordinates": [47.45385337519675, -120.32508478314246],
+            "coordinates": [35.30502529642886, -119.06298400341352],
             "type": "Large Igneous Province",
             "summitFeet": 14505,
             "magmaType": "Basalt",
@@ -4345,15 +4345,6 @@
             "magmaType": "Dacite",
             "desc": "Home Reef, a submarine volcano midway between Metis Shoal and Late Island in the central Tonga islands, was first reported active in the mid-19th century, when an ephemeral island formed. An eruption in 1984 produced a 12-km-high eruption plume, large amounts of floating pumice, and an ephemeral 500 x 1,500 m island, with cliffs 30-50 m high that enclosed a water-filled crater. In 2006 an island-forming eruption produced widespread dacitic pumice rafts that drifted as far as Australia. Another island was built during a September-October 2022 eruption." 
         },
-        {
-            "name": "Home Reef",
-            "vei": 3,
-            "coordinates": [-18.990166088101933, -174.76554615177096],
-            "type": "Stratovolcano",
-            "summitFeet": -33,
-            "magmaType": "Dacite",
-            "desc": "Home Reef, a submarine volcano midway between Metis Shoal and Late Island in the central Tonga islands, was first reported active in the mid-19th century, when an ephemeral island formed. An eruption in 1984 produced a 12-km-high eruption plume, large amounts of floating pumice, and an ephemeral 500 x 1,500 m island, with cliffs 30-50 m high that enclosed a water-filled crater. In 2006 an island-forming eruption produced widespread dacitic pumice rafts that drifted as far as Australia. Another island was built during a September-October 2022 eruption." 
-        },
         {  
             "name": "Camiguin de Babuyanes",
             "vei": 2,
@@ -5730,15 +5721,6 @@
             "summitFeet": 869,
             "magmaType": "Rhyolite",
             "desc": "Hunter Mine Caldera Complex in western Quebec was formed around 2 billion years ago in multiple caldera-forming eruptions that have ejected over 40 km3 of tephra."
-        },
-        {
-            "name": "Silver Creek Caldera",
-            "vei": 8,
-            "coordinates": [35.10359648787943, -114.49895596433042],
-            "type": "Caldera",
-            "summitFeet": 558,
-            "magmaType": "Rhyolite",
-            "desc": "The Silver Creek Caldera in southwestern United States is the volcano that is responsible for the large Peach Springs Tuff (1300 km3)."
         },
         {
             "name": "Silver Creek Caldera",
@@ -7342,9 +7324,9 @@
             "magmaType": "Basalt",
             "desc": "cauc",
             "chatMessages": [
-                "Small lava flows are reported in Eastern Nigeria...",
-                "<b><font color='rgb(125,0,0)'>Some villages get so hot people need to be evacuated...</font></b>",
-                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Tremors are heard and felt deep below the surface...</font></stroke></b>"
+                "The snow caps of the Caucasus mountains begin melting...",
+                "<b><font color='rgb(125,0,0)'>Small vents of ash open up on nearby dormant volcanoes...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Satellite imagery shows a massive ash plume over the entire Caucasus region...</font></stroke></b>"
             ]
         },
         {
@@ -7791,7 +7773,7 @@
             "type": "Complex",
             "summitFeet": 5889,
             "magmaType": "Andesite",
-            "desc": "The andesitic Wurlali stratovolcano, also known as Damar, was constructed at the northern end of a 5-km-wide caldera on the eastern side of Damar Island in the Banda Sea. Fumarolic activity occurs in the twin summit craters and on the SE flanks, producing exploitable sulfur deposits. An explosive eruption was observed in 1892 CE."
+            "desc": "The compound Ambang volcano is the westernmost of the active volcanoes on the northern arm of Sulawesi. The stratovolcano rises 750 m above lake Danau. Several craters up to 400 m in diameter and five solfatara fields are located at the summit."
         },
         {
             "name": "Kiska",
