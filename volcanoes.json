@@ -832,7 +832,7 @@
         },
         {
             "name": "Rincón de la Vieja",
-            "vei": 6,
+            "vei": 7,
             "coordinates": [10.831295912889297, -85.33665204236283],
             "type": "Complex",
             "summitFeet": 6286,
@@ -2083,13 +2083,13 @@
             "desc": "A large caldera 70 kilometers southeast of Copiapo, Chile. It measures 9 kilometers in diameter and lays very close to the much large Carrizalillo caldera."
         },
         {
-            "name": "Skukum Caldera",
-            "vei": 7,
-            "coordinates": [60.17415901876772, -135.22351720914094],
-            "type": "Caldera",
-            "summitFeet": 7815,
+            "name": "Koshelev",
+            "vei": 3,
+            "coordinates": [51.358710957683186, 156.7538694050018],
+            "type": "Stratovolcano",
+            "summitFeet": 5978,
             "magmaType": "Andesite",
-            "desc": "The Mount Skukum Volcanic Complex is an early Eocene caldera complex, located 43 km west of Carcross and 32 km northeast of Mount Porsild in the Yukon Territory, Canada. The complex composes the Skukum Group. It is a northeast-trending complex of subaerial volcanic and volcaniclastic rocks covering 140 km2."
+            "desc": "Koshelev is at the southern end of the Kamchatka Peninsula, SW of the Pauzhetka volcano-tectonic depression and NW of Kambalny volcano. It is a complex group of four stratovolcanoes constructed along an E-W line over a Pleistocene shield volcano. Central Koshelev stratovolcano, the highest peak of the volcanic massif, is Holocene in age; N- and SE-flank craters have also been active during the Holocene. Gorely, a Holocene cinder cone related to regional basaltic monogenetic volcanicm, is located about 12 km NW. The largest Holocene eruption took place from the eastern cone about 6,500 years ago. An explosive eruption was reported at the end of the 17th century. Major thermal fields are located in the summit crater of Valentin volcano and on the western flanks of west Koshelev volcano."
         },
         {
             "name": "Jabal Salma Caldera Complex",
@@ -2099,6 +2099,42 @@
             "summitFeet": 5090,
             "magmaType": "Rhyolite",
             "desc": "A large caldera complex in Saudi Arabia that formed during several massive collapses and emplaced several hundred cubic kilometers of rhyolitic material."
+        },
+        {
+            "name": "Hayli Gubbi",
+            "vei": 4,
+            "coordinates": [13.511088401236288, 40.71594701278426],
+            "type": "Shield",
+            "summitFeet": 1617,
+            "magmaType": "Basalt",
+            "desc": "Hayli Gubbi is the southernmost volcano of the Erta Ale Range. Recent tectonism has created a NW-SE graben across the summit, with a 380-m-diameter scoria cone at the summit and a 260-m-diameter crater displaying fumarolic activity. A sequence of fissure vents and lava fields extends 6 km NW to the southern caldera of Erta Ale. Additional dark flows that originated from the summit area cover the W and NE flanks, and SE before turning E at the base on the shield. More fissure vents extend ~3.5 km SSE within the graben to another small shield. From there, the line of vents continues, along with a lava field that spreads across the Afrera Plain, to a distance of 25 km from the summit crater. Barberi and Varet (1970) reported that those basaltic flow fronts covered sediments in the plain which Roubet et al. (1969) described as lacustrine limestones and diatomites deposited around 8,200 years BP above hyaloclastite formations. This places the eruption of the SE-most flows sometime within the last 8,000 years, but no additional information about how recent they might be is known; in appearance they are similar to very recent flows from the Erta Ale shield. On 15 July 2025 a dike intrusion that originated at the Erta Ale N caldera pit craters produced active fissure vents and lava flows within and on the S flanks of the south caldera; another set of fissure vents were active 4 km SE from the caldera rim, within 2 km of the Hayli Gubbi crater. A large explosive eruption on 23 November 2025 excavated the previous summit cone and created a second large crater (~200 m in diameter) in the summit area, and a third smaller crater."
+        },
+        {
+            "name": "Ebulobo",
+            "vei": 2,
+            "coordinates": [-8.815953131534398, 121.19141514973238],
+            "type": "Stratovolcano",
+            "summitFeet": 6877,
+            "magmaType": "Andesite",
+            "desc": "Ebulobo, also referred to as Amburombu or Keo Peak, is a steep-sided symmetrical stratovolcano in central Flores Island. The Watu Keli lava flow traveled down the N flank to 4 km from the summit in 1830, the first of only four recorded historical eruptions of the volcano."
+        },
+        {
+            "name": "Gunung Sumbing",
+            "vei": 1,
+            "coordinates": [-7.382367367452861, 110.07436702189064],
+            "type": "Stratovolcano",
+            "summitFeet": 11056,
+            "magmaType": "Andesite",
+            "desc": "Gunung Sumbing is a stratovolcano that is the SE-most edifice of a chain of volcanoes in central Java that includes Sundoro and the Dieng Complex. Prominent cones are located on the N and SE flanks. An 800-m-wide summit crater is breached to the NE, but is partially filled by a lava dome that extended beyond the original crater rim. Emplacement of the dome followed the production of extensive pyroclastic flows down the NE flank. Activity reported in about 1730 CE may have produced the small phreatic craters found at the summit behind the dome."
+        },
+        {
+            "name": "Sumbing",
+            "vei": 2,
+            "coordinates": [-2.411491713573544, 101.72519179770566],
+            "type": "Stratovolcano",
+            "summitFeet": 8225,
+            "magmaType": "Andesite",
+            "desc": "Smaller than its prominent namesake on Java, Sumatra's Sumbing volcano has a complicated summit region containing several crater remnants and a 180-m-long crater lake. Its only reported eruptions, in 1909 and 1921, produced moderate explosions. Hot springs occur at the SW foot of the volcano."
         },
         {
             "name": "El Salvador",
@@ -2449,7 +2485,7 @@
             "desc": "Santorini caldera is a large, mostly submerged caldera, located in the southern Aegean Sea, 120 kilometers north of Crete in Greece. Visible above water is the circular Santorini island group, consisting of Santorini (classic Greek Thera), the main island, Therasia and Aspronisi at the periphery, and the Kameni islands at the center. It has been designated a Decade Volcano. The huge Minoan eruption of Santorini in the 17th century BC may have inspired the legend of Atlantis. It was rated 7 in the Smithsonian Global Volcanism Program's Volcanic Explosivity Index."
         },
         {
-            "name": "Las Cañadas Caldera",
+            "name": "Tenerife",
             "vei": 7,
             "coordinates": [28.261440055298845, -16.603147416238436],
             "type": "Caldera",
@@ -3436,6 +3472,87 @@
             "summitFeet": 3603,
             "magmaType": "???",
             "desc": "A massive 12 km caldera in the Russian Okhotsk-Chukota Volcanic Belt. It is very likely to be the only volcano in the belt that have produced a VEI-7 eruption or above." 
+        },
+        {
+            "name": "Cailloma Caldera",
+            "vei": 7,
+            "coordinates": [-15.255088917905267, -71.7189731091992],
+            "type": "Caldera",
+            "summitFeet": 14173,
+            "magmaType": "Rhyolite",
+            "desc": "A large 30 kilometer caldera in southern Peru, that formed from multiple large eruptions 4, 3 and 2 million years ago." 
+        },
+        {
+            "name": "Eastern Sawur Caldera Complex",
+            "vei": 6,
+            "coordinates": [47.315074256823344, 86.62876844685916],
+            "type": "Caldera",
+            "summitFeet": 12600,
+            "magmaType": "Dacite",
+            "desc": "An ancient caldera complex in the Saur Mountains, Altay region. It had 3 periods of volcanic activity, with the most active one forming two large calderas." 
+        },
+        {
+            "name": "Furongshan Caldera",
+            "vei": 7,
+            "coordinates": [29.455250579144142, 120.25866494872032],
+            "type": "Caldera",
+            "summitFeet": 2675,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in the Zhejiang province of southeastern China. It formed around 148 million years ago when subduction was active in the region. It is very likely to have had at least several caldera forming eruptions." 
+        },
+        {
+            "name": "Oued Dar'a Caldera",
+            "vei": 7,
+            "coordinates": [30.794075183451646, -6.695574078628725],
+            "type": "Caldera",
+            "summitFeet": 3776,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Morocco, that formed as a result of activity of the Ouarzazate Supergroup. It is 11 by 18 kilometers in diameter, and formed as a result of a VEI 7 eruption, but some estimates place it as high as VEI 8." 
+        },
+        {
+            "name": "Daiyunshan-Shiniushan Caldera",
+            "vei": 8,
+            "coordinates": [26.52452323242092, 119.19551807622383],
+            "type": "Caldera",
+            "summitFeet": 292,
+            "magmaType": "Rhyolite",
+            "desc": "A massive ancient caldera in Fujian province, China. It is over 80 kilometers in diameter and has erupted large volumes of high silicar rhyolites." 
+        },
+        {
+            "name": "Shiroishi Caldera",
+            "vei": 7,
+            "coordinates": [38.08791300409057, 140.62941875559576],
+            "type": "Caldera",
+            "summitFeet": 6040,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera north of the city of Shiroishi in the Japanese Miyagi Prefecture. It was formed during a large VEI 7 eruption." 
+        },
+        {
+            "name": "Xiangshan Caldera",
+            "vei": 7,
+            "coordinates": [27.57680123143989, 115.91842009042715],
+            "type": "Caldera",
+            "summitFeet": 7080,
+            "magmaType": "Rhyodacite",
+            "desc": "A large caldera in the Jiangxi province of China. A large uranium deposit is located within the caldera." 
+        },
+        {
+            "name": "Yunshan Caldera",
+            "vei": 7,
+            "coordinates": [26.01129523074809, 119.10492400454868],
+            "type": "Caldera",
+            "summitFeet": 276,
+            "magmaType": "Rhyolite",
+            "desc": "A large 10 kilometer wide caldera near Fuzhou, China. It is a part of a large 2000 km volcano-plutonic complex in SE China, that is responsible for massive caldera forming eruptions like High Island caldera in Hong Kong and Daiyunshan-Shiniushan caldera." 
+        },
+        {
+            "name": "Donguinyó-Huichapan Caldera Complex",
+            "vei": 7,
+            "coordinates": [20.72045502832129, -100.27122620577019],
+            "type": "Caldera",
+            "summitFeet": 6512,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in Queretaro, Mexico, that formed near the Amazcala and Amealco calderas, which were also the results of massive eruptions." 
         },
         {
             "name": "Victory",
