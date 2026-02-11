@@ -4,7 +4,7 @@
     "shieldDefinition": "A wide, usually short (from sea level), volcano formed similarly to stratovolcanoes, but with very viscous basaltic lava that flows down the mountain. Normally produces effusive eruptions no more than VEI 4.",
     "volcanoes": [
         {
-            "name": "St. Helens",
+            "name": "Saint Helens",
             "vei": 6,
             "coordinates": [46.195585783508754, -122.18897141900877],
             "type": "Stratovolcano",
@@ -1259,7 +1259,7 @@
             "desc": "The Kookooligit Mountains are a 30 x 40 km shield volcano of Pleistocene-to-Holocene age in north-central St. Lawrence Island. The basaltic shield is composed of massive columnar-jointed lava flows overlain by more than 100 small cones (20-60 m high). Most of the cones are aligned E-W along the crest of the elongated shield."
         },
         {
-            "name": "St. Paul Island",
+            "name": "Saint Paul Island",
             "vei": 0,
             "coordinates": [57.173997400991, -170.29641031133067],
             "type": "Shield",
