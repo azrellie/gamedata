@@ -3628,12 +3628,93 @@
         },
         {
             "name": "Little Sitkin",
-            "vei": 1,
+            "vei": 6,
             "coordinates": [51.947492760931254, 178.52001837847942],
             "type": "Stratovolcano",
             "summitFeet": 3852,
             "magmaType": "Andesite",
             "desc": "Diamond-shaped Little Sitkin Island is bounded by steep cliffs on the east, north, and NE sides. Little Sitkin volcano contains two nested calderas. The older, nearly circular Pleistocene caldera is 4.8 km wide, may have once contained a caldera lake, and was partially filled by a younger cone formed mostly of andesitic and dacitic lava flows. The elliptical younger caldera is 2.7 x 4 km wide; it lies within the eastern part of the older caldera and shares its eastern and southern rim. The younger caldera partially destroyed the lava cone within the first caldera and is of possible early Holocene age. Young-looking dacitic lava flows, erupted in 1828 (Kay, in Wood and Kienle 1990), issued from the central cone within the younger caldera and from a vent on the west flank outside the older caldera. Fumarolic areas are found near the western coast, along the NW margin of the older caldera, and from the summit crater down the southern flank for a 1 km distance." 
+        },
+        {
+            "name": "Laguna Blanca",
+            "vei": 3,
+            "coordinates": [-39.071671786198856, -70.30211714624387],
+            "type": "Volcanic Field",
+            "summitFeet": 5577,
+            "magmaType": "Basalt",
+            "desc": "A group of cinder cones and associated lava flows SW of the town of Zapala at the southern end of the Loncopue graben form the Laguna Blanca volcanic field. A morphologically pristine cinder cone on the northern shore of Laguna Blanca is a prominent feature of the Laguna Blanca National Park, noted for its aquatic bird fauna, including black-necked swans and flamingos. The youthful-looking basaltic to trachyandesitic cinder cones and small shield volcanoes are considered to be of Holocene age, although no radiometric ages are available." 
+        },
+        {
+            "name": "Callaqui",
+            "vei": 2,
+            "coordinates": [-37.92090979898884, -71.44724160718245],
+            "type": "Stratovolcano",
+            "summitFeet": 10381,
+            "magmaType": "Andesite",
+            "desc": "The late-Pleistocene to Holocene Callaqui stratovolcano has a profile of an overturned canoe, due to its construction along an 11-km-long, SW-NE fissure above a 1.2-0.3 million year old Pleistocene edifice. The ice-capped, basaltic andesite volcano contains well-preserved cones and lava flows, which have traveled up to 14 km. Small craters 100-500 m in diameter are primarily found along a fissure extending down the SW flank. Intense solfataric activity occurs at the southern portion of the summit; in 1966 and 1978, red glow was observed in fumarolic areas (Moreno 1985, pers. comm.). Periods of intense fumarolic activity have dominated; few historical eruptions are known. An explosive eruption was reported in 1751, there were uncertain accounts of eruptions in 1864 and 1937, and a small phreatic ash emission was noted in 1980." 
+        },
+        {
+            "name": "Llaima",
+            "vei": 6,
+            "coordinates": [-38.6930904921536, -71.7293396412026],
+            "type": "Stratovolcano",
+            "summitFeet": 10253,
+            "magmaType": "Basalt",
+            "desc": "Llaima, one of Chile's largest and most active volcanoes, contains two main historically active craters, one at the summit and the other, Pichillaima, to the SE. The massive, dominantly basaltic-to-andesitic, stratovolcano has a volume of 400 km3. A Holocene edifice built primarily of accumulated lava flows was constructed over an 8-km-wide caldera that formed about 13,200 years ago, following the eruption of the 24 km3 Curacautín Ignimbrite. More than 40 scoria cones dot the volcano's flanks. Following the end of an explosive stage about 7200 years ago, construction of the present edifice began, characterized by Strombolian, Hawaiian, and infrequent subplinian eruptions. Frequent moderate explosive eruptions with occasional lava flows have been recorded since the 17th century." 
+        },
+        {
+            "name": "Chaitén",
+            "vei": 5,
+            "coordinates": [-42.83437247494453, -72.6523945949226],
+            "type": "Caldera",
+            "summitFeet": 3681,
+            "magmaType": "Rhyolite",
+            "desc": "Chaitén is a small caldera (~3 km in diameter) located 10 km NE of the town of Chaitén on the Gulf of Corcovado. Multiple explosive eruptions throughout the Holocene have been identified. A rhyolitic obsidian lava dome occupies much of the caldera floor. Obsidian cobbles from this dome found in the Blanco River are the source of artifacts from archaeological sites along the Pacific coast as far as 400 km from the volcano to the N and S. The caldera is breached on the SW side by a river that drains to the bay of Chaitén. The first recorded eruption, beginning in 2008, produced major rhyolitic explosive activity and building a new dome and tephra cone on the older rhyolite dome." 
+        },
+        {
+            "name": "Quilotoa",
+            "vei": 6,
+            "coordinates": [-0.8582277682882592, -78.90325553942093],
+            "type": "Caldera",
+            "summitFeet": 12841,
+            "magmaType": "Dacite",
+            "desc": "Quilotoa is a truncated, dacitic cone in the Western Cordillera of Ecuador, 35 km WNW of the city of Latacunga, that contains a 3-km-wide caldera with steep-sided walls that rise 400 m above the surface of 240-m-deep caldera lake. Multiple lava domes are present along the caldera's perimeter. This small volcano has produced eight major explosive eruptions during the past 200,000 years. Its most recent major eruption about 800 radiocarbon years ago produced voluminous pyroclastic flows, lahars that reached the Pacific Ocean, and one of the largest airfall-tephra deposits of the northern Andes. Formation of the caldera was followed by extrusion of a small lava dome. Reports of observed eruptions from the caldera lake are somewhat ambiguous. Fumaroles are present on the lake floor and hot springs occur on the E flank." 
+        },
+        {
+            "name": "Zarechny",
+            "vei": 6,
+            "coordinates": [56.366807896097875, 160.84170972718985],
+            "type": "Caldera",
+            "summitFeet": 2493,
+            "magmaType": "Dacite",
+            "desc": "Zarechny is a low, forested volcano constructed in the lake-filled lowlands between Kliuchevskoi and Shiveluch volcanoes, and immediately S of Kharchinsky volcano. The 760-m-high edifice contains two nested calderas, both breached widely to the SE. The larger 4.5 x 3.7 km wide caldera is filled by an uneroded cone truncated by a 3.2 x 1.8 km wide caldera. Both horseshoe-shaped calderas resemble those produced by edifice failure, but deposits related to their origin are buried beneath younger Holocene deposits in the Kamchatka River valley. Zarechny was at one point considered to be of Holocene age (Erlich, 1986), but more recent tephrochronology has shown that the older edifice precedes formation of 23,000-24,000 year old glacial moraines, and that the younger inner edifice ceased activity during the late Pleistocene" 
+        },
+        {
+            "name": "Tsirk",
+            "vei": 6,
+            "coordinates": [45.41275347580472, 148.61713599692547],
+            "type": "Caldera",
+            "summitFeet": 2799,
+            "magmaType": "Dacite",
+            "desc": "The 6-km-wide Tsirk caldera formed during the Pleistocene. The caldera floor contains a hot lake." 
+        },
+        {
+            "name": "Urbich Caldera",
+            "vei": 6,
+            "coordinates": [44.62547168319806, 147.20135127023406],
+            "type": "Caldera",
+            "summitFeet": 2799,
+            "magmaType": "Dacite",
+            "desc": "The 6-km-wide Urbich caldera (also known as Urumombetsu), formed during a Pleistocene interglacial period and hosts a freshwater lake. No activity has occurred during the Holocene (Gorshkov, 1970). Urbich partially overlies the Rokko caldera." 
+        },
+        {
+            "name": "Tolhuaca",
+            "vei": 4,
+            "coordinates": [-38.31050921807063, -71.64621354512515],
+            "type": "Stratovolcano",
+            "summitFeet": 8986,
+            "magmaType": "Andesite",
+            "desc": "Tolhuaca (or Tolguaca) is a late-Pleistocene to Holocene stratovolcano located immediately NW of Lonquimay volcano. A NW-SE zone of aligned summit craters is youngest to the NW. Another group of vents cutting the south and east flanks is oriented SW-NE, parallel to the zone of flank vents on Lonquimay, and is of post-glacial age (Moreno and Gardeweg 1989). Reports of eruptions in 1876 and on 7 January 1933 are not confirmed; the latter date probably refers to an eruption of Lonquimay or Llaima (Petit-Breuilh 1994, pers. comm.). Polanco et al. (2000) stated that explosive activity consisted of three VEI 3-4 eruptions between 8050 and 6590 BP. The Pemehue volcanic trend on the NW flank was noted by Naranjo (pers. comm. 2010) in Melosh et al. (2012) as having post-glacial lava flows dated at less than 6,000 years old. Only fumarolic activity has occurred from this basaltic-andesitic volcano during historical time. Fumaroles and hot springs are common across the NW flank where there is an active geothermal reservoir (Melosh et al., 2012)." 
         },
         {
             "name": "Ljósufjöll",
