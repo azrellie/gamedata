@@ -18,8 +18,17 @@
             "coordinates": [28.3833333, -105.9500000],
             "type": "Caldera",
             "summitFeet": 5000,
-            "magmaType": "Rhyolitic",
-            "desc": "A giant caldera south of the Chihuahua city, Mexico. It was formed in 2 stages. 1st stage: A large rhyolitic eruption, releasing over 200 km3 of tephra. 2nd stage: A resurgent caldera, formed in a VEI 6 eruption that blasted out 50 km3 of material. "
+            "magmaType": "Rhyolite",
+            "desc": "A giant caldera south of the Chihuahua city, Mexico. It was formed in 2 stages. 1st stage: A large rhyolitic eruption, releasing over 200 km3 of tephra. 2nd stage: A resurgent caldera, formed in a VEI 6 eruption that blasted out 50 km3 of material."
+        },
+        {
+            "name": "Nightingale Island",
+            "vei": 0,
+            "coordinates": [-37.423464037669866, -12.482193924538231],
+            "type": "Stratovolcano",
+            "summitFeet": 1198,
+            "magmaType": "Trachyte",
+            "desc": "Nightingale Island, along with the adjacent smaller Middle (or Alex) and Stoltenhoff Islands and associated small islets, are the southernmost of the Tristan da Cunha island group. The heavily eroded island consists of ash and agglomerate units with intervening massive trachytic intrusions and lava flows. Volcanic rocks were K-Ar dated at between 400,000 and 150,000 years, and a radiocarbon date of about 39,000 years BP was obtained from an ash layer overlain by a lava flow. An earthquake swarm lasting 6 hours beginning on 29 July 2004 was followed by observation of large blocks of floating phonolitic pumice that washed up on Tristan da Cunha. The pumice was considered to be from an eruption associated with an earthquake swarm 37-53 km SSE of Tristan da Cunha on the submarine SE flank of Nightingale Island."
         },
         {
             "name": "Payún Matrú",
