@@ -1,1 +1,9 @@
-
+{
+    "volcanoes": [
+        {
+            "name": "template",
+            "vei": 0,
+            "coordinates": [0, 0],
+        }
+    ]
+}
