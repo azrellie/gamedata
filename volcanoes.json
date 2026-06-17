@@ -274,15 +274,6 @@
             "desc": " maar explosion crater, ~160,000 years old. Well-preserved tuff ring in the Vulsini complex."
         },
         {
-            "name": "Kos Caldera",
-            "vei": 6,
-            "coordinates": [36.85, 27.15],
-            "type": "Caldera",
-            "summitFeet": 2850,
-            "magmaType": "Rhyolite, dacite",
-            "desc": "Pleistocene caldera (160-120 ka). 15x20km caldera from massive eruption. Associated with Nisyros and Kolumbo."
-        },
-        {
             "name": "Methana Peninsula",
             "vei": 4,
             "coordinates": [37.58, 23.35],
@@ -716,7 +707,7 @@
         },
         {
             "name": "Scafell",
-            "vei": 5,
+            "vei": 7,
             "coordinates": [54.46, -3.21],
             "type": "Complex",
             "summitFeet": 3210,
