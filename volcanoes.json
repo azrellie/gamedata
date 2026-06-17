@@ -21,15 +21,6 @@
             "magmaType": "Rhyolite",
             "desc": "A giant caldera south of the Chihuahua city, Mexico. It was formed in 2 stages. 1st stage: A large rhyolitic eruption, releasing over 200 km3 of tephra. 2nd stage: A resurgent caldera, formed in a VEI 6 eruption that blasted out 50 km3 of material."
         },
-                {
-            "name": "Puy de Dôme",
-            "vei": 4,
-            "coordinates": [45.77, 2.96],
-            "type": "Lava Dome",
-            "summitFeet": 4813,
-            "magmaType": "Trachyte",
-            "desc": "The iconic dome of the Chaîne des Puys. ~11,600 years old. Site of Pascal's barometer experiments. Highest point of the chain at 1465m."
-        },
         {
             "name": "Cantal",
             "vei": 6,
@@ -281,24 +272,6 @@
             "summitFeet": 2440,
             "magmaType": "Basanite",
             "desc": " maar explosion crater, ~160,000 years old. Well-preserved tuff ring in the Vulsini complex."
-        },
-        {
-            "name": "Milos",
-            "vei": 5,
-            "coordinates": [36.69, 24.43],
-            "type": "Caldera",
-            "summitFeet": 2415,
-            "magmaType": "Rhyolite, dacite, andesite",
-            "desc": "Active volcanic center with submarine caldera. White cliffs of Sarakiniko. Extensive hydrothermal activity. Volcanic history spans Pliocene-Recent."
-        },
-        {
-            "name": "Nisyros",
-            "vei": 4,
-            "coordinates": [36.58, 27.17],
-            "type": "Caldera",
-            "summitFeet": 2520,
-            "magmaType": "Andesite, dacite",
-            "desc": "Quaternary volcano with active fumarolic field. Stefanos crater is the largest hydrothermal crater in the world (300m diameter)."
         },
         {
             "name": "Kos Caldera",
@@ -5508,15 +5481,6 @@
             "desc": "Volcano on Martinique, popular tourist destination"
         },
         {  
-            "name": "Glen Coe",
-            "vei": 6,
-            "coordinates": [56.68242290543748, -5.101660449671116],
-            "type": "Caldera",
-            "summitFeet": 1620,
-            "magmaType": "Andesite",
-            "desc": "One of the best examples subsidence caldera, Glen Coe is a notable ancient volcano in the Scottish Highlands. Eruptions took place from about 400-450 million years ago in real life. It is an extinct volcano in real life."
-        },
-        {  
             "name": "Barren Island",
             "vei": 2,
             "coordinates": [12.28059401159717, 93.86262230264948],
@@ -7630,15 +7594,6 @@
             "summitFeet": 5305,
             "magmaType": "Rhyolite",
             "desc": "Uzon is a caldera in Russia. Together with Geyzernaya caldera it erupted over 25 km3 of ignimbrite in mid-Pleistocene."
-        },
-        {
-            "name": "Scafells",
-            "vei": 7,
-            "coordinates": [54.452407457851585, -3.1947587751498627],
-            "type": "Caldera",
-            "summitFeet": 3209,
-            "magmaType": "Dacite",
-            "desc": "Scafells is a caldera in mainland UK. It had a singular VEI 7 eruption over 400 million years ago."
         },
         {
             "name": "Stillwater Igneous Complex",
