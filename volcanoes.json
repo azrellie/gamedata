@@ -1448,6 +1448,450 @@
             "desc": "Northern Tibet VF is a volcanic field in China. The volcanic field lies in the Quiangtang plateau, in northern Tibet and the Kunlun mountains. The high altitude, bad terrain and weather make geologic investigations in the region difficult. The volcanic field partly covers the Kangtuo formation."
         },
         {
+            "name": "Boreč",
+            "vei": 3,
+            "coordinates": [50.502, 13.895],
+            "type": "Cinder Cone",
+            "summitFeet": 1660,
+            "magmaType": "Basanite",
+            "desc": "Known for cold CO2 emanations in winter. ~30 Ma."
+        },
+        {
+            "name": "Bořeň",
+            "vei": 4,
+            "coordinates": [50.512, 13.855],
+            "type": "Lava Dome",
+            "summitFeet": 1880,
+            "magmaType": "Phonolite, trachyte",
+            "desc": "Dramatic phonolite plug near Bílina. One of the most spectacular rock exposures in Bohemia. ~30 Ma."
+        },
+        {
+            "name": "Chełmiec",
+            "vei": 5,
+            "coordinates": [50.81, 16.2],
+            "type": "Volcanic Neck",
+            "summitFeet": 2100,
+            "magmaType": "Nephelinite, melilitite",
+            "desc": "One of the most silica-undersaturated volcanic centers in Europe. ~24 Ma."
+        },
+        {
+            "name": "Drees",
+            "vei": 2,
+            "coordinates": [50.345, 7.015],
+            "type": "Cinder Cone",
+            "summitFeet": 1970,
+            "magmaType": "Basanite",
+            "desc": "Quaternary scoria cone in the High Eifel known for cold CO2 emanations (mofettas). ~200,000 years old."
+        },
+        {
+            "name": "Drensteinfurt",
+            "vei": 3,
+            "coordinates": [51.8, 7.74],
+            "type": "Volcanic Field",
+            "summitFeet": 360,
+            "magmaType": "Alkali basalt",
+            "desc": "Rare basalt occurrence in Westphalia. ~23 Ma."
+        },
+        {
+            "name": "E. Brandenburg Shield Volcano",
+            "vei": 7,
+            "coordinates": [52.4, 14.2],
+            "type": "Shield",
+            "summitFeet": 1200,
+            "magmaType": "Alkali Basalt/Basanite",
+            "desc": "A Cenozoic shield volcano complex straddling the Poland-Germany border in the Brandenburg region. Part of the Central European Volcanic Province (CEVP), it formed during the Miocene to Pliocene (~15-5 Ma) in association with the Lusatian Thrust fault system. The volcano features alkali basalts, basanites, and tephrites with a low-profile shield morphology now heavily eroded. Multiple eruptive centers and associated dyke swarms extend across the region. Part of the larger North German-Polish volcanic field that includes the Lusatian volcanic highlands."
+        },
+        {
+            "name": "Ettringer Bellerberg",
+            "vei": 4,
+            "coordinates": [50.46, 7.305],
+            "type": "Complex",
+            "summitFeet": 1180,
+            "magmaType": "Phonolite, basanite",
+            "desc": "Important stratigraphic exposure in the East Eifel. Complexly interlayered phonolite and basanite lavas, ~300,000 years old."
+        },
+        {
+            "name": "Georgenthal-Geyer",
+            "vei": 5,
+            "coordinates": [50.64, 10.73],
+            "type": "Volcanic Field",
+            "summitFeet": 2400,
+            "magmaType": "Alkali basalt, basanite, tephrite",
+            "desc": "Large Miocene volcanic field south of the Thuringian Forest. Contains phonolite and trachyte intrusions. ~25-15 Ma."
+        },
+        {
+            "name": "Geyer-Eibenstock",
+            "vei": 5,
+            "coordinates": [50.62, 12.15],
+            "type": "Volcanic Field",
+            "summitFeet": 2600,
+            "magmaType": "Basanite, basalt, phonolite",
+            "desc": "Large volcanic field in the Erzgebirge. ~30-20 Ma (Oligocene-Early Miocene)."
+        },
+        {
+            "name": "Gleichberge",
+            "vei": 4,
+            "coordinates": [50.377, 10.055],
+            "type": "Complex",
+            "summitFeet": 2228,
+            "magmaType": "Basanite, phonolite",
+            "desc": "Twin-peaked volcanic complex (Großer Gleichberg 679m, Kleiner Gleichberg 641m). Phonolite dome on Großer Gleichberg. ~13-10 Ma."
+        },
+        {
+            "name": "Hazmburk",
+            "vei": 4,
+            "coordinates": [50.508, 14.003],
+            "type": "Volcanic Neck",
+            "summitFeet": 1450,
+            "magmaType": "Basanite, tephrite",
+            "desc": "Prominent twin-peaked basaltic castle ruin. ~30-28 Ma."
+        },
+        {
+            "name": "Hermeskeil",
+            "vei": 4,
+            "coordinates": [49.653, 6.946],
+            "type": "Volcanic Field",
+            "summitFeet": 2260,
+            "magmaType": "Alkali basalt, basanite",
+            "desc": "Significant Miocene basaltic field with well-preserved lava flows in the Hunsrück. ~10 Ma.",
+            "chatMessages": []
+        },
+        {
+            "name": "Hněvín",
+            "vei": 4,
+            "coordinates": [50.665, 13.935],
+            "type": "Volcanic Neck",
+            "summitFeet": 1180,
+            "magmaType": "Basanite, basalt",
+            "desc": "Castle-topped basaltic hill near Most. ~30 Ma."
+        },
+        {
+            "name": "Hoetmar",
+            "vei": 3,
+            "coordinates": [51.77, 7.9],
+            "type": "Volcanic Field",
+            "summitFeet": 330,
+            "magmaType": "Alkali basalt",
+            "desc": "Rare basalt occurrence in the southern North German Basin. ~23 Ma (Early Miocene)."
+        },
+        {
+            "name": "Hohenhewen",
+            "vei": 4,
+            "coordinates": [47.833, 8.5],
+            "type": "Tuff Ring",
+            "summitFeet": 2190,
+            "magmaType": "Basanite, tephrite",
+            "desc": "Heavily eroded tuff ring with castle ruins on summit in the Hegau volcanic field. ~13-10 Ma."
+        },
+        {
+            "name": "Hohenkrähen",
+            "vei": 4,
+            "coordinates": [47.84, 8.548],
+            "type": "Tuff Ring",
+            "summitFeet": 2160,
+            "magmaType": "Basanite",
+            "desc": "Tuff ring with basaltic plug in the Hegau volcanic field. ~13-10 Ma."
+        },
+        {
+            "name": "Hohenstoffeln",
+            "vei": 4,
+            "coordinates": [47.853, 8.615],
+            "type": "Volcanic Neck",
+            "summitFeet": 2510,
+            "magmaType": "Basanite, nephelinite",
+            "desc": "Dramatic basalt neck with castle ruins in the Hegau. ~13-10 Ma."
+        },
+        {
+            "name": "Hoherodskopf",
+            "vei": 4,
+            "coordinates": [50.54, 9.215],
+            "type": "Lava Dome",
+            "summitFeet": 2600,
+            "magmaType": "Trachyte, phonolite",
+            "desc": "Late-stage differentiated volcanic center on the Vogelsberg with rare phonolitic rocks. ~16-14 Ma."
+        },
+        {
+            "name": "Hradiště",
+            "vei": 6,
+            "coordinates": [50.315, 13.105],
+            "type": "Stratovolcano",
+            "summitFeet": 3065,
+            "magmaType": "Basalt, basanite, trachyte",
+            "desc": "Highest point (934m) of a large eroded stratovolcano. The original edifice was ~2,000m high and ~20km in diameter. Now a restricted military training area. ~20-17 Ma."
+        },
+        {
+            "name": "Kaiserstuhl",
+            "vei": 4,
+            "coordinates": [48.082, 7.671],
+            "type": "Stratovolcano",
+            "summitFeet": 1824,
+            "magmaType": "Alkaline basalt, basanite, nephelinite, leucitite",
+            "desc": "The youngest and only large volcanic complex in the Upper Rhine Graben. A complex polygenetic volcanic center active 16-13 Ma (Middle Miocene). Contains the Totenkopf (556m), Schlossberg, and Mackenheim vents. Notable for leucitites and melilitites among the most silica-undersaturated rocks in Europe. Contains carbonatitic xenoliths."
+        },
+        {
+            "name": "Komorní hůrka",
+            "vei": 3,
+            "coordinates": [50.097, 12.332],
+            "type": "Maar",
+            "summitFeet": 1490,
+            "magmaType": "Basanite, nephelinite",
+            "desc": "One of the youngest volcanoes in Central Europe! Maar/scoria cone complex with mantle xenoliths. ~500 ka. Quaternary basanite."
+        },
+        {
+            "name": "Krufter Ofen",
+            "vei": 3,
+            "coordinates": [50.415, 7.219],
+            "type": "Cinder Cone",
+            "summitFeet": 1130,
+            "magmaType": "Basanite",
+            "desc": "Basanitic cinder cone in the Pellenz volcanic field, ~200,000 years old."
+        },
+        {
+            "name": "Leithagebirge",
+            "vei": 4,
+            "coordinates": [47.85, 16.55],
+            "type": "Volcanic Field",
+            "summitFeet": 1480,
+            "magmaType": "Alkali basalt",
+            "desc": "Basaltic volcanism at the western margin of the Little Hungarian Plain. ~14-12 Ma."
+        },
+        {
+            "name": "Lovoš",
+            "vei": 4,
+            "coordinates": [50.528, 14.048],
+            "type": "Volcanic Neck",
+            "summitFeet": 1800,
+            "magmaType": "Basanite, phonolite",
+            "desc": "Eroded volcanic neck. The Lovosice massif. ~30 Ma."
+        },
+        {
+            "name": "Milešovka",
+            "vei": 5,
+            "coordinates": [50.555, 13.935],
+            "type": "Stratovolcano",
+            "summitFeet": 2746,
+            "magmaType": "Trachyte, phonolite",
+            "desc": "Highest point of the České středohoří (837m). Deeply eroded trachytic volcano. ~32-30 Ma (Rupelian)."
+        },
+        {
+            "name": "Milseburg",
+            "vei": 5,
+            "coordinates": [50.388, 9.905],
+            "type": "Stratovolcano",
+            "summitFeet": 2746,
+            "magmaType": "Basanite, tephrite",
+            "desc": "Heavily eroded ancient volcano in the Rhön. ~7-3 Ma (late Miocene-Pliocene)."
+        },
+        {
+            "name": "Mosenberg",
+            "vei": 4,
+            "coordinates": [50.15, 7.022],
+            "type": "Cinder Cone",
+            "summitFeet": 1850,
+            "magmaType": "Basanite, basalt",
+            "desc": "Twin-peaked basaltic scoria cone with well-preserved lava flows flowing into the Kailbach valley. ~150 ka.",
+            "chatMessages": []
+        },
+        {
+            "name": "Mäuseberg",
+            "vei": 3,
+            "coordinates": [50.395, 7.383],
+            "type": "Lava Dome",
+            "summitFeet": 1150,
+            "magmaType": "Phonolite",
+            "desc": "Phonolite dome in the East Eifel, ~200,000 years old."
+        },
+        {
+            "name": "Mühlviertel Basalt Field",
+            "vei": 4,
+            "coordinates": [48.55, 14.55],
+            "type": "Volcanic Field",
+            "summitFeet": 2820,
+            "magmaType": "Basanite, basalt",
+            "desc": "Scattered basaltic occurrences in the Bohemian Massif periphery, Upper Austria. ~20-15 Ma."
+        },
+        {
+            "name": "Nowa Ruda",
+            "vei": 5,
+            "coordinates": [50.58, 16.5],
+            "type": "Volcanic Field",
+            "summitFeet": 2200,
+            "magmaType": "Basanite, nephelinite",
+            "desc": "Highly silica-undersaturated volcanic center in Lower Silesia, Poland. ~25 Ma."
+        },
+        {
+            "name": "Nürburg-Roderberg",
+            "vei": 3,
+            "coordinates": [50.324, 6.95],
+            "type": "Cinder Cone",
+            "summitFeet": 2180,
+            "magmaType": "Basanite, basalt",
+            "desc": "Scoria cone with basaltic lava flows in the High Eifel. ~130 ka.",
+            "chatMessages": []
+        },
+        {
+            "name": "Olpe-Sundern",
+            "vei": 4,
+            "coordinates": [51.03, 7.88],
+            "type": "Volcanic Field",
+            "summitFeet": 1640,
+            "magmaType": "Alkali basalt, basanite",
+            "desc": "One of the northernmost CEVP occurrences. Oligocene basaltic volcanism in the Sauerland. ~30-23 Ma."
+        },
+        {
+            "name": "Oybin-Jonsdorf",
+            "vei": 4,
+            "coordinates": [50.848, 14.745],
+            "type": "Complex",
+            "summitFeet": 2120,
+            "magmaType": "Phonolite, basanite",
+            "desc": "Phonolite necks and basanitic lava flows in the Lusatian Mountains. Famous sandstone-phonolite landscape. ~25 Ma (Rupelian)."
+        },
+        {
+            "name": "Pechelbronn",
+            "vei": 4,
+            "coordinates": [48.9, 7.74],
+            "type": "Volcanic Field",
+            "summitFeet": 1180,
+            "magmaType": "Alkali basalt",
+            "desc": "Among the oldest CEVP volcanism. Associated with early Rhine Graben rifting. ~45-40 Ma (Lutetian)."
+        },
+        {
+            "name": "Plaidter Hummerich",
+            "vei": 3,
+            "coordinates": [50.388, 7.396],
+            "type": "Cinder Cone",
+            "summitFeet": 1120,
+            "magmaType": "Basanite",
+            "desc": "Scoria cone in the East Eifel, ~100,000 years old."
+        },
+        {
+            "name": "Pulvermaar",
+            "vei": 4,
+            "coordinates": [50.136, 6.929],
+            "type": "Maar",
+            "summitFeet": 1480,
+            "magmaType": "Basaltic tephra",
+            "desc": "Largest maar by diameter in the West Eifel. ~130,000 years old."
+        },
+        {
+            "name": "Riedenburg",
+            "vei": 4,
+            "coordinates": [48.96, 11.69],
+            "type": "Volcanic Field",
+            "summitFeet": 1640,
+            "magmaType": "Basanite, tephrite",
+            "desc": "Basaltic volcanic field along the Lower Danube. ~17-14 Ma."
+        },
+        {
+            "name": "Schalkenmehrener Maar",
+            "vei": 3,
+            "coordinates": [50.164, 6.848],
+            "type": "Maar",
+            "summitFeet": 1590,
+            "magmaType": "Basaltic tephra",
+            "desc": "Active maar lake in the Daun group, West Eifel. ~120,000 years old."
+        },
+        {
+            "name": "Soos",
+            "vei": 3,
+            "coordinates": [50.075, 12.383],
+            "type": "Maar",
+            "summitFeet": 1480,
+            "magmaType": "Basanitic tephra, CO2-rich springs",
+            "desc": "National nature reserve with active mofettas, mineral springs, and dried-out maar lake. ~500 ka."
+        },
+        {
+            "name": "Strzegom-Holandia",
+            "vei": 4,
+            "coordinates": [50.96, 16.34],
+            "type": "Volcanic Field",
+            "summitFeet": 1710,
+            "magmaType": "Alkali basalt",
+            "desc": "Alkali basalt center in Lower Silesia. ~25 Ma."
+        },
+        {
+            "name": "Třebíč / Vysočina",
+            "vei": 4,
+            "coordinates": [49.22, 15.88],
+            "type": "Volcanic Field",
+            "summitFeet": 2360,
+            "magmaType": "Basanite, alkali basalt",
+            "desc": "Scattered basaltic necks and lava flows in the Bohemian-Moravian Highlands. ~24-18 Ma."
+        },
+        {
+            "name": "Ulmener Maar",
+            "vei": 3,
+            "coordinates": [50.142, 6.992],
+            "type": "Maar",
+            "summitFeet": 1540,
+            "magmaType": "Basanitic tephra, basaltic lava",
+            "desc": "Youngest volcano in the West Eifel! Erupted ~8,000 BCE (Holocene). Small maar lake with associated basaltic lava flow. Only ~11,000 years old."
+        },
+        {
+            "name": "Vogelsberg",
+            "vei": 7,
+            "coordinates": [50.533, 9.233],
+            "type": "Shield",
+            "summitFeet": 2536,
+            "magmaType": "Tholeiitic basalt, alkali basalt",
+            "desc": "The largest contiguous basaltic massif in Europe (~2,500 km²). Formed by a massive shield volcano that erupted over ~6 million years during the Early Miocene (19-13 Ma). The original edifice rivaled Etna in size. Contains hundreds of individual lava flows stacked up to 300 m thick."
+        },
+        {
+            "name": "Wasserkuppe",
+            "vei": 4,
+            "coordinates": [50.497, 9.934],
+            "type": "Stratovolcano",
+            "summitFeet": 3117,
+            "magmaType": "Basanite, basalt",
+            "desc": "Highest point of the Rhön (950m). Summit basalt cap of a Quaternary volcano, ~700-500 ka."
+        },
+        {
+            "name": "Weinfelder Maar (Totenmaar)",
+            "vei": 4,
+            "coordinates": [50.173, 6.833],
+            "type": "Maar",
+            "summitFeet": 1660,
+            "magmaType": "Basaltic tephra",
+            "desc": "One of the most beautiful maar lakes in the West Eifel. Well-preserved basaltic tuff ring, ~230,000 years old. Part of the Daun Maars group."
+        },
+        {
+            "name": "Weinvirtel",
+            "vei": 4,
+            "coordinates": [48.42, 16.38],
+            "type": "Volcanic Field",
+            "summitFeet": 1200,
+            "magmaType": "Basanite, basalt",
+            "desc": "Small basaltic field east of Vienna, Lower Austria. ~16-12 Ma."
+        },
+        {
+            "name": "Weißer Stein",
+            "vei": 3,
+            "coordinates": [50.365, 7.048],
+            "type": "Lava Dome",
+            "summitFeet": 2100,
+            "magmaType": "Phonolite",
+            "desc": "Phonolite dome in the High Eifel, ~300,000 years old."
+        },
+        {
+            "name": "Wingen-sur-Moder",
+            "vei": 4,
+            "coordinates": [48.92, 7.38],
+            "type": "Volcanic Field",
+            "summitFeet": 1310,
+            "magmaType": "Alkali basalt, basanite",
+            "desc": "Basaltic center in the Vosges Mountains, Alsace. ~45-35 Ma."
+        },
+        {
+            "name": "Wunsiedel-Fichtelgebirge",
+            "vei": 5,
+            "coordinates": [50.05, 11.95],
+            "type": "Volcanic Field",
+            "summitFeet": 3240,
+            "magmaType": "Alkali basalt, basanite, nephelinite",
+            "desc": "Large basaltic field in the Fichtel Mountains. The Münchberg Gneiss Massif contains exotic blocks carried by volcanism. ~25-15 Ma."
+        },
+        {
             "name": "Khuisiin Naiman Nuur",
             "vei": 4,
             "coordinates": [46.54012897638803, 101.87553253239994],
