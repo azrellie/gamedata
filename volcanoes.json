@@ -184,15 +184,6 @@
             "desc": "World's first geothermal power plant (1904). Fumaroles, mud pools, and steaming ground. Part of the Tuscan Magmatic Province."
         },
         {
-            "name": "Monte Vulture",
-            "vei": 5,
-            "coordinates": [40.95, 15.63],
-            "type": "Stratovolcano",
-            "summitFeet": 4360,
-            "magmaType": "Phonolite, leucitite, tephrite",
-            "desc": "Isolated volcano in Basilicata. Unique phonolite-leucitite magmatism separate from Campanian arc. Lacustrine caldera. ~40,000 years old."
-        },
-        {
             "name": "Latera",
             "vei": 5,
             "coordinates": [42.62, 11.85],
@@ -704,15 +695,6 @@
             "summitFeet": -800,
             "magmaType": "Basalt",
             "desc": "Miocene submarine volcanic center near Gozo, Malta. Part of the Channel Islands volcanic complex."
-        },
-        {
-            "name": "Strait of Sicily Seamounts",
-            "vei": 3,
-            "coordinates": [37.0, 12.5],
-            "type": "Submarine Volcano",
-            "summitFeet": -500,
-            "magmaType": "Basalt",
-            "desc": "Quaternary submarine volcanic field in the Strait of Sicily. Includes Graham Bank and surrounding seamounts."
         },
         {
             "name": "Saaremaa Volcanic Center",
