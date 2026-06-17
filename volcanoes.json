@@ -112,15 +112,6 @@
             "desc": "Beautiful maar lake with a Romanesque chapel in the crater. ~11,500 years old."
         },
         {
-            "name": "Campo de Calatrava",
-            "vei": 3,
-            "coordinates": [38.95, -3.82],
-            "type": "Volcanic Field",
-            "summitFeet": 2185,
-            "magmaType": "Basanite, tephrite",
-            "desc": "Maar and cinder cone field in central Spain. Erupted as recently as 3,000-5,000 years ago. Mainland Spanish volcanism!"
-        },
-        {
             "name": "Mar Menor Volcanism",
             "vei": 3,
             "coordinates": [37.57, -0.72],
@@ -175,60 +166,6 @@
             "desc": "Multiple volcanic centers near Cartagena. Includes Cabezo Beaza, Cabezo de la Fraila, Volcán Aljorra, Cabezo Negro de Tallante."
         },
         {
-            "name": "Alban Hills",
-            "vei": 5,
-            "coordinates": [41.73, 12.7],
-            "type": "Complex",
-            "summitFeet": 3169,
-            "magmaType": "Tephrite, phonolite",
-            "desc": "Quiescent volcano complex SE of Rome. Monte Cavo (950m) and Lake Albano maar. Last eruption ~5000 BCE. 7 million people live within 30km."
-        },
-        {
-            "name": "Lake Albano",
-            "vei": 5,
-            "coordinates": [41.75, 12.67],
-            "type": "Maar",
-            "summitFeet": 195,
-            "magmaType": "Tephrite",
-            "desc": "Deepest volcanic lake in Italy (170m). Maar crater of the Alban Hills volcano. Geothermal vents on lake floor."
-        },
-        {
-            "name": "Monti Sabatini",
-            "vei": 5,
-            "coordinates": [42.05, 12.2],
-            "type": "Complex",
-            "summitFeet": 2156,
-            "magmaType": "Tephrite, phonolite",
-            "desc": "Volcanic district NW of Rome. Includes Lake Bracciano (largest volcanic lake in Italy) and Lake Martignano maar."
-        },
-        {
-            "name": "Lake Bracciano",
-            "vei": 4,
-            "coordinates": [42.12, 12.13],
-            "type": "Maar",
-            "summitFeet": 538,
-            "magmaType": "Tephrite",
-            "desc": "Large maar lake, largest volcanic lake in Italy. Part of the Monti Sabatini volcanic district."
-        },
-        {
-            "name": "Monti Cimini",
-            "vei": 4,
-            "coordinates": [42.33, 12.1],
-            "type": "Complex",
-            "summitFeet": 3410,
-            "magmaType": "Rhyolite, trachyte",
-            "desc": "Rhyolitic volcanic complex NW of Rome. Monte Cimino (1053m) is a Pleistocene rhyolitic dome. ~800,000 years old."
-        },
-        {
-            "name": "Vico",
-            "vei": 5,
-            "coordinates": [42.32, 12.18],
-            "type": "Caldera",
-            "summitFeet": 2710,
-            "magmaType": "Tephrite, phonolite",
-            "desc": "Caldera lake (Lake Vico) with Monte Venere resurgent dome. ~95,000 years old. Beautiful caldera landscape."
-        },
-        {
             "name": "Monte Amiata",
             "vei": 4,
             "coordinates": [42.88, 11.62],
@@ -272,15 +209,6 @@
             "summitFeet": 2440,
             "magmaType": "Basanite",
             "desc": " maar explosion crater, ~160,000 years old. Well-preserved tuff ring in the Vulsini complex."
-        },
-        {
-            "name": "Methana Peninsula",
-            "vei": 4,
-            "coordinates": [37.58, 23.35],
-            "type": "Volcanic Field",
-            "summitFeet": 2450,
-            "magmaType": "Andesite, dacite",
-            "desc": "Pleistocene-Holocene volcanic peninsula with 32 lava domes. Youngest eruption ~1200 BCE. Connected to the Saronic Gulf volcanic arc."
         },
         {
             "name": "Aegina Volcanic Center",
