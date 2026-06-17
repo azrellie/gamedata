@@ -21,6 +21,996 @@
             "magmaType": "Rhyolite",
             "desc": "A giant caldera south of the Chihuahua city, Mexico. It was formed in 2 stages. 1st stage: A large rhyolitic eruption, releasing over 200 km3 of tephra. 2nd stage: A resurgent caldera, formed in a VEI 6 eruption that blasted out 50 km3 of material."
         },
+                {
+            "name": "Puy de Dôme",
+            "vei": 4,
+            "coordinates": [45.77, 2.96],
+            "type": "Lava Dome",
+            "summitFeet": 4813,
+            "magmaType": "Trachyte",
+            "desc": "The iconic dome of the Chaîne des Puys. ~11,600 years old. Site of Pascal's barometer experiments. Highest point of the chain at 1465m."
+        },
+        {
+            "name": "Cantal",
+            "vei": 6,
+            "coordinates": [45.08, 2.68],
+            "type": "Stratovolcano",
+            "summitFeet": 6125,
+            "magmaType": "Basalt, trachyandesite",
+            "desc": "Largest stratovolcano in Europe by volume. Formed ~2 Ma. Extensive caldera collapse produced massive ignimbrite sheets. One of the most voluminous volcanoes in the Massif Central."
+        },
+        {
+            "name": "Mont Dore",
+            "vei": 5,
+            "coordinates": [45.5, 2.81],
+            "type": "Stratovolcano",
+            "summitFeet": 6184,
+            "magmaType": "Basalt, trachyte",
+            "desc": "Massive stratovolcano complex in the Massif Central. Two major caldera-forming eruptions. Summit Puy de Sancy (1885m) is the highest peak in the Massif Central."
+        },
+        {
+            "name": "Devès Massif",
+            "vei": 4,
+            "coordinates": [45.05, 3.53],
+            "type": "Volcanic Field",
+            "summitFeet": 3937,
+            "magmaType": "Basalt, basanite",
+            "desc": "Large basaltic plateau in the Massif Central. Multiple eruption centers active 3.5-0.019 Ma. Includes the spectacular basalts of the Bas-Vivarais."
+        },
+        {
+            "name": "Mont Gerbier de Jonc",
+            "vei": 3,
+            "coordinates": [44.84, 3.82],
+            "type": "Lava Dome",
+            "summitFeet": 5141,
+            "magmaType": "Phonolite",
+            "desc": "Isolated phonolite dome, source of the River Loire. ~6,000 years old. One of the youngest volcanoes in the Massif Central."
+        },
+        {
+            "name": "Bas-Vivarais",
+            "vei": 4,
+            "coordinates": [44.72, 4.35],
+            "type": "Volcanic Field",
+            "summitFeet": 3215,
+            "magmaType": "Basalt, basanite",
+            "desc": "Volcanic field in the southern Massif Central. Includes maars and cinder cones. Youngest eruption ~19,000 years ago."
+        },
+        {
+            "name": "Massif de l'Esterel",
+            "vei": 3,
+            "coordinates": [43.5, 6.8],
+            "type": "Volcanic Field",
+            "summitFeet": 3140,
+            "magmaType": "Rhyolite, andesite",
+            "desc": "Permian volcanic field (~300 Ma) in Provence. Red rhyolitic rocks form dramatic coastal landscapes near Saint-Raphaël."
+        },
+        {
+            "name": "Corsican Variscan Plutons",
+            "vei": 4,
+            "coordinates": [42.25, 9.08],
+            "type": "Batholith",
+            "summitFeet": 8872,
+            "magmaType": "Granite, diorite",
+            "desc": "Variscan (Carboniferous-Permian) plutonic complex. Monte Rotondo (2625m) and Monte Cinto (2706m) are major granite intrusions."
+        },
+        {
+            "name": "Garrotxa Volcanic Zone",
+            "vei": 3,
+            "coordinates": [42.17, 2.55],
+            "type": "Volcanic Field",
+            "summitFeet": 3353,
+            "magmaType": "Basalt, basanite",
+            "desc": "40 volcanoes in NE Spain including Croscat, Santa Margarida, Montsacopa. Urban volcanoes inside the city of Olot. Active ~70,000-13,000 years ago."
+        },
+        {
+            "name": "Volcán de Croscat",
+            "vei": 3,
+            "coordinates": [42.12, 2.55],
+            "type": "Cinder Cone",
+            "summitFeet": 3829,
+            "magmaType": "Basalt",
+            "desc": "Largest volcano in the Garrotxa field. 11,500 years old. Quarry exposure reveals internal structure."
+        },
+        {
+            "name": "Santa Margarida",
+            "vei": 3,
+            "coordinates": [42.13, 2.57],
+            "type": "Maar",
+            "summitFeet": 3540,
+            "magmaType": "Basanite",
+            "desc": "Beautiful maar lake with a Romanesque chapel in the crater. ~11,500 years old."
+        },
+        {
+            "name": "Campo de Calatrava",
+            "vei": 3,
+            "coordinates": [38.95, -3.82],
+            "type": "Volcanic Field",
+            "summitFeet": 2185,
+            "magmaType": "Basanite, tephrite",
+            "desc": "Maar and cinder cone field in central Spain. Erupted as recently as 3,000-5,000 years ago. Mainland Spanish volcanism!"
+        },
+        {
+            "name": "Mar Menor Volcanism",
+            "vei": 3,
+            "coordinates": [37.57, -0.72],
+            "type": "Volcanic Field",
+            "summitFeet": 656,
+            "magmaType": "Basanite, phonolite",
+            "desc": "Quaternary volcanic islets in SE Spain. Includes Isla Grosa, Cerro del Calnegre, El Carmolí. Phonolitic to basanitic composition."
+        },
+        {
+            "name": "Columbretes Islands",
+            "vei": 3,
+            "coordinates": [39.9, 0.68],
+            "type": "Complex",
+            "summitFeet": 213,
+            "magmaType": "Phonolite, basanite",
+            "desc": "Phonolitic volcanic islands ~110km off the Spanish coast. Formed ~2 Ma. Last eruption Pliocene. Rare phonolite in oceanic setting."
+        },
+        {
+            "name": "Cabo de Gata",
+            "vei": 4,
+            "coordinates": [36.75, -2.2],
+            "type": "Volcanic Field",
+            "summitFeet": 1069,
+            "magmaType": "Andesite, dacite",
+            "desc": "Miocene submarine volcanic field in SE Spain. ~16-10 Ma. Part of the Alboran Sea volcanic arc. Rodalquilar caldera within it."
+        },
+        {
+            "name": "Rodalquilar Caldera",
+            "vei": 6,
+            "coordinates": [36.85, -2.05],
+            "type": "Caldera",
+            "summitFeet": 1476,
+            "magmaType": "Rhyolite, dacite",
+            "desc": "12 Ma caldera in Cabo de Gata. Epithermal gold deposits. Major caldera-forming eruption produced extensive ignimbrites."
+        },
+        {
+            "name": "Cofrentes",
+            "vei": 3,
+            "coordinates": [39.23, -1.08],
+            "type": "Stratovolcano",
+            "summitFeet": 2713,
+            "magmaType": "Basalt, trachybasalt",
+            "desc": "Oligocene stratovolcano in eastern Spain. ~30 Ma. Well-preserved edifice with associated geothermal activity."
+        },
+        {
+            "name": "Cartagena Volcanoes",
+            "vei": 3,
+            "coordinates": [37.6, -1.3],
+            "type": "Volcanic Field",
+            "summitFeet": 1050,
+            "magmaType": "Basanite, phonolite",
+            "desc": "Multiple volcanic centers near Cartagena. Includes Cabezo Beaza, Cabezo de la Fraila, Volcán Aljorra, Cabezo Negro de Tallante."
+        },
+        {
+            "name": "Alban Hills",
+            "vei": 5,
+            "coordinates": [41.73, 12.7],
+            "type": "Complex",
+            "summitFeet": 3169,
+            "magmaType": "Tephrite, phonolite",
+            "desc": "Quiescent volcano complex SE of Rome. Monte Cavo (950m) and Lake Albano maar. Last eruption ~5000 BCE. 7 million people live within 30km."
+        },
+        {
+            "name": "Lake Albano",
+            "vei": 5,
+            "coordinates": [41.75, 12.67],
+            "type": "Maar",
+            "summitFeet": 195,
+            "magmaType": "Tephrite",
+            "desc": "Deepest volcanic lake in Italy (170m). Maar crater of the Alban Hills volcano. Geothermal vents on lake floor."
+        },
+        {
+            "name": "Monti Sabatini",
+            "vei": 5,
+            "coordinates": [42.05, 12.2],
+            "type": "Complex",
+            "summitFeet": 2156,
+            "magmaType": "Tephrite, phonolite",
+            "desc": "Volcanic district NW of Rome. Includes Lake Bracciano (largest volcanic lake in Italy) and Lake Martignano maar."
+        },
+        {
+            "name": "Lake Bracciano",
+            "vei": 4,
+            "coordinates": [42.12, 12.13],
+            "type": "Maar",
+            "summitFeet": 538,
+            "magmaType": "Tephrite",
+            "desc": "Large maar lake, largest volcanic lake in Italy. Part of the Monti Sabatini volcanic district."
+        },
+        {
+            "name": "Monti Cimini",
+            "vei": 4,
+            "coordinates": [42.33, 12.1],
+            "type": "Complex",
+            "summitFeet": 3410,
+            "magmaType": "Rhyolite, trachyte",
+            "desc": "Rhyolitic volcanic complex NW of Rome. Monte Cimino (1053m) is a Pleistocene rhyolitic dome. ~800,000 years old."
+        },
+        {
+            "name": "Vico",
+            "vei": 5,
+            "coordinates": [42.32, 12.18],
+            "type": "Caldera",
+            "summitFeet": 2710,
+            "magmaType": "Tephrite, phonolite",
+            "desc": "Caldera lake (Lake Vico) with Monte Venere resurgent dome. ~95,000 years old. Beautiful caldera landscape."
+        },
+        {
+            "name": "Monte Amiata",
+            "vei": 4,
+            "coordinates": [42.88, 11.62],
+            "type": "Lava Dome",
+            "summitFeet": 5610,
+            "magmaType": "Trachyte, rhyolite",
+            "desc": "Quaternary lava dome complex. Highest summit in southern Tuscany (1738m). Geothermal activity. ~180,000 years old."
+        },
+        {
+            "name": "Larderello",
+            "vei": 3,
+            "coordinates": [43.25, 10.88],
+            "type": "Geothermal Field",
+            "summitFeet": 1650,
+            "magmaType": "Rhyolite",
+            "desc": "World's first geothermal power plant (1904). Fumaroles, mud pools, and steaming ground. Part of the Tuscan Magmatic Province."
+        },
+        {
+            "name": "Monte Vulture",
+            "vei": 5,
+            "coordinates": [40.95, 15.63],
+            "type": "Stratovolcano",
+            "summitFeet": 4360,
+            "magmaType": "Phonolite, leucitite, tephrite",
+            "desc": "Isolated volcano in Basilicata. Unique phonolite-leucitite magmatism separate from Campanian arc. Lacustrine caldera. ~40,000 years old."
+        },
+        {
+            "name": "Latera",
+            "vei": 5,
+            "coordinates": [42.62, 11.85],
+            "type": "Caldera",
+            "summitFeet": 2440,
+            "magmaType": "Tephrite, phonolite",
+            "desc": "Caldera in the Vulsini complex. Multiple caldera-forming eruptions. Beautiful caldera walls with exposed stratigraphy."
+        },
+        {
+            "name": "Monte Santa Maria",
+            "vei": 4,
+            "coordinates": [42.72, 12.25],
+            "type": "Maar",
+            "summitFeet": 2440,
+            "magmaType": "Basanite",
+            "desc": " maar explosion crater, ~160,000 years old. Well-preserved tuff ring in the Vulsini complex."
+        },
+        {
+            "name": "Milos",
+            "vei": 5,
+            "coordinates": [36.69, 24.43],
+            "type": "Caldera",
+            "summitFeet": 2415,
+            "magmaType": "Rhyolite, dacite, andesite",
+            "desc": "Active volcanic center with submarine caldera. White cliffs of Sarakiniko. Extensive hydrothermal activity. Volcanic history spans Pliocene-Recent."
+        },
+        {
+            "name": "Nisyros",
+            "vei": 4,
+            "coordinates": [36.58, 27.17],
+            "type": "Caldera",
+            "summitFeet": 2520,
+            "magmaType": "Andesite, dacite",
+            "desc": "Quaternary volcano with active fumarolic field. Stefanos crater is the largest hydrothermal crater in the world (300m diameter)."
+        },
+        {
+            "name": "Kos Caldera",
+            "vei": 6,
+            "coordinates": [36.85, 27.15],
+            "type": "Caldera",
+            "summitFeet": 2850,
+            "magmaType": "Rhyolite, dacite",
+            "desc": "Pleistocene caldera (160-120 ka). 15x20km caldera from massive eruption. Associated with Nisyros and Kolumbo."
+        },
+        {
+            "name": "Methana Peninsula",
+            "vei": 4,
+            "coordinates": [37.58, 23.35],
+            "type": "Volcanic Field",
+            "summitFeet": 2450,
+            "magmaType": "Andesite, dacite",
+            "desc": "Pleistocene-Holocene volcanic peninsula with 32 lava domes. Youngest eruption ~1200 BCE. Connected to the Saronic Gulf volcanic arc."
+        },
+        {
+            "name": "Aegina Volcanic Center",
+            "vei": 4,
+            "coordinates": [37.75, 23.45],
+            "type": "Volcanic Field",
+            "summitFeet": 1753,
+            "magmaType": "Andesite, basalt",
+            "desc": "Miocene-Pliocene volcanic center (12-3 Ma). Multiple eruption centers on the island."
+        },
+        {
+            "name": "Poros Volcanic Field",
+            "vei": 3,
+            "coordinates": [37.5, 23.45],
+            "type": "Volcanic Field",
+            "summitFeet": 1200,
+            "magmaType": "Basalt, andesite",
+            "desc": "Miocene-Pliocene volcanic field (9-4 Ma). Calc-alkaline volcanism in the Saronic Gulf."
+        },
+        {
+            "name": "Makronisos",
+            "vei": 3,
+            "coordinates": [37.78, 24.07],
+            "type": "Volcanic Field",
+            "summitFeet": 680,
+            "magmaType": "Andesite, basalt",
+            "desc": "Miocene volcanic center (8-6 Ma). Andesitic-basaltic rocks on the island."
+        },
+        {
+            "name": "Gurghiu Mountains",
+            "vei": 4,
+            "coordinates": [46.75, 25.2],
+            "type": "Stratovolcano",
+            "summitFeet": 7674,
+            "magmaType": "Andesite, dacite",
+            "desc": "Miocene volcanic arc (9.4-5.4 Ma). Andesitic rocks forming the central part of the Eastern Carpathian volcanic chain."
+        },
+        {
+            "name": "Harghita Mountains",
+            "vei": 4,
+            "coordinates": [46.25, 25.72],
+            "type": "Stratovolcano",
+            "summitFeet": 8478,
+            "magmaType": "Andesite",
+            "desc": "Largest andesitic mass in Europe. Active CO2 degassing. Potential future eruption site. Part of the Eastern Carpathian volcanic chain."
+        },
+        {
+            "name": "Călimani Caldera",
+            "vei": 6,
+            "coordinates": [47.05, 25.05],
+            "type": "Caldera",
+            "summitFeet": 7248,
+            "magmaType": "Rhyolite",
+            "desc": "Pliocene caldera (4.2-3.8 Ma), 15km diameter. Massive rhyolitic ignimbrites. One of the largest calderas in the Carpathians."
+        },
+        {
+            "name": "Bakony-Balaton Volcanic Field",
+            "vei": 4,
+            "coordinates": [47.0, 17.5],
+            "type": "Volcanic Field",
+            "summitFeet": 2300,
+            "magmaType": "Basalt, basanite, trachyte",
+            "desc": "Miocene volcanic field (11-5 Ma) with 80+ eruption centers. Alkali basalts to trachytes. Part of the Pannonian Basin volcanic province."
+        },
+        {
+            "name": "Bükkalja Basalt Field",
+            "vei": 3,
+            "coordinates": [47.95, 20.55],
+            "type": "Volcanic Field",
+            "summitFeet": 3060,
+            "magmaType": "Alkali basalt",
+            "desc": "Miocene alkali basalt field (11.6-6.8 Ma) in northern Hungary. Scattered basaltic cinder cones and lava flows."
+        },
+        {
+            "name": "Mátra Mountains",
+            "vei": 5,
+            "coordinates": [47.95, 19.95],
+            "type": "Stratovolcano",
+            "summitFeet": 3370,
+            "magmaType": "Andesite, dacite",
+            "desc": "Miocene andesitic-dacitic volcanic range (16.5-11.5 Ma). Kékestető (1014m) is Hungary's highest point."
+        },
+        {
+            "name": "Börzsöny Mountains",
+            "vei": 4,
+            "coordinates": [47.95, 18.95],
+            "type": "Stratovolcano",
+            "summitFeet": 3260,
+            "magmaType": "Andesite",
+            "desc": "Miocene andesitic stratovolcanoes (12.8-10.5 Ma). Well-preserved volcanic forms in the Danube Bend."
+        },
+        {
+            "name": "Visegrád Mountains",
+            "vei": 3,
+            "coordinates": [47.8, 18.95],
+            "type": "Volcanic Field",
+            "summitFeet": 2550,
+            "magmaType": "Andesite",
+            "desc": "Miocene andesitic volcanics (14.5-12.5 Ma). Part of the Carpathian volcanic arc system."
+        },
+        {
+            "name": "Vihorlat-Gutin Range",
+            "vei": 4,
+            "coordinates": [48.85, 22.25],
+            "type": "Stratovolcano",
+            "summitFeet": 6180,
+            "magmaType": "Andesite, rhyolite",
+            "desc": "Miocene volcanic range (11.5-8.8 Ma) in eastern Slovakia/western Ukraine. Andesites and rhyolites."
+        },
+        {
+            "name": "Oaș Mountains",
+            "vei": 3,
+            "coordinates": [47.95, 23.35],
+            "type": "Volcanic Field",
+            "summitFeet": 5070,
+            "magmaType": "Andesite",
+            "desc": "Miocene calc-alkaline volcanic field (14.5-11.8 Ma) in northern Romania."
+        },
+        {
+            "name": "Kula Volcanic Field",
+            "vei": 3,
+            "coordinates": [38.55, 28.75],
+            "type": "Volcanic Field",
+            "summitFeet": 1680,
+            "magmaType": "Basalt",
+            "desc": "Quaternary basaltic field (1.1 Ma-10 ka) in western Turkey. 80+ eruption centers. UNESCO Global Geopark. Youngest eruption ~8000 BCE."
+        },
+        {
+            "name": "Biga Peninsula Volcanism",
+            "vei": 3,
+            "coordinates": [40.2, 26.5],
+            "type": "Volcanic Field",
+            "summitFeet": 1500,
+            "magmaType": "Andesite, dacite",
+            "desc": "Miocene-Pliocene calc-alkaline volcanism (15-2 Ma) on the Biga Peninsula, NW Turkey."
+        },
+        {
+            "name": "Canakkale Volcanic Field",
+            "vei": 3,
+            "coordinates": [40.1, 26.4],
+            "type": "Volcanic Field",
+            "summitFeet": 800,
+            "magmaType": "Basalt, trachyte",
+            "desc": "Pliocene-Quaternary volcanic field (3-0.5 Ma). Basaltic to trachytic compositions."
+        },
+        {
+            "name": "Bansko Volcanic Complex",
+            "vei": 4,
+            "coordinates": [41.85, 23.45],
+            "type": "Volcanic Field",
+            "summitFeet": 8580,
+            "magmaType": "Andesite, dacite",
+            "desc": "Eocene-Oligocene calc-alkaline volcanic complex (45-28 Ma) in SW Bulgaria. Part of the Tethyan volcanic arc."
+        },
+        {
+            "name": "Panagyurishte District",
+            "vei": 5,
+            "coordinates": [42.5, 24.2],
+            "type": "Volcanic Field",
+            "summitFeet": 5580,
+            "magmaType": "Rhyolite, dacite",
+            "desc": "Eocene rhyolitic-dacitic volcanic district (48-38 Ma). Major ignimbrite deposits. Famous for gold deposits."
+        },
+        {
+            "name": "Borovitsa Caldera",
+            "vei": 6,
+            "coordinates": [41.7, 25.2],
+            "type": "Caldera",
+            "summitFeet": 6500,
+            "magmaType": "Rhyolite",
+            "desc": "Eocene caldera (40-33 Ma), 25km diameter. Massive rhyolitic ignimbrites. One of the largest calderas in the Balkans."
+        },
+        {
+            "name": "Kraishte Zone",
+            "vei": 4,
+            "coordinates": [42.5, 22.8],
+            "type": "Volcanic Field",
+            "summitFeet": 6200,
+            "magmaType": "Andesite, dacite",
+            "desc": "Eocene-Oligocene calc-alkaline volcanic zone (44-26 Ma) in western Bulgaria."
+        },
+        {
+            "name": "Kuklica",
+            "vei": 3,
+            "coordinates": [41.35, 21.95],
+            "type": "Volcanic Field",
+            "summitFeet": 4200,
+            "magmaType": "Andesite",
+            "desc": "Miocene andesitic volcanic area (15-10 Ma) in North Macedonia. Near the famous Earth Pyramids (Kuklica) erosion formations."
+        },
+        {
+            "name": "Demir Kapija",
+            "vei": 4,
+            "coordinates": [41.4, 22.25],
+            "type": "Volcanic Field",
+            "summitFeet": 3600,
+            "magmaType": "Andesite, dacite",
+            "desc": "Miocene andesitic-dacitic volcanic center (14-9 Ma) in North Macedonia."
+        },
+        {
+            "name": "Vranje Complex",
+            "vei": 3,
+            "coordinates": [42.55, 21.9],
+            "type": "Volcanic Field",
+            "summitFeet": 4000,
+            "magmaType": "Andesite",
+            "desc": "Miocene andesitic volcanic complex (16-11 Ma) in southern Serbia."
+        },
+        {
+            "name": "Fen Complex",
+            "vei": 3,
+            "coordinates": [59.26, 9.27],
+            "type": "Carbonatite",
+            "summitFeet": 2100,
+            "magmaType": "Carbonatite, ijolite",
+            "desc": "Carbonatite complex (539 Ma) in Norway. Type locality for 'fenite' mineral. 15.9 million tons of rare earth oxides. Near Oslo Graben."
+        },
+        {
+            "name": "Alnö Complex",
+            "vei": 3,
+            "coordinates": [62.4, 17.4],
+            "type": "Carbonatite",
+            "summitFeet": 1150,
+            "magmaType": "Carbonatite, melilite",
+            "desc": "Carbonatite/alkaline complex (~550 Ma) in Sweden. Type locality for alnöite rock. 25km radius of dykes."
+        },
+        {
+            "name": "Norra Kärr",
+            "vei": 3,
+            "coordinates": [58.1, 14.57],
+            "type": "Alkaline Complex",
+            "summitFeet": 800,
+            "magmaType": "Nepheline syenite",
+            "desc": "Paleoproterozoic peralkaline complex in Sweden. Rich in rare earth elements. Jinshajiangite locality."
+        },
+        {
+            "name": "Sverrefjellet",
+            "vei": 3,
+            "coordinates": [79.43, 13.3],
+            "type": "Stratovolcano",
+            "summitFeet": 3820,
+            "magmaType": "Alkali basalt",
+            "desc": "Extinct volcano on Spitsbergen, Svalbard. Pleistocene (~6,000 years to 1 Ma). Used as Mars analogue terrain."
+        },
+        {
+            "name": "Ardnamurchan",
+            "vei": 5,
+            "coordinates": [56.73, -5.98],
+            "type": "Complex",
+            "summitFeet": 1790,
+            "magmaType": "Gabbro, basalt, rhyolite",
+            "desc": "Deeply eroded Tertiary (55 Ma) central complex. Ring dyke complexes. Type locality for ring complexes in igneous geology."
+        },
+        {
+            "name": "Rùm (Rum)",
+            "vei": 5,
+            "coordinates": [56.99, -6.34],
+            "type": "Complex",
+            "summitFeet": 3340,
+            "magmaType": "Ultramafic, gabbro",
+            "desc": "Tertiary (~60 Ma) igneous centre with ultramafic layered intrusion. One of the classic igneous complexes in the world."
+        },
+        {
+            "name": "Skye (Cuillin Hills)",
+            "vei": 5,
+            "coordinates": [57.2, -6.2],
+            "type": "Complex",
+            "summitFeet": 3210,
+            "magmaType": "Gabbro, basalt",
+            "desc": "Major Tertiary (~58-55 Ma) intrusive centre. Cuillin gabbro pluton forms dramatic black ridges. Classic igneous geology."
+        },
+        {
+            "name": "Mull Volcanic Centre",
+            "vei": 5,
+            "coordinates": [56.43, -5.97],
+            "type": "Complex",
+            "summitFeet": 2980,
+            "magmaType": "Gabbro, basalt, rhyolite",
+            "desc": "Tertiary (58-55 Ma) central complex with ring dykes. Toberg ridge and Glen Cannel Complex exposed."
+        },
+        {
+            "name": "Arran Volcanic Centre",
+            "vei": 5,
+            "coordinates": [55.58, -5.22],
+            "type": "Complex",
+            "summitFeet": 2810,
+            "magmaType": "Granite, basalt",
+            "desc": "Tertiary (~60 Ma) volcanic centre. Northern granite pluton and extensive Tertiary lava flows."
+        },
+        {
+            "name": "St Kilda",
+            "vei": 5,
+            "coordinates": [57.81, -8.59],
+            "type": "Complex",
+            "summitFeet": 1370,
+            "magmaType": "Gabbro, basalt",
+            "desc": "Remote Tertiary (~55 Ma) intrusive complex. Most westerly point of the British Isles. UNESCO World Heritage Site."
+        },
+        {
+            "name": "Ailsa Craig",
+            "vei": 4,
+            "coordinates": [55.25, -4.89],
+            "type": "Volcanic Plug",
+            "summitFeet": 1100,
+            "magmaType": "Microgranite (rapakivi)",
+            "desc": "Tertiary (~60 Ma) volcanic plug in Firth of Clyde. 'Prestwick's Golf Ball'. Famous source of curling stones."
+        },
+        {
+            "name": "Rockall",
+            "vei": 4,
+            "coordinates": [57.6, -13.69],
+            "type": "Volcanic Plug",
+            "summitFeet": 56,
+            "magmaType": "Alkali rhyolite",
+            "desc": "Tiny volcanic island (17m above sea). Part of the North Atlantic Igneous Province. ~55 Ma. One of the most remote islands in the world."
+        },
+        {
+            "name": "Glen Coe Caldera",
+            "vei": 6,
+            "coordinates": [56.67, -5.02],
+            "type": "Caldera",
+            "summitFeet": 3750,
+            "magmaType": "Andesite, rhyolite",
+            "desc": "Ancient Ordovician (~416 Ma) caldera. Not Tertiary! Massive caldera collapse preserved in dramatic glacial landscape."
+        },
+        {
+            "name": "Ben Nevis",
+            "vei": 5,
+            "coordinates": [56.8, -5.0],
+            "type": "Complex",
+            "summitFeet": 4406,
+            "magmaType": "Granite, andesite",
+            "desc": "Remnant of an Ordovician (~400 Ma) volcanic centre. Britain's highest peak is an eroded volcanic plug."
+        },
+        {
+            "name": "Arthur's Seat",
+            "vei": 3,
+            "coordinates": [55.94, -3.16],
+            "type": "Complex",
+            "summitFeet": 823,
+            "magmaType": "Basalt, tuff",
+            "desc": "Ancient Carboniferous (340 Ma) volcano in Edinburgh. Well-preserved crags and plugs. Iconic landmark."
+        },
+        {
+            "name": "The Cheviot",
+            "vei": 4,
+            "coordinates": [55.48, -2.15],
+            "type": "Complex",
+            "summitFeet": 2676,
+            "magmaType": "Andesite, granite",
+            "desc": "Early Devonian (~390 Ma) volcanic complex. The main peak is a granite intrusion through volcanic rocks."
+        },
+        {
+            "name": "Bardon Hill",
+            "vei": 3,
+            "coordinates": [52.71, -1.32],
+            "type": "Volcanic Plug",
+            "summitFeet": 900,
+            "magmaType": "Granite",
+            "desc": "Precambrian (~570 Ma) volcano in Leicestershire. One of the oldest volcanic rocks in England."
+        },
+        {
+            "name": "Slieve Gullion",
+            "vei": 5,
+            "coordinates": [54.13, -6.43],
+            "type": "Complex",
+            "summitFeet": 1890,
+            "magmaType": "Granophyre, basalt",
+            "desc": "Palaeocene ring complex with ring dyke and caldera in Northern Ireland. Classic example of cauldron subsidence."
+        },
+        {
+            "name": "Slemish",
+            "vei": 3,
+            "coordinates": [54.88, -6.09],
+            "type": "Volcanic Plug",
+            "summitFeet": 1420,
+            "magmaType": "Basalt",
+            "desc": "Basaltic plug of an ancient Palaeogene volcano in County Antrim. Legend says St. Patrick tended sheep here."
+        },
+        {
+            "name": "Tievebulliagh",
+            "vei": 3,
+            "coordinates": [55.07, -6.13],
+            "type": "Complex",
+            "summitFeet": 1530,
+            "magmaType": "Porcellanite",
+            "desc": "Ancient volcano with porcellanite (altered basalt) used for Neolithic axe factories. One of the most important prehistoric industrial sites."
+        },
+        {
+            "name": "Rathlin Island",
+            "vei": 3,
+            "coordinates": [55.26, -6.21],
+            "type": "Volcanic Field",
+            "summitFeet": 430,
+            "magmaType": "Basalt",
+            "desc": "Palaeogene/Neogene basalt lavas exposed in sea cliffs. Part of the Antrim volcanic province."
+        },
+        {
+            "name": "Lundy Island",
+            "vei": 3,
+            "coordinates": [51.18, -4.67],
+            "type": "Batholith",
+            "summitFeet": 460,
+            "magmaType": "Granite",
+            "desc": "Tertiary (~50 Ma) granite intrusion. NAIP-related. Dramatic sea cliffs exposing granite."
+        },
+        {
+            "name": "Haweswater Caldera",
+            "vei": 5,
+            "coordinates": [54.52, -2.8],
+            "type": "Caldera",
+            "summitFeet": 2560,
+            "magmaType": "Rhyolite, andesite",
+            "desc": "Ordovician caldera in the Lake District. Volcanic rocks now exposed by glacial erosion."
+        },
+        {
+            "name": "Langdale Caldera",
+            "vei": 6,
+            "coordinates": [54.43, -3.11],
+            "type": "Caldera",
+            "summitFeet": 2830,
+            "magmaType": "Rhyolite, tuff",
+            "desc": "Major Ordovician volcanic centre in the Lake District. Extensive ignimbrite deposits (Borrowdale Volcanic Group)."
+        },
+        {
+            "name": "Scafell",
+            "vei": 5,
+            "coordinates": [54.46, -3.21],
+            "type": "Complex",
+            "summitFeet": 3210,
+            "magmaType": "Andesite, granite",
+            "desc": "Ordovician (~430 Ma) volcanic complex. Scafell Pike is England's highest mountain."
+        },
+        {
+            "name": "Cawsand Volcano",
+            "vei": 3,
+            "coordinates": [50.33, -4.2],
+            "type": "Volcanic Plug",
+            "summitFeet": 500,
+            "magmaType": "Basalt",
+            "desc": "Permian (~280 Ma) volcanic centre in Cornwall. One of the youngest volcanic rocks in SW England."
+        },
+        {
+            "name": "Gurnard's Head",
+            "vei": 3,
+            "coordinates": [50.19, -5.6],
+            "type": "Volcanic Plug",
+            "summitFeet": 570,
+            "magmaType": "Andesite",
+            "desc": "Devonian (~400 Ma) volcanic feature on the Cornwall coast. Dramatic yellow/green headland."
+        },
+        {
+            "name": "Vavilov Seamount",
+            "vei": 4,
+            "coordinates": [39.2, 14.2],
+            "type": "Submarine Volcano",
+            "summitFeet": -700,
+            "magmaType": "Basalt, trachyte",
+            "desc": "Large submarine volcano in the Tyrrhenian Sea. Active hydrothermal vents. ~600,000 years old."
+        },
+        {
+            "name": "Palinuro Seamount",
+            "vei": 4,
+            "coordinates": [39.35, 15.1],
+            "type": "Submarine Volcano",
+            "summitFeet": -800,
+            "magmaType": "Andesite",
+            "desc": "Submarine volcanic complex in the Tyrrhenian Sea. Active hydrothermal field at 1300m depth."
+        },
+        {
+            "name": "Anton Dohrn Seamount",
+            "vei": 4,
+            "coordinates": [57.5, -11.0],
+            "type": "Seamount",
+            "summitFeet": -3300,
+            "magmaType": "Basalt, tuff",
+            "desc": "Guyot in Rockall Trough. 1.5km high. Cretaceous-Paleogene (~40-70 Ma). Named after the German marine biologist."
+        },
+        {
+            "name": "Rosemary Bank",
+            "vei": 4,
+            "coordinates": [59.42, -10.25],
+            "type": "Seamount",
+            "summitFeet": -720,
+            "magmaType": "Basalt",
+            "desc": "Seamount 120km west of Scotland. 'Underwater Ben Nevis'. 1km above seafloor. ~70 Ma."
+        },
+        {
+            "name": "Gozo Submarine Volcano",
+            "vei": 3,
+            "coordinates": [36.05, 14.25],
+            "type": "Submarine Volcano",
+            "summitFeet": -800,
+            "magmaType": "Basalt",
+            "desc": "Miocene submarine volcanic center near Gozo, Malta. Part of the Channel Islands volcanic complex."
+        },
+        {
+            "name": "Strait of Sicily Seamounts",
+            "vei": 3,
+            "coordinates": [37.0, 12.5],
+            "type": "Submarine Volcano",
+            "summitFeet": -500,
+            "magmaType": "Basalt",
+            "desc": "Quaternary submarine volcanic field in the Strait of Sicily. Includes Graham Bank and surrounding seamounts."
+        },
+        {
+            "name": "Saaremaa Volcanic Center",
+            "vei": 3,
+            "coordinates": [58.45, 22.5],
+            "type": "Volcanic Field",
+            "summitFeet": 200,
+            "magmaType": "Basalt",
+            "desc": "Devonian (385-380 Ma) basaltic volcanic center in Estonia. Lava flows and pyroclastic rocks exposed in coastal cliffs."
+        },
+        {
+            "name": "Kurzeme Volcanic Zone",
+            "vei": 3,
+            "coordinates": [56.95, 21.5],
+            "type": "Volcanic Field",
+            "summitFeet": 200,
+            "magmaType": "Basalt",
+            "desc": "Devonian (380-370 Ma) basaltic volcanic zone in western Latvia. Lava flows preserved in boreholes."
+        },
+        {
+            "name": "Šiauliai Volcanic Field",
+            "vei": 3,
+            "coordinates": [55.9, 23.3],
+            "type": "Volcanic Field",
+            "summitFeet": 200,
+            "magmaType": "Basalt",
+            "desc": "Devonian (380-372 Ma) basaltic field in Lithuania. Preserved in subsurface."
+        },
+        {
+            "name": "Carpathian Volcanic Province (Ukraine)",
+            "vei": 4,
+            "coordinates": [48.5, 23.5],
+            "type": "Volcanic Field",
+            "summitFeet": 5850,
+            "magmaType": "Andesite, dacite",
+            "desc": "Miocene volcanic arc (16-9 Ma) in the Ukrainian Carpathians. Andesitic-dacitic composition."
+        },
+        {
+            "name": "Pripyat Basin Volcanism",
+            "vei": 3,
+            "coordinates": [51.5, 28.5],
+            "type": "Volcanic Field",
+            "summitFeet": 200,
+            "magmaType": "Basalt",
+            "desc": "Devonian (380-370 Ma) basaltic volcanism in Belarus. Preserved in subsurface sediments."
+        },
+        {
+            "name": "Brest Volcanic Field",
+            "vei": 3,
+            "coordinates": [52.1, 23.7],
+            "type": "Volcanic Field",
+            "summitFeet": 200,
+            "magmaType": "Basalt",
+            "desc": "Devonian (385-375 Ma) basaltic field in southwestern Belarus."
+        },
+        {
+            "name": "Volyn-Podolian Province",
+            "vei": 3,
+            "coordinates": [50.5, 27.5],
+            "type": "Volcanic Field",
+            "summitFeet": 200,
+            "magmaType": "Basalt",
+            "desc": "Devonian (380-370 Ma) basaltic province in western Ukraine. Preserved as subsurface flows."
+        },
+        {
+            "name": "Faroe Islands",
+            "vei": 5,
+            "coordinates": [62.0, -6.85],
+            "type": "Shield",
+            "summitFeet": 2894,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Massive flood basalt sequences up to 6km thick. Part of the North Atlantic Igneous Province (54-58 Ma). Formed during opening of the North Atlantic."
+        },
+        {
+            "name": "Brennisteinsfjöll",
+            "vei": 3,
+            "coordinates": [63.92, -21.83],
+            "type": "Complex",
+            "summitFeet": 1830,
+            "magmaType": "Basalt",
+            "desc": "Fissure swarm with tuyas and hyaloclastite ridges. Part of the Reykjanes volcanic belt. Last erupted ~1341 CE."
+        },
+        {
+            "name": "Kerlingarfjöll",
+            "vei": 4,
+            "coordinates": [64.63, -19.32],
+            "type": "Complex",
+            "summitFeet": 5170,
+            "magmaType": "Rhyolite, basalt",
+            "desc": "Central volcano of the Hofsjökull system. Rhyolitic central volcano with extensive geothermal area. Dormant."
+        },
+        {
+            "name": "Tungnafellsjökull",
+            "vei": 4,
+            "coordinates": [64.73, -17.92],
+            "type": "Complex",
+            "summitFeet": 6370,
+            "magmaType": "Basalt, rhyolite",
+            "desc": "Central volcano with rhyolite domes and caldera. Under glacial cover. Part of the Northern Volcanic Zone."
+        },
+        {
+            "name": "Hofsjökull",
+            "vei": 4,
+            "coordinates": [64.85, -19.53],
+            "type": "Shield",
+            "summitFeet": 5570,
+            "magmaType": "Basalt",
+            "desc": "Iceland's 3rd largest ice cap. Central volcano beneath with caldera. Glacially influenced volcanism."
+        },
+        {
+            "name": "Trölladyngja",
+            "vei": 4,
+            "coordinates": [64.89, -17.25],
+            "type": "Shield",
+            "summitFeet": 4650,
+            "magmaType": "Basalt",
+            "desc": "Large shield volcano of the Bárðarbunga fissure system. One of the largest single-vent shields in Iceland."
+        },
+        {
+            "name": "Fremrinámur",
+            "vei": 3,
+            "coordinates": [65.43, -16.65],
+            "type": "Shield",
+            "summitFeet": 3260,
+            "magmaType": "Basalt",
+            "desc": "Shield volcano in the Northern Volcanic Zone. ~800 BCE eruption."
+        },
+        {
+            "name": "Kollóttadyngja",
+            "vei": 3,
+            "coordinates": [65.22, -16.55],
+            "type": "Shield",
+            "summitFeet": 4890,
+            "magmaType": "Basalt",
+            "desc": "Large shield volcano of the Askja system."
+        },
+        {
+            "name": "Grímsnes",
+            "vei": 3,
+            "coordinates": [64.03, -20.87],
+            "type": "Cinder Cone",
+            "summitFeet": 500,
+            "magmaType": "Basalt",
+            "desc": "Scoria cones in the Grímsnes area. ~3500 BCE eruption."
+        },
+        {
+            "name": "Kolbeinsey Ridge",
+            "vei": 3,
+            "coordinates": [66.67, -18.5],
+            "type": "Submarine Volcano",
+            "summitFeet": -100,
+            "magmaType": "Basalt",
+            "desc": "Northernmost point of Iceland. Continuation of the Mid-Atlantic Ridge. Nearly eroded away — just 2 skerries remain."
+        },
+        {
+            "name": "Snæfellsjökull",
+            "vei": 5,
+            "coordinates": [64.8, -23.77],
+            "type": "Stratovolcano",
+            "summitFeet": 4740,
+            "magmaType": "Rhyolite, basalt",
+            "desc": "Iconic glacier-capped stratovolcano. Jules Verne's 'Journey to the Centre of the Earth' entrance. Last erupted ~200 CE. Intraplate volcanism."
+        },
+        {
+            "name": "Esjufjöll",
+            "vei": 3,
+            "coordinates": [64.27, -16.65],
+            "type": "Complex",
+            "summitFeet": 4410,
+            "magmaType": "Basalt",
+            "desc": "Central volcano under SE Vatnajökull ice cap. Last erupted 1927. Subglacial volcanic activity."
+        },
+        {
+            "name": "Loki-Fögrufjöll",
+            "vei": 3,
+            "coordinates": [64.48, -17.8],
+            "type": "Complex",
+            "summitFeet": 5470,
+            "magmaType": "Basalt",
+            "desc": "Subglacial stratovolcano of the Bárðarbunga system (also known as Hamarinn). Last erupted 1910."
+        },
+        {
+            "name": "Vatnafjöll",
+            "vei": 3,
+            "coordinates": [63.92, -19.67],
+            "type": "Fissure Vent",
+            "summitFeet": 3500,
+            "magmaType": "Basalt",
+            "desc": "Fissure swarm associated with Hekla. Last erupted ~750 CE."
+        },
         {
             "name": "Nightingale Island",
             "vei": 0,
