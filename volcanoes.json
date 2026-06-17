@@ -2164,6 +2164,15 @@
             "desc": "The Olkaria volcanic complex, located immediately S of Lake Naivasha and W of Longonot volcano, comprises up to 80 individual alkali rhyolite centers. A thick, geochemically diverse basal complex is overlain by a dominantly silicic lava-dome and lava-flow complex constructed within a largely obscured 11 x 7.5-km-wide caldera that formed about 20,000 years ago following the eruption of welded alkali rhyolite ignimbrites. The youngest known eruption originated from the Ololbutot fissure on the SW side of the complex and produced a 5 km3 lava flow and a pumice flow that has a radiocarbon age of about 180 years. Fumarolic activity occurs at the Njorowa Gorge, and at the Orengingnai and Olkaria (Orgaria) pumice cones. Olkaria is the site of a large 50-80 km3 high-temperature geothermal field."
         },
         {
+            "name": "East Brandenburg Shield Volcano",
+            "vei": 7,
+            "coordinates": [52.4, 14.2],
+            "type": "Shield",
+            "summitFeet": 1200,
+            "magmaType": "Alkali Basalt/Basanite",
+            "desc": "A Cenozoic shield volcano complex straddling the Poland-Germany border in the Brandenburg region. Part of the Central European Volcanic Province (CEVP), it formed during the Miocene to Pliocene (~15-5 Ma) in association with the Lusatian Thrust fault system. The volcano features alkali basalts, basanites, and tephrites with a low-profile shield morphology now heavily eroded. Multiple eruptive centers and associated dyke swarms extend across the region. Part of the larger North German-Polish volcanic field that includes the Lusatian volcanic highlands."
+        },
+        {
             "name": "Siberian Traps",
             "vei": 10,
             "coordinates": [64.72728157307797, 88.02241020735606],
@@ -2190,16 +2199,32 @@
             ]
         },
         {
-            "name": "Lublin–Baltic Mississippian Igneous Province",
+            "name": "Lublin Baltic Mississippian Igneous Province",
             "vei": 10,
-            "coordinates": [53.141006986054116, 21.39537927202396],
+            "coordinates": [
+                53.141006986054116, 21.39537927202396],
             "type": "Large Igneous Province",
             "summitFeet": -5500,
-            "magmaType": "Basalt",
-            "desc": "???? Actually real polish LIP which might be the brother of TESZ/Variscan????",
+            "magmaType": "Gabbro/Dolerite",
+            "desc": "A massive hidden (subsurface) Large Igneous Province beneath eastern Poland, discovered through seismic surveys and drilling. The province contains extensive sill complexes intruded into the crust: an upper sill complex at 6-7 km depth consisting of dolerite/gabbro sills in Ordovician-Silurian sediments, and a lower sill complex at 15-20 km depth with larger gabbro bodies in the lower crust. Age: Late Ordovician (~450 Ma), possibly associated with rifting along the Teisseyre-Tornquist Line. Estimated volume exceeds 100,000 km\u00b3 of mafic material, making it one of the largest known LIPs beneath the European platform. May have contributed to the Late Ordovician mass extinction event.",
             "chatMessages": [
-                "Vents are seen forming and spewing basaltic lava near the Kaliningrad Oblast...",
-                "<b><font color='rgb(75,0,0)'>Cities near Lublin are completely flooded with lava...</font></b>"
+                "Seismologists in eastern Poland detect unusual deep crustal tremors...",
+                "<b><font color='rgb(125,0,0)'>Massive earthquakes rip through the Lublin region as deep magma ascends...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Enormous basaltic lava flows erupt across the Polish lowlands, devastating Warsaw...</font></stroke></b>"
+            ]
+        },
+                {
+            "name": "Tajno-Elk-Pisz Alkaline Province",
+            "vei": 9,
+            "coordinates": [53.71, 22.35],
+            "type": "Large Igneous Province",
+            "summitFeet": 400,
+            "magmaType": "Carbonatite/Alkaline Syenite",
+            "desc": "A Proterozoic to early Paleozoic alkaline and carbonatite province in northeastern Poland, spanning parts of Kuyavian-Pomeranian, Warmian-Masurian, and Podlaskian voivodeships. Features include the Tajno carbonatite complex (one of the few known carbonatites in Europe), the Elk alkaline intrusion, and the Pisz intrusion, along with numerous lamprophyre dykes. Age: ~500-600 Ma (Late Ediacaran to Cambrian). Part of the Trans-European Suture Zone margin. The province represents deep mantle-derived magmatism associated with the breakup of Rodinia and formation of the East European Craton margin.",
+            "chatMessages": [
+                "Unusual seismic activity is recorded across northeastern Poland...",
+                "<b><font color='rgb(125,0,0)'>Carbonatite lava begins erupting from new fissures near Tajno...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Alkaline magmas devastate the Warmian-Masurian region as the ancient province reactivates...</font></stroke></b>"
             ]
         },
         {
