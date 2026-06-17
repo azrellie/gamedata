@@ -1493,15 +1493,6 @@
             "desc": "Rare basalt occurrence in Westphalia. ~23 Ma."
         },
         {
-            "name": "E. Brandenburg Shield Volcano",
-            "vei": 7,
-            "coordinates": [52.4, 14.2],
-            "type": "Shield",
-            "summitFeet": 1200,
-            "magmaType": "Alkali Basalt/Basanite",
-            "desc": "A Cenozoic shield volcano complex straddling the Poland-Germany border in the Brandenburg region. Part of the Central European Volcanic Province (CEVP), it formed during the Miocene to Pliocene (~15-5 Ma) in association with the Lusatian Thrust fault system. The volcano features alkali basalts, basanites, and tephrites with a low-profile shield morphology now heavily eroded. Multiple eruptive centers and associated dyke swarms extend across the region. Part of the larger North German-Polish volcanic field that includes the Lusatian volcanic highlands."
-        },
-        {
             "name": "Ettringer Bellerberg",
             "vei": 4,
             "coordinates": [50.46, 7.305],
