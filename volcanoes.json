@@ -319,15 +319,6 @@
             "desc": "Miocene calc-alkaline volcanic field (14.5-11.8 Ma) in northern Romania."
         },
         {
-            "name": "Kula Volcanic Field",
-            "vei": 3,
-            "coordinates": [38.55, 28.75],
-            "type": "Volcanic Field",
-            "summitFeet": 1680,
-            "magmaType": "Basalt",
-            "desc": "Quaternary basaltic field (1.1 Ma-10 ka) in western Turkey. 80+ eruption centers. UNESCO Global Geopark. Youngest eruption ~8000 BCE."
-        },
-        {
             "name": "Biga Peninsula Volcanism",
             "vei": 3,
             "coordinates": [40.2, 26.5],
