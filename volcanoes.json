@@ -2894,7 +2894,7 @@
         {
             "name": "Bear Seamount",
             "vei": 4,
-            "coordinates": [39.80, -67.20],
+            "coordinates": [39.917, -67.5],
             "type": "Seamount",
             "summitFeet": -3900,
             "magmaType": "Alkali basalt",
@@ -2916,7 +2916,7 @@
             "type": "Seamount",
             "summitFeet": -3500,
             "magmaType": "Alkali basalt",
-            "desc": "Cretaceous (~90 Ma) seamount in the New England chain. One of the larger seamounts in the western section. Part of the Great Meteor hotspot track."
+            "desc": "Cretaceous (~90 Ma) seamount in the New England chain. One of the larger seamounts in the western section. Part of the New England hotspot track."
         },
         {
             "name": "Retriever Seamount",
@@ -2934,7 +2934,7 @@
             "type": "Seamount",
             "summitFeet": -4000,
             "magmaType": "Alkali basalt",
-            "desc": "Cretaceous (~80 Ma) seamount in the New England chain. Located in the mid-section of the chain. Part of the Great Meteor hotspot track."
+            "desc": "Cretaceous (~80 Ma) seamount in the New England chain. Located in the mid-section of the chain. Part of the New England hotspot track."
         },
         {
             "name": "Physalia Seamount",
@@ -2952,7 +2952,7 @@
             "type": "Seamount",
             "summitFeet": -3200,
             "magmaType": "Alkali basalt",
-            "desc": "Cretaceous (~70 Ma) seamount in the New England chain. Located near the boundary between the New England and Corner Rise sections. Part of the Great Meteor hotspot track."
+            "desc": "Cretaceous (~70 Ma) seamount in the New England chain. Located near the boundary between the New England and Corner Rise sections. Part of the New England hotspot track."
         },
         {
             "name": "Hyeres Seamount",
@@ -2961,12 +2961,12 @@
             "type": "Seamount",
             "summitFeet": -2800,
             "magmaType": "Alkali basalt",
-            "desc": "Cretaceous (~65 Ma) seamount in the New England chain. Located near the transition to the Corner Rise section. Part of the Great Meteor hotspot track."
+            "desc": "Cretaceous (~65 Ma) seamount in the New England chain. Located near the transition to the Corner Rise section. Part of the New England hotspot track."
         },
         {
             "name": "Nashville Seamount",
             "vei": 4,
-            "coordinates": [34.0, -57.0],
+            "coordinates": [33.825, -56.365],
             "type": "Seamount",
             "summitFeet": -3000,
             "magmaType": "Alkali basalt, basanite",
@@ -2975,7 +2975,7 @@
         {
             "name": "Vogel Seamount",
             "vei": 4,
-            "coordinates": [33.5, -56.0],
+            "coordinates": [34.869, -53.562],
             "type": "Seamount",
             "summitFeet": -3400,
             "magmaType": "Alkali basalt",
@@ -2989,15 +2989,6 @@
             "summitFeet": -2500,
             "magmaType": "Alkali basalt",
             "desc": "Youngest section of the New England Seamount Chain (~10-5 Ma, Pliocene). Cluster of 50+ major peaks with summit reliefs up to 5000m. Formed after an 83 Ma pause in volcanism. Rich deep-sea coral ecosystems with 75+ unique morphotypes. Heavily impacted by deep-sea fisheries."
-        },
-        {
-            "name": "Great Meteor Seamount",
-            "vei": 4,
-            "coordinates": [35.00, -58.00],
-            "type": "Seamount",
-            "summitFeet": -900,
-            "magmaType": "Alkali basalt",
-            "desc": "Largest and most prominent seamount in the New England chain. ~15 Ma (Miocene). Summit at ~275m below sea level. Active ocean circulation effects documented. 50+ years of scientific research. Major cold-water coral habitat."
         },
         {
             "name": "Winchester Kimberlite",
