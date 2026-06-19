@@ -2892,15 +2892,6 @@
             "desc": "Neoproterozoic (~750-570 Ma) bimodal volcanic rocks in the Blue Ridge of southwestern Virginia. Contains ash-flow tuffs, rhyolites, and basalts documenting rifting of the Rodinia supercontinent. The compositionally zoned ash-flow sheet is one of the best-preserved Precambrian ignimbrites in eastern North America. Mount Rogers (1746m) is Virginia's highest peak, capped by these ancient volcanic rocks."
         },
         {
-            "name": "New England Seamount Chain",
-            "vei": 4,
-            "coordinates": [39.80, -67.20],
-            "type": "Seamount Chain",
-            "summitFeet": -4000,
-            "magmaType": "Alkali basalt, basanite",
-            "desc": "Chain of 20+ submarine volcanic seamounts stretching 1,200+ km from the New England continental margin into the Atlantic Ocean. Age-progressive from ~100 Ma (Bear Seamount, oldest) to ~5 Ma (Corner Rise, youngest). Formed by a hotspot track as the North American plate moved westward over a stationary mantle plume. Bear Seamount is the oldest and largest. Great Meteor Seamount has the shallowest summit at ~275m depth. Active deep-water circulation and cold-water coral communities documented."
-        },
-        {
             "name": "Bear Seamount",
             "vei": 4,
             "coordinates": [39.80, -67.20],
