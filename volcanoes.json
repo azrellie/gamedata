@@ -31,15 +31,6 @@
             "desc": "Largest stratovolcano in Europe by volume. Formed ~2 Ma. Extensive caldera collapse produced massive ignimbrite sheets. One of the most voluminous volcanoes in the Massif Central."
         },
         {
-            "name": "Mont Dore",
-            "vei": 5,
-            "coordinates": [45.5, 2.81],
-            "type": "Stratovolcano",
-            "summitFeet": 6184,
-            "magmaType": "Basalt, trachyte",
-            "desc": "Massive stratovolcano complex in the Massif Central. Two major caldera-forming eruptions. Summit Puy de Sancy (1885m) is the highest peak in the Massif Central."
-        },
-        {
             "name": "Devès Massif",
             "vei": 4,
             "coordinates": [45.05, 3.53],
