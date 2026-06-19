@@ -5059,6 +5059,15 @@
             "desc": "The southernmost caldera of the Kenya rift, Suswa contains a prominent lava cone on the south side of its 8 x 12 km caldera. Suswa lies south of Longonot volcano and about 50 km WNW of the capital city of Nairobi. Construction of an early shield volcano was followed by eruption of voluminous Pleistocene pumice and lava flows that accompanied incremental formation of the caldera. The 2356-m summit of the phonolitic-to-trachytic volcano is formed by the post-caldera lava cone of Ol Doinyo Onyoke (The Red Mountain, also known as Ol Doinyo Nyukie) on the south side of the caldera. Its large elongated summit crater is truncated on the north by a ring graben. This unusual 5-km-wide circular graben at the center of the older caldera isolates a tilted island block of caldera-floor lava flows. The latest eruptions have originated from satellitic vents that issued lava flows which remain unvegetated and may be only a century or so old." 
         },
         {
+            "name": "Guamsan Caldera",
+            "vei": 7,
+            "coordinates": [36.15233212529075, 129.10346965340028],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in South Korea, 9 kilometers in diameter. It is associated with the Guamsan tuff that covers a large portion of the Gyeongsang basin." 
+        },
+        {
             "name": "Moua Pihaa",
             "vei": 0,
             "coordinates": [-18.325010167483093, -148.52497854585445],
