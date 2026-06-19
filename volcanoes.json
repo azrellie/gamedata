@@ -2809,6 +2809,205 @@
             "magmaType": "Basalt",
             "desc": "The Hainan volcanic field consists of Quaternary lava flows that extend over about 4,100 km2 of northern Hainan Island (also known as Qiong). This field, along with the Leizhou Bandao volcanic field across the Qiongzhou strait to the north on the Leizhou (Liuchow) Peninsula, forms the larger Leiqiong volcanic field (also called the Qionglei volcano group). As many as 58 cones and craters are still evident, primarily near the city of Hainan on the north-central coast of the island. Eruptions were reported in the Lingao and Chengmai areas in the 19th and 20th centuries. Leihuling and Maanshan, two of the best preserved volcanic cones, are oriented along an E-W fracture and are part of a cluster of about 30 cones in the Shishan and Yongzing regions. The Haikou Volcanic Cluster, part of the Leiqiong World Geopark, around the town of Shishan 15 km SE of Hainan city, includes 40 volcanic features."
         },
+        
+        {
+            "name": "Moat Mountain Volcanic Center",
+            "vei": 5,
+            "coordinates": [44.05, -71.15],
+            "type": "Caldera",
+            "summitFeet": 3200,
+            "magmaType": "Rhyolite, trachyte",
+            "desc": "Cretaceous (~124 Ma) volcanic center in the White Mountain Magma Series, New Hampshire. Produced extensive rhyolitic ash-flow tuffs from a collapsing cauldron. The Moat Conglomerate preserves the caldera fill. Multiple ignimbrite sheets document at least two major caldera-forming eruptions. Part of a hotspot track that also produced the Monteregian Hills."
+        },
+        {
+            "name": "Watchung Basalts",
+            "vei": 3,
+            "coordinates": [40.88, -74.17],
+            "type": "Flood Basalt",
+            "summitFeet": 1600,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Three stacked Triassic-Jurassic (~201 Ma) flood basalt flows in the Newark Basin, New Jersey. The Orange Mountain Basalt is the lowest and oldest, followed by the Preakness and Hook Mountain basalts. Total thickness ~300m. Part of the Central Atlantic Magmatic Province (CAMP), one of the largest volcanic events in Earth history. Individual flows covered ~20,000 km²."
+        },
+        {
+            "name": "Holyoke Basalt",
+            "vei": 3,
+            "coordinates": [41.75, -72.65],
+            "type": "Flood Basalt",
+            "summitFeet": 1000,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Late Triassic (~201 Ma) flood basalt flow in the Hartford Basin, Connecticut. The thickest basalt unit in the basin at ~250m. Classic traprock ridges of New England. Crystal-mush compaction and differentiation documented within single flow. Part of CAMP. Forms prominent east-west ridges across central Connecticut."
+        },
+        {
+            "name": "Talcott Basalt",
+            "vei": 3,
+            "coordinates": [41.60, -72.80],
+            "type": "Flood Basalt",
+            "summitFeet": 800,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Late Triassic (~201 Ma) basalt flow, lowest volcanic unit in the Hartford Basin, Connecticut. Part of CAMP. Thin but laterally extensive flow interbedded with red sedimentary rocks."
+        },
+        {
+            "name": "Hockanum Basalt",
+            "vei": 3,
+            "coordinates": [41.65, -72.55],
+            "type": "Flood Basalt",
+            "summitFeet": 900,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Late Triassic (~201 Ma) basalt flow in the Hartford Basin, Connecticut. Middle basalt unit between the Talcott and Holyoke flows. Part of CAMP."
+        },
+        {
+            "name": "Preakness Basalt",
+            "vei": 3,
+            "coordinates": [40.96, -74.25],
+            "type": "Flood Basalt",
+            "summitFeet": 1200,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Early Jurassic (~201 Ma) flood basalt flow in the Newark Basin, New Jersey. ~150m thick. Fed by the Palisades Sill magmatic system. Part of CAMP. Forms the second major basalt ridge in the Watchung Mountains."
+        },
+        {
+            "name": "Hook Mountain Basalt",
+            "vei": 3,
+            "coordinates": [40.85, -74.30],
+            "type": "Flood Basalt",
+            "summitFeet": 1100,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Early Jurassic (~201 Ma) flood basalt flow in the Newark Basin, New Jersey. Third and uppermost basalt unit in the Watchung sequence. ~100m thick. Part of CAMP."
+        },
+        {
+            "name": "Mt. Ascutney",
+            "vei": 4,
+            "coordinates": [43.52, -72.52],
+            "type": "Volcanic Complex",
+            "summitFeet": 3144,
+            "magmaType": "Alkaline gabbro, syenite, rhyolite",
+            "desc": "Cretaceous (~122 Ma) isolated volcanic center in southeastern Vermont. Documented cauldron subsidence indicates a caldera-forming eruption. Alkaline complex with rocks ranging from gabbro to syenite. Assimilation of crustal material by mafic magmas documented via Sr and O isotopes. One of the few confirmed Mesozoic volcanic centers in New England."
+        },
+        {
+            "name": "Mt. Rogers Formation",
+            "vei": 4,
+            "coordinates": [36.93, -81.58],
+            "type": "Volcanic Field",
+            "summitFeet": 5729,
+            "magmaType": "Rhyolite, basalt, ash-flow tuff",
+            "desc": "Neoproterozoic (~750-570 Ma) bimodal volcanic rocks in the Blue Ridge of southwestern Virginia. Contains ash-flow tuffs, rhyolites, and basalts documenting rifting of the Rodinia supercontinent. The compositionally zoned ash-flow sheet is one of the best-preserved Precambrian ignimbrites in eastern North America. Mount Rogers (1746m) is Virginia's highest peak, capped by these ancient volcanic rocks."
+        },
+        {
+            "name": "New England Seamount Chain",
+            "vei": 4,
+            "coordinates": [39.80, -67.20],
+            "type": "Seamount Chain",
+            "summitFeet": -4000,
+            "magmaType": "Alkali basalt, basanite",
+            "desc": "Chain of 20+ submarine volcanic seamounts stretching 1,200+ km from the New England continental margin into the Atlantic Ocean. Age-progressive from ~100 Ma (Bear Seamount, oldest) to ~5 Ma (Corner Rise, youngest). Formed by a hotspot track as the North American plate moved westward over a stationary mantle plume. Bear Seamount is the oldest and largest. Great Meteor Seamount has the shallowest summit at ~275m depth. Active deep-water circulation and cold-water coral communities documented."
+        },
+        {
+            "name": "Bear Seamount",
+            "vei": 4,
+            "coordinates": [39.80, -67.20],
+            "type": "Seamount",
+            "summitFeet": -3900,
+            "magmaType": "Alkali basalt",
+            "desc": "Oldest and westernmost volcano in the New England Seamount Chain. ~100 Ma (Cretaceous). Water depth at summit ~1,200m. Extensive biodiversity documented including deep-sea corals and unique fauna. Marks the initiation of hotspot volcanism as the Atlantic opened."
+        },
+        {
+            "name": "Great Meteor Seamount",
+            "vei": 4,
+            "coordinates": [35.00, -58.00],
+            "type": "Seamount",
+            "summitFeet": -900,
+            "magmaType": "Alkali basalt",
+            "desc": "Largest and most prominent seamount in the New England chain. ~15 Ma (Miocene). Summit at ~275m below sea level. Active ocean circulation effects documented. 50+ years of scientific research. Major cold-water coral habitat."
+        },
+        {
+            "name": "Winchester Kimberlite",
+            "vei": 2,
+            "coordinates": [38.15, -79.15],
+            "type": "Kimberlite Pipe",
+            "summitFeet": 1800,
+            "magmaType": "Kimberlite",
+            "desc": "Cretaceous (~75 Ma) kimberlite diatreme near Winchester, Virginia. One of the easternmost kimberlite occurrences in North America. Diamond-bearing indicator minerals documented. Part of a scattered kimberlite province related to deep mantle upwelling beneath the ancient North American craton."
+        },
+        {
+            "name": "South Windsor Kimberlite",
+            "vei": 2,
+            "coordinates": [41.45, -72.65],
+            "type": "Kimberlite Pipe",
+            "summitFeet": 500,
+            "magmaType": "Kimberlite",
+            "desc": "Cretaceous (~100 Ma) kimberlite diatreme in central Connecticut. One of several kimberlite pipes scattered across New England. Deep-source volcanic eruption from >150km depth. Part of the Great Meteor hotspot track kimberlite province."
+        },
+        {
+            "name": "Glenwood Kimberlite",
+            "vei": 2,
+            "coordinates": [40.45, -74.25],
+            "type": "Kimberlite Pipe",
+            "summitFeet": 400,
+            "magmaType": "Kimberlite",
+            "desc": "Cretaceous (~100 Ma) kimberlite diatreme on the New Jersey/New York border. Part of a cluster of kimberlite pipes in the northeastern US. Deep-source explosive eruption from the upper mantle."
+        },
+        {
+            "name": "Cuttingsville Complex",
+            "vei": 4,
+            "coordinates": [43.48, -72.98],
+            "type": "Volcanic Complex",
+            "summitFeet": 2600,
+            "magmaType": "Nepheline syenite, alkaline gabbro",
+            "desc": "Cretaceous (~122 Ma) alkaline complex in Vermont. Contains nepheline syenite and alkaline gabbro. Part of the Monteregian-White Mountain alkaline province. Magnetic and gravity anomalies indicate a substantial subsurface intrusion. Related to the same hotspot that produced the Monteregian Hills."
+        },
+        {
+            "name": "Mont Royal (Montreal)",
+            "vei": 4,
+            "coordinates": [45.50, -73.58],
+            "type": "Intrusive Complex",
+            "summitFeet": 764,
+            "magmaType": "Alkaline gabbro, syenite, nepheline syenite",
+            "desc": "Cretaceous (~124 Ma) alkaline pluton and the most prominent of the Monteregian Hills, Quebec. The city of Montreal is built around and on this ancient volcano. Alkaline gabbro to nepheline syenite composition. Part of a linear chain of alkaline intrusions thought to track the North American plate over a mantle hotspot."
+        },
+        {
+            "name": "Mont Saint-Hilaire",
+            "vei": 4,
+            "coordinates": [45.55, -73.45],
+            "type": "Intrusive Complex",
+            "summitFeet": 1342,
+            "magmaType": "Alkaline gabbro, peralkaline syenite",
+            "desc": "Cretaceous (~124 Ma) alkaline complex in the Monteregian Hills, Quebec. Over 90 different mineral species documented — one of the most mineralogically diverse localities on Earth. Contains rare minerals including seidozerite, catapleiite, and many others found in very few places worldwide."
+        },
+        {
+            "name": "Oka Complex",
+            "vei": 4,
+            "coordinates": [45.98, -74.05],
+            "type": "Carbonatite Complex",
+            "summitFeet": 1200,
+            "magmaType": "Carbonatite, alkaline rocks",
+            "desc": "Cretaceous (~124 Ma) carbonatite complex in the Monteregian province, Quebec. One of the few carbonatite occurrences in North America. Contains rare earth element mineralization. Carbonatite is among the most exotic volcanic rock types on Earth — molten carbonate magma from deep mantle sources."
+        },
+        {
+            "name": "Cadillac Mountain Complex",
+            "vei": 4,
+            "coordinates": [44.35, -68.22],
+            "type": "Volcanic Complex",
+            "summitFeet": 1530,
+            "magmaType": "Gabbro, granite (bimodal)",
+            "desc": "Devonian (~420-380 Ma) bimodal intrusive/volcanic complex on Mount Desert Island, Maine. Classic example of silicic magma chambers trapping basaltic magmas. The Cadillac Mountain granite is the largest granite pluton in New England. Evidence of surface volcanic expression through bimodal volcanism. Part of the Acadian orogeny magmatism."
+        },
+        {
+            "name": "Pleasant Bay Gabbro",
+            "vei": 3,
+            "coordinates": [44.65, -67.55],
+            "type": "Layered Intrusion",
+            "summitFeet": 500,
+            "magmaType": "Gabbro, diorite",
+            "desc": "Silurian-Devonian (~440-400 Ma) layered gabbro-diorite intrusion on the coast of Maine. Documents basaltic injections into a silicic magma chamber — a snapshot of magma mixing processes. Exposed in dramatic sea cliffs. Part of the Coastal Maine magmatic province."
+        },
+        {
+            "name": "Fundy Basin Volcanics",
+            "vei": 3,
+            "coordinates": [45.35, -64.50],
+            "type": "Flood Basalt",
+            "summitFeet": 600,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Triassic-Jurassic (~230-200 Ma) basalt flows and diabase intrusions in the Fundy Basin, Nova Scotia. Part of CAMP. The Fundy dike swarm is one of the major feeder systems for CAMP magmatism. Bay of Fundy tides expose these ancient volcanic rocks in dramatic coastal cliffs."
+        },
         {
             "name": "Keluo Group",
             "vei": 2,
