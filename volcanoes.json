@@ -28,16 +28,16 @@
             "type": "Caldera",
             "summitFeet": 1837,
             "magmaType": "Rhyolite",
-            "desc": "A massive caldera in Queensland, Australia. It was formed by a singular eruption with an estimated volume of 1,000 to 2,000 km3 of tephra."
+            "desc": "A massive caldera in California, measuring 30 by 22 kilometers for the main caldera and a 10 kilometer resurgent dome. It has been heavily eroded over 100 million years, so the original dimensions could have been much bigger."
         },
         {
             "name": "Mungore Caldera",
             "vei": 8,
             "coordinates": [-25.73006459881995, 152.01679099587244],
             "type": "Caldera",
-            "summitFeet": 12270,
+            "summitFeet": 1837,
             "magmaType": "Rhyolite",
-            "desc": "One of the largest calderas in california, measuring 30 by 22 kilometers, as well as a 10 kilometer resurgent dome. Has experienced strong erosion over 100 million years, making the real dimensions possibly much bigger."
+            "desc": "A massive caldera in Queensland, Australia. It was formed by a singular eruption with an estimated volume of 1,000 to 2,000 km3 of tephra."
         },
         {
             "name": "Cantal",
