@@ -4584,6 +4584,33 @@
             "desc": "~18 km diameter caldera within the Whitsunday Volcanic Province, now partially submerged. Cretaceous (~120 Ma). One of several nested calderas in the province. The caldera rim is exposed as islands in the Whitsunday group. Associated with massive ignimbrite eruptions during Gondwana breakup."
         },
         {
+            "name": "Bunbury Basalt",
+            "vei": 2,
+            "coordinates": [-33.33, 115.6],
+            "type": "Continental Basalt Flows",
+            "summitFeet": 200,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Early Cretaceous (137-130.5 Ma) tholeiitic basalt flows in southwestern Western Australia. Outcrops at Wyalup-Rocky Point near Bunbury. Related to the Kerguelen mantle plume during the breakup of eastern India from Australia. Associated with the Naturaliste Plateau (132-128 Ma). Part of the earliest Kerguelen Large Igneous Province activity. Source: Frey et al. (1996); Olierook et al. (2016)."
+        },
+        {
+            "name": "Kimberley Extinct Volcanoes",
+            "vei": 2,
+            "coordinates": [-17.5, 126.0],
+            "type": "Volcanic Field (Multiple Vents)",
+            "summitFeet": 1500,
+            "magmaType": "Basalt",
+            "desc": "~19 small extinct volcanic vents in the Fitzroy River valley, Kimberley region, Western Australia. Scattered across ~200 km. Associated hot springs may be connected. Remote and poorly studied. Located in one of Australia's most geologically ancient landscapes."
+        },
+        {
+            "name": "Musgrave Block Volcanics",
+            "vei": 4,
+            "coordinates": [-25.5, 130.5],
+            "type": "Volcanic Complex (Caldera + Bimodal)",
+            "summitFeet": 3000,
+            "magmaType": "Basalt, rhyolite (bimodal)",
+            "desc": "Mesoproterozoic (~1080-1050 Ma) volcanic complex in the Musgrave Block, central Australia near the WA/NT/SA border. Includes Skirmish Hill Caldera, Palgrave Volcanic Association (~1500 km² caldera complex), and Bentley Supergroup with bimodal volcanism (basalt + rhyolite). The Giles Complex contains mafic to ultramafic intrusions (~1080 Ma) part of the Warakurna Large Igneous Province. One of the few significant Precambrian volcanic centres in central Australia."
+        },
+        {
             "name": "Mount Kaputar (Nandewar Volcano)",
             "vei": 5,
             "coordinates": [-30.2, 150.1],
