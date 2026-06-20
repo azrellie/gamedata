@@ -7021,13 +7021,67 @@
             "desc": "A huge volcanic caldera in southern Kii Peninsula, Japan. It was formed 13 million years ago during an active phase of volcanism in Japan, which caused the formation of several VEI-8 calderas."
         },
         {
-            "name": "Yirrigue Caldera",
+            "name": "São Tomé",
+            "vei": 3,
+            "coordinates": [0.33, 6.55],
+            "type": "Stratovolcano",
+            "summitFeet": 6640,
+            "magmaType": "Basanite, phonolite",
+            "desc": "Volcanic island in the Gulf of Guinea. Part of the Cameroon Volcanic Line. Pico de São Tomé is the highest peak. No historical eruptions but considered active. Alkaline volcanism."
+        },
+        {
+            "name": "Príncipe",
+            "vei": 2,
+            "coordinates": [1.65, 7.4],
+            "type": "Stratovolcano",
+            "summitFeet": 3071,
+            "magmaType": "Basanite, phonolite",
+            "desc": "Small volcanic island in the Gulf of Guinea. Part of the Cameroon Volcanic Line. No historical eruptions. Alkaline volcanism. UNESCO Biosphere Reserve."
+        },
+        {
+            "name": "Annobon",
+            "vei": 2,
+            "coordinates": [-1.4, 5.63],
+            "type": "Stratovolcano",
+            "summitFeet": 1969,
+            "magmaType": "Basanite, nephelinite",
+            "desc": "Small volcanic island in the Gulf of Guinea. Southernmost island of the Cameroon Volcanic Line. No historical eruptions. Deeply eroded volcanic center."
+        },
+        {
+            "name": "Santiago",
+            "vei": 3,
+            "coordinates": [15.08, -23.62],
+            "type": "Stratovolcano",
+            "summitFeet": 4367,
+            "magmaType": "Basanite, phonolite",
+            "desc": "Largest island in Cape Verde. Volcanic island with multiple eruptive centers. No historical eruptions. Contains the capital city Praia. Alkaline volcanism."
+        },
+        {
+            "name": "Toussidé–Yirrigué",
             "vei": 7,
             "coordinates": [21.048784962848124, 16.55434433875907],
             "type": "Caldera",
             "summitFeet": 5226,
             "magmaType": "Rhyolite",
             "desc": "A large caldera 14 kilometers in diameter. It is directly related to the Tarso Toussidé volcano that lies to the west."
+        },
+        {
+            "name": "Trou au Natron",
+            "vei": 5,
+            "coordinates": [18.28, 18.55],
+            "type": "Maar",
+            "summitFeet": 7546,
+            "magmaType": "Basanite",
+            "desc": "Giant maar/caldera complex in the Tibesti Mountains, Chad. 8km diameter, 1000m deep. Confirmed explosive caldera-forming eruption (VEI 5). Contains natron deposits. Formed by massive phreatomagmatic explosions. One of the largest maars in the world. Part of the Tibesti volcanic province."
+        },
+        {
+            "name": "Tarso Voon",
+            "vei": 6,
+            "coordinates": [18.18, 18.28],
+            "type": "Stratovolcano",
+            "summitFeet": 9843,
+            "magmaType": "Basanite, trachyte",
+            "desc": "Broad shield volcano in the west-central Tibesti Range, Chad. Truncated by a massive 14 x 18 km caldera — comparable to Crater Lake (VEI 6) and approaching Long Valley (VEI 7) in size. Ignimbrite deposits surround the caldera to distances of 15-35 km, indicating massive explosive eruptions. Constructed over Precambrian schists. Youthful Quaternary basaltic lava flows erupted from vents near the caldera rim. One of the largest volcanic structures in the Tibesti province and the Sahara."
         },
         {
             "name": "Fisher",
@@ -7244,6 +7298,15 @@
             "summitFeet": 7746,
             "magmaType": "Basalt",
             "desc": "Karthala is an active shield volcano in the Comoros. More than twenty eruptions have been recorded since the 19th century from the summit caldera and vents on the N and S flanks."
+        },
+        {
+            "name": "La Grille",
+            "vei": 3,
+            "coordinates": [-11.85, 43.33],
+            "type": "Shield Volcano",
+            "summitFeet": 5151,
+            "magmaType": "Basanite",
+            "desc": "Eroded shield volcano on Grande Comore, Comoros Islands. Older than Karthala. No historical eruptions. Part of the Comoros volcanic chain."
         },
         {
             "name": "Igwisi Hills",
