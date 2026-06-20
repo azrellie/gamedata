@@ -4064,6 +4064,18 @@
             ]
         },
         {
+            "name": "Warakurna Large Igneous Province",
+            "vei": 10,
+            "coordinates": [-25.5, 130.5],
+            "type": "Large Igneous Province (Bimodal)",
+            "summitFeet": 3000,
+            "magmaType": "Basalt, rhyolite, dacite, A-type granite",
+            "desc": "Mesoproterozoic (~1078-1073 Ma) large igneous province spanning ~1.5 million km2 across central Australia, centered on the Musgrave Block at the WA/NT/SA border. Bimodal volcanism: massive mafic intrusions (Giles Complex) in the lower crust generated enough heat to produce explosive felsic caldera-forming eruptions (Bentley Supergroup). Contains multiple large calderas including the Palgrave Caldera (~1500 km2), Skirmish Hill Caldera, and Smoke Hill Caldera. The Bentley Supergroup reaches several km true thickness. The A-type Winburn Suite granites (1050 Ma) represent the plutonic roots of the caldera systems. One of the largest Proterozoic LIPs on Earth, comparable in extent to the Parana-Etendeka. Source: Wingate, Pirajno and Morris (2004) Geology 32(2): 105-108.",
+            "chatMessages": [
+                "<b><font color='rgb(125,0,0)'>The entire Australian interior begins to glow as 1.5 million km\u00b2 of ancient crust tears itself apart...</font></b>", 
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Satellite imagery confirms the largest thermal anomaly ever recorded as the Warakurna province blankets the continent in fire and ash...</font></stroke></b>"]
+        },
+        {
             "name": "Karoo Ferrar Large Igneous Province",
             "vei": 10,
             "coordinates": [-29.345879461203985, 28.951795786857396],
