@@ -7068,7 +7068,7 @@
         {
             "name": "Trou au Natron",
             "vei": 5,
-            "coordinates": [18.28, 18.55],
+            "coordinates": [20.97290209,16.57204176],
             "type": "Maar",
             "summitFeet": 7546,
             "magmaType": "Basanite",
@@ -7077,7 +7077,7 @@
         {
             "name": "Tarso Voon",
             "vei": 6,
-            "coordinates": [18.18, 18.28],
+            "coordinates": [20.92002043,17.28040394],
             "type": "Stratovolcano",
             "summitFeet": 9843,
             "magmaType": "Basanite, trachyte",
