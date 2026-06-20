@@ -22,6 +22,15 @@
             "desc": "A giant caldera south of the Chihuahua city, Mexico. It was formed in 2 stages. 1st stage: A large rhyolitic eruption, releasing over 200 km3 of tephra. 2nd stage: A resurgent caldera, formed in a VEI 6 eruption that blasted out 50 km3 of material."
         },
         {
+            "name": "Minarets Caldera",
+            "vei": 8,
+            "coordinates": [37.57815134161704, -119.23516680298042],
+            "type": "Caldera",
+            "summitFeet": 12270,
+            "magmaType": "Rhyolite",
+            "desc": "One of the largest calderas in california, measuring 30 by 22 kilometers, as well as a 10 kilometer resurgent dome. Has experienced strong erosion over 100 million years, making the real dimensions possibly much bigger."
+        },
+        {
             "name": "Cantal",
             "vei": 6,
             "coordinates": [45.08, 2.68],
