@@ -7769,8 +7769,8 @@
         },
         {
             "name": "Lyttelton Volcano",
-            "vei": 6,
-            "coordinates": [-43.61, 172.71],
+            "vei": 5,
+            "coordinates": [-43.6, 172.72],
             "type": "Stratovolcano / Caldera",
             "summitFeet": 1550,
             "magmaType": "Alkali basalt, trachyte, rhyolite",
@@ -7778,7 +7778,7 @@
         },
         {
             "name": "Akaroa Volcano",
-            "vei": 6,
+            "vei": 5,
             "coordinates": [-43.8, 172.95],
             "type": "Stratovolcano / Caldera",
             "summitFeet": 1650,
@@ -7787,8 +7787,8 @@
         },
         {
             "name": "Waiareka-Deborah Volcanic Field",
-            "vei": 3,
-            "coordinates": [-45.05, 170.85],
+            "vei": 2,
+            "coordinates": [-45.05, 170.75],
             "type": "Monogenetic Volcanic Field (Surtseyan)",
             "summitFeet": 500,
             "magmaType": "Sub-alkaline basalt, basaltic andesite",
@@ -7814,7 +7814,7 @@
         },
         {
             "name": "Mount Horrible",
-            "vei": 3,
+            "vei": 2,
             "coordinates": [-44.383, 171.05],
             "type": "Volcanic Centre",
             "summitFeet": 1200,
@@ -7823,7 +7823,7 @@
         },
         {
             "name": "Otago Peninsula Volcanic Field",
-            "vei": 3,
+            "vei": 2,
             "coordinates": [-45.83, 170.72],
             "type": "Monogenetic Volcanic Field",
             "summitFeet": 1200,
@@ -7832,8 +7832,8 @@
         },
         {
             "name": "Port Chalmers Diatreme",
-            "vei": 3,
-            "coordinates": [-45.82, 170.63],
+            "vei": 2,
+            "coordinates": [-45.818, 170.619],
             "type": "Diatreme",
             "summitFeet": 300,
             "magmaType": "Phonolite, basanite, trachyandesite",
@@ -7841,8 +7841,8 @@
         },
         {
             "name": "The Crater (Middlemarch)",
-            "vei": 3,
-            "coordinates": [-45.5, 170.2],
+            "vei": 2,
+            "coordinates": [-45.527, 170.218],
             "type": "Maar / Diatreme",
             "summitFeet": 400,
             "magmaType": "Unknown",
@@ -7850,12 +7850,57 @@
         },
         {
             "name": "Mount Cargill",
-            "vei": 3,
-            "coordinates": [-45.83, 170.53],
+            "vei": 2,
+            "coordinates": [-45.813, 170.555],
             "type": "Lava Dome",
             "summitFeet": 2190,
             "magmaType": "Phonolite",
             "desc": "Phonolite domes forming the highest point within the Dunedin Volcanic Group at 676 m. Age: ~11 Ma (youngest phase of Dunedin Volcano). The phonolite represents highly evolved alkaline magma. Distinctive dome morphology visible from Dunedin city. Part of the late-stage eruptions that produced the most compositionally evolved lavas in the volcanic group. Source: Coombs et al. (2008) NZJGG."
+        },
+        {
+            "name": "Foulden Maar",
+            "vei": 2,
+            "coordinates": [-45.527, 170.218],
+            "type": "Maar / Diatreme",
+            "summitFeet": 200,
+            "magmaType": "Unknown (phreatomagmatic)",
+            "desc": "Phreatomagmatic maar (~23 Ma) in central Otago, famous worldwide as a fossil lagerstätte. The maar lake sediments preserved an extraordinary 23-million-year-old ecosystem including ancient forests, insects, fish, and birds in exquisite detail. One of the most important Miocene fossil sites on Earth. The maar formed when magma hit groundwater on the submerged continental shelf. Source: Scott et al. (2020) NZJGG 63(4)."
+        },
+        {
+            "name": "Ōnawe Peninsula",
+            "vei": 2,
+            "coordinates": [43.774, 172.925],
+            "type": "Volcanic Plug",
+            "summitFeet": 650,
+            "magmaType": "Basalt",
+            "desc": "Dramatic volcanic plug sitting in the middle of Akaroa Harbour, Banks Peninsula. A resistant basaltic neck that survived erosion while softer surrounding rocks were stripped away. Forms a distinctive peninsula connected to the mainland by a narrow causeway. Part of the Akaroa Volcanic Group (~9-8 Ma). Visually one of the most striking volcanic landforms on the South Island."
+        },
+        {
+            "name": "Saddle Hill",
+            "vei": 2,
+            "coordinates": [-45.911, 170.356],
+            "type": "Volcanic Plug",
+            "summitFeet": 1552,
+            "magmaType": "Basanite, phonotephrite",
+            "desc": "Prominent volcanic plug SW of Dunedin, rising to 473 m. Composed of basanite with tuff and basaltic trachyandesite. Part of the Dunedin Volcanic Group (~11-9 Ma). Named for its saddle-shaped profile when viewed from the north. One of the most recognizable landmarks on the approach to Dunedin from the south. Contains mantle xenoliths documenting magma ascent through continental lithosphere."
+        },
+        {
+            "name": "Alpine Dyke Swarm",
+            "vei": 0,
+            "coordinates": [-44.7, 169.1],
+            "type": "Dyke Swarm (Intrusive)",
+            "summitFeet": 3000,
+            "magmaType": "Lamprophyre, phonolite, carbonatite",
+            "desc": "Mid-Miocene (~25 Ma) alkaline lamprophyre-phonolite-carbonatite dyke swarm in the Southern Alps near Lake Wānaka. One of the rarest magma associations on Earth — carbonatite (carbonate-rich magma) is extremely uncommon. The dykes intruded along the Alpine Fault zone during active tectonic deformation. Exposed by uplift and glacial erosion. Source: Cooper (2020) NZJGG 63(4): 469-488."
+        },
+        {
+            "name": "Tapuaenuku Igneous Complex",
+            "vei": 0,
+            "coordinates": [-41.996, 173.663],
+            "type": "Intrusive Complex (Pluton)",
+            "summitFeet": 9465,
+            "magmaType": "Gabbro, ultramafic",
+            "desc": "Cretaceous ultramafic intrusive complex forming the core of Tapuae-o-Uenuku (2,885 m), the highest peak outside the Southern Alps in Marlborough. A massive gabbroic body representing the plutonic root/magma chamber of an ancient subduction-related volcano. Exposed by millions of years of erosion. Contains cumulate minerals documenting deep magma chamber processes. Source: Baker et al. (1994) NZJGG 37(3): 249-268."
         },
         {
             "name": "Darwin",
