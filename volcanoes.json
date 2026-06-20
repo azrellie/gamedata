@@ -4076,6 +4076,87 @@
                 "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Satellite imagery confirms the largest thermal anomaly ever recorded as the Warakurna province blankets the continent in fire and ash...</font></stroke></b>"]
         },
         {
+            "name": "Kathleen Ignimbrite Caldera",
+            "vei": 7,
+            "coordinates": [-25.8, 130.2],
+            "type": "Caldera (Rhyolitic Ignimbrite)",
+            "summitFeet": 2000,
+            "magmaType": "A-type rhyolite (REE-enriched)",
+            "desc": "Caldera within the Warakurna LIP that produced the Kathleen Ignimbrite at 1071+/-5 Ma. Minimum erupted volume ~190 km3 of A-type rhyolite ignimbrite, reaching up to 640m thick. One of the most voluminous known ignimbrite deposits in Proterozoic Australia. Enriched in rare earth elements with high halogen content. Part of the Pussycat Group. Source: Offler et al. (2015, 2017)."
+        },
+        {
+            "name": "Palgrave Caldera",
+            "vei": 7,
+            "coordinates": [-25.3, 130.8],
+            "type": "Caldera Complex",
+            "summitFeet": 2000,
+            "magmaType": "Porphyritic rhyolite, dacite",
+            "desc": "~1500 km2 caldera complex, ~1050 Ma. Circular ring-complex faults, porphyritic rhyolite and dacite lavas with vent agglomerates. Underlain by Winburn Granite. Tilted southwest. One of the largest Proterozoic caldera complexes in Australia."
+        },
+        {
+            "name": "Skirmish Hill Caldera",
+            "vei": 6,
+            "coordinates": [-25.6, 130.0],
+            "type": "Caldera (Granite-Rhyolite)",
+            "summitFeet": 2000,
+            "magmaType": "Granite, rhyolite",
+            "desc": "Caldera along the southern margin of the Musgrave Block, ~1050 Ma. Granite and overlying rhyolite. Source for the Tollu Volcanics. Truncated by a north-dipping thrust fault."
+        },
+        {
+            "name": "Smoke Hill Caldera",
+            "vei": 6,
+            "coordinates": [-25.4, 130.4],
+            "type": "Caldera (Andesite-Rhyolite)",
+            "summitFeet": 2000,
+            "magmaType": "Andesite, rhyolite, granite",
+            "desc": "One of three main caldera complexes within the Warakurna LIP, ~1050 Ma. Andesitic to rhyolitic volcanic rocks and associated granite intrusions."
+        },
+        {
+            "name": "Mummawarrawarra Basalt",
+            "vei": 3,
+            "coordinates": [-25.7, 130.6],
+            "type": "Basalt Flow Field",
+            "summitFeet": 1500,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Mafic volcanic unit, ~1050-1080 Ma. Part of the Bentley Supergroup. The mafic end-member of the bimodal volcanic suite. Surface expression of the massive mafic intrusions in the Giles Complex below."
+        },
+        {
+            "name": "Unnamed Warakurna Caldera (BHP Drillhole)",
+            "vei": 6,
+            "coordinates": [-25.2, 130.9],
+            "type": "Caldera (Felsic + Mafic)",
+            "summitFeet": 2000,
+            "magmaType": "Felsic volcanic, titaniferous mafic sills",
+            "desc": "Undrilled caldera detected as gravity and magnetic anomaly along the Musgrave Block strike. BHP drilled through 300m of Permian glacial sediments in the 1990s, intersecting highly tectonised felsic volcanic rocks interleaved with titaniferous differentiated mafic sills. One of several hotspots along the strike where significant magma flux penetrated the crust."
+        },
+        {
+            "name": "Cassidy Bimodal Group",
+            "vei": 3,
+            "coordinates": [-25.4, 129.8],
+            "type": "Volcanic Group (Bimodal)",
+            "summitFeet": 1500,
+            "magmaType": "Alternating basalt and rhyolite",
+            "desc": "Bimodal volcanic group within the Bentley Supergroup, ~1080 Ma. Alternating rhyolite and basaltic volcanism with several hundred metres thickness of each. Represents the classic bimodal volcanic signature of the Warakurna LIP — massive mafic intrusions (Giles Complex) heated the crust enough to generate felsic melts."
+        },
+        {
+            "name": "Talbot Rhyolitic Group",
+            "vei": 4,
+            "coordinates": [-25.0, 130.1],
+            "type": "Volcanic Group (Rhyolitic)",
+            "summitFeet": 2000,
+            "magmaType": "A-type rhyolite, REE-enriched",
+            "desc": "Rhyolitic volcanic group in the Talbot Sub-basin, ~1085-1040 Ma. Contains the Kathleen Ignimbrite (VEI 7, 190 km3) and Rowland Suite intrusions. ~1 km thick volcanic-sedimentary succession. Hosts the most evolved silicic rock suite in the West Musgrave Province, extremely enriched in REE and fluorine. Renamed from original designation due to Roblox chat filter concerns."
+        },
+        {
+            "name": "Tollu Intermediate-Felsic Group",
+            "vei": 4,
+            "coordinates": [-25.7, 130.2],
+            "type": "Volcanic Group (Intermediate-Felsic)",
+            "summitFeet": 1800,
+            "magmaType": "Andesite, dacite, rhyolite",
+            "desc": "Intermediate to felsic volcanic group on the southern margin of the Musgrave Block, ~1080-1050 Ma. Product of the large granite calderas (Skirmish Hill, Smoke Hill). Differs from Cassidy and Talbot Groups in being associated with caldera sources rather than direct rift volcanism."
+        },
+        {
             "name": "Karoo Ferrar Large Igneous Province",
             "vei": 10,
             "coordinates": [-29.345879461203985, 28.951795786857396],
@@ -4614,15 +4695,6 @@
             "desc": "~19 small extinct volcanic vents in the Fitzroy River valley, Kimberley region, Western Australia. Scattered across ~200 km. Associated hot springs may be connected. Remote and poorly studied. Located in one of Australia's most geologically ancient landscapes."
         },
         {
-            "name": "Musgrave Block Volcanics",
-            "vei": 4,
-            "coordinates": [-25.5, 130.5],
-            "type": "Volcanic Complex (Caldera + Bimodal)",
-            "summitFeet": 3000,
-            "magmaType": "Basalt, rhyolite (bimodal)",
-            "desc": "Mesoproterozoic (~1080-1050 Ma) volcanic complex in the Musgrave Block, central Australia near the WA/NT/SA border. Includes Skirmish Hill Caldera, Palgrave Volcanic Association (~1500 km² caldera complex), and Bentley Supergroup with bimodal volcanism (basalt + rhyolite). The Giles Complex contains mafic to ultramafic intrusions (~1080 Ma) part of the Warakurna Large Igneous Province. One of the few significant Precambrian volcanic centres in central Australia."
-        },
-        {
             "name": "Mount Kaputar (Nandewar Volcano)",
             "vei": 5,
             "coordinates": [-30.2, 150.1],
@@ -4667,6 +4739,7 @@
             "magmaType": "Rhyolite, basalt",
             "desc": "Early Miocene (~19-20 Ma) shield volcano. Source of extensive Tableland Basalt flows that cap the Great Dividing Range in northern NSW. Spectacular columnar basalt exposures at Point Lookout. Source: Sisson et al. (2003)."
         },
+        
         {
             "name": "Comboyne Volcano",
             "vei": 4,
