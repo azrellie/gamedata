@@ -4493,6 +4493,393 @@
             "magmaType": "Basalt",
             "desc": "Mount Gambier is a volcano complex that sits right under the city of Mount Gambier, with a population of nearly 30 thousand people."
         },
+        {
+            "name": "Big Ben (Mawson Peak)",
+            "vei": 2,
+            "coordinates": [-53.1, 73.517],
+            "type": "Stratovolcano",
+            "summitFeet": 9006,
+            "magmaType": "Trachyandesite",
+            "desc": "Australia's ONLY active volcano. 2,745 m stratovolcano on Heard Island, subantarctic Indian Ocean. Last erupted 2023. Part of the Kerguelen Plateau large igneous province. Glaciated summit with active fumaroles. GVP #234010. Remote and rarely observed — one of the most isolated active volcanoes on Earth."
+        },
+        {
+            "name": "McDonald Islands",
+            "vei": 2,
+            "coordinates": [-53.03, 72.6],
+            "type": "Shield Volcano",
+            "summitFeet": 755,
+            "magmaType": "Alkali basalt",
+            "desc": "Small volcanic island group 44 km west of Heard Island. Erupted 2005 — first eruption in 50,000 years. Rapidly growing: McDonald Island increased from 1 km² to 2.5 km² between 1980-2005 due to volcanic construction. GVP #234020. Remote subantarctic territory."
+        },
+        {
+            "name": "Lord Howe Island",
+            "vei": 3,
+            "coordinates": [-31.55, 159.08],
+            "type": "Shield Volcano (eroded)",
+            "summitFeet": 2871,
+            "magmaType": "Mugearite, trachyte",
+            "desc": "Eroded remnant of a large Miocene shield volcano (~6.9 Ma). Originally ~40 km wide. Mount Gower (875 m) and Mount Lidgbird are the main remnants. Forms the world's southernmost coral reef ecosystem. UNESCO World Heritage Site. GVP #244020."
+        },
+        {
+            "name": "Ball's Pyramid",
+            "vei": 2,
+            "coordinates": [-31.752, 159.251],
+            "type": "Volcanic Plug",
+            "summitFeet": 1844,
+            "magmaType": "Mugearite",
+            "desc": "Sea stack and volcanic plug, world's tallest (562 m). Remnant of a shield volcano (~6.9 Ma) same age as Lord Howe Island. 20 km southeast of Lord Howe. Steepest volcanic sea stack on Earth. GVP #244010."
+        },
+        {
+            "name": "Tweed Volcano (Wollumbin)",
+            "vei": 6,
+            "coordinates": [-28.397, 153.271],
+            "type": "Eroded Shield Volcano",
+            "summitFeet": 3800,
+            "magmaType": "Trachyte, basalt, rhyolite",
+            "desc": "Massive Early Miocene (~23 Ma) shield volcano, originally ~100+ km diameter and ~2,300 m high. Erosion caldera is the largest in the Southern Hemisphere. Wollumbin/Mount Warning (1,157 m) is the central volcanic plug. Hotspot track volcano. Source: Sutherland & Fanning (2008), Johnson et al. (1989)."
+        },
+        {
+            "name": "Mount Kaputar (Nandewar Volcano)",
+            "vei": 5,
+            "coordinates": [-30.2, 150.1],
+            "type": "Stratovolcano (eroded)",
+            "summitFeet": 4943,
+            "magmaType": "Trachyte, rhyolite, basalt",
+            "desc": "Miocene (~17-18 Ma) stratovolcano, 1,507 m peak. Contains spectacular Sawn Rocks (columnar basalt), Devil's Rockpile (volcanic plug), and Easington Sill. Hotspot-related. Hosts unique alpine fauna and flora. Source: Johnson (1989)."
+        },
+        {
+            "name": "Warrumbungles",
+            "vei": 4,
+            "coordinates": [-31.3, 149.0],
+            "type": "Eroded Shield Volcano",
+            "summitFeet": 3878,
+            "magmaType": "Trachyte, rhyolite, basalt, andesite",
+            "desc": "Miocene (~13-17 Ma) volcanic complex. The Breadknife is a spectacular 90 m high dyke wall — one of the most dramatic volcanic landforms in Australia. Hot spring deposits indicate past hydrothermal activity. Dark Sky Park. Source: Johnson (1989)."
+        },
+        {
+            "name": "Mount Canobolas",
+            "vei": 4,
+            "coordinates": [-33.3, 149.0],
+            "type": "Stratovolcano (eroded)",
+            "summitFeet": 4577,
+            "magmaType": "Benmoreite, trachyte, basalt",
+            "desc": "Miocene (~12-13 Ma) alkaline stratovolcano, 1,395 m peak. Contains the Mt Canobolas alkaline suite — rare alkaline volcanic rocks. One of the highest points in central-western NSW. Source: Ashley et al. (1995)."
+        },
+        {
+            "name": "Barrington Volcano",
+            "vei": 4,
+            "coordinates": [-31.8, 151.2],
+            "type": "Eroded Shield Volcano",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite, dacite, basalt",
+            "desc": "Eocene (~44-54 Ma) shield volcano forming the Barrington Tops plateau. One of the oldest Cenozoic volcanic centres in eastern Australia. Contains cool-temperate rainforest on its upper slopes — a Gondwanan relict."
+        },
+        {
+            "name": "Ebor Volcano",
+            "vei": 4,
+            "coordinates": [-30.4, 152.4],
+            "type": "Eroded Shield Volcano",
+            "summitFeet": 4700,
+            "magmaType": "Rhyolite, basalt",
+            "desc": "Early Miocene (~19-20 Ma) shield volcano. Source of extensive Tableland Basalt flows that cap the Great Dividing Range in northern NSW. Spectacular columnar basalt exposures at Point Lookout. Source: Sisson et al. (2003)."
+        },
+        {
+            "name": "Comboyne Volcano",
+            "vei": 4,
+            "coordinates": [-31.6, 152.5],
+            "type": "Eroded Shield Volcano",
+            "summitFeet": 3500,
+            "magmaType": "Rhyolite, basalt",
+            "desc": "Miocene (~16-17 Ma) shield volcano. Forms the Comboyne Plateau. Contains basalt flows and rhyolitic domes. Adjacent to the Barrington and Ebor volcanic centres."
+        },
+        {
+            "name": "Focal Peak Volcano (Mount Barney)",
+            "vei": 4,
+            "coordinates": [-28.17, 152.42],
+            "type": "Eroded Shield Volcano",
+            "summitFeet": 4456,
+            "magmaType": "Rhyolite, trachyte, basalt",
+            "desc": "Oligocene (~24-28 Ma) eroded shield volcano. Mount Barney (1,359 m) is a complex of resistant volcanic plugs. Originally much larger edifice. Contains some of the most dramatic mountain scenery in SE Queensland."
+        },
+        {
+            "name": "Liverpool Range",
+            "vei": 3,
+            "coordinates": [-31.9, 150.4],
+            "type": "Shield Volcano / Volcanic Field",
+            "summitFeet": 4500,
+            "magmaType": "Alkali basalt, trachybasalt",
+            "desc": "Oligocene (~32-35 Ma) volcanic field in the upper Hunter Valley. Extensive basalt flows that cap sedimentary rocks. Forms a significant barrier between the Hunter Valley and the Liverpool Plains."
+        },
+        {
+            "name": "Glass House Mountains",
+            "vei": 4,
+            "coordinates": [-26.7, 152.9],
+            "type": "Volcanic Plugs (Multiple)",
+            "summitFeet": 1824,
+            "magmaType": "Trachyte, rhyolite, basalt, phonolite",
+            "desc": "Dramatic cluster of ~15 volcanic plugs (26-27 Ma, Oligocene) rising from the coastal plain north of Brisbane. Includes Mount Beerwah (556 m), Mount Tibrogargan (364 m), Mount Coonowrin (377 m), Mount Ngungun (253 m), Mount Beerburrum (276 m). Remnants of a large shield volcano eroded to expose central plugs. Aboriginal sacred site."
+        },
+        {
+            "name": "Kinrara Volcano",
+            "vei": 2,
+            "coordinates": [-18.3, 144.6],
+            "type": "Shield Volcano",
+            "summitFeet": 2000,
+            "magmaType": "Alkali basalt",
+            "desc": "One of Australia's youngest volcanoes at ~7,000 years old. Small shield volcano in the Bowen Basin, north Queensland. Source: Price et al. (2009). Evidence of Holocene volcanic activity in tropical Australia."
+        },
+        {
+            "name": "Undara Crater",
+            "vei": 2,
+            "coordinates": [-18.25, 144.75],
+            "type": "Scoria Cone + Lava Tube System",
+            "summitFeet": 3346,
+            "magmaType": "Alkali basalt",
+            "desc": "Pleistocene (~189,000 years) scoria cone with one of the longest lava tube systems on Earth (~160 km). Located in the McBride Basalt Province. The tubes are now a tourist attraction. Spectacular preserved volcanic landscape."
+        },
+        {
+            "name": "Toomba Volcano",
+            "vei": 2,
+            "coordinates": [-19.5, 145.0],
+            "type": "Shield Volcano",
+            "summitFeet": 1500,
+            "magmaType": "Alkali basalt",
+            "desc": "Late Pleistocene (~21,000 years) shield volcano that produced one of the longest lava flows in Australia (~120 km). Located in the nulla volcanic field, north Queensland. The lava flow dammed rivers and created the Toomba lava flow landscape."
+        },
+        {
+            "name": "Lake Eacham (Yidyam)",
+            "vei": 2,
+            "coordinates": [-17.28, 145.62],
+            "type": "Maar",
+            "summitFeet": 2100,
+            "magmaType": "Trachybasalt",
+            "desc": "Twin maar crater lake with Lake Barrine on the Atherton Tablelands, north Queensland. >9,000 years old. Perfectly circular crater lake surrounded by tropical rainforest. Phreatomagmatic origin. Popular swimming spot."
+        },
+        {
+            "name": "Lake Barrine",
+            "vei": 2,
+            "coordinates": [-17.2, 145.4],
+            "type": "Maar",
+            "summitFeet": 2400,
+            "magmaType": "Trachybasalt",
+            "desc": "Twin maar crater lake on the Atherton Tablelands, >17,000 years old. Larger of the twin lakes (with Lake Eacham). Diamictite ring visible. Important for paleoclimate studies. Tropical rainforest setting."
+        },
+        {
+            "name": "Mount Gambier",
+            "vei": 2,
+            "coordinates": [-37.84, 140.78],
+            "type": "Maar Complex",
+            "summitFeet": 623,
+            "magmaType": "Alkali basalt / basanite",
+            "desc": "Australia's youngest mainland volcano, last erupted ~4,500 years ago (GVP #256100). Complex maar system with Blue Lake, Valley Lake, and Leg of Mutton Lake. Multiple eruptive phases including tuff cone construction, maar explosions, and lava lake formation. Blue Lake changes colour annually. Van der Beck et al. (2015)."
+        },
+        {
+            "name": "Mount Schank",
+            "vei": 2,
+            "coordinates": [-37.94, 140.74],
+            "type": "Scoria Cone with Maars",
+            "summitFeet": 518,
+            "magmaType": "Alkali basalt",
+            "desc": "Young (~5,000 years) scoria cone complex near Mount Gambier. Multiple craters and associated lava flows. Strombolian and phreatomagmatic eruption styles. GVP #256101."
+        },
+        {
+            "name": "Budj Bim (Mount Eccles)",
+            "vei": 2,
+            "coordinates": [-38.07, 141.92],
+            "type": "Scoria Cone + Maar + Lava Flow",
+            "summitFeet": 584,
+            "magmaType": "Alkali basalt / basanite",
+            "desc": "~37,000 year old volcano (GVP #256103). UNESCO World Heritage Site — the Tyrendarra lava flow contains the world's oldest known aquaculture system, built by Gunditjmara Aboriginal people ~6,600 years ago. Eruption described in Aboriginal Dreamtime oral history possibly 37,000 years old (Nunn & Reid 2015). Lake Surprise in the maar crater."
+        },
+        {
+            "name": "Tower Hill",
+            "vei": 2,
+            "coordinates": [-38.321, 142.36],
+            "type": "Maar-Tuff Ring Complex",
+            "summitFeet": 338,
+            "magmaType": "Alkali basalt",
+            "desc": "~36,800 year old maar-tuff ring complex (GVP #243040). State Game Reserve. First European-collected Aboriginal specimens (John Hunter, 1802). Spectacular nested crater structure with inner lake and tuff ring. Source: Gillot & Price (1991)."
+        },
+        {
+            "name": "Mount Napier",
+            "vei": 2,
+            "coordinates": [-37.8, 142.5],
+            "type": "Scoria Cone + Lava Flow",
+            "summitFeet": 1444,
+            "magmaType": "Alkali basalt / hawaiite",
+            "desc": "~32,000 year old volcano (GVP #256116). Produces the spectacular Harman Falls lava flow — one of the youngest significant lava flows in western Victoria. 440 m elevation, the highest point in the area. Source: van der Beck et al. (2015)."
+        },
+        {
+            "name": "Mount Buninyong",
+            "vei": 2,
+            "coordinates": [-37.65, 143.93],
+            "type": "Scoria Cone",
+            "summitFeet": 2441,
+            "magmaType": "Alkali basalt",
+            "desc": "Highest peak in the Newer Volcanic Province at 744 m. GVP #243090. Contains a well-preserved summit crater. Overlooks the city of Ballarat. Pleistocene age."
+        },
+        {
+            "name": "Mount Elephant",
+            "vei": 2,
+            "coordinates": [-37.96, 143.2],
+            "type": "Scoria Cone",
+            "summitFeet": 1296,
+            "magmaType": "Alkali basalt",
+            "desc": "Prominent scoria cone, 395 m elevation. GVP #243060. Well-preserved double crater. One of the most recognizable volcanic landmarks in western Victoria."
+        },
+        {
+            "name": "Mount Noorat",
+            "vei": 2,
+            "coordinates": [-38.177, 142.928],
+            "type": "Scoria Cone + Maar",
+            "summitFeet": 1017,
+            "magmaType": "Alkali basalt",
+            "desc": "Scoria cone with deep maar crater, 310 m elevation. GVP #243070. Contains one of the deepest maar lakes in the province. Age: 5,000-20,000 years."
+        },
+        {
+            "name": "Mount Leura",
+            "vei": 2,
+            "coordinates": [-38.1, 143.1],
+            "type": "Scoria Cone + Maar",
+            "summitFeet": 1020,
+            "magmaType": "Alkali basalt",
+            "desc": "Part of the Camperdown volcanic group. 311 m elevation with a deep maar crater. GVP #243080. Age: 5,000-20,000 years."
+        },
+        {
+            "name": "Mount Warrenheip",
+            "vei": 2,
+            "coordinates": [-37.68, 143.87],
+            "type": "Scoria Cone",
+            "summitFeet": 2431,
+            "magmaType": "Alkali basalt",
+            "desc": "741 m scoria cone near Ballarat, second highest in the NVP. GVP #243100. Contains a crater lake. Paired with Mount Buninyong as the two dominant volcanic landmarks of the Ballarat region."
+        },
+        {
+            "name": "The Nut (Circular Head)",
+            "vei": 4,
+            "coordinates": [-40.76, 145.3],
+            "type": "Volcanic Plug (Dacite)",
+            "summitFeet": 469,
+            "magmaType": "Dacite / rhyolite",
+            "desc": "Dramatic steep-sided volcanic plug (143 m) on the Tasmanian north-west coast. Remnant of a much larger volcanic edifice (25-70 Ma). Flat-topped with sheer cliffs. Cable car access to summit. One of Tasmania's most recognizable landmarks."
+        },
+        {
+            "name": "Table Cape",
+            "vei": 3,
+            "coordinates": [-40.95, 145.73],
+            "type": "Shield Volcano Remnant",
+            "summitFeet": 594,
+            "magmaType": "Alkali basalt",
+            "desc": "Miocene (~12 Ma) basalt plateau forming a prominent headland at Wynyard, NW Tasmania. One of the younger Tasmanian volcanic centres. Rich fossil deposits in underlying sediments. Famous tulip farming on the fertile volcanic soils."
+        },
+        {
+            "name": "Macquarie Island",
+            "vei": 1,
+            "coordinates": [-54.5, 158.95],
+            "type": "Ophiolite Complex",
+            "summitFeet": 1414,
+            "magmaType": "Basalt, gabbro, peridotite",
+            "desc": "NOT a volcano — but a rare exposure of oceanic crust (ophiolite) pushed above sea level by tectonic forces. UNESCO World Heritage Site. The only place on Earth where mantle rocks from the oceanic lithosphere are exposed above sea level. Contains active seal and penguin colonies."
+        },
+        {
+            "name": "Hallett Volcanical Province",
+            "vei": 2,
+            "coordinates": [-33.55, 138.9],
+            "type": "Volcanic Field (Multiple Vents)",
+            "summitFeet": 1640,
+            "magmaType": "Alkali basalt",
+            "desc": "Pliocene (~5-2.5 Ma) volcanic province in the Mid North of South Australia. Contains at least 7+ named volcanic vents including Mount Hallett, Mundoora, Tickera, Wauraltee, Ninnes, Melville, and Brinkworth. Scoria cones, maars, and associated lava flows. Source: Wellman (1983); Foden & Morton (2007)."
+        },
+        {
+            "name": "Argyle Diamond Mine (AK1 Kimberlite)",
+            "vei": 2,
+            "coordinates": [-16.6, 128.3],
+            "type": "Kimberlite Pipe",
+            "summitFeet": 200,
+            "magmaType": "Kimberlite",
+            "desc": "Devonian (~380 Ma) kimberlite pipe, one of the world's richest diamond deposits. Rejuvenated eruption at ~1.58 Ma. The AK1 pipe is the main diamond-bearing vent. Part of the larger Kimberley kimberlite province including AK6, AK27 and others. Source: Wikipedia Argyle mine references."
+        },
+        {
+            "name": "Mt. Weld Carbonatite",
+            "vei": 2,
+            "coordinates": [-27.77, 121.1],
+            "type": "Carbonatite Volcano",
+            "summitFeet": 500,
+            "magmaType": "Carbonatite",
+            "desc": "Eocene (~35 Ma) carbonatite volcanic centre in the Yilgarn Craton, Western Australia. Now a major rare earth element mine. Carbonatite is one of the rarest magma types on Earth — carbonate-rich rather than silica-rich. The volcanic pipe contains rare minerals including bastnäsite and monazite."
+        },
+        {
+            "name": "Antrim Volcanics",
+            "vei": 3,
+            "coordinates": [-19.0, 131.5],
+            "type": "Flood Basalt Province",
+            "summitFeet": 1500,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Jurassic-Cretaceous (~180-150 Ma) flood basalt province covering ~30,000 km² in the Northern Territory. One of the largest basalt provinces in Australia. Associated with the breakup of Gondwana. The Antrim Plateau is capped by these extensive basalt flows. Includes the Escarpment and Tableland basalts."
+        },
+        {
+            "name": "Kalkarindji Volcanic Province",
+            "vei": 5,
+            "coordinates": [-17.42, 130.92],
+            "type": "Large Igneous Province (Flood Basalts)",
+            "summitFeet": 1000,
+            "magmaType": "Tholeiitic basalt",
+            "desc": "Late Ordovician (~440-430 Ma) flood basalt province — one of the EARLIEST large igneous provinces in the Phanerozoic. Covers ~30,000 km² across the Victoria River region. The basalts are chemically similar to later CFB (continental flood basalt) provinces. Globally significant for understanding early Paleozoic mantle dynamics."
+        },
+        {
+            "name": "Teponan Lava Flow",
+            "vei": 2,
+            "coordinates": [-17.13, 145.5],
+            "type": "Lava Flow",
+            "summitFeet": 2400,
+            "magmaType": "Alkali basalt",
+            "desc": "One of the youngest lava flows in the Atherton Tablelands (~10,000 years ago). A spectacular 23 km long pahoehoe lava flow that dammed Herbert River tributaries. Part of the Atherton Volcanic Province with 200+ individual vents. Source: Whitehead et al. (2007)."
+        },
+        {
+            "name": "Mount Read Volcanics",
+            "vei": 4,
+            "coordinates": [-41.5, 145.32],
+            "type": "Volcanic Belt (Cambrian Arc)",
+            "summitFeet": 3683,
+            "magmaType": "Rhyolite, andesite, basalt (bimodal)",
+            "desc": "~500 Ma (Cambrian) volcanic arc belt in western Tasmania. Hosts major mineral deposits including the Mt Lyell copper-gold-silver deposits. Bimodal volcanism (rhyolite + basalt) indicating extensional tectonic setting. One of the oldest preserved volcanic sequences in Tasmania."
+        },
+        {
+            "name": "Baker Volcanic Complex",
+            "vei": 2,
+            "coordinates": [-19.95, 150.3],
+            "type": "Submarine Volcanic Centre",
+            "summitFeet": -1500,
+            "magmaType": "Basalt",
+            "desc": "Submarine volcanic complex in the Coral Sea, within the Australian EEZ. Part of a chain of seamounts and volcanic features associated with the Lord Howe Rise. Bathymetric surveys reveal multiple volcanic edifices. Source: Geoscience Australia marine surveys."
+        },
+        {
+            "name": "Mount Burr",
+            "vei": 2,
+            "coordinates": [-37.55, 140.46],
+            "type": "Scoria Cone",
+            "summitFeet": 614,
+            "magmaType": "Alkali basalt",
+            "desc": "Young scoria cone (~4,750 years) in the Newer Volcanic Province, southeastern South Australia. Part of a cluster of young volcanic centres near Mount Gambier. Elevation 187 m."
+        },
+        {
+            "name": "Mount Muirhead",
+            "vei": 2,
+            "coordinates": [-37.56, 140.41],
+            "type": "Scoria Cone",
+            "summitFeet": 427,
+            "magmaType": "Alkali basalt",
+            "desc": "Young scoria cone (~5,000 years) adjacent to Mount Burr in the Newer Volcanic Province. Elevation 130 m. Part of the Mount Burr volcanic cluster."
+        },
+        {
+            "name": "Mount Gulaga (Dromedary)",
+            "vei": 4,
+            "coordinates": [-36.3, 150.0],
+            "type": "Intruded Volcanic Complex (Monzonite)",
+            "summitFeet": 2644,
+            "magmaType": "Monzonite (intermediate)",
+            "desc": "Late Cretaceous (~97 Ma) monzonite pluton with associated volcanic rocks on the NSW south coast. 806 m peak. Contains mineralisation. Sacred Aboriginal site. One of the oldest Cenozoic volcanic features in southeastern Australia."
+        },
         {  
             "name": "Changbaishan",
             "vei": 7,
