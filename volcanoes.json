@@ -2086,6 +2086,51 @@
             "magmaType": "Basalt",
             "desc": "Penguin Island, a 1.4 x 1.7 km island off the SE coast of King George Island in Antarctica's South Shetland Islands, features Deacon Peak, a basaltic scoria cone with a 350-m-wide summit crater on the SW side. A small basaltic lava plug fills the 75-m-deep crater. Petrel Crater, a 300-m-wide maar, is near the east coast. Deacon Peak formed about 300 years ago, and Petrel Crater about 100 years ago. Historical fumarolic activity reports from nearby Bridgeman Island may refer to Penguin Island."
         },
+                {
+            "name": "Minna Bluff",
+            "vei": 3,
+            "coordinates": [-78.5, 166.7],
+            "type": "Volcanic Ridge",
+            "summitFeet": 1990,
+            "magmaType": "Basanite, phonolite",
+            "desc": "Long volcanic ridge extending into McMurdo Sound. Multiple eruptive centers. Quaternary age. Important for paleoclimate studies — RAID deep drilling project. Contains inclusion-rich lavas documenting magma mixing/mingling. Part of the McMurdo Volcanic Group."
+        },
+        {
+            "name": "Cape Royds",
+            "vei": 3,
+            "coordinates": [-77.55, 166.17],
+            "type": "Shield Volcano",
+            "summitFeet": 3550,
+            "magmaType": "Basanite, phonolite",
+            "desc": "Shield volcano on the western coast of Ross Island. Last erupted ~4,100 years ago. Contains the world's southernmost penguin colony. Part of the Erebus Volcanic Province. 40Ar/39Ar dating shows eruptive history spanning hundreds of thousands of years."
+        },
+        {
+            "name": "Cape Crozier",
+            "vei": 3,
+            "coordinates": [-77.42, 169.32],
+            "type": "Stratovolcano",
+            "summitFeet": 1690,
+            "magmaType": "Basanite",
+            "desc": "Volcanic complex on the eastern coast of Ross Island. Contains multiple eruptive centers. Famous emperor penguin colony. Tephra records document Holocene eruptions. Part of the Erebus Volcanic Province."
+        },
+        {
+            "name": "Mason Spur",
+            "vei": 4,
+            "coordinates": [-77.85, 166.5],
+            "type": "Volcanic Complex",
+            "summitFeet": 2500,
+            "magmaType": "Trachyte, ignimbrite",
+            "desc": "Deeply eroded Middle Miocene to Pleistocene (c. 13 to 0.37 Ma) polygenetic volcanic complex in southern Victoria Land. Contains large volume of trachyte ignimbrites that provided volcanic detritus in McMurdo Sound drill cores. Strongly deformed by glacial and tectonic processes. Part of the West Antarctic Rift System."
+        },
+        {
+            "name": "Cape Adare Volcanics",
+            "vei": 2,
+            "coordinates": [-71.3, 170.23],
+            "type": "Volcanic Field",
+            "summitFeet": 1500,
+            "magmaType": "Basalt",
+            "desc": "Late Cenozoic lavas and hyaloclastite breccias in Robertson Bay, North Victoria Land. Part of the Hallett volcanic province. Subaqueous eruption origin documented by hyaloclastite breccias and stable isotope ratios. Intraplate basalts."
+        },
         {
             "name": "Pali-Aike Volcanic Field",
             "vei": 2,
