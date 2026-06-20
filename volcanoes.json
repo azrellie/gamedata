@@ -4541,10 +4541,7 @@
         {
             "name": "Tweed Volcano (Wollumbin)",
             "vei": 6,
-            "coordinates": [
-                -28.397,
-                153.271
-            ],
+            "coordinates": [-28.397, 153.271],
             "type": "Eroded Shield Volcano",
             "summitFeet": 3800,
             "magmaType": "Trachyte, basalt, rhyolite",
@@ -4553,34 +4550,25 @@
         {
             "name": "Whitsunday Volcanic Province",
             "vei": 7,
-            "coordinates": [
-                -20.3,
-                148.93
-            ],
+            "coordinates": [-20.3, 148.93],
             "type": "Rhyolitic Caldera Complex",
             "summitFeet": 1000,
             "magmaType": "Rhyolite, ignimbrite",
-            "desc": "Cretaceous (~132-95 Ma) rhyolitic volcanic province spanning ~30,000 km\u00b2 along the Queensland coast. Total eruptive volume ~4,000-6,000 km\u00b3. Multiple nested calderas including Mistaken Island Caldera (~18 km diameter). Produced massive ignimbrite sheets during the breakup of eastern Gondwana. One of the largest silicic volcanic provinces in Australia. Source: Bryan et al. (1995)."
+            "desc": "Cretaceous (~132-95 Ma) rhyolitic volcanic province spanning ~30,000 km² along the Queensland coast. Total eruptive volume ~4,000-6,000 km³. Multiple nested calderas including Mistaken Island Caldera (~18 km diameter). Produced massive ignimbrite sheets during the breakup of eastern Gondwana. One of the largest silicic volcanic provinces in Australia. Source: Bryan et al. (1995)."
         },
         {
             "name": "Tasmanian Dolerites",
             "vei": 8,
-            "coordinates": [
-                -42.0,
-                146.0
-            ],
+            "coordinates": [-42.0, 146.0],
             "type": "Dolerite Province (Flood Basalt)",
             "summitFeet": 3000,
             "magmaType": "Tholeiitic dolerite (basalt)",
-            "desc": "Early Jurassic (~183 Ma) dolerite province covering much of Tasmania with ~12,000 km\u00b3 of intrusive and extrusive mafic rock. One of the world's largest dolerite provinces. Formed during the breakup of Gondwana as Australia separated from Antarctica. The dolerite sills cap many Tasmanian mountains. Related to the Ferrar Province in Antarctica."
+            "desc": "Early Jurassic (~183 Ma) dolerite province covering much of Tasmania with ~12,000 km³ of intrusive and extrusive mafic rock. One of the world's largest dolerite provinces. Formed during the breakup of Gondwana as Australia separated from Antarctica. The dolerite sills cap many Tasmanian mountains. Related to the Ferrar Province in Antarctica."
         },
         {
             "name": "Tullah Caldera",
             "vei": 7,
-            "coordinates": [
-                -41.73,
-                145.73
-            ],
+            "coordinates": [-41.73, 145.73],
             "type": "Caldera (Rhyolitic)",
             "summitFeet": 2000,
             "magmaType": "Rhyolite, ignimbrite",
@@ -4589,10 +4577,7 @@
         {
             "name": "Mistaken Island Caldera",
             "vei": 7,
-            "coordinates": [
-                -20.05,
-                148.85
-            ],
+            "coordinates": [-20.05, 148.85],
             "type": "Caldera (Rhyolitic)",
             "summitFeet": -500,
             "magmaType": "Rhyolite, ignimbrite",
