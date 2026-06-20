@@ -7759,6 +7759,96 @@
             "desc": "The Dunedin Volcano is an extensively eroded multi-vent shield volcano that was active between 16 and 10 million years ago. It originally extended from the modern city of Dunedin, New Zealand to Aramoana about 25 km away. Extensive erosion has occurred over the last 10 million years and Otago Harbour now fills the oldest parts of the volcano. The remnants of the volcano form the hills around Otago Harbour (including Mount Cargill, Flagstaff, Saddle Hill, Signal Hill, and Otago Peninsula)."
         },
         {
+            "name": "Lyttelton Volcano",
+            "vei": 6,
+            "coordinates": [-43.6, 172.72],
+            "type": "Stratovolcano / Caldera",
+            "summitFeet": 1550,
+            "magmaType": "Alkali basalt, trachyte, rhyolite",
+            "desc": "Miocene stratovolcano (11-9.7 Ma), western member of Banks Peninsula complex. Lyttelton harbour is a flooded caldera ~5 km wide formed by collapse. Five overlapping volcanic cones. Post-caldera eruptions produced rhyolitic domes including the Allandale Rhyolite (10.8 Ma). Heavily eroded but caldera structure clearly visible from satellite. Christchurch built on its flanks. Source: Hampton & Cole (2009) Geomorphology 104(3-4): 284-298; Sewell (1988) NZJGG 31(1): 41-64."
+        },
+        {
+            "name": "Akaroa Volcano",
+            "vei": 6,
+            "coordinates": [-43.8, 172.95],
+            "type": "Stratovolcano / Caldera",
+            "summitFeet": 1650,
+            "magmaType": "Alkali basalt, trachyte, rhyolite",
+            "desc": "Miocene stratovolcano (9-8 Ma), southern member of Banks Peninsula complex. Akaroa harbour is a flooded caldera ~7 km wide. Contains evidence of caldera-forming explosive eruptions. Multiple post-caldera volcanic centres. Marine terraces record uplift history. Part of the Banks Peninsula volcanic complex alongside Lyttelton. Source: Timm et al. (2009) J. Petrology 50(6): 989-1023; Sewell (1988) NZJGG 31(1): 41-64."
+        },
+        {
+            "name": "Waiareka-Deborah Volcanic Field",
+            "vei": 3,
+            "coordinates": [-45.05, 170.85],
+            "type": "Monogenetic Volcanic Field (Surtseyan)",
+            "summitFeet": 500,
+            "magmaType": "Sub-alkaline basalt, basaltic andesite",
+            "desc": "Oligocene (39.5-27.6 Ma) monogenetic Surtseyan volcanic field near Oamaru. 890 km² on land, possibly up to 4,390 km² including offshore. Eruptions occurred on a submerged continental shelf producing basaltic pillows, hyaloclastites, and scoria. 15+ known centres including Cape Wanbrow (6 overlapping volcanoes, 38-34 Ma), Kakanui (alkaline melanephelinite, 34 Ma), and Basalt Hill (most inland deposit). Key site for understanding Zealandia's early Cenozoic intraplate volcanism. Source: Scott et al. (2020) NZJGG 63(4): 450-468."
+        },
+        {
+            "name": "Solander Islands",
+            "vei": 4,
+            "coordinates": [-46.567, 166.883],
+            "type": "Stratovolcano (Arc)",
+            "summitFeet": 1083,
+            "magmaType": "Andesite (adakitic)",
+            "desc": "Pleistocene arc volcano (0.4-0.15 Ma) 40 km south of Fiordland coast. Three eroded volcanic islets with a large submerged edifice comparable in size to Mount Taranaki. The only volcano associated with subduction at the Puysegur Trench that protrudes above sea level. Little Solander Island dated to 20,000-50,000 years ago (2013 discovery), making it potentially the most recently active volcano on the South Island. Adakitic compositions indicate melting of subducted oceanic crust. Source: Gamble et al. (2008); Mortimer et al. (2013)."
+        },
+        {
+            "name": "Mount Somers Volcanic Group",
+            "vei": 4,
+            "coordinates": [-43.7, 171.4],
+            "type": "Volcanic Group (Stratovolcano remnants)",
+            "summitFeet": 5538,
+            "magmaType": "Rhyolite, basaltic andesite",
+            "desc": "Cretaceous (100-80 Ma) volcanic group in Canterbury. One of the oldest volcanic features on the South Island. Rhyolite and basaltic andesite lavas and tuffs. Mount Somers peak reaches 1,688 m (5,538 ft). At McQueens Valley near Banks Peninsula, rhyolites dated at 98.0 ± 1.2 Ma occur adjacent to much younger Banks Peninsula lavas (11.59 Ma), demonstrating the complex polygenetic history. Important for understanding Zealandia's Mesozoic volcanic arc. Source: Barley et al. (1988) NZJGG 31(2): 197-206."
+        },
+        {
+            "name": "Mount Horrible",
+            "vei": 3,
+            "coordinates": [-44.383, 171.05],
+            "type": "Volcanic Centre",
+            "summitFeet": 1200,
+            "magmaType": "Unknown (likely basaltic)",
+            "desc": "Pliocene-Pleistocene volcanic centre near Timaru, Canterbury. Last erupted approximately 2 million years ago. One of the less-studied South Island volcanic features. Located in the interior of Canterbury, away from the main coastal volcanic centres. Represents late-stage intraplate volcanism in the region."
+        },
+        {
+            "name": "Otago Peninsula Volcanic Field",
+            "vei": 3,
+            "coordinates": [-45.83, 170.72],
+            "type": "Monogenetic Volcanic Field",
+            "summitFeet": 1200,
+            "magmaType": "Alkali basalt, basanite",
+            "desc": "Pliocene-Pleistocene monogenetic field extending from Dunedin into the Otago Peninsula. Contains ~30 vents. Eruptions were predominantly effusive, producing lava flows and scoria cones. Some vents produced phreatomagmatic deposits where magma interacted with seawater. Geochemically distinct from the main Dunedin Volcano (younger, more alkaline). Helium isotope measurements suggest a potential magma melt pool may still exist beneath Portobello. Source: Hoke et al. (2000); Godfrey et al. (2001)."
+        },
+        {
+            "name": "Port Chalmers Diatreme",
+            "vei": 3,
+            "coordinates": [-45.82, 170.63],
+            "type": "Diatreme",
+            "summitFeet": 300,
+            "magmaType": "Phonolite, basanite, trachyandesite",
+            "desc": "Large diatreme (1.3 × 2.5 km oval) within the Dunedin Volcanic Group. Filled with breccia containing phonolite clasts with basanite, trachyandesite, syenite, gabbro, pyroxenite, and hornblendite xenoliths. Exposed in harbour cliffs around Port Chalmers. Otago's main deep-water port is carved into this volcanic rock. Important for understanding magma ascent and crustal contamination. Contains rare rhönite mineral. Source: Coombs et al. (2008) NZJGG."
+        },
+        {
+            "name": "The Crater (Middlemarch)",
+            "vei": 3,
+            "coordinates": [-45.5, 170.2],
+            "type": "Maar / Diatreme",
+            "summitFeet": 400,
+            "magmaType": "Unknown",
+            "desc": "Phreatomagmatic maar/diatreme approximately 1.5 km wide near Middlemarch, interior Otago. Age: 24.8 ± 0.6 Ma (Late Oligocene). One of the oldest features in the Dunedin Volcanic Group. The maar formed when magma interacted with groundwater on the submerged continental shelf. Now inland due to tectonic uplift. Important analogue for understanding maar volcanism in the region. Source: Coombs et al. (2008) NZJGG."
+        },
+        {
+            "name": "Mount Cargill",
+            "vei": 3,
+            "coordinates": [-45.83, 170.53],
+            "type": "Lava Dome",
+            "summitFeet": 2190,
+            "magmaType": "Phonolite",
+            "desc": "Phonolite domes forming the highest point within the Dunedin Volcanic Group at 676 m. Age: ~11 Ma (youngest phase of Dunedin Volcano). The phonolite represents highly evolved alkaline magma. Distinctive dome morphology visible from Dunedin city. Part of the late-stage eruptions that produced the most compositionally evolved lavas in the volcanic group. Source: Coombs et al. (2008) NZJGG."
+        },
+        {
             "name": "Banks Peninsula",
             "vei": 6,
             "coordinates": [-43.74733935156912, 172.86808458360545],
