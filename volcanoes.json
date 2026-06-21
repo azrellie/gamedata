@@ -2946,6 +2946,15 @@
             "desc": "Neoproterozoic (~750-570 Ma) bimodal volcanic rocks in the Blue Ridge of southwestern Virginia. Contains ash-flow tuffs, rhyolites, and basalts documenting rifting of the Rodinia supercontinent. The compositionally zoned ash-flow sheet is one of the best-preserved Precambrian ignimbrites in eastern North America. Mount Rogers (1746m) is Virginia's highest peak, capped by these ancient volcanic rocks."
         },
         {
+            "name": "Pico",
+            "vei": 2,
+            "coordinates": [38.46918274177746, -28.400836414484438],
+            "type": "Stratovolcano",
+            "summitFeet": 7713,
+            "magmaType": "Basalt",
+            "desc": "The conical Pico stratovolcano occupies the western end of Pico Island and is the highest volcano in the Azores. The dominantly basaltic edifice lies west of on an older linear volcano with numerous flank cones that forms most of the 46-km-long island. It was constructed over the Montanha volcanic complex on the eastern side of the island and is capped by a 500-m-wide summit crater that is overtopped by a small steep-sided cone. An eruption beginning in 1562 from the Sao Roque Piedade/Planalto da Achada fissure zone produced lava flows that reached the northern coast. Two fissures erupted on the NNW flank and SE flank of Pico volcano in 1718, with lavas reaching the north and south coasts. Lava flows from a fissure on the SE flank in 1720 reached the ocean."
+        },
+        {
             "name": "Bear Seamount",
             "vei": 4,
             "coordinates": [39.917, -67.5],
