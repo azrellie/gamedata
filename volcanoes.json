@@ -22,6 +22,177 @@
             "desc": "A giant caldera south of the Chihuahua city, Mexico. It was formed in 2 stages. 1st stage: A large rhyolitic eruption, releasing over 200 km3 of tephra. 2nd stage: A resurgent caldera, formed in a VEI 6 eruption that blasted out 50 km3 of material."
         },
         {
+            "name": "Socorro Caldera",
+            "vei": 8,
+            "coordinates": [34.0000, -107.1000],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Socorro County, New Mexico, that was formed by a massive eruption involving around 1,000 km3 of tephra."
+        },
+        {
+            "name": "Bursum Caldera",
+            "vei": 8,
+            "coordinates": [33.500000, -108.500000],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in New Mexico, that was formed by a massive eruption involving around 1,000 km3 of tephra. Part of the Mogollon-Datil Volcanic Field."
+        },
+        {
+            "name": "Bachelor Caldera",
+            "vei": 8,
+            "coordinates": [37.954653166326246, -106.94399590451742],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Uncompahgre-San Juan Caldera Complex",
+            "vei": 8,
+            "coordinates": [37.84042691982422, -107.48299803768141],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Platoro Caldera",
+            "vei": 8,
+            "coordinates": [37.29376158058571, -106.51826624440264],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Lake City Caldera",
+            "vei": 7,
+            "coordinates": [37.970454292539145, -107.39922728779847],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Creede Caldera",
+            "vei": 7,
+            "coordinates": [37.76893927897001, -106.92092530196483],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "San Luis Caldera Complex",
+            "vei": 7,
+            "coordinates": [38.042040560641844, -106.73020151882508],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "South River Caldera",
+            "vei": 7,
+            "coordinates": [37.8921728038697, -106.83157762619427],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Central San Juan Caldera",
+            "vei": 7,
+            "coordinates": [37.78613443809008, -106.67300762189473],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Silverton Caldera",
+            "vei": 6,
+            "coordinates": [37.81000524119857, -107.66548965279544],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Ute Creek Caldera",
+            "vei": 7,
+            "coordinates": [38.092107736962106, -107.37328534469607],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Summitville Caldera",
+            "vei": 7,
+            "coordinates": [37.40782811386032, -106.57751778950812],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Mount Hope Caldera",
+            "vei": 7,
+            "coordinates": [37.53646512941491, -106.87237888392002],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "North Pass Caldera",
+            "vei": 7,
+            "coordinates": [38.31249065166843, -106.44062089036181],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Bonanza Caldera",
+            "vei": 7,
+            "coordinates": [38.290180510364465, -106.050282321009],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Marshall Creek Caldera",
+            "vei": 7,
+            "coordinates": [38.418826047183394, -106.33563527495433],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Mount Aetna Caldera",
+            "vei": 7,
+            "coordinates": [39.039416747314114, -106.60452738575799],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
+            "name": "Grizzly Peak Caldera",
+            "vei": 7,
+            "coordinates": [38.64605200015623, -106.27680819616135],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
+        },
+        {
             "name": "Minarets Caldera",
             "vei": 8,
             "coordinates": [37.57815134161704, -119.23516680298042],
@@ -1436,7 +1607,7 @@
         {
             "name": "La Garita Caldera",
             "vei": 8,
-            "coordinates": [37.756729692702365, -106.93419477234536],
+            "coordinates": [37.69626754517111, -106.93564738688069],
             "type": "Caldera",
             "summitFeet": 13711,
             "magmaType": "Rhyolite",
@@ -8960,7 +9131,7 @@
         },
         {
             "name": "Socorro",
-            "vei": 2,
+            "vei": 5,
             "coordinates": [18.79454557531603, -110.96888740451325],
             "type": "Shield",
             "summitFeet": 3445,
