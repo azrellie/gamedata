@@ -193,6 +193,15 @@
             "desc": "A large caldera in Colorado, part of the San Juan Volcanic Field."
         },
         {
+            "name": "Paintbrush Caldera",
+            "vei": 8,
+            "coordinates": [36.72256656481328, -116.49582282294695],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Colorado, part of the SW Nevada Volcanic Field"
+        },
+        {
             "name": "Minarets Caldera",
             "vei": 8,
             "coordinates": [37.57815134161704, -119.23516680298042],
@@ -3461,11 +3470,110 @@
         {
             "name": "Silent Canyon Caldera Complex",
             "vei": 7,
-            "coordinates": [36.87959565112275, -116.70004470142557],
+            "coordinates": [37.301558151069074, -116.27884284444654],
             "type": "Caldera Complex",
             "summitFeet": 3187,
             "magmaType": "Rhyolite",
             "desc": "A large caldera complex in Nevada. It is considered to be a part of the same volcanic system as Timber Mountain Caldera Complex."
+        },
+        {
+            "name": "Black Mountain Caldera",
+            "vei": 7,
+            "coordinates": [37.27752164502608, -116.65512457342903],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in Nevada. It is considered to be a part of the same volcanic system as Timber Mountain Caldera Complex."
+        },
+        {
+            "name": "Stonewall Mountain Caldera Complex",
+            "vei": 7,
+            "coordinates": [37.28407781660745, -117.06711187173633],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in Nevada. It is considered to be a part of the same volcanic system as Timber Mountain Caldera Complex."
+        },
+        {
+            "name": "Goodsight–Cedar Hills Volcano-Tectonic Depression",
+            "vei": 7,
+            "coordinates": [32.550432770076625, -107.12760575172086],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in New Mexico. Part of the Mogollon-Datil VF."
+        },
+        {
+            "name": "Organ Caldera",
+            "vei": 7,
+            "coordinates": [32.30357145861688, -106.57138387360669],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in New Mexico. Part of the Mogollon-Datil VF."
+        },
+        {
+            "name": "Cowboy Rim Cauldron",
+            "vei": 7,
+            "coordinates": [31.56999779018259, -108.68277617145515],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in New Mexico."
+        },
+        {
+            "name": "Juniper Caldera",
+            "vei": 7,
+            "coordinates": [31.479860778953114, -108.86611051896975],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in New Mexico."
+        },
+        {
+            "name": "Muir Caldera",
+            "vei": 7,
+            "coordinates": [32.237806022878374, -108.76997920443735],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in New Mexico."
+        },
+        {
+            "name": "Davis Mountains Caldera Complex",
+            "vei": 8,
+            "coordinates": [30.85085419505391, -104.25623442389411],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in Texas."
+        },
+        {
+            "name": "Infernito Caldera",
+            "vei": 7,
+            "coordinates": [30.001472771761705, -104.35499362115056],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Texas."
+        },
+        {
+            "name": "Thomas Caldera",
+            "vei": 7,
+            "coordinates": [39.56093880523627, -113.03484904590351],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Utah."
+        },
+        {
+            "name": "Underdown Caldera Complex",
+            "vei": 7,
+            "coordinates": [38.763596873555194, -117.40605903652272],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in Nevada."
         },
         {
             "name": "Tōnohetsuri Caldera",
