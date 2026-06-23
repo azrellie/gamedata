@@ -3,7 +3,7 @@
         {
             "name": "Peru-Chile Subduction Zone",
             "lengthKm": 5900,
-            "depthKm": 775,
+            "depthKm": 30,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -110,7 +110,7 @@
         {
             "name": "Middle America Subduction Zone",
             "lengthKm": 3000,
-            "depthKm": 450,
+            "depthKm": 45,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -349,7 +349,7 @@
         {
             "name": "Aleutian Subduction Zone",
             "lengthKm": 3790,
-            "depthKm": 320,
+            "depthKm": 40,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -441,7 +441,7 @@
         {
             "name": "Kuril-Kamchatka Subduction Zone",
             "lengthKm": 2100,
-            "depthKm": 600,
+            "depthKm": 90,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -532,7 +532,7 @@
         {
             "name": "Ryukyu Subduction Zone",
             "lengthKm": 2360,
-            "depthKm": 250,
+            "depthKm": 80,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -614,7 +614,7 @@
         {
             "name": "Mariana Trench",
             "lengthKm": 2400,
-            "depthKm": 600,
+            "depthKm": 80,
             "activity": 1,
             "type": "Oceanic Convergent Boundary",
             "points": [
@@ -1099,7 +1099,7 @@
         {
             "name": "Kermadec-Tonga Subduction Zone",
             "lengthKm": 3000,
-            "depthKm": 720,
+            "depthKm": 65,
             "activity": 1,
             "type": "Oceanic Convergent Boundary",
             "points": [
@@ -1188,7 +1188,7 @@
         {
             "name": "Sunda Megathrust",
             "lengthKm": 5600,
-            "depthKm": 520,
+            "depthKm": 30,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -1620,7 +1620,7 @@
         {
             "name": "Lesser Antilles Subduction Zone",
             "lengthKm": 2455,
-            "depthKm": 690,
+            "depthKm": 80,
             "activity": 1,
             "type": "Subduction Zone",
             "points": [
@@ -4927,7 +4927,7 @@
         {
             "name": "Iapetus Suture",
             "lengthKm": 9800,
-            "depthKm": 400,
+            "depthKm": 40,
             "activity": 0.1,
             "type": "Subduction Zone",
             "points": [
@@ -8314,7 +8314,7 @@
         {
             "name": "Cordilleran Orogenic Belt",
             "lengthKm": 8500,
-            "depthKm": 72,
+            "depthKm": 55,
             "activity": 0.5,
             "type": "Reverse",
             "points": [
@@ -14006,7 +14006,7 @@
         {
             "name": "Andean Thrust Front",
             "lengthKm": 9000,
-            "depthKm": 650,
+            "depthKm": 65,
             "activity": 0.75,
             "type": "Thrust",
             "points": [
