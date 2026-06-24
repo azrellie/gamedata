@@ -10068,6 +10068,69 @@
             "desc": "Volcanic cluster in the Penghu Islands, Taiwan Strait. Pleistocene alkali basalt flows with volatile-influenced differentiation. Important geotourism site."
         },
         {
+            "name": "Monywa Volcanic Field",
+            "vei": 2,
+            "coordinates": [22.05, 95.05],
+            "type": "Volcanic Field",
+            "summitFeet": 656,
+            "magmaType": "Absarokite",
+            "desc": "Holocene maars near Monywa city, central Myanmar. Absarokites and shoshonites from subduction-modified mantle. Part of the Myanmar Central volcanic belt. Wadati-Benioff plane at 100-140km depth beneath."
+        },
+        {
+            "name": "Dayingshan",
+            "vei": 3,
+            "coordinates": [25.44, 98.50],
+            "type": "Stratovolcano",
+            "summitFeet": 9398,
+            "magmaType": "Andesite",
+            "desc": "Highest and northernmost Holocene cone in the Tengchong volcanic field, SE Tibet. 2865m elevation. Potassic calc-alkaline andesites. Active magma chamber documented by zircon dating. Part of 68-volcano field with 25 recognizable craters."
+        },
+        {
+            "name": "Ma'anshan",
+            "vei": 3,
+            "coordinates": [25.37, 98.50],
+            "type": "Stratovolcano",
+            "summitFeet": 6890,
+            "magmaType": "Andesite",
+            "desc": "Middle Holocene cone in the Tengchong volcanic field. 2100m elevation. Potassic andesites with subduction-related signatures. U-Th zircon dating shows magma chamber storage timescales. Sparsely vegetated with visible lava flows."
+        },
+        {
+            "name": "Heikongshan",
+            "vei": 3,
+            "coordinates": [25.30, 98.50],
+            "type": "Stratovolcano",
+            "summitFeet": 6496,
+            "magmaType": "Trachyandesite",
+            "desc": "Southernmost Holocene cone in the Tengchong volcanic field. 1980m elevation. Trachyandesite lavas. Crystal size distribution studies reveal magma cooling history. Part of the Himalayan Geothermal Belt — only Quaternary volcanic region in this tectonic setting."
+        },
+        {
+            "name": "Luang Prabang Basin",
+            "vei": 0,
+            "coordinates": [19.89, 102.13],
+            "type": "Ancient Volcanic Basin",
+            "summitFeet": 0,
+            "magmaType": "Felsic-Mafic",
+            "desc": "Late Triassic (~230-200 Ma) volcanic basin in northern Laos. Felsic to mafic volcanic and volcaniclastic rocks. Part of the Indochina terrane's post-collisional magmatism after Paleotethys closure."
+        },
+        {
+            "name": "Chiang Khong-Lampang-Tak Volcanic Belt",
+            "vei": 0,
+            "coordinates": [19.50, 100.00],
+            "type": "Ancient Volcanic Belt",
+            "summitFeet": 0,
+            "magmaType": "Mixed",
+            "desc": "Late Triassic (223-220 Ma) volcanic belt spanning northern Thailand. Three sub-belts: Western (felsic high-K calc-alkaline), Central (felsic), Eastern (mafic E-MORB to back-arc basin basalt). Post-collisional extensional setting."
+        },
+        {
+            "name": "Phetchabun Volcanic Belt",
+            "vei": 0,
+            "coordinates": [16.42, 101.16],
+            "type": "Ancient Volcanic Belt",
+            "summitFeet": 0,
+            "magmaType": "Basalt",
+            "desc": "Permian-Triassic mafic volcanic rocks in central Thailand. Three magmatic groups with tholeiitic to calc-alkalic affinities. Arc-related lavas. Possible southern extension of the western Loei Volcanic Sub-belt."
+        },
+        {
             "name": "Eyjafjallajökull",
             "vei": 4,
             "coordinates": [63.629275750196456, -19.619552351805716],
