@@ -3556,13 +3556,31 @@
             "desc": "Kujusan is a complex of stratovolcanoes and lava domes lying NE of Aso caldera in north-central Kyushu. The group consists of 16 andesitic lava domes, five andesitic stratovolcanoes, and one basaltic cone. Activity dates back about 150,000 years. Six major andesitic-to-dacitic tephra deposits, many associated with the growth of lava domes, have been recorded during the Holocene. Eruptive activity has migrated systematically eastward during the past 5000 years. The latest magmatic activity occurred about 1600 years ago, when Kurodake lava dome at the E end of the complex was formed. The first reports of historical eruptions were in the 17th and 18th centuries, when phreatic or hydrothermal activity occurred. There are also many hot springs and hydrothermal fields. A fumarole on Hosho lava dome was the site of a sulfur mine for at least 500 years. Two geothermal power plants are in operation at Kuju."
         },
         {
-            "name": "Reporoa",
+            "name": "Reporoa Caldera",
             "vei": 7,
             "coordinates": [-38.42895302524796, 176.33822890509586],
             "type": "Caldera",
             "summitFeet": 1942,
             "magmaType": "Rhyolite",
             "desc": "The 10 x 15 km Reporoa caldera, occupying the Reporoa-Broadlands basin, lies near the W margin of the Taupo volcanic zone SSW of the Okataina volcanic center. The caldera formed about 230,000 years ago during the eruption of the voluminous ~100 km3 Kaingaroa Ignimbrite. Large slump scarps cut the N caldera rim; the S rim is buried by sediments. The Deer Hill rhyolitic lava dome was erupted after the caldera's S rim collapse; two other rhyolitic domes, Kairuru and Pukekahu, were emplaced within the caldera along a possible ring fault. The active Reporoa hydrothermal field lies within the caldera, and the Waiotapu and Broadlands (Ohaki) hydrothermal fields lie N and S of the poorly defined caldera margin. Eruptions within the caldera have not occurred since the late Pleistocene, but large hydrothermal explosions occurred at the Waiotapu thermal area immediately to the N at the time of the Kaharoa eruption of neighboring Tarawera volcano about 770 years ago."
+        },
+        {
+            "name": "Omanawa Caldera",
+            "vei": 8,
+            "coordinates": [-37.936351867346566, 176.10199355314512],
+            "type": "Caldera",
+            "summitFeet": 1942,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in New Zealand. Part of the Tauranga Volcanic Centre."
+        },
+        {
+            "name": "Kapenga Caldera",
+            "vei": 7,
+            "coordinates": [-38.310150386088985, 176.20361708579003],
+            "type": "Caldera",
+            "summitFeet": 1942,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in New Zealand. Part of the Okataina Volcanic Centre."
         },
         {
             "name": "Meager",
@@ -8716,7 +8734,7 @@
         },
         {
             "name": "Lvinaya Past",
-            "vei": 6,
+            "vei": 7,
             "coordinates": [44.610847592026985, 146.98984155058724],
             "type": "Caldera",
             "summitFeet": 1732,
