@@ -2564,15 +2564,6 @@
             "desc": "One of the most silica-undersaturated volcanic centers in Europe. ~24 Ma."
         },
         {
-            "name": "Drees",
-            "vei": 2,
-            "coordinates": [50.345, 7.015],
-            "type": "Cinder Cone",
-            "summitFeet": 1970,
-            "magmaType": "Basanite",
-            "desc": "Quaternary scoria cone in the High Eifel known for cold CO2 emanations (mofettas). ~200,000 years old."
-        },
-        {
             "name": "Drensteinfurt",
             "vei": 3,
             "coordinates": [51.8, 7.74],
@@ -2580,15 +2571,6 @@
             "summitFeet": 360,
             "magmaType": "Alkali basalt",
             "desc": "Rare basalt occurrence in Westphalia. ~23 Ma."
-        },
-        {
-            "name": "Ettringer Bellerberg",
-            "vei": 4,
-            "coordinates": [50.46, 7.305],
-            "type": "Complex",
-            "summitFeet": 1180,
-            "magmaType": "Phonolite, basanite",
-            "desc": "Important stratigraphic exposure in the East Eifel. Complexly interlayered phonolite and basanite lavas, ~300,000 years old."
         },
         {
             "name": "Georgenthal-Geyer",
@@ -2763,25 +2745,6 @@
             "desc": "Heavily eroded ancient volcano in the Rhön. ~7-3 Ma (late Miocene-Pliocene)."
         },
         {
-            "name": "Mosenberg",
-            "vei": 4,
-            "coordinates": [50.15, 7.022],
-            "type": "Cinder Cone",
-            "summitFeet": 1850,
-            "magmaType": "Basanite, basalt",
-            "desc": "Twin-peaked basaltic scoria cone with well-preserved lava flows flowing into the Kailbach valley. ~150 ka.",
-            "chatMessages": []
-        },
-        {
-            "name": "Mäuseberg",
-            "vei": 3,
-            "coordinates": [50.395, 7.383],
-            "type": "Lava Dome",
-            "summitFeet": 1150,
-            "magmaType": "Phonolite",
-            "desc": "Phonolite dome in the East Eifel, ~200,000 years old."
-        },
-        {
             "name": "Mühlviertel Basalt Field",
             "vei": 4,
             "coordinates": [48.55, 14.55],
@@ -2798,16 +2761,6 @@
             "summitFeet": 2200,
             "magmaType": "Basanite, nephelinite",
             "desc": "Highly silica-undersaturated volcanic center in Lower Silesia, Poland. ~25 Ma."
-        },
-        {
-            "name": "Nürburg-Roderberg",
-            "vei": 3,
-            "coordinates": [50.324, 6.95],
-            "type": "Cinder Cone",
-            "summitFeet": 2180,
-            "magmaType": "Basanite, basalt",
-            "desc": "Scoria cone with basaltic lava flows in the High Eifel. ~130 ka.",
-            "chatMessages": []
         },
         {
             "name": "Olpe-Sundern",
@@ -2837,24 +2790,6 @@
             "desc": "Among the oldest CEVP volcanism. Associated with early Rhine Graben rifting. ~45-40 Ma (Lutetian)."
         },
         {
-            "name": "Plaidter Hummerich",
-            "vei": 3,
-            "coordinates": [50.388, 7.396],
-            "type": "Cinder Cone",
-            "summitFeet": 1120,
-            "magmaType": "Basanite",
-            "desc": "Scoria cone in the East Eifel, ~100,000 years old."
-        },
-        {
-            "name": "Pulvermaar",
-            "vei": 4,
-            "coordinates": [50.136, 6.929],
-            "type": "Maar",
-            "summitFeet": 1480,
-            "magmaType": "Basaltic tephra",
-            "desc": "Largest maar by diameter in the West Eifel. ~130,000 years old."
-        },
-        {
             "name": "Riedenburg",
             "vei": 4,
             "coordinates": [48.96, 11.69],
@@ -2862,15 +2797,6 @@
             "summitFeet": 1640,
             "magmaType": "Basanite, tephrite",
             "desc": "Basaltic volcanic field along the Lower Danube. ~17-14 Ma."
-        },
-        {
-            "name": "Schalkenmehrener Maar",
-            "vei": 3,
-            "coordinates": [50.164, 6.848],
-            "type": "Maar",
-            "summitFeet": 1590,
-            "magmaType": "Basaltic tephra",
-            "desc": "Active maar lake in the Daun group, West Eifel. ~120,000 years old."
         },
         {
             "name": "Soos",
@@ -2900,15 +2826,6 @@
             "desc": "Scattered basaltic necks and lava flows in the Bohemian-Moravian Highlands. ~24-18 Ma."
         },
         {
-            "name": "Ulmener Maar",
-            "vei": 3,
-            "coordinates": [50.142, 6.992],
-            "type": "Maar",
-            "summitFeet": 1540,
-            "magmaType": "Basanitic tephra, basaltic lava",
-            "desc": "Youngest volcano in the West Eifel! Erupted ~8,000 BCE (Holocene). Small maar lake with associated basaltic lava flow. Only ~11,000 years old."
-        },
-        {
             "name": "Vogelsberg",
             "vei": 7,
             "coordinates": [50.533, 9.233],
@@ -2927,15 +2844,6 @@
             "desc": "Highest point of the Rhön (950m). Summit basalt cap of a Quaternary volcano, ~700-500 ka."
         },
         {
-            "name": "Weinfelder Maar (Totenmaar)",
-            "vei": 4,
-            "coordinates": [50.173, 6.833],
-            "type": "Maar",
-            "summitFeet": 1660,
-            "magmaType": "Basaltic tephra",
-            "desc": "One of the most beautiful maar lakes in the West Eifel. Well-preserved basaltic tuff ring, ~230,000 years old. Part of the Daun Maars group."
-        },
-        {
             "name": "Weinvirtel",
             "vei": 4,
             "coordinates": [48.42, 16.38],
@@ -2943,15 +2851,6 @@
             "summitFeet": 1200,
             "magmaType": "Basanite, basalt",
             "desc": "Small basaltic field east of Vienna, Lower Austria. ~16-12 Ma."
-        },
-        {
-            "name": "Weißer Stein",
-            "vei": 3,
-            "coordinates": [50.365, 7.048],
-            "type": "Lava Dome",
-            "summitFeet": 2100,
-            "magmaType": "Phonolite",
-            "desc": "Phonolite dome in the High Eifel, ~300,000 years old."
         },
         {
             "name": "Wingen-sur-Moder",
@@ -8060,13 +7959,13 @@
             "desc": "Chaîne des Puys is a chain of cinder cones, lava domes and maars in the Massif Central in France.The chain is about 40 km (25 mi) long, and the identified volcanic features, which constitute a volcanic field,include 48 cinder cones, eight lava domes, and 15 maars and explosion craters."
         },
         {
-            "name": "Laacher See",
+            "name": "East Eifel Volcanic Field",
             "vei": 6,
             "coordinates": [50.41341207835856, 7.269100837839249],
-            "type": "Caldera",
+            "type": "Volcanic Field",
             "summitFeet": 1929,
             "magmaType": "Rhyolite",
-            "desc": "Laacher See is a caldera in Germany. The largest eruption from this volcano was a VEI-6 12,900 years ago/"
+            "desc": "A massive volcanic field in west Germany. Responsible for the formation of hundreds of maars and one explosive caldera."
         },
         {
             "name": "Eldvörp–Svartsengi",
