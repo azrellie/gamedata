@@ -3448,6 +3448,33 @@
             "desc": "A large caldera in Texas."
         },
         {
+            "name": "Pliny Range Caldera Complex",
+            "vei": 6,
+            "coordinates": [44.466761651017784, -71.40985449439307],
+            "type": "Caldera",
+            "summitFeet": 2000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in New Hampshire."
+        },
+        {
+            "name": "Belknap Mountains Ring Complex",
+            "vei": 6,
+            "coordinates": [43.48323868635113, -71.3344761152938],
+            "type": "Caldera",
+            "summitFeet": 2000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera complex in New Hampshire."
+        },
+        {
+            "name": "Adirondack Bimodal Caldera Complex",
+            "vei": 8,
+            "coordinates": [44.207843426048086, -73.8965808294182],
+            "type": "Caldera",
+            "summitFeet": 5343,
+            "magmaType": "Charnockite/Mangerite",
+            "desc": "A large (60 x 20 km) caldera complex in New York that formed 1.15 billion years ago."
+        },
+        {
             "name": "Thomas Caldera",
             "vei": 7,
             "coordinates": [39.56093880523627, -113.03484904590351],
