@@ -8336,6 +8336,137 @@
             "desc": "Eroded shield volcano on Grande Comore, Comoros Islands. Older than Karthala. No historical eruptions. Part of the Comoros volcanic chain."
         },
         {
+            "name": "Massif d'Ambre",
+            "vei": 2,
+            "coordinates": [-12.6, 49.15],
+            "type": "Stratovolcano",
+            "summitFeet": 4839,
+            "magmaType": "Alkali Basalt",
+            "desc": "Largest stratovolcano (~2500 km²) in northern Madagascar. 1475m elevation. Hundreds of lava flows, plugs, spatter cones, tuff rings, pyroclastic flows. 40Ar-39Ar ages ~12 Ma. Broadly elongated N-S direction."
+        },
+        {
+            "name": "Bobaomby Volcanic Field",
+            "vei": 2,
+            "coordinates": [-11.95, 49.28],
+            "type": "Volcanic Field",
+            "summitFeet": 328,
+            "magmaType": "Nephelinite",
+            "desc": "Northernmost volcanic area of Madagascar (Cap d'Ambre peninsula). 10-11 Ma. 500 km² monogenetic field with lava flows, dykes, scoria cones, tuff rings and plugs. compositions range from nephelinite to peralkaline phonolite. Ultrapotassic lamprophyre dykes with extreme Pb isotope ratios. Link to Comoros lithosphere."
+        },
+        {
+            "name": "Ankaizina Volcanic Field",
+            "vei": 2,
+            "coordinates": [-14.3, 48.67],
+            "type": "Volcanic Field",
+            "summitFeet": 9442,
+            "magmaType": "Mixed",
+            "desc": "Cenozoic volcanic field in northern Madagascar. 2878m elevation. Initially silicic (pyroclastic flows) followed by basaltic lava flows. Most recent Holocene activity produced well-preserved cinder cones and lava flows near Bealanana."
+        },
+        {
+            "name": "Ankaratra Volcanic Field",
+            "vei": 2,
+            "coordinates": [-19.4, 47.2],
+            "type": "Volcanic Field",
+            "summitFeet": 8674,
+            "magmaType": "Alkali Basalt",
+            "desc": "Major volcanic range in central Madagascar, 50km SW of Antananarivo. 2644m elevation (Mount Tsiafajavona). Full magmatic spectrum: olivine nephelinite → basanite → basalt → peralkaline trachyphonolite → comendite. 40Ar-39Ar ages span Quaternary. Hot springs near Antsirabe."
+        },
+        {
+            "name": "Itasy Volcanic Field",
+            "vei": 2,
+            "coordinates": [-19.0, 46.77],
+            "type": "Volcanic Field",
+            "summitFeet": 5905,
+            "magmaType": "Trachyte",
+            "desc": "Monogenetic volcanic field west of Lake Itasy, central Madagascar. 1800m elevation. North-south trending group of lava domes, scoria cones, and maars. Pliocene to Holocene. Two Holocene eruptions radiocarbon dated: 8301 BCE and 6050 BCE. Quaternary basanite-trachyphonolite suite. Geothermal activity and mild seismicity."
+        },
+        {
+            "name": "Nosy Be",
+            "vei": 2,
+            "coordinates": [-13.32, 48.48],
+            "type": "Volcanic Island",
+            "summitFeet": 702,
+            "magmaType": "Alkali Basalt",
+            "desc": "Volcanic island off northwest coast of Madagascar. 214m elevation. 320 km² area. Madagascar's largest tourist destination. Holocene activity."
+        },
+        {
+            "name": "Vakinankaratra Volcanic Field",
+            "vei": 2,
+            "coordinates": [-19.7, 46.83],
+            "type": "Volcanic Field",
+            "summitFeet": 5000,
+            "magmaType": "Basalt",
+            "desc": "Late Quaternary volcanic field near Antsirabe. Phreatomagmatic eruption deposits dated by luminescence. Part of broader central Madagascar alkaline volcanic province."
+        },
+        {
+            "name": "Ankililoaka Volcanic Field",
+            "vei": 2,
+            "coordinates": [-22.77, 43.61],
+            "type": "Volcanic Field",
+            "summitFeet": 656,
+            "magmaType": "Basanite",
+            "desc": "Southwesternmost monogenetic volcanic field in Madagascar. Fissure zones and aligned cones in flat Cenozoic sediments of Morondava basin. 40Ar/39Ar ages ~12 Ma. Basanites and alkali basalts from low-degree melting of enriched peridotite at garnet-stable depths."
+        },
+        {
+            "name": "Ankarana Plateau",
+            "vei": 0,
+            "coordinates": [-12.92, 49.13],
+            "type": "Volcanic Field",
+            "summitFeet": 427,
+            "magmaType": "Basalt",
+            "desc": "Limestone plateau in northern Madagascar with 120+ km cave system. Volcanism initiated karst genesis — volcanic bulging and magma intrusions caused basalt-limestone assimilation. Deep volcanic fluids (CO2, SO2) drove speleogenesis. Unusual canyons and circular basins from selective erosion of metamorphosed rocks."
+        },
+        {
+            "name": "Mahajanga Basin Flood Basalts",
+            "vei": 10,
+            "coordinates": [-15.7, 46.3],
+            "type": "Large Igneous Province",
+            "summitFeet": 0,
+            "magmaType": "Tholeiitic Basalt",
+            "desc": "Massive Cretaceous (92-85 Ma) flood basalt province. Originally covered ~1,000,000 km². Estimated volume 100,000-200,000 km³. Four geochemically distinct magma groups. Associated with Madagascar-India breakup and Marion hotspot. Duration ~7 Myr. Individual flows VEI 2-4, but total volume exceeds any single explosive eruption in Earth history.",
+            "chatMessages": [
+                "Seismologists in Madagascar detect unusual deep crustal tremors along the western coast...",
+                "<b><font color='rgb(125,0,0)'>Fissures stretch over 200 kilometers along the coast, spewing fountains of lava hundreds of meters high...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Satellite imagery confirms a thermal anomaly spanning the entire northwestern region as rivers of molten rock pour into the Mozambique Channel...</font></stroke></b>"
+            ]
+        },
+        {
+            "name": "Volcan de l'Androy",
+            "vei": 2,
+            "coordinates": [-24.14, 45.69],
+            "type": "Flood Basalt Complex",
+            "summitFeet": 6562,
+            "magmaType": "Basalt-Rhyolite",
+            "desc": "Massive Cretaceous (~84 Ma) basalt-rhyolite flood basalt complex in southeastern Madagascar. 4000 sq km area, >2000m thick. Cradle-shaped structural basin from lava subsidence, not explosive caldera collapse. Tholeiitic and alkalic basalts with two rhyolite groups. Near Marion hotspot. Effusive, not explosive."
+        },
+        {
+            "name": "Mt. Tsaratanana",
+            "vei": 4,
+            "coordinates": [-14.0233, 48.9658],
+            "type": "Stratovolcano",
+            "summitFeet": 9436,
+            "magmaType": "Trachyte-Phonolite",
+            "desc": "Highest peak in Madagascar (2876m). Miocene volcanic center (17.5-16 Ma) with voluminous trachyte and phonolite lavas plus lesser basanites. 40Ar-39Ar ages from plagioclase concentrates. HIMU mantle component similar to Comores and Reunion. Part of Cenozoic volcanic chain from Seychelles to Comores. Source: Buchwaldt, Tucker & Dymek (2005) Goldschmidt Conference."
+        },
+        {
+            "name": "Ampasindava Volcanic Field",
+            "vei": 2,
+            "coordinates": [-13.7167, 48.1167],
+            "type": "Volcanic Field",
+            "summitFeet": 3281,
+            "magmaType": "Alkaline Basalt",
+            "desc": "Cenozoic alkaline volcanic field on the Ampasindava Peninsula, northern Madagascar. Multiple eruptive centers active from late Oligocene to Pleistocene. Alkaline magmatism including basanites, tephrites, and phonolites. Connected to the Madagascar-Comoros volcanic chain. Source: Cucciniello et al. (2016) Mineralogy and Petrology."
+        },
+        {
+            "name": "Mitsio Islands",
+            "vei": 2,
+            "coordinates": [-12.8906, 48.5933],
+            "type": "Volcanic Island",
+            "summitFeet": 676,
+            "magmaType": "Basalt",
+            "desc": "Volcanic archipelago of 11 islands off northwest Madagascar, 70km NE of Nosy Be. Miocene age (12-17 Ma). Basaltic volcanism with ancient volcanic activity forming the islands. Highest peak Mt Ankarana at 206m. Part of the northern Madagascar volcanic province connected to the Comoros chain."
+        },
+        {
             "name": "Igwisi Hills",
             "vei": 2,
             "coordinates": [-4.870610659048967, 31.919797539746394],
