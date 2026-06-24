@@ -3187,8 +3187,8 @@
             "desc": "Cretaceous (~124 Ma) carbonatite complex in the Monteregian province, Quebec. One of the few carbonatite occurrences in North America. Contains rare earth element mineralization. Carbonatite is among the most exotic volcanic rock types on Earth — molten carbonate magma from deep mantle sources."
         },
         {
-            "name": "Cadillac Mountain Complex",
-            "vei": 4,
+            "name": "Cadillac Mountain Caldera Complex",
+            "vei": 7,
             "coordinates": [44.35, -68.22],
             "type": "Volcanic Complex",
             "summitFeet": 1530,
@@ -7412,7 +7412,7 @@
         {
             "name": "Coastal Maine Magmatic Province",
             "vei": 8,
-            "coordinates": [44.349461311923534, -68.3050754771777],
+            "coordinates": [44.67396595738016, -68.57409121418353],
             "type": "Caldera Complex?",
             "summitFeet": 1528,
             "magmaType": "Rhyolite",
