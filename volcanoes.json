@@ -2700,15 +2700,6 @@
             "desc": "One of the youngest volcanoes in Central Europe! Maar/scoria cone complex with mantle xenoliths. ~500 ka. Quaternary basanite."
         },
         {
-            "name": "Krufter Ofen",
-            "vei": 3,
-            "coordinates": [50.415, 7.219],
-            "type": "Cinder Cone",
-            "summitFeet": 1130,
-            "magmaType": "Basanite",
-            "desc": "Basanitic cinder cone in the Pellenz volcanic field, ~200,000 years old."
-        },
-        {
             "name": "Leithagebirge",
             "vei": 4,
             "coordinates": [47.85, 16.55],
