@@ -7922,7 +7922,7 @@
             "magmaType": "Basanite, trachyte",
             "desc": "Broad shield volcano in the west-central Tibesti Range, Chad. Truncated by a massive 14 x 18 km caldera — comparable to Crater Lake (VEI 6) and approaching Long Valley (VEI 7) in size. Ignimbrite deposits surround the caldera to distances of 15-35 km, indicating massive explosive eruptions. Constructed over Precambrian schists. Youthful Quaternary basaltic lava flows erupted from vents near the caldera rim. One of the largest volcanic structures in the Tibesti province and the Sahara."
         },
-                {
+        {
             "name": "Tarso Yega",
             "vei": 7,
             "coordinates": [20.66, 17.42],
@@ -7968,7 +7968,7 @@
             "desc": "Smaller volcano in the Tibesti Mountains, Chad. Limited data available."
         },
         {
-            "name": "Tahalra",
+            "name": "Tahalra Volcanic Field",
             "vei": 3,
             "coordinates": [22.67, 5.0],
             "type": "Volcanic Field",
@@ -7977,7 +7977,7 @@
             "desc": "Volcanic field in the Hoggar Mountains, Algeria. 1,800 km2 with 132 individual vents including cinder cones, lava domes, lava flows, and maars. Rhyolite and trachyte also present. Activity from Miocene to Holocene. Miocene lava plateau up to 100m thick."
         },
         {
-            "name": "Manzaz",
+            "name": "Manzaz Volcanic Field",
             "vei": 3,
             "coordinates": [23.92, 5.83],
             "type": "Volcanic Field",
@@ -7986,7 +7986,7 @@
             "desc": "Volcanic field in the Hoggar Mountains, Algeria. 1,500 km2 of scoria cones with strombolian activity. Twin maars of Oukcem (500-700m craters) with natron at the bottom. Basalt and basanite eruptions. Part of the Hoggar volcanic province."
         },
         {
-            "name": "In Teria",
+            "name": "In Teria Volcanic Field",
             "vei": 2,
             "coordinates": [26.814, 9.638],
             "type": "Volcanic Field",
@@ -7995,7 +7995,7 @@
             "desc": "Volcanic field near Illizi, Algeria. Approximately 20 craters and tuff rings in a 100 km2 area, formed by phreatomagmatic eruptions. No crater exceeds 2km in width. Melilitic xenoliths with garnet and spinel peridotite. Quaternary with possible Holocene activity."
         },
         {
-            "name": "In Ezzane",
+            "name": "In Ezzane Volcanic Field",
             "vei": 2,
             "coordinates": [23.0, 10.83],
             "type": "Volcanic Field",
@@ -8004,7 +8004,7 @@
             "desc": "Volcanic field in southeastern Algeria near the Libya border. Limited data available."
         },
         {
-            "name": "Nemours-Nedroma",
+            "name": "Nemours-Nedroma Volcanic Field",
             "vei": 1,
             "coordinates": [35.07, -2.0],
             "type": "Volcanic Field",
@@ -8013,7 +8013,7 @@
             "desc": "Volcanic field in Tlemcen Province, northwestern Algeria. Part of the larger Oranie volcanic field. Erupted alkali basalts. Last activity ~2.1 million years ago."
         },
         {
-            "name": "Tafna Beni Saf",
+            "name": "Tafna Beni Saf Volcanic Field",
             "vei": 1,
             "coordinates": [35.28, -1.45],
             "type": "Volcanic Field",
@@ -8022,7 +8022,7 @@
             "desc": "Volcanic field in northwestern Algeria. Part of the larger Oranie volcanic field. Active during the Pleistocene until ~820,000 years ago."
         },
         {
-            "name": "Haruj",
+            "name": "Haruj Volcanic Field",
             "vei": 2,
             "coordinates": [27.25, 17.5],
             "type": "Volcanic Field",
@@ -8031,7 +8031,7 @@
             "desc": "Massive volcanic field in central Libya spanning 42,000 km2 with approximately 150 volcanoes. Contains ~30 shield volcanoes (100-400m high), scoria cones, maars, and extensive lava flows. Tholeiitic to alkali basalt suite. Last erupted approximately 2,300 years ago. Highest point is Garet es Sebaa at 1,200m. Phreatomagmatic craters documented. May still be active (partial melt detected at crust base)."
         },
         {
-            "name": "Gharyan",
+            "name": "Gharyan Volcanic Field",
             "vei": 3,
             "coordinates": [32.0, 13.25],
             "type": "Volcanic Field",
@@ -8040,7 +8040,7 @@
             "desc": "Volcanic field in northwestern Libya covering 3,000 km2. Total erupted volume approximately 350 km3. Contains lava domes, lava flows, volcanic cones, shield volcanoes (Ras el-Mohor, Ras Tebra), and exposed laccoliths. Erupted basanite and phonolite. Active from Eocene to Pleistocene (~12-1 Ma)."
         },
         {
-            "name": "Bayuda",
+            "name": "Bayuda Volcanic Field",
             "vei": 3,
             "coordinates": [18.33, 32.75],
             "type": "Volcanic Field",
@@ -8049,7 +8049,7 @@
             "desc": "Volcanic field in the Bayuda Desert, Sudan, within the great bend of the Nile. Over 100 cinder cones in an 11x48 km area. Last erupted approximately 1,100 years ago. Erupted alkali basalt with some basanite. Pumice blocks found in Wadi Abu Dom."
         },
         {
-            "name": "Tagabo Hills",
+            "name": "Tagabo Hills Volcanic Field",
             "vei": 3,
             "coordinates": [14.567, 25.85],
             "type": "Volcanic Field",
