@@ -913,7 +913,7 @@
         {
             "name": "Vanuatu Subduction Zone",
             "lengthKm": 4520,
-            "depthKm": 120,
+            "depthKm": 40,
             "activity": 1,
             "type": "Oceanic Convergent Boundary",
             "points": [
@@ -12153,7 +12153,7 @@
         {
             "name": "Central African Shear System",
             "lengthKm": 9000,
-            "depthKm": 190,
+            "depthKm": 30,
             "activity": 0.25,
             "type": "Reverse",
             "points": [
