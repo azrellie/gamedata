@@ -9943,6 +9943,105 @@
             "desc": "Popa is a stratovolcano in Myanmar. Many legends are associated with this mountain including its dubious creation from a great earthquake and the mountain erupted out of the ground in 442 BC."
         },
         {
+            "name": "Narcondam Island",
+            "vei": 2,
+            "coordinates": [13.45, 94.27],
+            "type": "Stratovolcano",
+            "summitFeet": 2329,
+            "magmaType": "Dacite",
+            "desc": "Active stratovolcano in the Andaman Sea, part of the Burma-Java subduction complex. 710m elevation. Composed of dacite-andesite with evidence of magma mixing. Block-and-ash flow deposits from dome collapse documented. Last eruption unknown but considered active."
+        },
+        {
+            "name": "Lower Chindwin Volcanic Field",
+            "vei": 2,
+            "coordinates": [22.37, 95.02],
+            "type": "Volcanic Field",
+            "summitFeet": 1263,
+            "magmaType": "Basalt",
+            "desc": "Group of volcanoes in central Myanmar. Late Pliocene to Pleistocene age. Dormant craters with basalt, rhyolite, dacite and andesite. Smithsonian volcano number 275090. Last eruption >10,000 years ago."
+        },
+        {
+            "name": "Singu Plateau Volcanic Field",
+            "vei": 2,
+            "coordinates": [22.7, 95.98],
+            "type": "Volcanic Field",
+            "summitFeet": 1663,
+            "magmaType": "Basalt",
+            "desc": "Volcanic field in central Myanmar. Holocene basaltic lava flows. Part of the Myanmar Central volcanic belt."
+        },
+        {
+            "name": "Taungthonton",
+            "vei": 3,
+            "coordinates": [24.96, 95.8],
+            "type": "Stratovolcano",
+            "summitFeet": 5512,
+            "magmaType": "Andesite",
+            "desc": "Large inactive stratovolcano in northern Myanmar (Sagaing Region/Kachin). 1,680m elevation. Part of the Myanmar Central Basin volcanic zone. Eruption history unknown."
+        },
+        {
+            "name": "Namyong Volcanic Field",
+            "vei": 2,
+            "coordinates": [25.68, 96.43],
+            "type": "Volcanic Field",
+            "summitFeet": 1668,
+            "magmaType": "Basalt",
+            "desc": "Volcanic field in northern Myanmar. Pliocene to Pleistocene age. Smithsonian volcano number 275823."
+        },
+        {
+            "name": "Phanom Rung",
+            "vei": 2,
+            "coordinates": [14.53, 102.94],
+            "type": "Extinct Volcano",
+            "summitFeet": 1200,
+            "magmaType": "Basalt",
+            "desc": "Extinct volcano in Buriram Province, northeastern Thailand. 370m elevation. Now the site of Phanom Rung Historical Park, a Khmer Empire temple complex. No recorded eruptions."
+        },
+        {
+            "name": "Lampang Volcanic Field",
+            "vei": 3,
+            "coordinates": [18.3, 99.6],
+            "type": "Volcanic Field",
+            "summitFeet": 1480,
+            "magmaType": "Basalt",
+            "desc": "Volcanic field in Lampang Province, northern Thailand. Pleistocene age (0.64-0.95 Ma). Contains Doi Pha Khok Hin Fu crater (200m diameter, 80m above plain) and Cham Pa Daet crater. Basaltic lava flows covering 120 km2. Part of the Lampang volcanic belt."
+        },
+        {
+            "name": "Weizhou Island",
+            "vei": 3,
+            "coordinates": [21.05, 109.12],
+            "type": "Shield Volcano",
+            "summitFeet": 180,
+            "magmaType": "Basalt",
+            "desc": "China's youngest volcanic island, located in the Gulf of Tonkin. Area 24.74 km2. Four periods of volcanic activity from early Pleistocene to late Pleistocene. Now a national geopark. Along with Xieyang Island forms the Beihai Weizhoudao Volcano National Geopark."
+        },
+        {
+            "name": "Xieyang Island",
+            "vei": 2,
+            "coordinates": [20.91, 109.21],
+            "type": "Volcanic Island",
+            "summitFeet": 462,
+            "magmaType": "Basalt",
+            "desc": "Small volcanic island (1.89 km2) near Weizhou Island in the Gulf of Tonkin. 140.9m elevation. Part of the Beihai Weizhoudao Volcano National Geopark."
+        },
+        {
+            "name": "Black Virgin Mountain",
+            "vei": 2,
+            "coordinates": [11.37, 106.17],
+            "type": "Extinct Volcano",
+            "summitFeet": 3268,
+            "magmaType": "Basalt",
+            "desc": "Extinct volcano (Nui Ba Den) in Tay Ninh Province, southern Vietnam. 996m elevation. Rises from the flat Mekong Delta jungle. Almost perfectly conical shape. Pleistocene age."
+        },
+        {
+            "name": "Penghu Volcanic Cluster",
+            "vei": 2,
+            "coordinates": [23.5, 119.5],
+            "type": "Volcanic Field",
+            "summitFeet": 0,
+            "magmaType": "Alkali Basalt",
+            "desc": "Volcanic cluster in the Penghu Islands, Taiwan Strait. Pleistocene alkali basalt flows with volatile-influenced differentiation. Important geotourism site."
+        },
+        {
             "name": "Eyjafjallajökull",
             "vei": 4,
             "coordinates": [63.629275750196456, -19.619552351805716],
