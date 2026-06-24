@@ -4783,15 +4783,6 @@
             "desc": "Mount Gambier is a volcano complex that sits right under the city of Mount Gambier, with a population of nearly 30 thousand people."
         },
         {
-            "name": "Big Ben (Mawson Peak)",
-            "vei": 2,
-            "coordinates": [-53.1, 73.517],
-            "type": "Stratovolcano",
-            "summitFeet": 9006,
-            "magmaType": "Trachyandesite",
-            "desc": "Australia's ONLY active volcano. 2,745 m stratovolcano on Heard Island, subantarctic Indian Ocean. Last erupted 2023. Part of the Kerguelen Plateau large igneous province. Glaciated summit with active fumaroles. GVP #234010. Remote and rarely observed — one of the most isolated active volcanoes on Earth."
-        },
-        {
             "name": "McDonald Islands",
             "vei": 2,
             "coordinates": [-53.03, 72.6],
