@@ -5110,13 +5110,40 @@
             "desc": "Twin maar crater lake on the Atherton Tablelands, >17,000 years old. Larger of the twin lakes (with Lake Eacham). Diamictite ring visible. Important for paleoclimate studies. Tropical rainforest setting."
         },
         {
-            "name": "Mount Gambier",
-            "vei": 2,
-            "coordinates": [-37.84, 140.78],
-            "type": "Maar Complex",
-            "summitFeet": 623,
-            "magmaType": "Alkali basalt / basanite",
-            "desc": "Australia's youngest mainland volcano, last erupted ~4,500 years ago (GVP #256100). Complex maar system with Blue Lake, Valley Lake, and Leg of Mutton Lake. Multiple eruptive phases including tuff cone construction, maar explosions, and lava lake formation. Blue Lake changes colour annually. Van der Beck et al. (2015)."
+            "name": "Yandangshan Caldera",
+            "vei": 6,
+            "coordinates": [28.364202655599176, 121.05877027231398],
+            "type": "Caldera",
+            "summitFeet": 3773,
+            "magmaType": "Rhyolite",
+            "desc": "A 13 square kilometer caldera in China. Formed around 130 million years ago from a high end VEI 6 eruption."
+        },
+        {
+            "name": "Tonglu Caldera",
+            "vei": 7,
+            "coordinates": [29.903589351435713, 119.61840576394532],
+            "type": "Caldera",
+            "summitFeet": 4000,
+            "magmaType": "Rhyolite",
+            "desc": "A highly elongated 40 by 13 km caldera in China. Formed from a series of VEI 6 and VEI 7 eruptions."
+        },
+        {
+            "name": "Yanbei Caldera",
+            "vei": 7,
+            "coordinates": [24.69301433310318, 115.98330442871918],
+            "type": "Caldera",
+            "summitFeet": 4300,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in southern China. Formed during active subduction 140 million years ago."
+        },
+        {
+            "name": "Xiaoxiong Caldera",
+            "vei": 7,
+            "coordinates": [28.892137791478856, 121.5674905343639],
+            "type": "Caldera",
+            "summitFeet": 2000,
+            "magmaType": "Rhyolite",
+            "desc": "A large caldera in southern China. Formed during active subduction 140 million years ago."
         },
         {
             "name": "Mount Schank",
