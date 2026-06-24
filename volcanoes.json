@@ -7922,6 +7922,168 @@
             "magmaType": "Basanite, trachyte",
             "desc": "Broad shield volcano in the west-central Tibesti Range, Chad. Truncated by a massive 14 x 18 km caldera — comparable to Crater Lake (VEI 6) and approaching Long Valley (VEI 7) in size. Ignimbrite deposits surround the caldera to distances of 15-35 km, indicating massive explosive eruptions. Constructed over Precambrian schists. Youthful Quaternary basaltic lava flows erupted from vents near the caldera rim. One of the largest volcanic structures in the Tibesti province and the Sahara."
         },
+                {
+            "name": "Tarso Yega",
+            "vei": 7,
+            "coordinates": [20.66, 17.42],
+            "type": "Stratovolcano / Caldera",
+            "summitFeet": 9751,
+            "magmaType": "Basalt",
+            "desc": "Stratovolcano with a 19x20 km caldera — the largest caldera in the Tibesti Mountains, Chad. 300m deep. Tephra-dominated eruptive history with downsagging caldera floor. Basaltic vents and lava domes within the caldera. South side heavily eroded. Part of the Tibesti volcanic province."
+        },
+        {
+            "name": "Tarso Toon",
+            "vei": 6,
+            "coordinates": [21.07, 17.62],
+            "type": "Shield / Caldera",
+            "summitFeet": 8448,
+            "magmaType": "Felsic",
+            "desc": "Shield volcano with an 11x12 km caldera, covering 600 km2. Also known as Tarso Toh. Miocene activity with tholeiitic rocks and felsic volcanic rocks within caldera. Voon ignimbrite buried parts of the tholeiite. Gap on northern caldera side."
+        },
+        {
+            "name": "Tieroko",
+            "vei": 4,
+            "coordinates": [20.4, 17.51],
+            "type": "Stratovolcano",
+            "summitFeet": 9547,
+            "magmaType": "Basalt",
+            "desc": "Heavily eroded stratovolcano in the Tibesti Mountains. One of the oldest volcanic structures in the Tibesti province. Thesiger described it as 'probably the most beautiful peak in Tibesti.'"
+        },
+        {
+            "name": "Abeki",
+            "vei": 4,
+            "coordinates": [21.1, 17.0],
+            "type": "Shield",
+            "summitFeet": 8038,
+            "magmaType": "Basalt",
+            "desc": "The FIRST structure formed in the Tibesti volcanic province. Located in the northern Tibesti. Minimal data available."
+        },
+        {
+            "name": "Oyoye",
+            "vei": 3,
+            "coordinates": [20.49, 17.32],
+            "type": "Volcano",
+            "summitFeet": 7316,
+            "magmaType": "Basalt",
+            "desc": "Smaller volcano in the Tibesti Mountains, Chad. Limited data available."
+        },
+        {
+            "name": "Tahalra",
+            "vei": 3,
+            "coordinates": [22.67, 5.0],
+            "type": "Volcanic Field",
+            "summitFeet": 4813,
+            "magmaType": "Basalt",
+            "desc": "Volcanic field in the Hoggar Mountains, Algeria. 1,800 km2 with 132 individual vents including cinder cones, lava domes, lava flows, and maars. Rhyolite and trachyte also present. Activity from Miocene to Holocene. Miocene lava plateau up to 100m thick."
+        },
+        {
+            "name": "Manzaz",
+            "vei": 3,
+            "coordinates": [23.92, 5.83],
+            "type": "Volcanic Field",
+            "summitFeet": 5486,
+            "magmaType": "Basalt",
+            "desc": "Volcanic field in the Hoggar Mountains, Algeria. 1,500 km2 of scoria cones with strombolian activity. Twin maars of Oukcem (500-700m craters) with natron at the bottom. Basalt and basanite eruptions. Part of the Hoggar volcanic province."
+        },
+        {
+            "name": "In Teria",
+            "vei": 2,
+            "coordinates": [26.814, 9.638],
+            "type": "Volcanic Field",
+            "summitFeet": 0,
+            "magmaType": "Basalt",
+            "desc": "Volcanic field near Illizi, Algeria. Approximately 20 craters and tuff rings in a 100 km2 area, formed by phreatomagmatic eruptions. No crater exceeds 2km in width. Melilitic xenoliths with garnet and spinel peridotite. Quaternary with possible Holocene activity."
+        },
+        {
+            "name": "In Ezzane",
+            "vei": 2,
+            "coordinates": [23.0, 10.83],
+            "type": "Volcanic Field",
+            "summitFeet": 0,
+            "magmaType": "Basalt",
+            "desc": "Volcanic field in southeastern Algeria near the Libya border. Limited data available."
+        },
+        {
+            "name": "Nemours-Nedroma",
+            "vei": 1,
+            "coordinates": [35.07, -2.0],
+            "type": "Volcanic Field",
+            "summitFeet": 1457,
+            "magmaType": "Alkali Basalt",
+            "desc": "Volcanic field in Tlemcen Province, northwestern Algeria. Part of the larger Oranie volcanic field. Erupted alkali basalts. Last activity ~2.1 million years ago."
+        },
+        {
+            "name": "Tafna Beni Saf",
+            "vei": 1,
+            "coordinates": [35.28, -1.45],
+            "type": "Volcanic Field",
+            "summitFeet": 1575,
+            "magmaType": "Alkali Basalt",
+            "desc": "Volcanic field in northwestern Algeria. Part of the larger Oranie volcanic field. Active during the Pleistocene until ~820,000 years ago."
+        },
+        {
+            "name": "Haruj",
+            "vei": 2,
+            "coordinates": [27.25, 17.5],
+            "type": "Volcanic Field",
+            "summitFeet": 3937,
+            "magmaType": "Basalt",
+            "desc": "Massive volcanic field in central Libya spanning 42,000 km2 with approximately 150 volcanoes. Contains ~30 shield volcanoes (100-400m high), scoria cones, maars, and extensive lava flows. Tholeiitic to alkali basalt suite. Last erupted approximately 2,300 years ago. Highest point is Garet es Sebaa at 1,200m. Phreatomagmatic craters documented. May still be active (partial melt detected at crust base)."
+        },
+        {
+            "name": "Gharyan",
+            "vei": 3,
+            "coordinates": [32.0, 13.25],
+            "type": "Volcanic Field",
+            "summitFeet": 2790,
+            "magmaType": "Basanite",
+            "desc": "Volcanic field in northwestern Libya covering 3,000 km2. Total erupted volume approximately 350 km3. Contains lava domes, lava flows, volcanic cones, shield volcanoes (Ras el-Mohor, Ras Tebra), and exposed laccoliths. Erupted basanite and phonolite. Active from Eocene to Pleistocene (~12-1 Ma)."
+        },
+        {
+            "name": "Bayuda",
+            "vei": 3,
+            "coordinates": [18.33, 32.75],
+            "type": "Volcanic Field",
+            "summitFeet": 0,
+            "magmaType": "Alkali Basalt",
+            "desc": "Volcanic field in the Bayuda Desert, Sudan, within the great bend of the Nile. Over 100 cinder cones in an 11x48 km area. Last erupted approximately 1,100 years ago. Erupted alkali basalt with some basanite. Pumice blocks found in Wadi Abu Dom."
+        },
+        {
+            "name": "Tagabo Hills",
+            "vei": 3,
+            "coordinates": [14.567, 25.85],
+            "type": "Volcanic Field",
+            "summitFeet": 0,
+            "magmaType": "Basalt",
+            "desc": "Volcanic field in Darfur, Sudan. Located north of the Marra Mountains and southwest of the larger Meidob Volcanic Field. Holocene(?) activity. Limited data available."
+        },
+        {
+            "name": "Tombel Graben",
+            "vei": 3,
+            "coordinates": [4.75, 9.67],
+            "type": "Monogenetic Volcanic Field",
+            "summitFeet": 1640,
+            "magmaType": "Basalt",
+            "desc": "Recent monogenetic volcanic field in the Tombel Graben, southwestern Cameroon. Part of the Cameroon Volcanic Line. Contains pyroclastic deposits studied as natural fertilizers. Holocene activity."
+        },
+        {
+            "name": "Enep",
+            "vei": 2,
+            "coordinates": [6.3, 10.5],
+            "type": "Crater Lake",
+            "summitFeet": 0,
+            "magmaType": "Unknown",
+            "desc": "Crater lake in Cameroon. Known as 'the lake that changes its colour.' No eruption data available. Located in the Cameroon Volcanic Line region."
+        },
+        {
+            "name": "Fuerteventura",
+            "vei": 4,
+            "coordinates": [28.36, -14.02],
+            "type": "Shield Volcano",
+            "summitFeet": 2648,
+            "magmaType": "Basalt",
+            "desc": "Oldest island in the Canary Islands, dating back approximately 20 million years. Formed by the Canary hotspot. Highest point is Pico de la Zarza at 807m. Jandía Massif at the southern end. Heavily eroded shield volcano. Last erupted 4000-5000 BC."
+        },
         {
             "name": "Fisher",
             "vei": 7,
