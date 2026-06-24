@@ -4024,6 +4024,32 @@
             ]
         },
         {
+            "name": "Wichita Large Igneous Province",
+            "vei": 10,
+            "coordinates": [34.7725634288402, -98.51461766819952],
+            "type": "Large Igneous Province",
+            "summitFeet": 2464,
+            "magmaType": "Basalt",
+            "desc": "funny oklahomer lip",
+            "chatMessages": [
+                "Southern Oklahoma experiences a sudden increase in seismic and fumarolic activity...",
+                "Wichita Mountains begin spreading in half..."
+            ]
+        },
+        {
+            "name": "Rincón del Tigre–Huanchaca Large Igneous Province",
+            "vei": 10,
+            "coordinates": [-7.262956801993494, -58.58194824497169],
+            "type": "Large Igneous Province",
+            "summitFeet": 500,
+            "magmaType": "Basalt",
+            "desc": "brasilia numero uno",
+            "chatMessages": [
+                "Satellites have discovered multiple large smoke clouds from massive wildfires in central Brazil...",
+                "The majority of the Amazon rainforest has been engulfed in flames..."
+            ]
+        },
+        {
             "name": "Wrangellia Large Igneous Province",
             "vei": 10,
             "coordinates": [61.47182078492747, -138.31521787501558],
