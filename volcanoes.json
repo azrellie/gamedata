@@ -1533,6 +1533,101 @@
             ]
         },
         {
+            "name": "Baratang",
+            "vei": 1,
+            "coordinates": [12.07, 92.47],
+            "type": "Mud Volcano",
+            "summitFeet": 1745,
+            "magmaType": "Mud",
+            "desc": "Active mud volcano on Baratang Island in the Andaman and Nicobar Islands. India's only active mud volcano, formed by the expulsion of mud, gases, and water-saturated sediment from subsurface strata under pressure. Erupted in 2003 and again in 2025 after 20 years of dormancy, forcing temporary closure of nearby tourist sites. Not a true magmatic volcano but a sedimentary surface expression of deeper geological activity."
+        },
+        {
+            "name": "Dhosi Hill",
+            "vei": 2,
+            "coordinates": [28.06, 76.03],
+            "type": "Volcanic Hill",
+            "summitFeet": 2427,
+            "magmaType": "Unknown",
+            "desc": "Extinct volcanic hill on the northwestern end of the Aravalli Range in Haryana, India. Dated to approximately 750 million years ago (Precambrian). Features a distinct lava crater still visible at the summit, giving it a conical profile. Long extinct with no prospect of reactivation, but the preserved volcanic morphology is well exposed despite deep erosion."
+        },
+        {
+            "name": "Tosham Hill",
+            "vei": 2,
+            "coordinates": [28.88, 75.92],
+            "type": "Volcanic Ring Complex",
+            "summitFeet": 679,
+            "magmaType": "Rhyolite",
+            "desc": "Extinct volcano in the Tosham Hill range of Bhiwani district, Haryana, India. Dated to approximately 732 million years ago, part of the Malani Igneous Suite in the Aravalli Craton. The hill range is a remnant of the outer ring of a fallen volcanic chamber. Rhyolitic and other felsic rocks of the Malani magmatism are exposed. Long extinct; classified as an ancient ring complex."
+        },
+        {
+            "name": "Pavagadh",
+            "vei": 2,
+            "coordinates": [22.47, 73.50],
+            "type": "Rootless Cones",
+            "summitFeet": 2720,
+            "magmaType": "Trachyandesite",
+            "desc": "An imposing mountain in Gujarat, India, composed of Deccan Traps lavas. Forms part of the northern Deccan Volcanic Province and represents a 65-million-year-old volcanic edifice. The uppermost mafic lava flow is capped by a thick rhyolitic flow. Features a group of small rootless cones (50-80 m wide, with crater-to-cone ratio over 0.5) on the northwestern plateau, formed by explosive interaction between tube-fed pahoehoe lava and waterlogged sediment. The rhyolitic cap indicates local felsic magmatism within the predominantly basaltic province."
+        },
+        {
+            "name": "Dhinodhar Hills",
+            "vei": 1,
+            "coordinates": [23.45, 69.34],
+            "type": "Volcanic Plug",
+            "summitFeet": 1266,
+            "magmaType": "Alkali Basalt",
+            "desc": "Volcanic plug in the Kachchh (Kutch) District of Gujarat, India, rising above local sandstone to 386 m elevation. Composed of fresh, very fine-grained, largely aphyric alkali basalt, with several near-vertical dike-like tabular intrusions showing well-developed columnar jointing. Features a roughly circular ring breached to the east, enclosing a central crater-like depression. Not a primary vent but the eroded remains of a subvolcanic intrusion emplaced during Deccan Traps volcanism around 66 Ma. Part of the central Kachchh monogenetic volcanic field in the northwestern Deccan Traps."
+        },
+        {
+            "name": "Kachchh Volcanic Field",
+            "vei": 2,
+            "coordinates": [23.83, 69.78],
+            "type": "Volcanic Field",
+            "summitFeet": 1500,
+            "magmaType": "Alkali Basalt",
+            "desc": "Monogenetic volcanic field in central Kachchh (Kutch) mainland, Gujarat, India, in the northwestern Deccan Volcanic Province. Contains approximately 33 alkali basaltic volcanic plugs and cinder/spatter cones, including Dhinodhar, Kansuri, and others. Emplaced contemporaneously with the Deccan Traps flood basalt eruptions around 66 Ma. Each plug represents a small monogenetic eruptive centre that fed localized lava flows; collectively the field documents a phase of alkaline, mantle-derived magmatism superimposed on the main tholeiitic flood basalt sequence."
+        },
+        {
+            "name": "St. Mary's Islands",
+            "vei": 3,
+            "coordinates": [13.38, 74.67],
+            "type": "Rhyolite Domes",
+            "summitFeet": 33,
+            "magmaType": "Rhyolite",
+            "desc": "Set of four small uninhabited islands in the Arabian Sea off the coast of Malpe in Karnataka, India. Famous for their distinctive columnar rhyolitic lava formations, designated a National Geological Monument of India. The rhyolites are Late Cretaceous (approximately 88 million years old) and geochemically correlate with silicic volcanic rocks of eastern Madagascar, providing evidence for India-Madagascar reconstructions before Gondwana breakup. The columnar jointing formed as thick rhyolitic lava flows cooled slowly after eruption."
+        },
+        {
+            "name": "Chandragup",
+            "vei": 1,
+            "coordinates": [25.445, 65.866],
+            "type": "Mud Volcano",
+            "summitFeet": 190,
+            "magmaType": "Mud",
+            "desc": "Active mud volcano in Hingol National Park, Lasbela District, Balochistan, Pakistan. Part of the Hingol mud volcano complex along the Makran coast. The largest of three main mud volcanoes (Chandragup 1, 2, and 3), forming a near-perfect cone 58 m high. Sacred to Hindus as an embodiment of Lord Shiva (Baba Chandrakup) and an important pilgrimage site. Eruptions consist of slow extrusion of cold mud, saline water, and gases. The Hingol complex contains about ten clusters of mud volcanoes along the Makran subduction zone."
+        },
+        {
+            "name": "Jabalpur Craters",
+            "vei": 2,
+            "coordinates": [22.97, 79.95],
+            "type": "Rootless Cones",
+            "summitFeet": 410,
+            "magmaType": "Basalt",
+            "desc": "Group of three nearly circular phreatomagmatic craters located 15 km SE of Jabalpur, Madhya Pradesh, India, in the northeastern Deccan Traps. Crater diameters of 60-80 m with very low relief (1-2 m above ground). Tephra filled with volcanic tuff (lapilli in coarse-fine ash, at least 2 m thick); lapilli are mainly basaltic glass with felsic lava fragments. Originally interpreted as cinder cones by Srinivasan et al. (1998), but a 2004 gravity/magnetic survey by Srivastava et al. found no deep-seated high-density material beneath the craters, indicating they are rootless cones (lava-water interaction) rather than primary eruptive vents. Documented by Sheth et al. (2004) as analogous to Pavagadh cones and Icelandic rootless cones at Myvatn."
+        },
+        {
+            "name": "Rajmahal Traps",
+            "vei": 9,
+            "coordinates": [25.0, 87.0],
+            "type": "Large Igneous Province",
+            "summitFeet": 1995,
+            "magmaType": "Tholeiitic Basalt",
+            "desc": "Volcanic igneous province in eastern India covering Jharkhand, West Bengal, and Meghalaya. Originally covered 4,100 sq km at the surface, with an additional 200,000 sq km concealed below the Bengal basin (Singh et al. 2004). Multiple layers of solidified lava 608 m thick dipping 2-5° NE, with individual flow thicknesses ranging from less than 1 m to more than 70 m. Predominantly tholeiitic basalt, quartz tholeiite, olivine tholeiite, and alkali basalt. Formed in the early Cretaceous from eruptions over the Kerguelen hotspot; geochemistry correlates with Kerguelen Plateau lavas, confirming the Indian subcontinent was over this hot spot during the Cretaceous (Courtillot 1999). The Rajmahal Hills are the type area. Sub-province of the Kerguelen LIP system.",
+            "chatMessages": [
+                "Seismologists in eastern India detect unusual deep crustal tremors beneath the Bengal basin...",
+                "<b><font color='rgb(125,0,0)'>Large cracks open up across the Rajmahal Hills as the ground rapidly heats up...</font></b>",
+                "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Massive basaltic fissure eruptions blanket the region, nearby villages are engulfed in lava...</font></stroke></b>"
+            ]
+        },
+        {
             "name": "Pinatubo",
             "vei": 6,
             "coordinates": [15.142870220627742, 120.34954869637257],
