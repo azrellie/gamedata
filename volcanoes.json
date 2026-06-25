@@ -4840,6 +4840,51 @@
             "desc": "The Mono-Inyo Craters chain, on the eastern side of the Sierra Nevada between Mono Lake and Long Valley caldera, form a sickle-shaped, 25-km-long group of 35 dominantly rhyolitic lava domes, lava flows, and tephra rings. The partially overlapping dike-fed domes of the Mono Craters at the north end were erupted near the margin of a pull-apart basin. Explosive eruptions began more than 50,000 years ago from now-buried vents, but almost all of the exposed domes and flows are of Holocene age. Activity propagated both north and south from the center of the chain during the late Holocene. The latest eruptions occurred nearly contemporaneously about 600 years ago from the Panum Crater area at the northern end of the Mono Craters and from the Inyo Craters to the south, producing a series of tephra rings and obsidian lava domes and flows accompanied by deposition of locally extensive tephra layers and the formation of several phreatic explosion craters at the southern end of the Inyo Craters. The latest eruptions at Inyo Craters about 600 years ago produced explosive eruptions accompanied by formation of the South Deadman, Obsidian Flow, and Glass Creek rhyolitic lava domes and lava flows. The Inyo Crater Lakes are small phreatic craters that formed during this eruption on the south flank of the Pleistocene Deer Mountain rhyolite dome of the Long Valley caldera."
         },
         {
+            "name": "South Fork Caldera Complex",
+            "vei": 8,
+            "coordinates": [63.43984557180226, -131.65188713601677],
+            "type": "Caldera Complex",
+            "summitFeet": 5000,
+            "magmaType": "Rhyodacite",
+            "desc": "A massive, 100 million year old caldera complex in central Yukon, Canada. It contains several highly explosive calderas, up to 40 kilometers in diameter. "
+        },
+        {
+            "name": "Middle Fork Caldera",
+            "vei": 7,
+            "coordinates": [64.55834036864785, -142.34365148991844],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyodacite",
+            "desc": "A large 70 million year old caldera in Alaska, US."
+        },
+        {
+            "name": "Lake Owyhee Volcanic Field",
+            "vei": 7,
+            "coordinates": [43.63050872533644, -117.93555278999241],
+            "type": "Caldera Complex",
+            "summitFeet": 5000,
+            "magmaType": "Rhyodacite",
+            "desc": "A large volcanic field in western US. Responsible for multiple caldera forming eruptions."
+        },
+        {
+            "name": "Mahogany Mountain Caldera",
+            "vei": 7,
+            "coordinates": [43.09888033828531, -117.16330782396777],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyodacite",
+            "desc": "A large caldera in western US that formed from a VEI 7 eruption approximately 15.5 million years ago."
+        },
+        {
+            "name": "Tower Mountain Caldera",
+            "vei": 7,
+            "coordinates": [45.106618821729136, -118.64913357176557],
+            "type": "Caldera",
+            "summitFeet": 5000,
+            "magmaType": "Rhyodacite",
+            "desc": "A large caldera in western US."
+        },
+        {
             "name": "La Palma",
             "vei": 3,
             "coordinates": [28.575003971258365, -17.837753518335784],
@@ -6677,7 +6722,7 @@
         {
             "name": "Wildcat Mountain Caldera",
             "vei": 6,
-            "coordinates": [45.31232481998011, -122.02281435515079],
+            "coordinates": [44.424631204465825, -120.17159126746807],
             "type": "Caldera",
             "summitFeet": 4480,
             "magmaType": "Rhyolite",
@@ -6848,7 +6893,7 @@
         {
             "name": "McMullen Caldera",
             "vei": 8,
-            "coordinates": [43.46108096078132, -112.83158576147251],
+            "coordinates": [43.10106712737255, -114.12688322133076],
             "type": "Caldera",
             "summitFeet": 2500,
             "magmaType": "Rhyolite",
@@ -6857,7 +6902,7 @@
         {
             "name": "Picabo Volcanic Field",
             "vei": 8,
-            "coordinates": [43.34134760743372, -113.01286016451225],
+            "coordinates": [43.20125579617228, -113.58855314239129],
             "type": "Caldera",
             "summitFeet": 2500,
             "magmaType": "Rhyolite",
@@ -6866,7 +6911,7 @@
         {
             "name": "Grey's Landing Caldera",
             "vei": 8,
-            "coordinates": [43.554499971663056, -112.58252863337657],
+            "coordinates": [43.6242306669401, -112.58879730772259],
             "type": "Caldera",
             "summitFeet": 2500,
             "magmaType": "Rhyolite",
@@ -6884,7 +6929,7 @@
         {
             "name": "Twin Falls Volcanic Field",
             "vei": 8,
-            "coordinates": [43.085125775014184, -114.00712279936657],
+            "coordinates": [42.872022998281345, -114.54436366564599],
             "type": "Caldera",
             "summitFeet": 2500,
             "magmaType": "Rhyolite",
@@ -7154,7 +7199,7 @@
         {
             "name": "Heise Volcanic Field",
             "vei": 8,
-            "coordinates": [43.82913984916752, -112.12034146794412],
+            "coordinates": [44.17834726602335, -112.03948091504745],
             "type": "Caldera",
             "summitFeet": 4705,
             "magmaType": "Rhyolite",
