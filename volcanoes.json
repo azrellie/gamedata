@@ -1615,7 +1615,7 @@
         },
         {
             "name": "Rajmahal Traps",
-            "vei": 9,
+            "vei": 10,
             "coordinates": [25.0, 87.0],
             "type": "Large Igneous Province",
             "summitFeet": 1995,
@@ -1623,7 +1623,6 @@
             "desc": "Volcanic igneous province in eastern India covering Jharkhand, West Bengal, and Meghalaya. Originally covered 4,100 sq km at the surface, with an additional 200,000 sq km concealed below the Bengal basin (Singh et al. 2004). Multiple layers of solidified lava 608 m thick dipping 2-5° NE, with individual flow thicknesses ranging from less than 1 m to more than 70 m. Predominantly tholeiitic basalt, quartz tholeiite, olivine tholeiite, and alkali basalt. Formed in the early Cretaceous from eruptions over the Kerguelen hotspot; geochemistry correlates with Kerguelen Plateau lavas, confirming the Indian subcontinent was over this hot spot during the Cretaceous (Courtillot 1999). The Rajmahal Hills are the type area. Sub-province of the Kerguelen LIP system.",
             "chatMessages": [
                 "Seismologists in eastern India detect unusual deep crustal tremors beneath the Bengal basin...",
-                "<b><font color='rgb(125,0,0)'>Large cracks open up across the Rajmahal Hills as the ground rapidly heats up...</font></b>",
                 "<b><stroke color='#FFFFFF' joins='miter' thickness='2' transparency='0.25'><font color='rgb(0,0,0)'>Massive basaltic fissure eruptions blanket the region, nearby villages are engulfed in lava...</font></stroke></b>"
             ]
         },
