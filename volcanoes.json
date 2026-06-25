@@ -2307,6 +2307,204 @@
             "desc": "One of northern Chile's most active volcanoes, Volcán Guallatiri is a symmetrical ice-clad stratovolcano at the SW end of the Nevados de Quimsachata volcano group. It lies just W of the border with Bolivia and is capped by a central dacitic dome or lava complex, with the active vent situated on its S side. Thick lava flows are prominent on the lower N and W flanks of the andesitic-to-rhyolitic volcano. Minor explosive eruptions have been reported since the beginning of the 19th century. Intense fumarolic activity with jet-like noises continues, and numerous solfataras extend more than 300 m down the W flank."
         },
         {
+            "name": "Ubinas",
+            "vei": 4,
+            "coordinates": [-16.355, -70.903],
+            "type": "Stratovolcano",
+            "summitFeet": 18609,
+            "magmaType": "Andesite",
+            "desc": "Historically most active volcano in Peru with 25+ eruptions since 1550. VEI 3-4 eruptions documented. 2006 eruption produced 3-4 km ash columns, significant ashfall affecting Arequipa region. 2014 and 2019 eruptive periods. Large horseshoe-shaped collapse scar from pre-historical sector collapse."
+        },
+        {
+            "name": "Tutupaca",
+            "vei": 4,
+            "coordinates": [-17.025, -70.358],
+            "type": "Stratovolcano",
+            "summitFeet": 19078,
+            "magmaType": "Andesite",
+            "desc": "Historical explosive eruption at 218+/-14 aBP (c.1780-1800 AD) was VEI 4, producing pyroclastic flows and extensive tephra fall. Collapse scar on summit. Previously thought dormant."
+        },
+        {
+            "name": "Ticsani",
+            "vei": 3,
+            "coordinates": [-16.755, -70.595],
+            "type": "Compound volcano",
+            "summitFeet": 17743,
+            "magmaType": "Dacite",
+            "desc": "Two lava domes on flanks of older edifice. Pumice deposits from explosive dome-collapse eruptions. Hydrothermal activity. Holocene activity confirmed by Cosmogenic 3He/36Cl dating. Potentially significant explosive eruptions based on dacitic dome emplacement."
+        },
+        {
+            "name": "Coropuna",
+            "vei": 3,
+            "coordinates": [-15.52, -72.65],
+            "type": "Stratovolcano",
+            "summitFeet": 21079,
+            "magmaType": "Andesite",
+            "desc": "Largest volcano in Peru by volume. Multiple summit cones. Holocene activity confirmed but poorly documented. Extensive glacier cover. Andesitic-dacitic composition suggests moderate explosive potential. Late Pleistocene eruptions produced significant lava flows."
+        },
+        {
+            "name": "Macusani",
+            "vei": 6,
+            "coordinates": [-14.07, -70.43],
+            "type": "Volcanic field",
+            "summitFeet": 14764,
+            "magmaType": "Rhyolite",
+            "desc": "Pliocene silicic volcanic field. Large-volume ignimbrite eruptions produced extensive ash-flow sheets. Perlitic obsidian deposits. Topaz-bearing rhyolites. Ancient caldera system, not Holocene active."
+        },
+        {
+            "name": "Uturuncu",
+            "vei": 3,
+            "coordinates": [-22.27, -67.18],
+            "type": "Stratovolcano",
+            "summitFeet": 19711,
+            "magmaType": "Andesite",
+            "desc": "Currently inflating at ~1-2 cm/yr (largest volcanic deformation signal in the Andes detected by InSAR). Mid-crustal magma intrusion at ~17 km depth. High-K calc-alkaline composition. No historical eruptions but significant unrest suggests future potential."
+        },
+        {
+            "name": "Cerro Napa",
+            "vei": 4,
+            "coordinates": [-20.5, -68.67],
+            "type": "Volcanic complex",
+            "summitFeet": 16962,
+            "magmaType": "Unknown",
+            "desc": "Pleistocene volcanic complex. Produced significant ignimbrites. Part of the APVC."
+        },
+        {
+            "name": "Chullkani",
+            "vei": 3,
+            "coordinates": [-18.31, -68.84],
+            "type": "Volcanic complex",
+            "summitFeet": 16509,
+            "magmaType": "Unknown",
+            "desc": "Pliocene volcanic complex in western Bolivia. Part of the CVZ."
+        },
+        {
+            "name": "Jorcada",
+            "vei": 3,
+            "coordinates": [-22.03, -67.76],
+            "type": "Volcanic complex",
+            "summitFeet": 18537,
+            "magmaType": "Unknown",
+            "desc": "Late Pleistocene volcanic complex. Produced significant eruptions ~95,000 years ago."
+        },
+        {
+            "name": "Cerro El Condor",
+            "vei": 3,
+            "coordinates": [-26.62, -68.35],
+            "type": "Stratovolcano",
+            "summitFeet": 21430,
+            "magmaType": "Andesite",
+            "desc": "High-altitude stratovolcano in the Puna plateau. Holocene lava flows documented. Andesitic composition. Remote and poorly studied."
+        },
+        {
+            "name": "Cerro Bayo Complex",
+            "vei": 3,
+            "coordinates": [-25.42, -68.58],
+            "type": "Complex volcano",
+            "summitFeet": 17720,
+            "magmaType": "Unknown",
+            "desc": "Complex volcanic center with lava domes and pyroclastic deposits. Holocene activity confirmed. Dacitic-rhyodacitic composition."
+        },
+        {
+            "name": "Aguiliri",
+            "vei": 4,
+            "coordinates": [-24.0, -67.0],
+            "type": "Lava dome complex",
+            "summitFeet": 16404,
+            "magmaType": "Dacite",
+            "desc": "Miocene lava dome complex in the Puna plateau. Ancient volcanic center."
+        },
+        {
+            "name": "Antilla magmatic complex",
+            "vei": 4,
+            "coordinates": [-26.17, -64.67],
+            "type": "Complex volcano",
+            "summitFeet": 6562,
+            "magmaType": "Unknown",
+            "desc": "Pliocene magmatic complex in Tucumán province. Complex volcanic center."
+        },
+        {
+            "name": "Cerro Archibarca",
+            "vei": 4,
+            "coordinates": [-25.25, -67.83],
+            "type": "Stratovolcano",
+            "summitFeet": 16404,
+            "magmaType": "Andesite",
+            "desc": "Miocene stratovolcano in the Puna plateau. Ancient volcanic center."
+        },
+        {
+            "name": "Cerro Ratones",
+            "vei": 3,
+            "coordinates": [-25.0, -68.0],
+            "type": "Stratovolcano",
+            "summitFeet": 16404,
+            "magmaType": "Andesite",
+            "desc": "Miocene stratovolcano in the Puna plateau."
+        },
+        {
+            "name": "Cerro Redondo",
+            "vei": 3,
+            "coordinates": [-22.37, -66.13],
+            "type": "Lava dome complex",
+            "summitFeet": 14764,
+            "magmaType": "Dacite",
+            "desc": "Miocene lava dome complex in the Puna plateau."
+        },
+        {
+            "name": "Chimpa volcanic complex",
+            "vei": 4,
+            "coordinates": [-24.0, -66.13],
+            "type": "Volcanic complex",
+            "summitFeet": 15932,
+            "magmaType": "Unknown",
+            "desc": "Miocene volcanic complex in Salta province."
+        },
+        {
+            "name": "Casa Colorada",
+            "vei": 3,
+            "coordinates": [-22.32, -66.33],
+            "type": "Lava dome",
+            "summitFeet": 14764,
+            "magmaType": "Dacite",
+            "desc": "Miocene lava dome in the Puna plateau."
+        },
+        {
+            "name": "Cerro Torta",
+            "vei": 3,
+            "coordinates": [-26.75, -68.14],
+            "type": "Lava dome",
+            "summitFeet": 17913,
+            "magmaType": "Dacite",
+            "desc": "Pleistocene lava dome in the Puna plateau. Dacitic composition."
+        },
+        {
+            "name": "Risco Plateado",
+            "vei": 5,
+            "coordinates": [-34.5, -70.0],
+            "type": "Caldera",
+            "summitFeet": 15748,
+            "magmaType": "Rhyolite",
+            "desc": "GVP VN 357024. Caldera in Mendoza province. Associated with ignimbrite deposits."
+        },
+        {
+            "name": "Peinado",
+            "vei": 3,
+            "coordinates": [-26.62, -68.15],
+            "type": "Stratovolcano",
+            "summitFeet": 18832,
+            "magmaType": "Andesite",
+            "desc": "GVP VN 355200. Stratovolcano in Catamarca province, NW Argentina. Holocene activity. Part of the Central Volcanic Zone."
+        },
+        {
+            "name": "Tipas",
+            "vei": 3,
+            "coordinates": [-27.2, -68.55],
+            "type": "Stratovolcano complex",
+            "summitFeet": 21850,
+            "magmaType": "Andesite",
+            "desc": "GVP VN 355220. Large volcanic complex in Catamarca province. One of the highest in Argentina. Holocene activity confirmed."
+        },
+        {
             "name": "Valles Caldera",
             "vei": 7,
             "coordinates": [35.90299780929065, -106.5269137460628],
