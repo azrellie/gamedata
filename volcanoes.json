@@ -4548,8 +4548,21 @@
             "magmaType": "Basalt",
             "desc": "Emeishan Traps is a large igneous province in China. It could have caused the end-Guadalupian extinction event.",
             "chatMessages": [
-                "The people of west China feel the ground shaking...",
-                "The birds flock away from west China..."
+                "The people of central China feel the ground shaking...",
+                "The birds flock away from central China..."
+            ]
+        },
+        {
+            "name": "Southern China United Continent Large Igneous Province",
+            "vei": 10,
+            "coordinates": [28.496648981231864, 115.17343154107529],
+            "type": "Large Igneous Province",
+            "summitFeet": 4409,
+            "magmaType": "Basalt",
+            "desc": "China",
+            "chatMessages": [
+                "A sudden increase in seismic activity in eastern China triggers evacuation orders for dozens of cities...",
+                "Basaltic magma starts flowing through the ground in eastern China..."
             ]
         },
         {
