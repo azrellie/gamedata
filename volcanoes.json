@@ -9323,7 +9323,7 @@
         {
             "name": "Ōnawe Peninsula",
             "vei": 2,
-            "coordinates": [43.774, 172.925],
+            "coordinates": [-43.77230537044283, 172.9266102785429],
             "type": "Volcanic Plug",
             "summitFeet": 650,
             "magmaType": "Basalt",
