@@ -187,7 +187,25 @@
             "type": "Caldera",
             "summitFeet": 1337,
             "magmaType": "Basalt",
-            "desc": "im disappointed its not vei 9438"
+            "desc": "im disappointed its not vei 9438"           
+        },
+        {
+            "name": "Talking tom caldera",
+            "vei": 8,
+            "coordinates": [38.90541691444108, -77.01924252207907],
+            "type": "Farrttt",
+            "summitFeet": 6666,
+            "magmaType": "Liquid Robux",
+            "desc": "Why?"
+        },
+        {
+            "name": "brrr skibidi dop dodrtjrothjseiruthg",
+            "vei": 7,
+            "coordinates": [55.73488559901271, 37.65236138155475],
+            "type": "toielt",
+            "summitFeet": 1234567890,
+            "magmaType": "idk man",
+            "desc": "Why?"
         }
     ]
 }
